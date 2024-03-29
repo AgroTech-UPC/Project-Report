@@ -139,7 +139,7 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-# [Capítulo IV: Product Design](#Capítulo-IV:-Product-Design)
+# Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
 
@@ -174,7 +174,8 @@ El spacing mantiene:
  - Margin entre elementos 24px 
  - Margin entre secciones 72px
 
-### 4.1.2. Web Style Guidelines  [ Ver Anexo N°1]
+### 4.1.2. Web Style Guidelines
+ [Ver Anexo N°1]
 
 **Colors**
 
@@ -231,6 +232,93 @@ El input system es fundamental en la experiencia del usuario en AgroConnect, ya 
 <p align="center">
   <img src="img/input-system.png" alt="Input Sys AgroConnect" width="600">
 </p>
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+En AgroConnect, aplicamos un sistema de jerarquía visual para resaltar la información esencial y relevante, garantizando que los usuarios encuentren fácilmente lo que necesitan. Utilizamos una organización secuencial para guiar intuitivamente a los usuarios a través del proceso de registro y búsqueda de asesores o asesoría. En lo que respecta a la categorización de contenido, está organizado según audiencia (Criadores y Asesores)
+
+### 4.2.2. Labeling Systems
+
+En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve y fácil de comprender para los usuarios. Las etiquetas que se utilizarán son las siguientes:
+
+
+**Vista de Criador:**
+
+<table>
+  <tbody>
+  <tr>
+      <th>My Farm - Mi Granja</th>
+      <td>Se implementará un botón que permitirá a los usuarios gestionar su inventario, que incluirá medicamentos, producción de carne, fertilizante y otros elementos relacionados.</td>
+  </tr>
+  <tr>
+      <th>My Publications - Mis publicaciones</th>
+      <td>Se implementará un botón que permitirá al usuario ver el historial de sus ofertas de trabajo.</td>
+  </tr>
+  <tr>
+      <th>Advisors - Asesores</th>
+      <td>Se implementará un botón que permitirá a los usuarios contactar con asesores.</td>
+  </tr>
+  <tr>
+      <th>My animals - Mis animales</th>
+      <td>Se implementará un botón que permitirá al usuario llevar un registro y seguimiento de los animales en la granja.</td>
+  </tr>
+  <tr>
+      <th>Calendar - Calendario</th>
+      <td>Se implementará un botón que permitirá visualizar un calendario con las tareas, eventos y actividades registradas.</td>
+  </tr>
+  <tr>
+      <th>Notifications - Notificaciones</th>
+      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo.</td>
+  </tr>
+  <tr>
+      <th>Logout</th>
+      <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
+  </tr>
+  </tbody>
+</table>
+
+<br></br>
+**Vista de Asesor:**
+
+<table>
+  <tbody>
+  <tr>
+      <th>My Farm - Mi Granja</th>
+      <td>Se implementará un botón que permitirá a los usuarios gestionar su inventario, que incluirá medicamentos, producción de carne, fertilizante y otros elementos relacionados.</td>
+  </tr>
+  <tr>
+      <th>Publications - Publicaciones</th>
+      <td>Se implementará un botón que permitirá al usuario ver las ofertas publicadas por los usuarios “Criadores”.</td>
+  </tr>
+  <tr>
+      <th>My clients - Mis clientes</th>
+      <td>Se implementará un botón que permitirá a los usuarios ver su clientes.</td>
+  </tr>
+  <tr>
+      <th>My animals - Mis animales</th>
+      <td>Se implementará un botón que permitirá al usuario llevar un registro y seguimiento de los animales en la granja.</td>
+  </tr>
+  <tr>
+      <th>Calendar - Calendario</th>
+      <td>Se implementará un botón que permitirá visualizar un calendario con las tareas, eventos y actividades registradas.</td>
+  </tr>
+  <tr>
+      <th>Notifications - Notificaciones</th>
+      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo.</td>
+  </tr>
+  <tr>
+      <th>Logout</th>
+      <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
+  </tr>
+  </tbody>
+</table>
+
+
+### 4.2.3. SEO Tags and Meta Tags
+### 4.2.4. Searching Systems
+### 4.2.5. Navigation Systems
 
 
 
