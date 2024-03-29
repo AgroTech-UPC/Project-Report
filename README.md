@@ -41,7 +41,7 @@
 
 | Versión | Fecha                | Autor                                                                                                                                                                                   | Descripción de modificación                                                                                                                             |
 | ------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1     | Sábado 8 de Setiembre | - Delgado Corrales, Piero Gonzalo <br /> - Lucas Coronel, Nadia Alessandra<br /> - Paredes Puente, Sebastián Roberto <br /> - Salinas Torres, Salvador Antonio <br /> - Valverde Mozo, Andre Gabriel | Se han incluido los capítulos:<br /> - Capítulo I: Introducción<br /> - Capítulo II: Requirements Elicitation & Analysis,<br /> - Capítulo III: Requirements Specification<br /> - Capítulo IV: Product Design<br /> Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8<br /> Avance de Conclusiones, Bibliografía y Anexos |
+| TB1     | 13/04/2022 | - Delgado Corrales, Piero Gonzalo <br /> - Lucas Coronel, Nadia Alessandra<br /> - Paredes Puente, Sebastián Roberto <br /> - Salinas Torres, Salvador Antonio <br /> - Valverde Mozo, Andre Gabriel | Se han incluido los capítulos:<br /> - Capítulo I: Introducción<br /> - Capítulo II: Requirements Elicitation & Analysis,<br /> - Capítulo III: Requirements Specification<br /> - Capítulo IV: Product Design<br /> Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8<br /> Avance de Conclusiones, Bibliografía y Anexos |
 
 
 
@@ -318,7 +318,58 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
 
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
+
+La aplicación AgroConnect desarrollará un sistema de búsqueda intuitivo, diseñado para que los usuarios encuentren rápidamente la información que necesitan. Este sistema se basará en filtros inteligentes que simplificarán la búsqueda de asesores, evitando así que los usuarios se vean abrumados por la cantidad de información disponible. Con esta mejora, nuestra aplicación garantizará una experiencia de usuario más fluida y satisfactoria al buscar información relevante.
+
+<table>
+  <tbody>
+  <tr>
+      <th>Ubicación</th>
+      <td>Permite al usuario buscar asesores o recibir solicitudes de asesoramiento basadas en su ubicación actual o en una ubicación específica.</td>
+  </tr>
+  <tr>
+      <th>Tipo de Asesoría</th>
+      <td>Permite al usuario buscar según el tipo de asesoría ofrecida.</td>
+  </tr>
+  <tr>
+      <th>Presupuesto</th>
+      <td>Permite al usuario buscar asesores que se ajusten a su presupuesto.</td>
+  </tr>
+  <tr>
+      <th>Experiencia</th>
+      <td>Permite al usuario buscar asesores con un nivel de experiencia específico.</td>
+  </tr>
+  <tr>
+      <th>Reputación</th>
+      <td>Permite al usuario buscar asesores según las calificaciones obtenidas.</td>
+  </tr>
+  <tr>
+      <th>Notifications - Notificaciones</th>
+      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo.</td>
+  </tr>
+  <tr>
+      <th>Idioma</th>
+      <td>Permite al usuario buscar según el idioma.</td>
+  </tr>
+  <tr>
+      <th>Palabras Clave</th>
+      <td>Proporciona un cuadro de búsqueda donde los usuarios pueden ingresar palabras clave específicas relacionadas con el tipo de asesoría que necesitan.</td>
+  </tr>
+  </tbody>
+</table>
+
 ### 4.2.5. Navigation Systems
+
+La página de inicio de AgroConnect ha sido diseñada para una experiencia fácil y completa, ofreciendo las siguientes características:
+
+ - **Descargar la Aplicación:** AgroConnect brinda a los usuarios la posibilidad de descargar la aplicación móvil de manera destacada en la página de inicio. Esto les permite acceder a la plataforma de forma conveniente desde sus dispositivos móviles. Al hacer clic en "Descargar App", los usuarios pueden obtener fácilmente la aplicación.
+
+ - **Escanear el Código QR:** Para una experiencia aún más rápida y práctica, los usuarios tienen la opción de escanear un código QR proporcionado en la plataforma. Esto los lleva directamente a la aplicación de AgroConnect.
+
+ - **Iniciar Sesión / Registrarse:** En la landing page, los usuarios pueden optar por iniciar sesión si ya tienen una cuenta o registrarse si son nuevos en la plataforma. Estos botones les permiten acceder a sus cuentas existentes o crear nuevas cuentas para aprovechar todas las funciones de AgroConnect.
+
+
+
 
 
 
