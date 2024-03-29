@@ -138,3 +138,101 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
+# [Capítulo IV: Product Design](#Capítulo-IV:-Product-Design)
+
+## 4.1. Style Guidelines
+
+
+### 4.1.1. General Style Guidelines
+
+**Branding**
+
+El logotipo de AgroConnect se presenta en forma de un círculo, que simboliza la unidad y la conexión dentro de las comunidades agrícolas peruanas. En el centro del círculo se encuentra un cuy, animal característico de las granjas peruanas y un símbolo de la agricultura local. El cuy está representado de manera amigable y sonriente, transmitiendo la naturaleza acogedora y cercana de la plataforma. El cuy lleva un pequeño gorro de granjero como un guiño a la laboriosa comunidad agrícola.
+
+<p align="center">
+  <img src="img/logo.png" alt="logo de AgroConnect" width="200">
+</p>
+
+**Typography**
+
+La tipografía elegida para AgroConnect es "Inter", una fuente sans-serif moderna y altamente legible. Este tipo de letra se destaca por su estilo limpio y contemporáneo, lo que comunica profesionalismo y actualización. La elección de Inter asegura que el texto en las interfaces de usuario sea fácilmente legible y tenga una apariencia moderna y uniforme. Además, Inter es una fuente versátil que ofrece una amplia variedad de pesos y estilos, lo que permite una adaptación flexible a diferentes contextos y tamaños de texto en la aplicación.
+
+<p align="center">
+  <img src="img/font1.png" alt="logo de AgroConnect" width="600">
+</p>
+
+**Colors**
+
+AgroConnect ha seleccionado una paleta de colores que comunica confiabilidad y eficiencia en la contratación de asesores especializados y en el uso de herramientas avanzadas. Los tonos predominantes, como los marrones, amarillos y anaranjados, transmiten una sensación cálida que evoca la calidez y la energía de la naturaleza presente en las granjas peruanas. Esta elección de colores no solo refleja la conexión con la tierra y las raíces agrícolas, sino que también sugiere un ambiente acogedor y estimulante para los usuarios de la plataforma.
+
+**Spacing**
+
+El spacing mantiene: 
+ - Botones: padding de 16px vertical y 32px horizontal 
+ - Margin entre texto 16px 
+ - Margin entre elementos 24px 
+ - Margin entre secciones 72px
+
+### 4.1.2. Web Style Guidelines  [ Ver Anexo N°1]
+
+**Colors**
+
+AgroConnect ha seleccionado cuidadosamente una paleta de colores que refleja los valores y la identidad de la plataforma. Los tonos elegidos comunican confiabilidad y eficiencia en la contratación de asesores especializados y en el uso de herramientas avanzadas.
+
+<p align="center">
+  <img src="img/colors.png" alt="Colores de AgroConnect" width="600">
+</p>
+
+**Typography**
+
+La tipografía desempeña un papel fundamental en la apariencia y la legibilidad de AgroConnect. Hemos seleccionado cuidadosamente la fuente "Inter", una fuente sans-serif moderna y altamente legible.
+
+<p align="center">
+  <img src="img/font2.png" alt="Tipografia de AgroConnect" width="600">
+</p>
+
+**Icons**
+
+Los íconos desempeñan un papel importante en la experiencia del usuario al proporcionar una representación visual rápida y reconocible de diversas funciones y características dentro de AgroConnect. Hemos seleccionado una colección de íconos que son consistentes con la identidad visual de la plataforma y que refuerzan su propósito y temática agrícola.
+
+<p align="center">
+  <img src="img/icons.png" alt="Iconos de AgroConnect" width="600">
+</p>
+
+**Spacing**
+
+El espaciado adecuado entre elementos es esencial para lograr una apariencia equilibrada y una experiencia de usuario cómoda en AgroConnect. Hemos establecido pautas claras de espaciado que garantizan coherencia y claridad en toda la plataforma.
+
+<p align="center">
+  <img src="img/spacing.png" alt="Spacing de AgroConnect" width="600">
+</p>
+
+**Grid System**
+
+El grid system es una herramienta esencial en el diseño y la organización de la interfaz de usuario de AgroConnect. Proporciona una estructura visual que ayuda a distribuir y alinear los elementos de la página de manera consistente y armoniosa en diferentes tamaños de pantalla.
+
+<p align="center">
+  <img src="img/grid.png" alt="Grid System de AgroConnect" width="600">
+</p>
+
+**Button**
+
+Los botones son elementos importantes en la interfaz de usuario de AgroConnect, ya que proporcionan una forma clara y visualmente destacada para que los usuarios realicen acciones importantes. Hemos definido un estilo de botón consistente que refleja la identidad visual de la plataforma y promueve una experiencia de usuario intuitiva y coherente.
+
+<p align="center">
+  <img src="img/button.png" alt="Button de AgroConnect" width="600">
+</p>
+
+**Input System**
+
+El input system es fundamental en la experiencia del usuario en AgroConnect, ya que proporciona formas para que los usuarios ingresen datos y realicen acciones dentro de la plataforma. Hemos definido un sistema de entrada consistente que garantiza una experiencia de usuario intuitiva y coherente en toda la interfaz.
+
+<p align="center">
+  <img src="img/input-system.png" alt="Input Sys AgroConnect" width="600">
+</p>
+
+
+
+
+
