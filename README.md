@@ -41,7 +41,7 @@
 
 | Versión | Fecha                | Autor                                                                                                                                                                                   | Descripción de modificación                                                                                                                             |
 | ------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1     | Sábado 8 de Setiembre | - Delgado Corrales, Piero Gonzalo <br /> - Lucas Coronel, Nadia Alessandra<br /> - Paredes Puente, Sebastián Roberto <br /> - Salinas Torres, Salvador Antonio <br /> - Valverde Mozo, Andre Gabriel | Se han incluido los capítulos:<br /> - Capítulo I: Introducción<br /> - Capítulo II: Requirements Elicitation & Analysis,<br /> - Capítulo III: Requirements Specification<br /> - Capítulo IV: Product Design<br /> Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8<br /> Avance de Conclusiones, Bibliografía y Anexos |
+| TB1     | Sábado 13 de Abril | - Delgado Corrales, Piero Gonzalo <br /> - Lucas Coronel, Nadia Alessandra<br /> - Paredes Puente, Sebastián Roberto <br /> - Salinas Torres, Salvador Antonio <br /> - Valverde Mozo, Andre Gabriel | Se han incluido los capítulos:<br /> - Capítulo I: Introducción<br /> - Capítulo II: Requirements Elicitation & Analysis,<br /> - Capítulo III: Requirements Specification<br /> - Capítulo IV: Product Design<br /> Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8<br /> Avance de Conclusiones, Bibliografía y Anexos |
 
 
 
@@ -138,3 +138,13 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
+# Capítulo I:-Introducción
+
+# Capítulo II:-Requirements Elicitation & Analysis
+
+# Capítulo III: Requirements Specification
+
+# Capítulo IV: Product Design
+
+# Capítulo V: Product Implementation, Validation & Deployment
