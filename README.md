@@ -143,45 +143,9 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 ABET – EAC - Student Outcome 3
 Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
 | Criterio específico | Acciones realizadas | Conclusiones |
-| 
-Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
-|
-Delgado Corrales, Piero Gonzalo
-TB1:
-
-Lucas Coronel, Nadia Alessandra
-TB1:
-
-Paredes Puente, Sebastián Roberto
-TB1:
-
-Salinas Torres, Salvador Antonio
-TB1:
-
-Valverde Mozo, Andre Gabriel
-TB1:
-|
-TB1:
-|
-Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
-|
-Delgado Corrales, Piero Gonzalo
-TB1:
-
-Lucas Coronel, Nadia Alessandra
-TB1:
-
-Paredes Puente, Sebastián Roberto
-TB1:
-
-Salinas Torres, Salvador Antonio
-TB1:
-
-Valverde Mozo, Andre Gabriel
-TB1:
-|
-TB1:
-|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. |
+- Delgado Corrales, Piero Gonzalo <br/> TB1: <br/> - Lucas Coronel, Nadia Alessandra <br/> TB1: <br/> - Paredes Puente, Sebastián Roberto <br/> TB1: <br/> - Salinas Torres, Salvador Antonio <br/> TB1: <br/> - Valverde Mozo, Andre Gabriel <br/> TB1: | TB1: |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | - Delgado Corrales, Piero Gonzalo <br/> TB1: <br/> - Lucas Coronel, Nadia Alessandra <br/> TB1: <br/> - Paredes Puente, Sebastián Roberto <br/> TB1: <br/> - Salinas Torres, Salvador Antonio <br/> TB1: <br/> - Valverde Mozo, Andre Gabriel <br/> TB1: | TB1: |
 
 # Capítulo I Introducción
 
