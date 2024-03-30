@@ -7,21 +7,21 @@
 # <span style="color:red">**Universidad Peruana de Ciencias Aplicadas**
 # Carrera de Ingeniería de Software
 
-## Ciclo: 2024 - 1
+Ciclo: 2024 - 1
 
-## Curso: Desarrollo de Aplicaciones Open Source
+Curso: Desarrollo de Aplicaciones Open Source
 
-## Sección: WX52
+Sección: WX52
 
-## Profesor: Elio Jefferrson Navarrete Vilca
+Profesor: Elio Jefferrson Navarrete Vilca
 
-### “Informe de Trabajo Final”
+“Informe de Trabajo Final”
 
-### Startup: AgroTech
+Startup: AgroTech
 
-### Producto: AgroConnect
+Producto: AgroConnect
 
-### Grupo: 1
+Grupo: 1
 
 |          Integrantes          |      Código      |
 |:-----------------------------:|:-------------------:|
@@ -31,11 +31,11 @@
 |  Salinas Torres, Salvador Antonio   |    U20221B127    |
 |   Valverde Mozo, Andre Gabriel   |    U202218899    |
 
-### Abril 2024 
+# Abril 2024 
 
 </center>
 
-### **Registro de Versiones**
+# **Registro de Versiones**
 
 ---
 
@@ -45,10 +45,10 @@
 
 
 
-### **Project Report Collaboration Insights**
+# **Project Report Collaboration Insights**
 URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 
-### **Tabla de Contenido**
+# **Tabla de Contenido**
 
 - [Registro de Versiones](#registro-versiones)
 - [Student Outcome](#student-outcome)
