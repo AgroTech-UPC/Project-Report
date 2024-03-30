@@ -1,11 +1,12 @@
 
-<center>
+<p align="center">
+  <img src="img/image1.png" alt="Logo de UPC" width="100%">
+</p>
 
-![Upc Logo](img/image1.png)
+<div align="center">
 
-
-# <span style="color:red">**Universidad Peruana de Ciencias Aplicadas**
-Carrera de Ingeniería de Software
+# <span style="color:red">**Universidad Peruana de Ciencias Aplicadas**</span>
+## Carrera de Ingeniería de Software
 
 Ciclo: 2024 - 1
 
@@ -31,19 +32,48 @@ Grupo: 1
 |  Salinas Torres, Salvador Antonio   |    U20221B127    |
 |   Valverde Mozo, Andre Gabriel   |    U202218899    |
 
-Abril 2024 
+Abril 2024
 
-</center>
+</div>
 
 # **Registro de Versiones**
 
----
-
-| Versión | Fecha                | Autor                                                                                                                                                                                   | Descripción de modificación                                                                                                                             |
-| ------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1     | Sábado 13 de Abril | - Delgado Corrales, Piero Gonzalo <br /> - Lucas Coronel, Nadia Alessandra<br /> - Paredes Puente, Sebastián Roberto <br /> - Salinas Torres, Salvador Antonio <br /> - Valverde Mozo, Andre Gabriel | Se han incluido los capítulos:<br /> - Capítulo I: Introducción<br /> - Capítulo II: Requirements Elicitation & Analysis,<br /> - Capítulo III: Requirements Specification<br /> - Capítulo IV: Product Design<br /> Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8<br /> Avance de Conclusiones, Bibliografía y Anexos |
-
-
+<table>
+  <thead>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>TB1</strong></td>
+      <td>Sábado 13 de Abril</td>
+      <td>
+        <ul>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Lucas Coronel, Nadia Alessandra</li>
+          <li>Paredes Puente, Sebastián Roberto</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+          <li>Valverde Mozo, Andre Gabriel</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
+  </tbody>
+</table>
 
 # **Project Report Collaboration Insights**
 URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
@@ -143,19 +173,96 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 ABET – EAC - Student Outcome 3
 Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|:-----------------------------:|:-------------------:|:-------------------:|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1: | TB1: |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1: | TB1: |
+<table>
+  <thead>
+    <tr>
+        <td>Criterio específico	</td>
+        <td>Acciones realizadas	</td>
+        <td>Conclusiones</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+        <td>
+          <strong>Delgado Corrales, Piero Gonzalo</strong>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+          <strong>Lucas Coronel, Nadia Alessandra</strong>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+          <strong>Paredes Puente, Sebastián Roberto</strong>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+          <strong>Salinas Torres, Salvador Antonio</strong>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+          <strong>Valverde Mozo, Andre Gabriel</strong>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+        </td>
+        <!--Conclusión grupal-->
+        <td>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+        <td>
+          <strong>Delgado Corrales, Piero Gonzalo</strong>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+          <strong>Lucas Coronel, Nadia Alessandra</strong>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+          <strong>Paredes Puente, Sebastián Roberto</strong>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+          <strong>Salinas Torres, Salvador Antonio</strong>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+          <strong>Valverde Mozo, Andre Gabriel</strong>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+        </td>
+        <!--Conclusión grupal-->
+        <td>
+          <ul>
+            <li>TB1: </li>
+          </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
 # Capítulo I Introducción
 
+
+
 # Capítulo II Requirements Elicitation & Analysis
+
+
 
 # Capítulo III Requirements Specification
 
+
+
 # Capítulo IV Product Design
+
+
 
 # Capítulo V Product Implementation, Validation & Deployment
