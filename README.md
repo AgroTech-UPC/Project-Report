@@ -52,7 +52,7 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 
 - [Registro de Versiones](#registro-versiones)
 - [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#Capítulo-I:-Introducción)
+- [Capítulo I: Introducción](#Capítulo-I-Introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -64,7 +64,7 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II:-Requirements-Elicitation-&-Analysis)
+- [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation-&-Analysis)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -79,12 +79,12 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
   - [2.4. Ubiquitous Language](#23-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#Capítulo-III:-Requirements-Specification)
+- [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
-- [Capítulo IV: Product Design](#Capítulo-IV:-Product-Design)
+- [Capítulo IV: Product Design](#Capítulo-IV-Product-Design)
   - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -112,7 +112,7 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
     - [4.7.2. Class Dictionary](#472-class-dictionary)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V:-Product-Implementation,-Validation-&-Deployment)
+- [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation,-Validation-&-Deployment)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
@@ -139,12 +139,12 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-# Capítulo I:-Introducción
+# Capítulo I Introducción
 
-# Capítulo II:-Requirements Elicitation & Analysis
+# Capítulo II Requirements Elicitation & Analysis
 
-# Capítulo III: Requirements Specification
+# Capítulo III Requirements Specification
 
-# Capítulo IV: Product Design
+# Capítulo IV Product Design
 
-# Capítulo V: Product Implementation, Validation & Deployment
+# Capítulo V Product Implementation, Validation & Deployment
