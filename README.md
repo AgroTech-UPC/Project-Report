@@ -5,7 +5,7 @@
 
 
 # <span style="color:red">**Universidad Peruana de Ciencias Aplicadas**
-# Carrera de Ingeniería de Software
+Carrera de Ingeniería de Software
 
 Ciclo: 2024 - 1
 
