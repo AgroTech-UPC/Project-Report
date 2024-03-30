@@ -50,7 +50,7 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 
 # **Tabla de Contenido**
 
-- [Registro de Versiones](#registro-versiones)
+- [Registro de Versiones](#registro-de-versiones)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#Capítulo-I-Introducción)
   - [1.1. Startup Profile](#11-startup-profile)
@@ -138,6 +138,50 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
+# Student Outcome
+ABET – EAC - Student Outcome 3
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
+| Criterio específico | Acciones realizadas | Conclusiones |
+| 
+Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
+|
+Delgado Corrales, Piero Gonzalo
+TB1:
+
+Lucas Coronel, Nadia Alessandra
+TB1:
+
+Paredes Puente, Sebastián Roberto
+TB1:
+
+Salinas Torres, Salvador Antonio
+TB1:
+
+Valverde Mozo, Andre Gabriel
+TB1:
+|
+TB1:
+|
+Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
+|
+Delgado Corrales, Piero Gonzalo
+TB1:
+
+Lucas Coronel, Nadia Alessandra
+TB1:
+
+Paredes Puente, Sebastián Roberto
+TB1:
+
+Salinas Torres, Salvador Antonio
+TB1:
+
+Valverde Mozo, Andre Gabriel
+TB1:
+|
+TB1:
+|
 
 # Capítulo I Introducción
 
