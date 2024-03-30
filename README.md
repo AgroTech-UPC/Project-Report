@@ -31,7 +31,7 @@ Grupo: 1
 |  Salinas Torres, Salvador Antonio   |    U20221B127    |
 |   Valverde Mozo, Andre Gabriel   |    U202218899    |
 
-# Abril 2024 
+Abril 2024 
 
 </center>
 
