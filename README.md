@@ -190,16 +190,181 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 
 ### 2.3.1. User Personas
 
+Para la realización de las fichas de User Personas se han considerado los 2 segmentos objetivos: asesores y criadores de cuyes. Se elaborarán las fichas con la información recopilada de las entrevistas sobre su perfil.
+
+**Segmento Asesor**
+
+<img src="img/persona_asesor.png" alt="Persona Asesor">
+
+**Segmento Criador**
+
+<img src="img/persona_criador.png" alt="Persona Criador">
+
 ### 2.3.2. User Task Matrix
+
+<table>
+  <tr>
+    <th rowspan="2" valign="top"><b>Task Matrix</b></th>
+    <th colspan="2" valign="top"><b>Asesores</b></th>
+    <th colspan="2" valign="top"><b>Criadores</b></th>
+  </tr>
+  <tr>
+    <td valign="top"><b>Frecuencia</b></td>
+    <td valign="top"><b>Importancia</b></td>
+    <td valign="top"><b>Frecuencia</b></td>
+    <td valign="top"><b>Importancia</b></td>
+  </tr>
+  <tr>
+    <td>Alimentar a los cuyes</td>
+    <td>Nunca</td>
+    <td>Ninguna</td>
+    <td>Diaria</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Proporcionar agua limpia</td>
+    <td>Nunca</td>
+    <td>Ninguna</td>
+    <td>Diaria</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Limpiar jaulas</td>
+    <td>Nunca</td>
+    <td>Ninguna</td>
+    <td>Semanal</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Comprar suministros y alimentos</td>
+    <td>Nunca</td>
+    <td>Ninguna</td>
+    <td>Mensual</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Vender cuyes</td>
+    <td>Nunca</td>
+    <td>Ninguna</td>
+    <td>Mensual</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar gastos y ganancias</td>
+    <td>Mensual</td>
+    <td>Media</td>
+    <td>Mensual</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Monitorear la salud y el bienestar de los cuyes</td>
+    <td>Mensual</td>
+    <td>Alta</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Investigar sobre nuevas prácticas y tecnologías para la crianza de cuyes</td>
+    <td>Mensual</td>
+    <td>Media</td>
+    <td>Casi Nunca</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Realizar seguimiento y evaluación de progreso de granjas</td>
+    <td>Semanal</td>
+    <td>Alta</td>
+    <td>Semanal</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Participar de sesiones de asesoramiento para recibir información actualizada</td>
+    <td>Mensual</td>
+    <td>Media</td>
+    <td>Mensual</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Resolver problemas específicos en las granjas</td>
+    <td>Según necesidad</td>
+    <td>Muy Alta</td>
+    <td>Según necesidad</td>
+    <td>Muy Alta</td>
+  </tr>
+  <tr>
+    <td>Desarrollar y/o asistir a sesiones de capacitación sobre técnicas de crianza</td>
+    <td>A veces</td>
+    <td>Alta</td>
+    <td>A veces</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Elaborar y/o leer informes de progreso con recomendaciones</td>
+    <td>Trimestral</td>
+    <td>Alta</td>
+    <td>Trimestral</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Evaluar las condiciones y necesidades de las granjas de forma presencial</td>
+    <td>Casi nunca</td>
+    <td>Alta</td>
+    <td>Diaria</td>
+    <td>Media</td>
+  </tr>
+</table>
+
+<br>
+A partir del User Task Matrix, resaltaremos las tareas de mayor trascendencia. Entre ellas tenemos ‘monitorear la salud y bienestar de los cuyes’ ya que los criadores están pendientes constantemente de la salud de los cuyes viendo comportamientos inusuales y posibles enfermedades para comunicárselo a los asesores quienes otorgarían consejos sobre el accionar ante una posible enfermedad o comportamiento inusual. Esta tarea es fundamental para que haya una producción exitosa y sin contratiempos.
+
+Asimismo, la tarea de ‘realizar seguimiento y evaluación de progreso de granjas’ es fundamental por el mismo motivo porque permite una mejora continua en el rendimiento de las granjas.
+
+Por otro lado, las principales diferencias entre ambos segmentos radican en las actividades diarias dentro del criadero ya que solo participan los criadores para asegurarse de la salud y crecimiento de los cuyes. Por lo tanto, los criadores están monitoreando constantemente las condiciones de sus granjas, mientras que los asesores tienen que separar una fecha para realizar esto de forma presencial.
+
+Finalmente, la principal coincidencia encontrada es que tanto los asesores como los criadores deben estar preparados para solucionar problemas específicos cuando estos aparezcan.
+
+
+
 
 ### 2.3.3. User Journey Mapping
 
+Para el segmento de los asesores especializados, se ha considerado desde el momento en que reciben una solicitud de servicio por parte de un criador de cuyes hasta el seguimiento de los avances con respecto a los cambios planteados.
+Por otro lado, para el segmento de criadores de cuyes se tomó en cuenta desde la búsqueda inicial de información y contactos de asesores hasta la implementación de nuevos conocimientos y el análisis de resultados obtenidos.
+
+**Segmento Asesor**
+
+<img src="img/journeymap_asesor.png" alt="Journey Map Asesor">
+
+**Segmento Criador**
+
+<img src="img/journeymap_criador.png" alt="Journey Map Criador">
+
 ### 2.3.4. Empathy Mapping
+
+En esta sección, se desarrollaron los Empathy Maps de cada segmento objetivo. Se utilizó una plantilla de EXPressia que contiene los apartados que debe tener el Empathy Map junto a preguntas que se respondieron conforme a lo identificado de nuestro segmento objetivo para desarrollar este artefacto.
+
+**Segmento Asesor**
+
+<img src="img/empathymap_asesor.png" alt="Empathy Map Asesor">
+
+**Segmento Criador**
+
+<img src="img/empathymap_criador.png" alt="Empathy Map Criador">
 
 ### 2.3.5. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
 
+En esta sección, se definirán términos utilizados a lo largo del proyecto para que se pueda comprender para todos los miembros del equipo y agentes interesados. 
+
+- **Guinea pig breeder** (Criador de cuyes):** Persona dedicada a la crianza y producción de cuyes con el fin de obtener carne y otros productos derivados de estos animales.
+- **Ganadero** (Rancher): Individuo dedicado a la crianza de animales. En este contexto, es otra forma de llamar a los criadores de cuyes, pero de forma más general. Los ganaderos son responsables del cuidado diario de los cuyes, incluida la alimentación, el manejo del hábitat y la reproducción.
+- **Advisor** (Asesor): En el contexto del proyecto, es una persona con experiencia y conocimientos especializados en la crianza de cuyes y prácticas agrícolas relacionadas. Su papel es brindar apoyo personalizado para resolver desafíos específicos que enfrentan los criadores en el cuidado de los cuyes.
+- **Guinea pig farm** (Granja de cuyes):** Instalación destinada a la cría y manejo de cuyes, equipada con las infraestructuras necesarias para su cuidado y reproducción.
+- **Animal welfare** (Bienestar animal):** Estado de salud física y psicológica de los cuyes que garantiza su crecimiento óptimo, garantizado mediante prácticas de crianza adecuadas que respetan sus necesidades naturales.
+- **Sustainable agricultural practices** (Prácticas agrícolas sostenibles):** Técnicas y métodos de producción que preservan los recursos naturales y minimizan el impacto ambiental negativo, contribuyendo a la conservación a largo plazo del medio ambiente y los ecosistemas.
+
+- **Self-sustainable** (Auto-sustentable): En el contexto de la crianza de cuyes, se refiere a la práctica de consumir los cuyes criados en la granja principalmente para satisfacer las necesidades alimenticias de los criadores y sus familias. En lugar de venderlos para generar ingresos adicionales.
 
 
 # Capítulo III Requirements Specification
