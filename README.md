@@ -1,27 +1,28 @@
 
-<center>
+<p align="center">
+  <img src="img/image1.png" alt="Logo de UPC" width="100%">
+</p>
 
-![Upc Logo](img/image1.png)
+<div align="center">
 
+# <span style="color:red">**Universidad Peruana de Ciencias Aplicadas**</span>
+## Carrera de Ingeniería de Software
 
-# <span style="color:red">**Universidad Peruana de Ciencias Aplicadas**
-# Carrera de Ingeniería de Software
+Ciclo: 2024 - 1
 
-## Ciclo: 2024 - 1
+Curso: Desarrollo de Aplicaciones Open Source
 
-## Curso: Desarrollo de Aplicaciones Open Source
+Sección: WX52
 
-## Sección: WX52
+Profesor: Elio Jefferrson Navarrete Vilca
 
-## Profesor: Elio Jefferrson Navarrete Vilca
+“Informe de Trabajo Final”
 
-### “Informe de Trabajo Final”
+Startup: AgroTech
 
-### Startup: AgroTech
+Producto: AgroConnect
 
-### Producto: AgroConnect
-
-### Grupo: 1
+Grupo: 1
 
 |          Integrantes          |      Código      |
 |:-----------------------------:|:-------------------:|
@@ -31,28 +32,55 @@
 |  Salinas Torres, Salvador Antonio   |    U20221B127    |
 |   Valverde Mozo, Andre Gabriel   |    U202218899    |
 
-### Abril 2024 
+Abril 2024
 
-</center>
+</div>
 
-### **Registro de Versiones**
+<table>
+  <thead>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>TB1</strong></td>
+      <td>Sábado 13 de Abril</td>
+      <td>
+        <ul>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Lucas Coronel, Nadia Alessandra</li>
+          <li>Paredes Puente, Sebastián Roberto</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+          <li>Valverde Mozo, Andre Gabriel</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
+  </tbody>
+</table>
 
----
-
-| Versión | Fecha                | Autor                                                                                                                                                                                   | Descripción de modificación                                                                                                                             |
-| ------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1     | 13/04/2022 | - Delgado Corrales, Piero Gonzalo <br /> - Lucas Coronel, Nadia Alessandra<br /> - Paredes Puente, Sebastián Roberto <br /> - Salinas Torres, Salvador Antonio <br /> - Valverde Mozo, Andre Gabriel | Se han incluido los capítulos:<br /> - Capítulo I: Introducción<br /> - Capítulo II: Requirements Elicitation & Analysis,<br /> - Capítulo III: Requirements Specification<br /> - Capítulo IV: Product Design<br /> Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8<br /> Avance de Conclusiones, Bibliografía y Anexos |
-
-
-
-### **Project Report Collaboration Insights**
+# **Project Report Collaboration Insights**
 URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 
-### **Tabla de Contenido**
+# **Tabla de Contenido**
 
-- [Registro de Versiones](#registro-versiones)
+- [Registro de Versiones](#registro-de-versiones)
 - [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#Capítulo-I:-Introducción)
+- [Capítulo I: Introducción](#Capítulo-I-Introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -64,7 +92,7 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II:-Requirements-Elicitation-&-Analysis)
+- [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -79,12 +107,12 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
   - [2.4. Ubiquitous Language](#23-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#Capítulo-III:-Requirements-Specification)
+- [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
-- [Capítulo IV: Product Design](#Capítulo-IV:-Product-Design)
+- [Capítulo IV: Product Design](#Capítulo-IV-Product-Design)
   - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -112,7 +140,7 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
     - [4.7.2. Class Dictionary](#472-class-dictionary)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V:-Product-Implementation,-Validation-&-Deployment)
+- [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation-Validation--Deployment)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
@@ -139,10 +167,16 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
+
+# Capítulo I Introducción
+
+# Capítulo II Requirements Elicitation & Analysis
+
+# Capítulo III Requirements Specification
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
-
 
 ### 4.1.1. General Style Guidelines
 
@@ -312,9 +346,6 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
       <th>Logout</th>
       <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
   </tr>
-  </tbody>
-</table>
-
 
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
@@ -368,10 +399,4 @@ La página de inicio de AgroConnect ha sido diseñada para una experiencia fáci
 
  - **Iniciar Sesión / Registrarse:** En la landing page, los usuarios pueden optar por iniciar sesión si ya tienen una cuenta o registrarse si son nuevos en la plataforma. Estos botones les permiten acceder a sus cuentas existentes o crear nuevas cuentas para aprovechar todas las funciones de AgroConnect.
 
-
-
-
-
-
-
-
+# Capítulo V Product Implementation, Validation & Deployment
