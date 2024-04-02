@@ -36,8 +36,6 @@ Abril 2024
 
 </div>
 
-# **Registro de Versiones**
-
 <table>
   <thead>
     <tr>
@@ -169,100 +167,236 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-# Student Outcome
-ABET – EAC - Student Outcome 3
-Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
-
-<table>
-  <thead>
-    <tr>
-        <td>Criterio específico	</td>
-        <td>Acciones realizadas	</td>
-        <td>Conclusiones</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-        <td>
-          <strong>Delgado Corrales, Piero Gonzalo</strong>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-          <strong>Lucas Coronel, Nadia Alessandra</strong>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-          <strong>Paredes Puente, Sebastián Roberto</strong>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-          <strong>Salinas Torres, Salvador Antonio</strong>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-          <strong>Valverde Mozo, Andre Gabriel</strong>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-        </td>
-        <!--Conclusión grupal-->
-        <td>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-        <td>
-          <strong>Delgado Corrales, Piero Gonzalo</strong>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-          <strong>Lucas Coronel, Nadia Alessandra</strong>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-          <strong>Paredes Puente, Sebastián Roberto</strong>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-          <strong>Salinas Torres, Salvador Antonio</strong>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-          <strong>Valverde Mozo, Andre Gabriel</strong>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-        </td>
-        <!--Conclusión grupal-->
-        <td>
-          <ul>
-            <li>TB1: </li>
-          </ul>
-        </td>
-    </tr>
-  </tbody>
-</table>
-
-
 
 # Capítulo I Introducción
 
-
-
 # Capítulo II Requirements Elicitation & Analysis
-
-
 
 # Capítulo III Requirements Specification
 
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
+
+**Branding**
+
+El logotipo de AgroConnect se presenta en forma de un círculo, que simboliza la unidad y la conexión dentro de las comunidades agrícolas peruanas. En el centro del círculo se encuentra un cuy, animal característico de las granjas peruanas y un símbolo de la agricultura local. El cuy está representado de manera amigable y sonriente, transmitiendo la naturaleza acogedora y cercana de la plataforma. El cuy lleva un pequeño gorro de granjero como un guiño a la laboriosa comunidad agrícola.
+
+<p align="center">
+  <img src="img/logo.png" alt="logo de AgroConnect" width="200">
+</p>
+
+**Typography**
+
+La tipografía elegida para AgroConnect es "Inter", una fuente sans-serif moderna y altamente legible. Este tipo de letra se destaca por su estilo limpio y contemporáneo, lo que comunica profesionalismo y actualización. La elección de Inter asegura que el texto en las interfaces de usuario sea fácilmente legible y tenga una apariencia moderna y uniforme. Además, Inter es una fuente versátil que ofrece una amplia variedad de pesos y estilos, lo que permite una adaptación flexible a diferentes contextos y tamaños de texto en la aplicación.
+
+<p align="center">
+  <img src="img/font1.png" alt="logo de AgroConnect" width="600">
+</p>
+
+**Colors**
+
+AgroConnect ha seleccionado una paleta de colores que comunica confiabilidad y eficiencia en la contratación de asesores especializados y en el uso de herramientas avanzadas. Los tonos predominantes, como los marrones, amarillos y anaranjados, transmiten una sensación cálida que evoca la calidez y la energía de la naturaleza presente en las granjas peruanas. Esta elección de colores no solo refleja la conexión con la tierra y las raíces agrícolas, sino que también sugiere un ambiente acogedor y estimulante para los usuarios de la plataforma.
+
+**Spacing**
+
+El spacing mantiene: 
+ - Botones: padding de 16px vertical y 32px horizontal 
+ - Margin entre texto 16px 
+ - Margin entre elementos 24px 
+ - Margin entre secciones 72px
+
+### 4.1.2. Web Style Guidelines
+ [Ver Anexo N°1]
+
+**Colors**
+
+AgroConnect ha seleccionado cuidadosamente una paleta de colores que refleja los valores y la identidad de la plataforma. Los tonos elegidos comunican confiabilidad y eficiencia en la contratación de asesores especializados y en el uso de herramientas avanzadas.
+
+<p align="center">
+  <img src="img/colors.png" alt="Colores de AgroConnect" width="600">
+</p>
+
+**Typography**
+
+La tipografía desempeña un papel fundamental en la apariencia y la legibilidad de AgroConnect. Hemos seleccionado cuidadosamente la fuente "Inter", una fuente sans-serif moderna y altamente legible.
+
+<p align="center">
+  <img src="img/font2.png" alt="Tipografia de AgroConnect" width="600">
+</p>
+
+**Icons**
+
+Los íconos desempeñan un papel importante en la experiencia del usuario al proporcionar una representación visual rápida y reconocible de diversas funciones y características dentro de AgroConnect. Hemos seleccionado una colección de íconos que son consistentes con la identidad visual de la plataforma y que refuerzan su propósito y temática agrícola.
+
+<p align="center">
+  <img src="img/icons.png" alt="Iconos de AgroConnect" width="600">
+</p>
+
+**Spacing**
+
+El espaciado adecuado entre elementos es esencial para lograr una apariencia equilibrada y una experiencia de usuario cómoda en AgroConnect. Hemos establecido pautas claras de espaciado que garantizan coherencia y claridad en toda la plataforma.
+
+<p align="center">
+  <img src="img/spacing.png" alt="Spacing de AgroConnect" width="600">
+</p>
+
+**Grid System**
+
+El grid system es una herramienta esencial en el diseño y la organización de la interfaz de usuario de AgroConnect. Proporciona una estructura visual que ayuda a distribuir y alinear los elementos de la página de manera consistente y armoniosa en diferentes tamaños de pantalla.
+
+<p align="center">
+  <img src="img/grid.png" alt="Grid System de AgroConnect" width="600">
+</p>
+
+**Button**
+
+Los botones son elementos importantes en la interfaz de usuario de AgroConnect, ya que proporcionan una forma clara y visualmente destacada para que los usuarios realicen acciones importantes. Hemos definido un estilo de botón consistente que refleja la identidad visual de la plataforma y promueve una experiencia de usuario intuitiva y coherente.
+
+<p align="center">
+  <img src="img/button.png" alt="Button de AgroConnect" width="600">
+</p>
+
+**Input System**
+
+El input system es fundamental en la experiencia del usuario en AgroConnect, ya que proporciona formas para que los usuarios ingresen datos y realicen acciones dentro de la plataforma. Hemos definido un sistema de entrada consistente que garantiza una experiencia de usuario intuitiva y coherente en toda la interfaz.
+
+<p align="center">
+  <img src="img/input-system.png" alt="Input Sys AgroConnect" width="600">
+</p>
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+En AgroConnect, aplicamos un sistema de jerarquía visual para resaltar la información esencial y relevante, garantizando que los usuarios encuentren fácilmente lo que necesitan. Utilizamos una organización secuencial para guiar intuitivamente a los usuarios a través del proceso de registro y búsqueda de asesores o asesoría. En lo que respecta a la categorización de contenido, está organizado según audiencia (Criadores y Asesores)
+
+### 4.2.2. Labeling Systems
+
+En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve y fácil de comprender para los usuarios. Las etiquetas que se utilizarán son las siguientes:
 
 
-# Capítulo IV Product Design
+**Vista de Criador:**
 
+<table>
+  <tbody>
+  <tr>
+      <th>My Farm - Mi Granja</th>
+      <td>Se implementará un botón que permitirá a los usuarios gestionar su inventario, que incluirá medicamentos, producción de carne, fertilizante y otros elementos relacionados.</td>
+  </tr>
+  <tr>
+      <th>My Publications - Mis publicaciones</th>
+      <td>Se implementará un botón que permitirá al usuario ver el historial de sus ofertas de trabajo.</td>
+  </tr>
+  <tr>
+      <th>Advisors - Asesores</th>
+      <td>Se implementará un botón que permitirá a los usuarios contactar con asesores.</td>
+  </tr>
+  <tr>
+      <th>My animals - Mis animales</th>
+      <td>Se implementará un botón que permitirá al usuario llevar un registro y seguimiento de los animales en la granja.</td>
+  </tr>
+  <tr>
+      <th>Calendar - Calendario</th>
+      <td>Se implementará un botón que permitirá visualizar un calendario con las tareas, eventos y actividades registradas.</td>
+  </tr>
+  <tr>
+      <th>Notifications - Notificaciones</th>
+      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo.</td>
+  </tr>
+  <tr>
+      <th>Logout</th>
+      <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
+  </tr>
+  </tbody>
+</table>
 
+<br></br>
+**Vista de Asesor:**
+
+<table>
+  <tbody>
+  <tr>
+      <th>My Farm - Mi Granja</th>
+      <td>Se implementará un botón que permitirá a los usuarios gestionar su inventario, que incluirá medicamentos, producción de carne, fertilizante y otros elementos relacionados.</td>
+  </tr>
+  <tr>
+      <th>Publications - Publicaciones</th>
+      <td>Se implementará un botón que permitirá al usuario ver las ofertas publicadas por los usuarios “Criadores”.</td>
+  </tr>
+  <tr>
+      <th>My clients - Mis clientes</th>
+      <td>Se implementará un botón que permitirá a los usuarios ver su clientes.</td>
+  </tr>
+  <tr>
+      <th>My animals - Mis animales</th>
+      <td>Se implementará un botón que permitirá al usuario llevar un registro y seguimiento de los animales en la granja.</td>
+  </tr>
+  <tr>
+      <th>Calendar - Calendario</th>
+      <td>Se implementará un botón que permitirá visualizar un calendario con las tareas, eventos y actividades registradas.</td>
+  </tr>
+  <tr>
+      <th>Notifications - Notificaciones</th>
+      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo.</td>
+  </tr>
+  <tr>
+      <th>Logout</th>
+      <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
+  </tr>
+
+### 4.2.3. SEO Tags and Meta Tags
+### 4.2.4. Searching Systems
+
+La aplicación AgroConnect desarrollará un sistema de búsqueda intuitivo, diseñado para que los usuarios encuentren rápidamente la información que necesitan. Este sistema se basará en filtros inteligentes que simplificarán la búsqueda de asesores, evitando así que los usuarios se vean abrumados por la cantidad de información disponible. Con esta mejora, nuestra aplicación garantizará una experiencia de usuario más fluida y satisfactoria al buscar información relevante.
+
+<table>
+  <tbody>
+  <tr>
+      <th>Ubicación</th>
+      <td>Permite al usuario buscar asesores o recibir solicitudes de asesoramiento basadas en su ubicación actual o en una ubicación específica.</td>
+  </tr>
+  <tr>
+      <th>Tipo de Asesoría</th>
+      <td>Permite al usuario buscar según el tipo de asesoría ofrecida.</td>
+  </tr>
+  <tr>
+      <th>Presupuesto</th>
+      <td>Permite al usuario buscar asesores que se ajusten a su presupuesto.</td>
+  </tr>
+  <tr>
+      <th>Experiencia</th>
+      <td>Permite al usuario buscar asesores con un nivel de experiencia específico.</td>
+  </tr>
+  <tr>
+      <th>Reputación</th>
+      <td>Permite al usuario buscar asesores según las calificaciones obtenidas.</td>
+  </tr>
+  <tr>
+      <th>Notifications - Notificaciones</th>
+      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo.</td>
+  </tr>
+  <tr>
+      <th>Idioma</th>
+      <td>Permite al usuario buscar según el idioma.</td>
+  </tr>
+  <tr>
+      <th>Palabras Clave</th>
+      <td>Proporciona un cuadro de búsqueda donde los usuarios pueden ingresar palabras clave específicas relacionadas con el tipo de asesoría que necesitan.</td>
+  </tr>
+  </tbody>
+</table>
+
+### 4.2.5. Navigation Systems
+
+La página de inicio de AgroConnect ha sido diseñada para una experiencia fácil y completa, ofreciendo las siguientes características:
+
+ - **Descargar la Aplicación:** AgroConnect brinda a los usuarios la posibilidad de descargar la aplicación móvil de manera destacada en la página de inicio. Esto les permite acceder a la plataforma de forma conveniente desde sus dispositivos móviles. Al hacer clic en "Descargar App", los usuarios pueden obtener fácilmente la aplicación.
+
+ - **Escanear el Código QR:** Para una experiencia aún más rápida y práctica, los usuarios tienen la opción de escanear un código QR proporcionado en la plataforma. Esto los lleva directamente a la aplicación de AgroConnect.
+
+ - **Iniciar Sesión / Registrarse:** En la landing page, los usuarios pueden optar por iniciar sesión si ya tienen una cuenta o registrarse si son nuevos en la plataforma. Estos botones les permiten acceder a sus cuentas existentes o crear nuevas cuentas para aprovechar todas las funciones de AgroConnect.
 
 # Capítulo V Product Implementation, Validation & Deployment
