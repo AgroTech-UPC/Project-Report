@@ -346,7 +346,7 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
       <th>Logout</th>
       <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
   </tr>
-
+</table>
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 
