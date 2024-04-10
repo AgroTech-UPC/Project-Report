@@ -1026,10 +1026,6 @@ La aplicación AgroConnect desarrollará un sistema de búsqueda intuitivo, dise
       <td>Permite al usuario buscar asesores según las calificaciones obtenidas.</td>
   </tr>
   <tr>
-      <th>Notifications - Notificaciones</th>
-      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo.</td>
-  </tr>
-  <tr>
       <th>Idioma</th>
       <td>Permite al usuario buscar según el idioma.</td>
   </tr>
