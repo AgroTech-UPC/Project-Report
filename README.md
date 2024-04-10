@@ -1044,6 +1044,41 @@ La página de inicio de AgroConnect ha sido diseñada para una experiencia fáci
 
  - ***Navegación por Pestañas:*** Es un sistema que emplea pestañas para organizar el contenido en secciones o categorías. Esto permite a los usuarios cambiar entre las distintas secciones de contenido simplemente haciendo clic en las pestañas correspondientes, sin necesidad de cargar nuevas páginas.
 
+## 4.3. Landing Page UI Design
+
+En este apartado, nos enfocaremos en el diseño de la interfaz de usuario (UI) de nuestra landing page. Es crucial que los usuarios que visiten nuestra página comprendan rápidamente de qué se trata nuestro producto y qué beneficios principales ofrecemos.
+
+### 4.3.1. Landing Page Wireframe
+
+**Wireframe - sección de ‘Inicio’ de AgroConnect:** la sección tendrá una imagen de fondo llamativa con un mensaje que refleja el objetivo de la startup para llamar la atención de posibles usuarios.
+
+<p align="center">
+  <img src="img/wireframe-landing-home.JPG" alt="Pagina de Inicio" width="600">
+</p>
+
+**Wireframe - sección de ‘Acerca de’:** la sección tendrá una imagen de fondo y tendrá información sobre la problemática que queremos resolver.
+
+<p align="center">
+  <img src="img/wireframe-landing-about-app.JPG" alt="Pagina Acerca de" width="600">
+</p>
+
+**Wireframe - sección de ‘Sobre Nosotros’:** la sección tendrá una imagen de fondo y tendrá información sobre la startup Agrotech junto con nuestra misión y visión.
+
+<p align="center">
+  <img src="img/wireframe-landing-about-us.JPG" alt="Pagina Sobre Nosotros" width="600">
+</p>
+
+**Wireframe - sección de ‘Características’:** la sección tendrá una imagen de fondo y tendrá información sobre los servicios que ofrecemos con nuestra aplicación AgroConnect.
+
+<p align="center">
+  <img src="img/wireframe-landing-features.JPG" alt="Pagina Características" width="600">
+</p>
+
+**Wireframe - sección de ‘Contacto’:** la sección tendrá una imagen de fondo y tendrá un formulario donde los usuarios potenciales puedan escribir consultas para que sean respondidas en un correo por un miembro de AgroTech.
+
+<p align="center">
+  <img src="img/wireframe-landing-contact.JPG" alt="Pagina Características" width="600">
+</p>
 
 # Capítulo V Product Implementation, Validation & Deployment
 
