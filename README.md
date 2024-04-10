@@ -765,7 +765,25 @@ En esta sección, se definirán términos utilizados a lo largo del proyecto par
 
 ## 4.1. Style Guidelines
 
+La importancia del estilo de un producto radica en la creación de una experiencia visual armoniosa y atractiva para los usuarios. A continuación, se presentará una descripción detallada de las pautas de estilo de nuestro proyecto.
+
 ### 4.1.1. General Style Guidelines
+
+**Consistencia Visual**
+
+Garantizar una apariencia uniforme en todos los aspectos del producto, desde la disposición de la interfaz de usuario hasta los elementos visuales. Esto implica seleccionar colores coherentes, tipografía adecuada, estilos consistentes y una navegación web intuitiva.
+
+<p align="center">
+  <img src="img/consistencia-visual.webp" alt="Ejemplo de consistencia visual" width="600">
+</p>
+
+**Simplicidad**
+
+Enfatizar la simplicidad en el diseño para una experiencia de usuario intuitiva y evitar el uso excesivo de elementos que puedan hacer perder el foco de atención al usuario.
+
+<p align="center">
+  <img src="img/simplicidad.jpg" alt="Ejemplo de simplicidad" width="600">
+</p>
 
 **Branding**
 
@@ -789,14 +807,24 @@ AgroConnect ha seleccionado una paleta de colores que comunica confiabilidad y e
 
 **Spacing**
 
-El spacing mantiene: 
+El spacing garantiza una distribución uniforme y un equilibrio visual en la interfaz. Se han establecido las siguientes medidas.
+
+````
  - Botones: padding de 16px vertical y 32px horizontal 
  - Margin entre texto 16px 
  - Margin entre elementos 24px 
  - Margin entre secciones 72px
+````
+
+**Diseño Visual con Patrón Z**
+
+ Vamos a incorporar el conocido Patrón Z en nuestro diseño visual, el cual dirige de manera intuitiva la atención del usuario a través de la interfaz. Este enfoque implica estratégicamente ubicar los elementos clave en las esquinas superior e inferior izquierdas, mientras que los elementos secundarios se colocan en las esquinas superior e inferior derechas. Este diseño genera un flujo visual eficaz y atractivo que mejora la experiencia del usuario.
+
+<p align="center">
+  <img src="img/patronZ.png" alt="Patron Z ejemplo" width="600">
+</p>
 
 ### 4.1.2. Web Style Guidelines
- [Ver Anexo N°1]
 
 **Colors**
 
