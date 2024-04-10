@@ -884,6 +884,8 @@ El input system es fundamental en la experiencia del usuario en AgroConnect, ya 
 
 ## 4.2. Information Architecture
 
+La arquitectura de información desempeña un papel fundamental en la organización y estructuración del contenido para garantizar su accesibilidad y comprensión por parte de los usuarios. En este apartado, se detallarán los sistemas de organización, etiquetado, etiquetas SEO y metaetiquetas, sistema de búsqueda y sistemas de navegación que componen la arquitectura de la información de nuestro producto.
+
 ### 4.2.1. Organization Systems
 
 En AgroConnect, aplicamos un sistema de jerarquía visual para resaltar la información esencial y relevante, garantizando que los usuarios encuentren fácilmente lo que necesitan. Utilizamos una organización secuencial para guiar intuitivamente a los usuarios a través del proceso de registro y búsqueda de asesores o asesoría. En lo que respecta a la categorización de contenido, está organizado según audiencia (Criadores y Asesores)
@@ -902,11 +904,11 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
       <td>Se implementará un botón que permitirá a los usuarios gestionar su inventario, que incluirá medicamentos, producción de carne, fertilizante y otros elementos relacionados.</td>
   </tr>
   <tr>
-      <th>My Publications - Mis publicaciones</th>
+      <th>My publications - Mis publicaciones</th>
       <td>Se implementará un botón que permitirá al usuario ver el historial de sus ofertas de trabajo.</td>
   </tr>
   <tr>
-      <th>Advisors - Asesores</th>
+      <th>Advisors - Mis asesores</th>
       <td>Se implementará un botón que permitirá a los usuarios contactar con asesores.</td>
   </tr>
   <tr>
@@ -916,6 +918,10 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
   <tr>
       <th>Calendar - Calendario</th>
       <td>Se implementará un botón que permitirá visualizar un calendario con las tareas, eventos y actividades registradas.</td>
+  </tr>
+  <tr>
+      <th>Registry - Registro</th>
+      <td>Se implementará un botón que permitirá al usuario registrar información de nuevos animales, datos de la producción y alimentos.</td>
   </tr>
   <tr>
       <th>Notifications - Notificaciones</th>
@@ -934,20 +940,12 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
 <table>
   <tbody>
   <tr>
-      <th>My Farm - Mi Granja</th>
-      <td>Se implementará un botón que permitirá a los usuarios gestionar su inventario, que incluirá medicamentos, producción de carne, fertilizante y otros elementos relacionados.</td>
-  </tr>
-  <tr>
-      <th>Publications - Publicaciones</th>
-      <td>Se implementará un botón que permitirá al usuario ver las ofertas publicadas por los usuarios “Criadores”.</td>
+      <th>Home - Inicio</th>
+      <td>Se implementará un botón que permitirá al usuario ver publicaciones de clientes y poder ofertar.</td>
   </tr>
   <tr>
       <th>My clients - Mis clientes</th>
       <td>Se implementará un botón que permitirá a los usuarios ver su clientes.</td>
-  </tr>
-  <tr>
-      <th>My animals - Mis animales</th>
-      <td>Se implementará un botón que permitirá al usuario llevar un registro y seguimiento de los animales en la granja.</td>
   </tr>
   <tr>
       <th>Calendar - Calendario</th>
