@@ -1080,6 +1080,38 @@ En este apartado, nos enfocaremos en el diseño de la interfaz de usuario (UI) d
   <img src="img/wireframe-landing-contact.JPG" alt="Pagina Características" width="600">
 </p>
 
+### 4.3.2. Landing Page Mock-up
+
+**Wireframe - sección de ‘Inicio’ de AgroConnect:** la sección tendrá una imagen de fondo llamativa con un mensaje que refleja el objetivo de la startup para llamar la atención de posibles usuarios.
+
+<p align="center">
+  <img src="img/mockup-landing-home.JPG" alt="Pagina de Inicio" width="600">
+</p>
+
+**Wireframe - sección de ‘Acerca de’:** la sección tendrá una imagen de fondo y tendrá información sobre la problemática que queremos resolver.
+
+<p align="center">
+  <img src="img/mockup-landing-about-app.JPG" alt="Página Acerca de la problemática" width="600">
+</p>
+
+**Wireframe - sección de ‘Sobre Nosotros’:** la sección tendrá una imagen de fondo y tendrá información sobre la startup Agrotech junto con nuestra misión y visión.
+
+<p align="center">
+  <img src="img/mockup-landing-about-us.JPG" alt="Pagina Sobre Nosotros" width="600">
+</p>
+
+**Wireframe - sección de ‘Características’:** la sección tendrá una imagen de fondo y tendrá información sobre los servicios que ofrecemos con nuestra aplicación AgroConnect.
+
+<p align="center">
+  <img src="img/mockup-landing-features.JPG" alt="Pagina de Características" width="600">
+</p>
+
+**Wireframe - sección de ‘Contacto’:** la sección tendrá una imagen de fondo y tendrá un formulario donde los usuarios potenciales puedan escribir consultas para que sean respondidas en un correo por un miembro de AgroTech.
+
+<p align="center">
+  <img src="img/mockup-landing-contact.JPG" alt="Pagina de Contacto" width="600">
+</p>
+
 # Capítulo V Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
