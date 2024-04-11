@@ -533,9 +533,158 @@ Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promo
 
 ### 2.2.1. Diseño de entrevistas
 
+**Segmento: Asesor**
+1. ¿Cuál es su experiencia en la granja y cuántos años lleva trabajando en este campo?
+2. ¿Qué tipo de asesoramiento o servicios específicos ofrece a los criadores en su trabajo actual?
+3. ¿Cuáles considera que son los desafíos más comunes que enfrentan los criadores de cuyes principiantes en la gestión de sus granjas?
+4. ¿Qué herramientas o recursos utiliza actualmente para brindar asesoramiento a los criadores?
+5. ¿Cuál ha sido su experiencia con estas herramientas o recursos? ¿Fue una experiencia positiva o negativa?
+6. ¿Qué características o funcionalidades le gustaría ver en una plataforma como “AgroConnect” que facilite la prestación de sus servicios de asesoramiento?
+7. ¿Qué temas específicos en la industria agropecuaria considera que son de mayor interés para los criadores principiantes y que deberían abordarse en la plataforma?
+8. ¿Cómo cree que una plataforma como "AgroConnect" podría beneficiar a los criadores principiantes y a los propios asesores en la industria?
+
+**Segmento: Criador de cuyes**
+1. ¿Cuál es el tamaño de su operación agropecuaria y qué tipo de animales roedores cría?
+2. ¿Cuáles son los mayores desafíos que enfrenta en la gestión diaria de su granja?
+3. ¿Qué herramientas o métodos utiliza actualmente para llevar un registro de la salud y el estado de sus animales?
+4. ¿Cómo planifica y programa las tareas diarias relacionadas con la alimentación, cuidado de los animales y mantenimiento de las instalaciones?
+5. ¿Qué información de pronóstico suele utilizar para tomar decisiones en su granja?
+6. ¿Ha utilizado aplicaciones o herramientas móviles relacionadas a la gestión de granjas? ¿Cuáles han sido sus experiencias?
+7. ¿Qué tipo de información o recursos adicionales le gustaría tener acceso para mejorar la gestión de su granja?
+8. ¿Cuál es su opinión sobre la posibilidad de recibir asesoramiento y orientación de criadores más experimentados a través de plataformas en línea o aplicaciones?
+
 ### 2.2.2. Registro de entrevistas
 
+**Entrevista N 1 - Asesor:**
+
+**Entrevistador:** Andre Valverde
+
+**Entrevistado:** Rodrigo Guerra
+
+**Link de la entrevista:** https://youtu.be/rXbdiB0spIQ 
+
+<img src="img/entrevista1.png">
+
+**Resumen:** 
+
+Rodrigo Guerra, es asesor de cría de cuyes que tiene un año de experiencia y ofrece asesoramiento técnico en alimentación, reproducción y gestión de granjas. Los desafíos comunes para los criadores principiantes incluyen la falta de conocimientos técnicos. Utiliza herramientas como manuales técnicos y capacitaciones, con una experiencia generalmente positiva. En una plataforma como "AgroConnect", busca funciones para facilitar el intercambio de conocimientos y abordar temas como manejo del estrés y prácticas sostenibles, lo que beneficiaría a criadores y asesores.
+
+
+**Entrevista N 2 - Asesor:** 
+
+**Entrevistador:** Salvador Salinas
+
+**Entrevistado:** Tamara García
+
+**Link de la entrevista:** https://youtu.be/xs9W9uG10z0
+
+<img src="img/entrevista2.png">
+
+**Resumen:**
+
+Tamara García es una potencial asesora en la cría de cuyes y está dispuesta a aconsejar a criadores principiantes en la granja de cuyes. Su principal recurso es la experiencia que ha ganado gracias a su familia, y cuenta cómo desde pequeña está familiarizada con la cría de cuyes y la gestión de granja de cuyes. Al comentarle un poco sobre la idea de la plataforma “AgroConnect”, menciona que le gustó mucho la idea ya que no ha visto algo parecido anteriormente, especialmente dirigido a la granja de cuyes. Asimismo, comenta que debería ser una aplicación fácil de usar y accesible para todos.
+
+
+**Entrevista N 3 - Asesor:**
+
+**Entrevistador:** Sebastian Paredes
+
+**Entrevistado:** Belen Ramos
+
+**Link de la entrevista:** https://youtu.be/xwnwEvw3LxI
+
+<img src="img/entrevista3.jpg">
+
+**Resumen:**
+
+Belen Ramos, la entrevistada, tiene un año de experiencia en la crianza de cuyes y ofrece asesoramiento básico sobre aspectos como la alimentación y el control de enfermedades. Utiliza recursos en línea y su experiencia personal para brindar consejos prácticos a criadores principiantes. Considera que una plataforma como "AgroConnect" sería beneficiosa para conectar con criadores y abordar temas relevantes como la selección de razas y el manejo de enfermedades.
+
+
+
+**Entrevista N 4- Criador:**
+
+**Entrevistador:** Sebastian Paredes
+
+**Entrevistado:** Alessandra Chaupis
+
+**Link de la entrevista:** https://youtu.be/3UqveRZBafU
+
+<img src="img/entrevista4.png">
+
+**Resumen:** 
+
+Alessandra Chaupis, una joven de 20 años que vive en San Juan de Lurigancho, se encuentra en sus inicios en el negocio de la crianza de cuyes, en la entrevista destaca que su operación agropecuaria es de tamaño mediano, gracias a esta escala puede gestionar todas las actividades de cuidado y producción de manera efectiva, manteniendo un equilibrio entre la rentabilidad y la atención individualizada que requieren los cuyes. Los principales desafíos que enfrenta en su granja son el control de enfermedades, la gestión de la alimentación adecuada y el mantenimiento de las condiciones sanitarias para garantizar la salud y el bienestar de los animales y la calidad de los productos. Utiliza un registro manual y aplicaciones móviles para el seguimiento de la salud de los cuyes, así como un calendario para planificar las tareas diarias. Además, utiliza información meteorológica y datos históricos de producción para tomar decisiones informadas. Además, tiene una experiencia positiva con aplicaciones móviles de gestión de granjas, que le han permitido mejorar la eficiencia de su operación. Busca acceso a información sobre nuevas técnicas de crianza y mejores prácticas de manejo, y considera que recibir asesoramiento de criadores más experimentados sería beneficioso para mejorar la eficiencia y productividad de su granja.
+
+
+
+**Entrevista N 5 - Criador:** 
+
+**Entrevistador:** Nadia Lucas
+
+**Entrevistado:** Nayeli Chavez
+
+**Link de la entrevista:** https://youtu.be/xM3fyi4a-To 
+
+<img src="img/entrevista5.png">
+
+**Resumen:**
+
+Nayeli Chávez, una criadora de 24 años que reside en Puente Piedra, es relativamente nueva en el negocio que maneja junto a su madre, crían alrededor de 50 cuyes debido a su alta demanda. Sus desafíos incluyen mantener la salud y condiciones ambientales adecuadas para los animales, así como gestionar su alimentación y espacio. Actualmente lleva registros manuales de la salud de cada cuy y planifica sus tareas diarias para garantizar un cuidado constante. Utiliza información sobre madurez sexual y ciclos reproductivos para tomar decisiones en su granja y está abierta a explorar aplicaciones que faciliten la gestión. Busca acceso a recursos sobre prácticas de cría avanzadas y considera valiosa la orientación de criadores más experimentados a través de plataformas en línea o aplicaciones.
+
+
+**Entrevista N 6 - Criador:**
+
+**Entrevistador:** Piero Delgado
+
+**Entrevistado:** Daniel Ruiz
+
+**Link de la entrevista:** https://youtu.be/Lst4qVknGrk?si=2-f34iRuoXJ4amyC
+
+<img src="img/entrevista6.jpg">
+
+**Resumen:**
+
+Daniel viene de una familia que ha criado cuyes durante generaciones para generar un ingreso para su familia. Su familia maneja una operación mediana con alrededor de 30 cuyes. Uno de los desafíos más grandes para su criadero es mantener la salud y el bienestar de los cuyes, así como garantizar una alimentación adecuada y prevenir enfermedades. Para registrar la información de los cuyes, utiliza métodos manuales donde detalla la salud de cada animal y realiza revisiones periódicas para detectar problemas. Daniel no ha utilizado aplicaciones especializadas pero usa herramientas simples como calculadora y calendario. Está interesado en una herramienta intuitiva para gestionar la información de los cuyes y recibir asesoramiento en línea. Estaría dispuesto a pagar por una aplicación con estas funcionalidades si el precio es asequible.
+
+
 ### 2.2.3. Análisis de entrevistas
+
+**Asesores de crianza de cuyes**
+**Segmento demográfico:**
+Edad: personas de 25 a 50 años de edad
+Sexo: Masculino y Femenino
+Formación educativa: Universitario o cualquier educación superior
+**Segmento Geográfico:**
+País: Perú
+Idioma: Español
+**Segmento Psicográfico:**
+Clase social: NSE A, NSE B, NSE C
+**Segmento Conductual:**
+Conocimientos: Conocimiento básico del manejo de una aplicación web.
+Actitudes: Personas con interés en tener un buen recurso para brindar asesorías a criadores de cuyes novatos.
+
+Gracias a las entrevistas realizadas, comprendimos que los asesores suelen brindar apoyo a través de internet o a conocidos. Así, al comentarle sobre nuestra idea de aplicación web para poder brindar asesorías a criadores de cuyes, indicaron que les pareció muy buena idea ya que brinda mejor comunicación y confiabilidad.
+
+
+**Criadores de cuyes**
+**Segmento demográfico:**
+Edad: personas de 25 a 55 años de edad
+Sexo: Masculino y Femenino
+Formación educativa: Administrativo en área de logística
+**Segmento Geográfico:**
+País: Perú
+Idioma: Español
+**Segmento Psicográfico:**
+Clase social: NSE A, NSE B, NSE C
+**Segmento Conductual:**
+Conocimientos: Conocimiento básico del manejo de una aplicación web.
+Actitudes: Personas con interés en tener un buen recurso sobre el cual gestionar su criado de cuyes y obtener ayuda.
+
+
+Con las entrevistas realizadas, obtuvimos la conclusión de que los criadores de cuyes suelen tener dificultad para gestionar correctamente la alimentación y control de enfermedades, además de gestionar recursos de la granja en sí. De esta forma, al comentarle sobre nuestra idea de aplicación web para poder recibir asesorías de personas con experiencia y gestionar los recursos de su granja, indicaron que les pareció muy buena idea ya que sería un mejor recurso para obtener información confiable.
+
+
+Asimismo, también hemos realizado una investigación para comprobar la necesidad del mercado, y gracias a las estadísticas brindadas por el Ministerio de Desarrollo Agrario y Riego (2023), se comprobó que la población de cuyes va creciendo con el paso de los años, y se espera que siga aumentando (Revisar [Anexo N°2: Gráfico de evolución de población de cuyes](#anexo-n°2-gráfico-de-evolución-de-población-de-cuyes)). Por lo cual, nuestra aplicación ayudaría para mejorar el cuidado de los cuyes, ya que suelen haber problemas como la mala nutrición o el déficit de control de enfermedades que perjudica directamente a las granjas. (Revisar [Anexo N°3: Diagrama de problemas en la crianza de cuyes](#anexo-n°3-diagrama-de-problemas-en-la-crianza-de-cuyes))
 
 ## 2.3. Needfinding
 
@@ -1145,3 +1294,36 @@ Por otro lado, tenemos a GitHub, el cual es la plataforma para poder alojar repo
 
 Así es como con este, que cada miembro podrá trabajar de forma remota desde su IDE, teniendo una copia del repositorio Git a través del repositorio en línea almacenado en GitHub, así poder hacer commits para empujar los cambios que hayan realizado.
 
+# Bibliografía
+
+hdeleon.net. (2019, May 2). ¿Cómo hacer una base de datos de Usuarios con Roles de acceso? | SQL Server [Video]. YouTube. https://www.youtube.com/watch?v=Xrbl6Xgmi-Q 
+
+
+Luque, R. (2023). Meta Tags | Las 7 más importantes en SEO. SEOcrawl. https://seocrawl.com/meta-tags/
+
+
+Me, K. (2016). GALPON PARA CRIANZA DE CUYES 1. Nombres de la Tecnología: Galpón para Crianza de Cuyes 2. Campo de Aplicación de la Tecnología: Nivel productivo. www.academia.edu. https://www.academia.edu/27131568/GALPON_PARA_CRIANZA_DE_CUYES_1_Nombres_de_la_Tecnolog%C3%ADa_Galp%C3%B3n_para_Crianza_de_Cuyes_2_Campo_de_Aplicaci%C3%B3n_de_la_Tecnolog%C3%ADa_Nivel_productivo 
+
+
+Ministerio de Desarrollo Agrario y Riego (2023) Cadena productiva de cuyes. https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
+
+
+SENASA. (2019). Cajamarca es el principal productor de cuy en el Perú. Recuperado de https://www.senasa.gob.pe/senasacontigo/cajamarca-es-el-principal-productor-de-cuy-en-el-peru/
+
+
+# Anexos
+
+## Anexo N°1: Web Style Guidelines - Figma
+
+https://www.figma.com/file/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=0%3A1&mode=design&t=wpjgQEwVQwYdQHGP-1 
+
+
+## Anexo N°2: Gráfico de evolución de población de cuyes
+
+<img src="img/grafico-anexo.png">
+
+https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
+
+## Anexo N°3: Diagrama de problemas en la crianza de cuyes
+
+<img src="img/cuadro-anexo.png">
