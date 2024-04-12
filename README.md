@@ -105,7 +105,7 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#23-ubiquitous-language)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
@@ -563,7 +563,7 @@ Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promo
 
 **Link de la entrevista:** https://youtu.be/rXbdiB0spIQ 
 
-<img src="img/entrevista1.png">
+<img src="img/entrevista1.png" width="100%">
 
 **Resumen:** 
 
@@ -578,7 +578,7 @@ Rodrigo Guerra, es asesor de cría de cuyes que tiene un año de experiencia y o
 
 **Link de la entrevista:** https://youtu.be/xs9W9uG10z0
 
-<img src="img/entrevista2.png">
+<img src="img/entrevista2.png" width="100%">
 
 **Resumen:**
 
@@ -593,7 +593,7 @@ Tamara García es una potencial asesora en la cría de cuyes y está dispuesta a
 
 **Link de la entrevista:** https://youtu.be/xwnwEvw3LxI
 
-<img src="img/entrevista3.jpg">
+<img src="img/entrevista3.jpg" width="100%">
 
 **Resumen:**
 
@@ -609,7 +609,7 @@ Belen Ramos, la entrevistada, tiene un año de experiencia en la crianza de cuye
 
 **Link de la entrevista:** https://youtu.be/3UqveRZBafU
 
-<img src="img/entrevista4.png">
+<img src="img/entrevista4.png" width="100%">
 
 **Resumen:** 
 
@@ -625,7 +625,7 @@ Alessandra Chaupis, una joven de 20 años que vive en San Juan de Lurigancho, se
 
 **Link de la entrevista:** https://youtu.be/xM3fyi4a-To 
 
-<img src="img/entrevista5.png">
+<img src="img/entrevista5.png" width="100%">
 
 **Resumen:**
 
@@ -640,7 +640,7 @@ Nayeli Chávez, una criadora de 24 años que reside en Puente Piedra, es relativ
 
 **Link de la entrevista:** https://youtu.be/Lst4qVknGrk?si=2-f34iRuoXJ4amyC
 
-<img src="img/entrevista6.jpg">
+<img src="img/entrevista6.jpg" width="100%">
 
 **Resumen:**
 
