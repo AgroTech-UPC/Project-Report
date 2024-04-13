@@ -1,5 +1,4 @@
-﻿
-<p align="center">
+﻿<p align="center">
   <img src="img/image1.png" alt="Logo de UPC" width="100%">
 </p>
 
@@ -16,7 +15,7 @@ Sección: WX52
 
 Profesor: Elio Jefferrson Navarrete Vilca
 
-“Informe de Trabajo Final”
+“Informe de Trabajo Final"
 
 Startup: AgroTech
 
@@ -106,7 +105,7 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#23-ubiquitous-language)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
@@ -147,9 +146,9 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint n](#521-sprint-n)
-      - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-n)
-       -[5.2.1.2. Sprint Backlog n](#5212-sprint-backlog-n)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
       - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
       - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
@@ -168,15 +167,367 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 - [Anexos](#anexos)
 
 
-# Capítulo I Introducción
+
+**Student Outcome**
+
+ABET – EAC - Student Outcome 3
+
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
+
+|**Criterio específico**|**Acciones realizadas**|**Conclusiones**|
+| :- | :- | :- |
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Delgado Corrales, Piero Gonzalo**</p><p>**TB1:**</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p></p><p>**Paredes Puente, Sebastián Roberto**</p><p>**TB1:**</p><p></p><p>**Salinas Torres, Salvador Antonio**</p><p>**TB1:**</p><p></p><p>**Valverde Mozo, Andre Gabriel**</p><p>**TB1:**</p>|**TB1:**|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Delgado Corrales, Piero Gonzalo**</p><p>**TB1:**</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p></p><p>**Paredes Puente, Sebastián Roberto**</p><p>**TB1:**</p><p></p><p>**Salinas Torres, Salvador Antonio**</p><p>**TB1:**</p><p></p><p>**Valverde Mozo, Andre Gabriel**</p><p>**TB1:**</p>|**TB1:**|
+
+
+# Capítulo I: Introducción
+
+## 1.1. Startup Profile
+
+### 1.1.1. Descripción de la Startup
+
+
+En AgroTech, nos especializamos en abordar los desafíos de la crianza de cuyes a través de nuestra aplicación integral AgroConnect. Nuestro enfoque principal es proporcionar asesoramiento especializado y herramientas tecnológicas para mejorar la gestión de granjas de cuyes de manera inteligente y eficiente.
+
+**Misión:**
+
+Empoderar a los granjeros a través de soluciones tecnológicas de vanguardia para una gestión más eficiente de sus criaderos.
+
+**Visión:**
+
+Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promoviendo el bienestar animal y la sostenibilidad en esta industria específica, con miras a expandirnos hacia otros tipos de animales en el futuro.
+
+<p align="center">
+  <img src="img/logo.png"
+  alt="logo de AgroConnect"
+  width="200">
+</p>
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+
+<table><tr><th colspan="1" rowspan="2" valign="top"><img src="img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.003.jpeg" alt="" width="1000px"></th><th colspan="1" rowspan="2" valign="top"><p></p><p><b>Delgado Corrales, Piero Gonzalo</b></p><p>Actualmente estoy en el quinto ciclo de Ingeniería de Software. Poseo destrezas en programación en C++, así como conocimientos en estructuras de datos y sus aplicaciones. Recientemente, he adquirido habilidades en diseño web utilizando HTML, CSS y herramientas como Figma. Soy una persona responsable y me esfuerzo por mantener una organización óptima para gestionar eficazmente las entregas de trabajos.</p></th></tr>
+<tr></tr>
+</table>
+
+<table><tr><th colspan="1" rowspan="2" valign="top"><img src="img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.004.jpeg" alt="" width="1000px"></th><th colspan="1" rowspan="2" valign="top"><p></p><p><b>Salinas Torres, Salvador Antonio</b></p><p>Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Poseo conocimientos en programación orientada a objetos en C++ y Python, desarrollo web usando HTML, CSS y JavaScript, y gestión de base de datos en SQL Server. Considero que soy una persona responsable y siempre organizo el tiempo para hacerlos tranquilamente antes de la fecha de entrega.</p><p></p></th></tr>
+<tr></tr>
+</table>
+
+
+<table><tr><th colspan="1" rowspan="2" valign="top"><p></p><p><img src="img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.005.png" alt="" width="1000px"></p><p></p></th><th colspan="1" rowspan="2" valign="top"><p></p><p><b>Lucas Coronel, Nadia Alessandra</b></p><p>Mi nombre es Nadia Alessandra Lucas Coronel y soy estudiante del sexto ciclo de la carrera de Ingeniería de Software. Me considero una persona entusiasta, perseverante y responsable. Cuento con conocimientos en SQL, C++, Python, HTML, CSS, JavaScript y metodologías ágiles. Me comprometo a aplicar mis conocimientos de manera efectiva para contribuir al desarrollo de soluciones de software de alta calidad.</p><p></p></th></tr>
+<tr></tr>
+</table>
+
+
+<table><tr><th colspan="1" rowspan="2" valign="top"><p></p><p><img src="img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.006.png" alt="" width="1000px"></p></th><th colspan="1" rowspan="2" valign="top"><p><b>Paredes Puente, Sebastian Roberto</b></p><p>Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Dentro de mi experiencia, destaco la capacidad de analizar información y programar en lenguaje C + +. Además, he completado cursos en Python, SQL Server y HTML. En cuanto a mis habilidades interpersonales, cuento con adaptabilidad, pensamiento creativo, trabajo en equipo, gestión del tiempo y capacidad analítica para resolver problemas.</p><p></p></th></tr>
+<tr></tr>
+</table>
+
+
+<table><tr><th colspan="1" rowspan="2" valign="top"><p><img src="img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.007.png" alt="" width="1000px"></p><p></p><p></p></th><th colspan="1" rowspan="2" valign="top"><p></p><p><b>Valverde Mozo, Andre Gabriel</b> </p><p>Mi perfil se basa en ser alguien que busca soluciones creativas a todo problema, todo es posible al fin y al cabo. Considero que tengo una buena capacidad de análisis de problemas y un pensamiento rápido en dichos casos. Me encanta todo lo que es la programación ya que es una forma de arte para mi, solo que lo puedo hacer realidad frente a mis ojos.</p><p></p><p></p></th></tr>
+<tr></tr>
+</table>
+
+
+
+
+
+## 1.2. Solution Profile
+
+### 1.2.1 Antecedentes y problemática
+
+- **What:** El sector de la crianza de cuyes enfrenta desafíos en la gestión eficiente de las granjas, la falta de acceso a tecnologías adecuadas y la necesidad de mejorar el bienestar animal y la sostenibilidad de las prácticas agrícolas. 
+- **Where:** Nos enfocaremos en todo el territorio nacional del Perú, especialmente en los departamentos donde se concentra la mayor parte del comercio y la actividad económica del país, y donde la crianza de cuyes es más prevalente
+
+- **When:** Actualmente, el sector agropecuario se enfrenta a estos desafíos en la gestión de la crianza de cuyes. Con el crecimiento de la población en el país y la demanda de alimentos en aumento, se requiere una mayor eficiencia en la producción agrícola. Además, las preocupaciones ambientales y de bienestar animal están impulsando la necesidad de adoptar prácticas agrícolas más sostenibles y éticas.
+- **Who:** AgroTech, como empresa líder en tecnología aplicada a la agricultura, asume la responsabilidad de liderar la innovación en la gestión de la crianza de cuyes. En este proceso, trabajamos en estrecha colaboración con expertos y asesores en la crianza de cuyes, quienes aportan su conocimiento especializado para desarrollar soluciones tecnológicas específicas y efectivas. Además, involucramos activamente a los criadores de cuyes, quienes son los beneficiarios directos de estas soluciones, asegurando que se adapten a sus necesidades y realidades específicas.
+- **Why:** Para abordar estos desafíos y mejorar la gestión y productividad en la crianza de cuyes, garantizando el bienestar animal y promoviendo prácticas sostenibles en la industria agropecuaria. Además, se busca mejorar la rentabilidad de los agricultores y contribuir a la seguridad alimentaria peruana.
+- **How:** A través de la aplicación integral Agroconnect, que proporcionará asesoramiento especializado y herramientas tecnológicas para gestionar de manera inteligente y eficiente las granjas de cuyes. Esto incluirá sistemas de análisis predictivo para optimizar la alimentación y la salud de los animales, y la implementación de prácticas agrícolas más sostenibles.
+- **How much:** El costo de implementación y desarrollo de Agroconnect dependerá de varios factores, incluido el alcance del proyecto y las funcionalidades específicas requeridas. Se espera que la aplicación tenga un impacto significativo en la mejora de la gestión de las granjas de cuyes, aumentando la productividad, mejorando el bienestar animal y promoviendo prácticas más sostenibles en la industria agropecuaria. Esta innovación busca mejorar la eficiencia en la crianza de los cuyes para de esta manera poder sumar a los esfuerzos del Ministerio de Desarrollo Agrario y Riego (Midagri) en este ámbito, el cuál ha informado que se logró un incremento del 20% en las crianzas de cuyes, lo que ha permitido un mayor consumo de carne de esta especie, evidenciando el impacto positivo de las tecnologías y prácticas innovadoras en la crianza de cuyes.
+
+  Instituto Nacional de Innovación Agraria. (2023, 23 de enero). Razas de cuyes del INIA mejoran un 20% la productividad de la crianza familiar y consumo de carne. El Peruano.[ ](https://www.elperuano.pe/noticia/225260-razas-de-cuyes-del-inia-mejoran-un-20-la-productividad-de-la-crianza-familiar-y-consumo-de-carne)<https://www.elperuano.pe/noticia/225260-razas-de-cuyes-del-inia-mejoran-un-20-la-productividad-de-la-crianza-familiar-y-consumo-de-carne>
+
+### 1.2.2 Lean UX Process.
+
+#### 1.2.2.1. Lean UX Problem Statements.
+
+***Problem Statement 1***
+
+|Nuestro producto tiene como objetivo mejorar la gestión de granjas de cuyes en el departamento de Lima.|
+| - |
+|Hemos observado que los criadores de cuyes en Lima enfrentan dificultades para gestionar eficientemente sus granjas, lo que afecta su productividad y rentabilidad.|
+|¿Podría nuestra aplicación Agroconnect ayudar a los criadores de cuyes en Lima a mejorar la gestión de sus granjas y aumentar su productividad?|
+
+
+***Problem Statement 2***
+
+|Nuestro producto tiene como objetivo aumentar la rentabilidad de los criadores de cuyes en Lima.|
+| - |
+|Hemos observado que muchos criadores de cuyes en Lima enfrentan desafíos para lograr una rentabilidad adecuada debido a la falta de eficiencia en la gestión de sus granjas.|
+|¿Podría Agroconnect ayudar a los criadores de cuyes en Lima a mejorar su rentabilidad mediante una gestión más eficiente de sus granjas?|
+
+
+***Problem Statement 3***
+
+|Nuestro producto tiene como objetivo facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Lima.|
+| - |
+|Hemos observado que muchos criadores de cuyes en Lima enfrentan dificultades para acceder a mercados y comercializar sus productos de manera efectiva.|
+|¿Podría Agroconnect ayudar a los criadores de cuyes en Lima a acceder a mercados y mejorar la comercialización de sus productos?|
+
+
+#### 1.2.2.2. Lean UX Assumptions.
+
+1. **¿Quién es el usuario?** 
+
+   El usuario principal de nuestro producto es el criador de cuyes en el departamento de Lima. También pueden incluirse otros actores involucrados en la cadena de producción y comercialización de productos cárnicos de cuy, como los trabajadores de las granjas, los compradores de cuyes y los consumidores finales.***	
+
+1. **¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+   Nuestro producto encaja en la vida del criador de cuyes al proporcionarle herramientas tecnológicas y asesoramiento especializado para mejorar la gestión de sus granjas. Agroconnect se integra en su trabajo diario al ofrecer soluciones para la gestión eficiente de la crianza de cuyes, la mejora del bienestar animal, la adopción de prácticas sostenibles y la comercialización de sus productos.
+
+1. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+
+   Actualmente, nuestro producto presenta un inconveniente, ya que no está configurado para enfocarse en la crianza de animales distintos al cuy. Por otra parte, aborda varios problemas que enfrentan los criadores de cuyes en Lima, como la falta de acceso a tecnologías adecuadas, la gestión ineficiente de las granjas, la necesidad de mejorar el bienestar animal, la baja rentabilidad y el impacto ambiental negativo de las prácticas agrícolas. Agroconnect resuelve estos problemas al proporcionar herramientas y conocimientos para una gestión más eficiente, prácticas agrícolas sostenibles, mejoramiento del bienestar animal, aumento de la rentabilidad y reducción del impacto ambiental.
+
+1. **¿Cuándo y cómo es nuestro producto? ¿Usado?** 
+
+   Nuestro producto sería utilizado de manera continua por los criadores de cuyes en Lima, como una herramienta integral en la gestión diaria de sus granjas. Agroconnect se utilizará a través de dispositivos móviles o computadoras, con acceso a internet, permitiendo a los usuarios utilizar la plataforma en cualquier momento y desde cualquier lugar.
+
+1. **¿Qué características son importantes?**
+
+   Asesoramiento especializado: Ofrecer información y recomendaciones específicas para la gestión de granjas de cuyes.
+
+   Análisis predictivo: Proporcionar predicciones y sugerencias para optimizar la alimentación, la salud y la reproducción de los cuyes.
+
+   Herramientas de gestión: Facilitar la administración de inventarios, registros de salud y reproducción, y planificación de actividades.
+
+   Conexión con mercados: Ayudar a los criadores a acceder a mercados y promocionar sus productos nutricionales (la carne del cuy) de manera efectiva.
+
+1. **¿Cómo debe verse nuestro producto y cómo comportarse?**
+
+   Nuestro producto debe tener una interfaz intuitiva y fácil de usar, con un diseño limpio y atractivo. Debe comportarse de manera rápida y eficiente, brindando información y recomendaciones de manera clara y precisa. Debe ser confiable y seguro, garantizando la protección de los datos de los usuarios y la integridad de la información proporcionada.
+
+**Presentación de otros supuestos:** 
+
+|Creo que mis clientes necesitan un servicio que les brinde soluciones integrales para la gestión eficiente de la crianza de cuyes, abordando aspectos como la salud animal, la nutrición, la reproducción y la comercialización.|Haré dinero a través de la venta de suscripciones a nuestra plataforma Agroconnect, así como mediante la prestación de servicios de consultoría especializada y la venta de productos complementarios.|
+| - | - |
+|Estas necesidades se pueden resolver con tecnologías avanzadas de monitoreo y análisis de datos, junto con el acceso a un equipo de expertos en crianza de cuyes que proporcionen orientación y recomendaciones personalizadas.|<p>Mi competencia principal en el mercado será: BestFarm  </p><p></p>|
+|Mis clientes iniciales son los criadores de cuyes en el departamento de Lima que buscan mejorar la eficiencia y la rentabilidad de sus operaciones.|Los venceremos gracias a nuestra combinación única de tecnología avanzada, conocimientos especializados y enfoque centrado en las necesidades específicas de la crianza de cuyes.|
+|El valor número uno que un cliente quiere de mi servicio es mejorar la rentabilidad de su granja de cuyes mientras garantiza el bienestar de los animales y adoptar prácticas sostenibles.|Mi mayor riesgo con respecto al producto es la resistencia al cambio por parte de algunos criadores, que pueden ser reacios a adoptar nuevas tecnologías o modificar sus métodos de crianza.|
+|El cliente también puede optar por no renovar su suscripción a nuestra plataforma si no percibe mejoras significativas en la gestión y rentabilidad de su granja de cuyes.|Resolveremos esto a través de una estrategia integral de educación y soporte continuo para nuestros clientes, demostrando el valor tangible de nuestra plataforma a través de casos de éxito y resultados demostrables.|
+|Voy a adquirir a la mayoría de mis clientes a través de campañas de marketing dirigidas en línea, participación en eventos agrícolas locales y asociaciones con organizaciones de productores de cuyes.|Nuestro enfoque principal es proporcionar asesoramiento especializado y herramientas tecnológicas para mejorar la gestión de la crianza de cuyes de forma inteligente y eficiente.|
+
+
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+
+**Hypothesis Statement 1**
+
+|Creemos que al proporcionar a los criadores de cuyes en Lima acceso a tecnologías avanzadas y asesoramiento especializado a través de nuestra plataforma Agroconnect, mejorarán la eficiencia y la rentabilidad de sus granjas..|
+| - |
+|Sabremos que esto es cierto…|
+|Cuando implementemos Agroconnect y realicemos un seguimiento de los resultados a lo largo del tiempo.|
+
+**Hypothesis Statement 2**
+
+|Creemos que al promover prácticas agrícolas sostenibles y éticas en la crianza de cuyes en Lima a través de Agroconnect, los criadores adoptarán un enfoque más responsable con el medio ambiente.|
+| - |
+|Sabremos que esto es cierto…|
+|Cuando proporcionemos mediante los asesores, orientación y recursos específicos sobre prácticas sostenibles a través de Agroconnect y evaluemos la adopción de estas prácticas por parte de los criadores.|
+
+**Hypothesis Statement 3**
+
+|Creemos que al facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Lima a través de Agroconnect, los criadores aumentarán sus ventas y expandirán sus negocios.|
+| - |
+|Sabremos que esto es cierto…|
+|Cuando se establezcan conexiones con compradores y mercados a través de los asesores de Agroconnect y evaluemos el impacto en las ventas de los criadores que vendrían a ser los usuarios de la app.|
+
+
+
+#### 1.2.2.4. Lean UX Canvas.
+
+![](img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.008.png)
+
+
+
+## 1.3. Segmentos objetivo
+
+|**Segmento objetivo**|Asesores |
+| :- | :- |
+|**Edad**|25-55 años|
+|**Ubicación**|Perú|
+|**Sexo**|Masculino y Femenino|
+|**Formación educativa**|Universitario o cualquier educación superior|
+|**Poder adquisitivo**|Bajo, Medio y Alto|
+|**Clase social**|Clase A, B y C|
+
+
+|**Segmento objetivo**|Criadores de cuyes|
+| :- | :- |
+|**Edad**|25-55 años|
+|**Ubicación**|Perú|
+|**Sexo**|Masculino y Femenino|
+|**Formación educativa**|Educación superior|
+|**Poder adquisitivo**|Medio y Alto|
+|**Clase social**|Clase A, B y C|
+
 
 # Capítulo II Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
 
 ### 2.1.1. Análisis competitivo
+<table>
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">Objetivo 1: Adquirir conocimiento acerca de las propuestas ofrecidas por nuestros competidores y obtener enseñanzas a partir de las áreas en las que presentan limitaciones.<br>
+    Objetivo 2: Identificar los puntos fuertes y las limitaciones de nuestros competidores con el fin de formular una estrategia competitiva sólida y efectiva.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Empresa/App</td>
+    <td valign="top">AgroConnect </td>
+    <td valign="top">BestFarm</td>
+    <td valign="top">CattleMax</td>
+    <td valign="top">BarnTools</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="img/logo.png" alt="Logo AgroConnect" height="100px"></td>
+    <td valign="top"><img src="img/bestfarm_logo.png" alt="Logo BestFarm" height="100px"></td>
+    <td valign="top"><img src="img/cattlemax_logo.png" alt="Logo CattleMax" height="100px"></td>
+    <td valign="top"><img src="img/barntool_logo.png" alt="Logo BarnTools" height="100px"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">Una aplicación integral desarrollada por AgroTech para mejorar la gestión de granjas de cuyes en el Perú. Ofrece asesoramiento especializado y herramientas tecnológicas para optimizar la alimentación, salud y sostenibilidad en la crianza de cuyes, empoderando a los granjeros a través de la innovación tecnológica.</td>
+    <td valign="top">Plataforma integral de gestión agrícola que abarca una amplia gama de actividades agrícolas, incluyendo cultivos y ganadería.</td>
+    <td valign="top">Aplicación especializada en la gestión de ganado. Está diseñada específicamente para ayudar a los ganaderos a llevar un registro detallado de su ganado, gestionar la salud y el seguimiento de la reproducción.</td>
+    <td valign="top">BarnTools es una aplicación que se centra en la gestión de animales de granja en general, incluyendo ganado, aves de corral y otros animales. </td>
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">La ventaja competitiva de AgroConnect es la integración completa de tecnología y asesoramiento especializado. Esto significa que no solo proporcionamos herramientas tecnológicas avanzadas a través de AgroConnect, sino que también ofrecemos orientación y asesoramiento específico para la crianza de cuyes.</td>
+    <td valign="top">La ventaja competitiva de BestFarm radica en su enfoque de la gestión agrícola, que permite a los usuarios gestionar tanto cultivos como animales en una sola plataforma.</td>
+    <td valign="top">La principal ventaja competitiva de CattleMax es que ofrece características y herramientas específicas para el ganado, lo que lo convierte en una opción sólida para ganaderos que buscan una solución dedicada.</td>
+    <td valign="top">La ventaja competitiva de BarnTools radica en su capacidad para gestionar una variedad de animales de granja, lo que la hace adecuada para granjeros con múltiple variedad de ganado.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">El mercado objetivo de AgroConnect son los criadores de cuyes en Perú, así como otros actores involucrados en la cadena de producción y comercialización de productos cárnicos de cuy.</td>
+    <td valign="top">El mercado objetivo de BestFarm incluye a agricultores y ganaderos que gestionan operaciones mixtas de cultivos y ganado.</td>
+    <td valign="top">El mercado objetivo de CattleMax son los ganaderos y criadores de ganado de todas las escalas.</td>
+    <td valign="top">El mercado objetivo de BarnTools son los granjeros y ganaderos que gestionan una variedad de animales</td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">Campañas educativas en línea y fuera de línea para resaltar los beneficios de AgroConnet en términos de mejora de la productividad, bienestar animal y sostenibilidad en la crianza de cuyes.</td>
+    <td valign="top">Promoción en ferias agrícolas y ganaderas para mostrar la versatilidad de la plataforma.</td>
+    <td valign="top">Colaboración con asociaciones ganaderas y veterinarios especializados en ganado.</td>
+    <td valign="top">Publicidad en revistas agrícolas y ganaderas</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">Plataforma integral de gestión para la crianza de cuyes. Ofreciendo una solución completa para la gestión eficiente de granjas de cuyes.</td>
+    <td valign="top">Plataforma integral de gestión agrícola para cultivos y animales, planificación de cultivos, programación de tareas, seguimiento de salud, análisis de datos agrícolas</td>
+    <td valign="top">Plataforma de gestión de ganado bovino, registro de animales, seguimiento de salud, programación de tareas, seguimiento de reproducción, gestión de gastos.</td>
+    <td valign="top">Plataforma versátil para la gestión de animales de granja en general, registro de animales, seguimiento de salud, programación de tareas.</td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">Modelo de suscripción mensual o anual. Los precios varían según la escala de la operación y las funcionalidades requeridas.</td>
+    <td valign="top">BestFarm utiliza  precios basados en suscripción.</td>
+    <td valign="top">CattleMax utiliza  precios basados en suscripción.</td>
+    <td valign="top">BarnTools utiliza  precios basados en la suscripción.</td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+    <td valign="top">AgroConnect se distribuye principalmente a través de una plataforma web accesible desde cualquier navegador. También ofrece una aplicación móvil.</td>
+    <td valign="top">BestFarm se distribuye a través de una plataforma web</td>
+    <td valign="top">CattleMax se distribuye a través de una plataforma web y ofrece una aplicación móvil</td>
+    <td valign="top">BarnTools se distribuye principalmente a través de una plataforma web accesible desde navegadores de computadoras de escritorio y dispositivos móviles.</td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">- Integración completa de tecnología y asesoramiento especializado.<br>
+    - Mejora del bienestar animal y la sostenibilidad en la crianza de cuyes.<br>
+    - Plataforma integral que aborda múltiples aspectos de la gestión de granjas de cuyes.<br>
+    - Potencial para expandirse hacia otros tipos de animales en el futuro.
+    </td>
+    <td valign="top">- Ofrece una plataforma integral para la gestión de cultivos y animales.<br>
+    - Enfoque en la agricultura.<br>
+    - Planificación y análisis de datos agrícolas.
+    </td>
+    <td valign="top">- Enfoque especializado en la gestión de ganado bovino.<br>
+    - Herramientas específicas para ganado bovino.<br>
+    - Plataforma web y aplicación móvil para mayor accesibilidad.
+    </td>
+    <td valign="top">- Versatilidad para gestionar una variedad de animales de granja.<br>
+    - Registro de animales, seguimiento de salud y programación de tareas.<br>
+    - Plataforma web y aplicación móvil para mayor accesibilidad.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">– Posible resistencia al cambio por parte de algunos criadores de cuyes.<br>
+    - Costos de implementación y acceso a tecnología en áreas rurales o remotas.<br>
+    - Necesidad de una curva de aprendizaje para algunos usuarios menos familiarizados con la tecnología.<br>
+    - Dependencia de la conectividad a internet para el funcionamiento óptimo de la plataforma.
+    </td>
+    <td valign="top">- Competencia en nichos de mercado más específicos.<br>
+    - Puede ser percibido como demasiado complejo para usuarios con necesidades simples.
+    </td>
+    <td valign="top">- Limitado en términos de diversificación de servicios para otros tipos de animales.</td>
+    <td valign="top">- Mayor competencia en el mercado de gestión de animales de granja.</td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">- Creciente demanda de soluciones tecnológicas en el sector agrícola.<br>
+    - Aumento de la conciencia sobre el bienestar animal y la sostenibilidad.<br>
+    - Posibilidad de colaboraciones con instituciones gubernamentales y organizaciones agrícolas para promover el uso de tecnología en la crianza de cuyes.<br>
+    - Expansión a nuevos mercados regionales o internacionales.
+    </td>
+    <td valign="top">- Expansión hacia mercados agrícolas más amplios.<br>
+    - Colaboración con proveedores de tecnología agrícola.
+    </td>
+    <td valign="top">- Expansión hacia otros nichos de mercado ganadero.</td>
+    <td valign="top">- Colaboración con proveedores de tecnología agrícola.</td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">- Competencia de otras soluciones tecnológicas en el mercado agrícola.<br>
+    - Cambios en la regulación gubernamental que podrían afectar la industria de la crianza de cuyes.
+    </td>
+    <td valign="top">- Competidores especializados en áreas específicas de la agricultura</td>
+    <td valign="top">- Cambios en las regulaciones ganaderas.</td>
+    <td valign="top">- Competidores especializados en áreas específicas de la gestión de animales de granja.</td>
+  </tr>
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+**Estrategias:**
+
+**Diferenciación del producto:** Destacaremos las características únicas de AgroConnect, como la integración completa de tecnología y asesoramiento especializado, para diferenciarnos claramente de otras soluciones en el mercado.
+
+**Enfoque en el valor agregado:** Nos centraremos en comunicar y demostrar el valor agregado que AgroConnect ofrece a los criadores de cuyes, resaltando los beneficios tangibles como la mejora del bienestar animal, la eficiencia operativa y la sostenibilidad.
+
+
+**Tácticas:**
+
+**Marketing de contenido:** Crearemos contenido educativo y relevante sobre la crianza de cuyes, tecnología agrícola y prácticas sostenibles, para posicionarnos como líderes de pensamiento en el sector y atraer a clientes potenciales.
+
+**Programas de prueba y demostraciones:** Ofreceremos programas de prueba gratuitos y demostraciones en granjas para permitir a los clientes experimentar directamente los beneficios de AgroConnect y generar confianza en nuestra solución.
+
+**Desarrollo de alianzas estratégicas:** Buscaremos colaboraciones con instituciones agrícolas, asociaciones de criadores de cuyes y otras empresas del sector para ampliar nuestra red de clientes y aumentar la visibilidad de AgroConnect.
+
+**Servicio al cliente excepcional:** Nos comprometemos a brindar un excelente servicio al cliente, proporcionando soporte técnico, capacitación y asistencia personalizada para garantizar la satisfacción y fidelidad de nuestros usuarios.
+
 
 ## 2.2. Entrevistas
 
@@ -212,7 +563,7 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 
 **Link de la entrevista:** https://youtu.be/rXbdiB0spIQ 
 
-<img src="img/entrevista1.png">
+<img src="img/entrevista1.png" width="100%">
 
 **Resumen:** 
 
@@ -227,7 +578,7 @@ Rodrigo Guerra, es asesor de cría de cuyes que tiene un año de experiencia y o
 
 **Link de la entrevista:** https://youtu.be/xs9W9uG10z0
 
-<img src="img/entrevista2.png">
+<img src="img/entrevista2.png" width="100%">
 
 **Resumen:**
 
@@ -242,7 +593,7 @@ Tamara García es una potencial asesora en la cría de cuyes y está dispuesta a
 
 **Link de la entrevista:** https://youtu.be/xwnwEvw3LxI
 
-<img src="img/entrevista3.jpg">
+<img src="img/entrevista3.jpg" width="100%">
 
 **Resumen:**
 
@@ -258,7 +609,7 @@ Belen Ramos, la entrevistada, tiene un año de experiencia en la crianza de cuye
 
 **Link de la entrevista:** https://youtu.be/3UqveRZBafU
 
-<img src="img/entrevista4.png">
+<img src="img/entrevista4.png" width="100%">
 
 **Resumen:** 
 
@@ -274,7 +625,7 @@ Alessandra Chaupis, una joven de 20 años que vive en San Juan de Lurigancho, se
 
 **Link de la entrevista:** https://youtu.be/xM3fyi4a-To 
 
-<img src="img/entrevista5.png">
+<img src="img/entrevista5.png" width="100%">
 
 **Resumen:**
 
@@ -289,7 +640,7 @@ Nayeli Chávez, una criadora de 24 años que reside en Puente Piedra, es relativ
 
 **Link de la entrevista:** https://youtu.be/Lst4qVknGrk?si=2-f34iRuoXJ4amyC
 
-<img src="img/entrevista6.jpg">
+<img src="img/entrevista6.jpg" width="100%">
 
 **Resumen:**
 
@@ -297,8 +648,6 @@ Daniel viene de una familia que ha criado cuyes durante generaciones para genera
 
 
 ### 2.2.3. Análisis de entrevistas
-
-
 
 **Asesores de crianza de cuyes**
 **Segmento demográfico:**
@@ -503,6 +852,22 @@ En esta sección, se desarrollaron los Empathy Maps de cada segmento objetivo. S
 <img src="img/empathymap_criador.png" alt="Empathy Map Criador">
 
 ### 2.3.5. As-is Scenario Mapping
+**Segmento: Asesor**
+
+|**Phases**|**Búsqueda de de trabajo**|**Publicar su experiencia en el rubro** |**Comunicación con el ganadero**|**Asesorar al ganadero**|
+| :- | :- | :- | :- | :- |
+|**Doing**|- Busca la manera de llegar a más público, creándose  foros de difusión, cuentas de instagram,etc.Para que así más personas adquieran sus servicios.|- Habiendo creado su perfil, empieza a publicar información acerca de él, la experiencia que tiene en el campo, el rubro con el que se especializa, entre otros datos relevantes que ayuden a captar el interés del cliente.|-Se comunica con el ganadero mediante whatsapp, instagram o en llamadas cortas explicando los beneficios de su servicio.|- Mediante whatsapp y luego de haber llegado a un acuerdo se reúne con el ganador para poder asesorar en lo que necesita|
+|**Thinking**|- "Necesito que me contraten para poder generar ingresos."|- "Espero que la información que publique interese a los clientes."|- "Es importante comunicarse con la persona, sin embargo no llegó a comprender que exactamente desea."|- "El asesoramiento que brinda al ganadero ha sido no tan eficiente pero sí eficaz."|
+|**Feeling**|<p>-Estresado por no saber donde debo posicionarme para poder buscar trabajo. </p><p>- Decepcionado por no conocer una página o aplicación que me brinde la facilidad de conectar con mis clientes.</p>|<p>- Preocupado sobre qué dirán las personas al ver lo que ofrezco.</p><p>` `- Tímido al publicar mi información en mi feed.</p>|<p>- Satisfecho por haber conseguido un cliente dispuesto a contratarme.</p><p>` `- Confundido porque el cliente no detalla bien qué servicio  desea  de mí.</p>|<p>- Satisfecho de haber culminado mi asesoramiento continuo al cliente.</p><p></p><p>-Frustrado por el tiempo que me demore en asesorar debido a la gran cantidad de herramientas que he usado.</p>|
+
+**Segmento: Criador**
+
+|**Phases**|**Búsqueda de Información y Asesoramiento**|**Comunicación con el Asesor** |**Registro de Datos y Asesoramiento**|**Uso Continuo**|
+| :- | :- | :- | :- | :- |
+|**Doing**|- Busca información sobre la crianza de cuyes en línea y en libros especializados.|- Contacta a un asesor a través de la aplicación para obtener asesoramiento sobre la crianza de su ganado de cuyes.|<p>- Proporciona detalles sobre su ganado de cuyes, como la cantidad, la salud, la alimentación y otros aspectos relevantes, al asesor. </p><p>- Recibe asesoramiento y recomendaciones del asesor.</p>|- Mantiene una comunicación regular con el asesor para recibir orientación continua sobre la crianza de su ganado de cuyes.|
+|**Thinking**|- "Necesito encontrar información precisa y útil para mejorar la crianza de mi ganado de cuyes."|- "Espero que el asesor tenga el conocimiento necesario para ayudarme."|- "Es importante proporcionar datos precisos para recibir un asesoramiento efectivo."|- "La relación continua con el asesor es clave para el éxito de mi ganado de cuyes."|
+|**Feeling**|<p>- Motivado por mejorar la salud y la productividad de su ganado de cuyes.</p><p>` `- Interesado en aprender más sobre la crianza de cuyes</p>|<p>- Optimista sobre la posibilidad de recibir asesoramiento valioso del asesor.</p><p>` `- Satisfecho al establecer una comunicación efectiva.</p>|<p>- Satisfecho por recibir recomendaciones que benefician a su ganado de cuyes. </p><p>- Responsable de seguir las recomendaciones del asesor.</p>|<p>- Satisfecho con la relación continua con el asesor. </p><p>- Comprometido con mejorar su ganadería de cuyes a largo plazo.</p>|
+
 
 ## 2.4. Ubiquitous Language
 
@@ -519,6 +884,31 @@ En esta sección, se definirán términos utilizados a lo largo del proyecto par
 
 
 # Capítulo III Requirements Specification
+## 3.1. To-Be Scenario Mapping
+**Segmento: Asesor**<br>
+
+|**Phases**|**Búsqueda de de trabajo**|**Publicar su experiencia en el rubro** |**Comunicación con el ganadero**|**Asesorar al ganadero**|
+| :- | :- | :- | :- | :- |
+|**Doing**|- Ingreso a la aplicación “AgroConnect” y me registro como asesor.|- Habiendo creado mi cuenta, ingreso a mi perfil y lo diseñó a mi gusto sin límites para que el cliente sepa lo que ofrezco, además resalto mi calificación y las reseñas positivas que he tenido con el asesoramiento a otros clientes.|-Acepto la solicitud que me envió un cliente el cual resalta lo que necesita de manera detallada, luego me comunico con él mediante la misma aplicación y coordino algunos aspectos de la solicitud.|- Me reúno con el ganadero luego de coordinar mediante la aplicación,para luego asesorar usando todas las herramientas que me brinda la aplicación siendo rápido y eficiente.|
+|**Thinking**|- "Que bueno que haya un sitio exclusivo para asesores en la ganadería "|- “Me encanta detallar toda mi información de manera concisa."|- "Me encanta lo rápido que es  entender al cliente, gracias a la solicitud detallada que me manda y que de igual manera podamos comunicarnos en la misma aplicación."|- "El asesoramiento que brinda al ganadero ha sido eficiente y rápido debido a las herramientas que me proporciona la aplicación."|
+|**Feeling**|<p>-Tranquilo por lo fácil que fue para el registrase en la aplicación. </p><p>- Contento porque existe una aplicación que lo ayude a hacerse más reconocido.</p>|<p>- Entusiasmado en los nuevos clientes que llegare a tener por la información que les he brindado </p><p>` `- Feliz por poder resaltar mi empeño como asesor mediante reseñas y puntajes.</p>|<p>- Satisfecho por haber comprendido al cliente de manera rapido.</p><p>` `- Cómodo por la manera en la cual me he comunicado con el cliente.</p>|<p>- Satisfecho de haber culminado mi asesoramiento continuo al cliente.</p><p></p><p>-Encantado  por las herramientas que me brinda la aplicación para poder asesorar bien al ganadero.</p>|
+
+**Segmento: Criadores**<br>
+
+|**Phases**|**Búsqueda de Información y Asesoramiento**|**Comunicación con el Asesor** |**Registro de Datos y Asesoramiento**|**Uso Continuo**|
+| :- | :- | :- | :- | :- |
+|**Doing**|<p>- Navega por la aplicación en busca de información relevante sobre la crianza de ganado de cuyes</p><p></p><p></p>|- Inicia una conversación en la aplicación con el asesor para obtener detalles específicos sobre su ganado de cuyes.|<p>- Registra los datos de su ganado de cuyes, incluyendo su salud, alimentación y otros detalles relevantes en la aplicación. </p><p>- Recibe asesoramiento y recomendaciones del asesor.</p>|- Continúa interactuando con el asesor a lo largo del tiempo, el cual le va brindando asesoramiento y seguimiento regular.|
+|**Thinking**|- "Necesito encontrar información precisa y útil que me ayude con mi ganado de cuyes"|- "Espero obtener información detallada del asesor para gestionar mi granja de cuyes de manera  adecuada."|- "Es importante proporcionar datos precisos para recibir un asesoramiento efectivo."|- "Mantener una comunicación continua con el asesor es esencial para el éxito de mi granja."|
+|**Feeling**|- Interesado mucho más en aprender más sobre la ganadería de cuyes. |- Satisfecho al establecer una comunicación efectiva.|<p>- Satisfecho por contribuir al bienestar de su ganado de cuyes.</p><p> </p>|<p>- Satisfecho con la relación continua con el asesor. </p><p>- Comprometido con el cuidado de su granja.</p>|
+
+## 3.2. User Stories
+## 3.3. Impact Mapping
+**Segmento: Asesor**
+<img src="img/impactmap_1.png" alt="ImpactMap Asesor">
+
+**Segmento: Criadores**
+<img src="img/impactmap_2.png" alt="ImpactMap Criador">
+
 
 # Capítulo IV: Product Design
 
