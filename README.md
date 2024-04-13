@@ -1398,7 +1398,7 @@ Por otro lado, tenemos a GitHub, el cual es la plataforma para poder alojar repo
 
 Así es como con este, que cada miembro podrá trabajar de forma remota desde su IDE, teniendo una copia del repositorio Git a través del repositorio en línea almacenado en GitHub, así poder hacer commits para empujar los cambios que hayan realizado.
 
-### 5.2. Landing Page, Services & Applications Implementation.
+## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 1
 
@@ -1530,6 +1530,52 @@ Sección “Contacto”:
 <img src="img/evidence_landing_page_14.jpg" width="100%"> 
 
 <img src="img/evidence_landing_page_15.jpg" width="100%"> 
+
+### 5.2.1.6. Execution Evidence for Sprint Review.
+
+En este primer sprint, no hemos trabajado con servicios web, ya que nos hemos concentrado exclusivamente en la creación del Landing Page estático. Es por ello que en esta ocasión, no se trabajó la documentación relacionada con el uso de servicios web.
+
+### 5.2.1.7. Execution Evidence for Sprint Review.
+
+Una vez acabamos de trabajar con todas las historias de usuario, realizamos el deployment del Landing Page utilizando GitHub Pages.
+
+URL de deployment de Landing Page: <https://agrotech-upc.github.io/Landing-Page/home.html>
+
+Para lograr hacer el deployment, entramos a la configuración del repositorio y a la sección de Pages. Luego, debemos seleccionar la rama sobre la cual se hará el deployment.
+
+<img src="img/github-pages.jpg" width="100%"> 
+
+Escogimos la rama main, ya que es la rama principal sobre la cual se guarda la versión final para hacer el deployment. Una vez se escoge, se guardan los cambios.
+
+<img src="img/github-pages-1.jpg" width="100%"> 
+
+Finalmente, solo se espera a que GitHub cree la página y nos brinde el enlace.
+
+<img src="img/github-pages-2.jpg" width="100%"> 
+
+<img src="img/github-pages-3.jpg" width="100%"> 
+
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+En la elaboración de la landing page, todos los integrantes realizaron commits referentes al branch feature que les tocó trabajar. 
+
+<img src="img/commits-landing-page.jpg" width="100%"> 
+
+La división de trabajo para lograr la implementación fue por secciones en las cuales cada miembro realizó una sección de la landing page:
+
+-Piero Delgado: sección ‘contacto’
+
+-Sebastían Paredes: sección ‘acerca de’
+
+-Nadia Lucas: sección ‘inicio’
+
+-André Valverde: sección ‘características’
+
+-Salvador Salinas: sección ‘sobre nosotros’
+
+Cada sección tuvo su rama con el formato ‘feature/sección’
+
+<img src="img/feature-seccion.jpg" width="100%"> 
 
 
 
