@@ -205,33 +205,75 @@ Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promo
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-
-<table><tr><th colspan="1" rowspan="2" valign="top"><img src="img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.003.jpeg" alt="" width="1000px"></th><th colspan="1" rowspan="2" valign="top"><p></p><p><b>Delgado Corrales, Piero Gonzalo</b></p><p>Actualmente estoy en el quinto ciclo de Ingeniería de Software. Poseo destrezas en programación en C++, así como conocimientos en estructuras de datos y sus aplicaciones. Recientemente, he adquirido habilidades en diseño web utilizando HTML, CSS y herramientas como Figma. Soy una persona responsable y me esfuerzo por mantener una organización óptima para gestionar eficazmente las entregas de trabajos.</p></th></tr>
-<tr></tr>
+<table>
+  <tr>
+    <th colspan="1" rowspan="2">
+      <img src="img/piero_perfil.jpg" alt="Foto de perfil de Piero" width="800px">
+    </th>
+    <td colspan="1" rowspan="2" valign="top">
+      <p><b>Delgado Corrales, Piero Gonzalo</b></p>
+      <p>
+        Actualmente estoy en el quinto ciclo de Ingeniería de Software. Poseo destrezas en programación en C++, así como conocimientos en estructuras de datos y sus aplicaciones. Recientemente, he adquirido habilidades en diseño web utilizando HTML, CSS y herramientas como Figma. Soy una persona responsable y me esfuerzo por mantener una organización óptima para gestionar eficazmente las entregas de trabajos.
+      </p>
+    </td>
+  </tr>
 </table>
 
-<table><tr><th colspan="1" rowspan="2" valign="top"><img src="img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.004.jpeg" alt="" width="1000px"></th><th colspan="1" rowspan="2" valign="top"><p></p><p><b>Salinas Torres, Salvador Antonio</b></p><p>Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Poseo conocimientos en programación orientada a objetos en C++ y Python, desarrollo web usando HTML, CSS y JavaScript, y gestión de base de datos en SQL Server. Considero que soy una persona responsable y siempre organizo el tiempo para hacerlos tranquilamente antes de la fecha de entrega.</p><p></p></th></tr>
-<tr></tr>
+<table>
+  <tr>
+    <th colspan="1" rowspan="2">
+      <img src="img/salvador_perfil.jpg" alt="Foto de perfil de Salvador" width="800px">
+    </th>
+    <td colspan="1" rowspan="2" valign="top">
+      <p><b>Salinas Torres, Salvador Antonio</b></p>
+      <p>
+        Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Poseo conocimientos en programación orientada a objetos en C++ y Python, desarrollo web usando HTML, CSS y JavaScript, y gestión de base de datos en SQL Server. Considero que soy una persona responsable y siempre organizo el tiempo para hacerlos tranquilamente antes de la fecha de entrega.
+      </p>
+    </td>
+  </tr>
 </table>
 
-
-<table><tr><th colspan="1" rowspan="2" valign="top"><p></p><p><img src="img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.005.png" alt="" width="1000px"></p><p></p></th><th colspan="1" rowspan="2" valign="top"><p></p><p><b>Lucas Coronel, Nadia Alessandra</b></p><p>Mi nombre es Nadia Alessandra Lucas Coronel y soy estudiante del sexto ciclo de la carrera de Ingeniería de Software. Me considero una persona entusiasta, perseverante y responsable. Cuento con conocimientos en SQL, C++, Python, HTML, CSS, JavaScript y metodologías ágiles. Me comprometo a aplicar mis conocimientos de manera efectiva para contribuir al desarrollo de soluciones de software de alta calidad.</p><p></p></th></tr>
-<tr></tr>
+<table>
+  <tr>
+    <th colspan="1" rowspan="2">
+      <img src="img/nadia_perfil.png" alt="Foto de perfil de Nadia" width="800px">
+    </th>
+    <td colspan="1" rowspan="2" valign="top">
+      <p><b>Lucas Coronel, Nadia Alessandra</b></p>
+      <p>
+        Mi nombre es Nadia Alessandra Lucas Coronel y soy estudiante del sexto ciclo de la carrera de Ingeniería de Software. Me considero una persona entusiasta, perseverante y responsable. Cuento con conocimientos en SQL, C++, Python, HTML, CSS, JavaScript y metodologías ágiles. Me comprometo a aplicar mis conocimientos de manera efectiva para contribuir al desarrollo de soluciones de software de alta calidad.
+      </p>
+    </td>
+  </tr>
 </table>
 
-
-<table><tr><th colspan="1" rowspan="2" valign="top"><p></p><p><img src="img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.006.png" alt="" width="1000px"></p></th><th colspan="1" rowspan="2" valign="top"><p><b>Paredes Puente, Sebastian Roberto</b></p><p>Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Dentro de mi experiencia, destaco la capacidad de analizar información y programar en lenguaje C + +. Además, he completado cursos en Python, SQL Server y HTML. En cuanto a mis habilidades interpersonales, cuento con adaptabilidad, pensamiento creativo, trabajo en equipo, gestión del tiempo y capacidad analítica para resolver problemas.</p><p></p></th></tr>
-<tr></tr>
+<table>
+  <tr>
+    <th colspan="1" rowspan="2">
+      <img src="img/sebastian_perfil.png" alt="Foto de perfil de Sebastian" width="800px">
+    </th>
+    <td colspan="1" rowspan="2" valign="top">
+      <p><b>Paredes Puente, Sebastian Roberto</b></p>
+      <p>
+        Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Dentro de mi experiencia, destaco la capacidad de analizar información y programar en lenguaje C + +. Además, he completado cursos en Python, SQL Server y HTML. En cuanto a mis habilidades interpersonales, cuento con adaptabilidad, pensamiento creativo, trabajo en equipo, gestión del tiempo y capacidad analítica para resolver problemas.
+      </p>
+    </td>
+  </tr>
 </table>
 
-
-<table><tr><th colspan="1" rowspan="2" valign="top"><p><img src="img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.007.png" alt="" width="1000px"></p><p></p><p></p></th><th colspan="1" rowspan="2" valign="top"><p></p><p><b>Valverde Mozo, Andre Gabriel</b> </p><p>Mi perfil se basa en ser alguien que busca soluciones creativas a todo problema, todo es posible al fin y al cabo. Considero que tengo una buena capacidad de análisis de problemas y un pensamiento rápido en dichos casos. Me encanta todo lo que es la programación ya que es una forma de arte para mi, solo que lo puedo hacer realidad frente a mis ojos.</p><p></p><p></p></th></tr>
-<tr></tr>
+<table>
+  <tr>
+    <th colspan="1" rowspan="2">
+      <img src="img/andre_perfil.png" alt="Foto de perfil de Sebastian" width="800px">
+    </th>
+    <td colspan="1" rowspan="2" valign="top">
+      <p><b>Valverde Mozo, Andre Gabriel</b></p>
+      <p>
+        Mi perfil se basa en ser alguien que busca soluciones creativas a todo problema, todo es posible al fin y al cabo. Considero que tengo una buena capacidad de análisis de problemas y un pensamiento rápido en dichos casos. Me encanta todo lo que es la programación ya que es una forma de arte para mi, solo que lo puedo hacer realidad frente a mis ojos.
+      </p>
+    </td>
+  </tr>
 </table>
-
-
-
-
 
 ## 1.2. Solution Profile
 
@@ -244,9 +286,8 @@ Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promo
 - **Who:** AgroTech, como empresa líder en tecnología aplicada a la agricultura, asume la responsabilidad de liderar la innovación en la gestión de la crianza de cuyes. En este proceso, trabajamos en estrecha colaboración con expertos y asesores en la crianza de cuyes, quienes aportan su conocimiento especializado para desarrollar soluciones tecnológicas específicas y efectivas. Además, involucramos activamente a los criadores de cuyes, quienes son los beneficiarios directos de estas soluciones, asegurando que se adapten a sus necesidades y realidades específicas.
 - **Why:** Para abordar estos desafíos y mejorar la gestión y productividad en la crianza de cuyes, garantizando el bienestar animal y promoviendo prácticas sostenibles en la industria agropecuaria. Además, se busca mejorar la rentabilidad de los agricultores y contribuir a la seguridad alimentaria peruana.
 - **How:** A través de la aplicación integral Agroconnect, que proporcionará asesoramiento especializado y herramientas tecnológicas para gestionar de manera inteligente y eficiente las granjas de cuyes. Esto incluirá sistemas de análisis predictivo para optimizar la alimentación y la salud de los animales, y la implementación de prácticas agrícolas más sostenibles.
-- **How much:** El costo de implementación y desarrollo de Agroconnect dependerá de varios factores, incluido el alcance del proyecto y las funcionalidades específicas requeridas. Se espera que la aplicación tenga un impacto significativo en la mejora de la gestión de las granjas de cuyes, aumentando la productividad, mejorando el bienestar animal y promoviendo prácticas más sostenibles en la industria agropecuaria. Esta innovación busca mejorar la eficiencia en la crianza de los cuyes para de esta manera poder sumar a los esfuerzos del Ministerio de Desarrollo Agrario y Riego (Midagri) en este ámbito, el cuál ha informado que se logró un incremento del 20% en las crianzas de cuyes, lo que ha permitido un mayor consumo de carne de esta especie, evidenciando el impacto positivo de las tecnologías y prácticas innovadoras en la crianza de cuyes.
-
-  Instituto Nacional de Innovación Agraria. (2023, 23 de enero). Razas de cuyes del INIA mejoran un 20% la productividad de la crianza familiar y consumo de carne. El Peruano.[ ](https://www.elperuano.pe/noticia/225260-razas-de-cuyes-del-inia-mejoran-un-20-la-productividad-de-la-crianza-familiar-y-consumo-de-carne)<https://www.elperuano.pe/noticia/225260-razas-de-cuyes-del-inia-mejoran-un-20-la-productividad-de-la-crianza-familiar-y-consumo-de-carne>
+- **How much:** Se espera que la aplicación tenga un impacto significativo en la mejora de la gestión de las granjas de cuyes, aumentando la productividad, mejorando el bienestar animal y promoviendo prácticas más sostenibles en la industria agropecuaria. Esta innovación busca mejorar la eficiencia en la crianza de los cuyes para de esta manera poder sumar a los esfuerzos del Ministerio de Desarrollo Agrario y Riego (Midagri) en este ámbito, el cuál ha informado que se logró un incremento del 20% en las crianzas de cuyes, lo que ha permitido un mayor consumo de carne de esta especie, evidenciando el impacto positivo de las tecnologías y prácticas innovadoras en la crianza de cuyes.
+<br><br>Del mismo modo, hemos comprobado la necesidad del mercado gracias a las estadísticas brindadas por el Ministerio de Desarrollo Agrario y Riego (2023) ya que estas muestran que del año 2020 al 2021 hubo un aumento de 116 mil cuyes. Por lo que, se espera que siga aumentando **(Revisar Anexo N°1: Gráfico de evolución de población de cuyes)**.<br><br>Entonces, nuestra aplicación ayudará para  mejorar el cuidado de los cuyes, ya que suelen haber problemas como la mala nutrición o el déficit de control de enfermedades que perjudica directamente a las granjas. **(Revisar Anexo N°2: Diagrama de problemas en la crianza de cuyes)**
 
 ### 1.2.2 Lean UX Process.
 
@@ -257,7 +298,7 @@ Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promo
 |Nuestro producto tiene como objetivo mejorar la gestión de granjas de cuyes en el departamento de Lima.|
 | - |
 |Hemos observado que los criadores de cuyes en Lima enfrentan dificultades para gestionar eficientemente sus granjas, lo que afecta su productividad y rentabilidad.|
-|¿Podría nuestra aplicación Agroconnect ayudar a los criadores de cuyes en Lima a mejorar la gestión de sus granjas y aumentar su productividad?|
+|¿Podría nuestra aplicación AgroConnect ayudar a los criadores de cuyes en Lima a mejorar la gestión de sus granjas y aumentar su productividad?|
 
 
 ***Problem Statement 2***
@@ -280,7 +321,7 @@ Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promo
 
 1. **¿Quién es el usuario?** 
 
-   El usuario principal de nuestro producto es el criador de cuyes en el departamento de Lima. También pueden incluirse otros actores involucrados en la cadena de producción y comercialización de productos cárnicos de cuy, como los trabajadores de las granjas, los compradores de cuyes y los consumidores finales.***	
+   El usuario principal de nuestro producto es el criador de cuyes en el departamento de Lima. También pueden incluirse otros actores involucrados en la cadena de producción y comercialización de productos cárnicos de cuy, como los trabajadores de las granjas, los compradores de cuyes y los consumidores finales.
 
 1. **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
@@ -326,7 +367,7 @@ Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promo
 |Creemos que al proporcionar a los criadores de cuyes en Lima acceso a tecnologías avanzadas y asesoramiento especializado a través de nuestra plataforma Agroconnect, mejorarán la eficiencia y la rentabilidad de sus granjas..|
 | - |
 |Sabremos que esto es cierto…|
-|Cuando implementemos Agroconnect y realicemos un seguimiento de los resultados a lo largo del tiempo.|
+|Cuando implementemos AgroConnect y realicemos un seguimiento de los resultados a lo largo del tiempo.|
 
 **Hypothesis Statement 2**
 
@@ -352,24 +393,32 @@ Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promo
 
 ## 1.3. Segmentos objetivo
 
+Por el lado de los asesores, hemos considerado que estos tendrán experiencia en el campo y/o estudios universitarios en carreras como ingeniería agrónoma, medicina veterinaria, zootecnia, etc. De este modo, debido a que el plan de estudios de estas carreras es de mínimo 5 años a más, y necesitan cierto grado de experiencia para dar recomendaciones y planes de acción confiables, hemos decidido que el rango de edad será de 25 años hasta 65 años.
+
+
+Según el Ministerio de Desarrollo Agrario y Riego (2023), la crianza de cuyes es una alternativa para la generación de ingresos monetarios para más de 800,000 familias agrarias en el Perú, las cuales se ubican en su mayoría en la sierra del país. El consumo de carne de cuy se ha mantenido en el tiempo e incluso ha trascendido al mercado externo. Esta información destaca la importancia de los asesores en la crianza de cuyes, ya que su conocimiento y orientación pueden ser fundamentales para el éxito y la sostenibilidad de los productores en este sector.
+
+
 |**Segmento objetivo**|Asesores |
 | :- | :- |
-|**Edad**|25-55 años|
+|**Edad**|25-65 años|
 |**Ubicación**|Perú|
 |**Sexo**|Masculino y Femenino|
 |**Formación educativa**|Universitario o cualquier educación superior|
-|**Poder adquisitivo**|Bajo, Medio y Alto|
-|**Clase social**|Clase A, B y C|
+|**Poder adquisitivo**|Bajo, medio y alto|
+
+Para delimitar el segmento objetivo de criadores de cuyes nos basamos en el diagnóstico situacional de la crianza de cuyes en Cajamarca realizado en julio de 2004. Dicho diagnóstico menciona que el 44.6% de los productores tenían más de 50 años, sus esposas que conducían la crianza de cuyes tenían entre 31 a 50 años. Además, los hijos que vivían con los padres tenían entre 6 a 17 años. Por lo tanto, para el rango de edad de los criadores decidimos seleccionar desde los 18 años de edad hasta los 60 años para abarcar tanto a los padres que manejan la crianza como a los hijos mayores de edad que la apoyan.
+
+Por otro lado, el mismo diagnóstico señala que el grado de instrucción predominante en la familia es de educación primaría con un 65.6% que es el que consideraremos.
 
 
 |**Segmento objetivo**|Criadores de cuyes|
 | :- | :- |
-|**Edad**|25-55 años|
+|**Edad**|18-60 años|
 |**Ubicación**|Perú|
 |**Sexo**|Masculino y Femenino|
-|**Formación educativa**|Educación superior|
-|**Poder adquisitivo**|Medio y Alto|
-|**Clase social**|Clase A, B y C|
+|**Formación educativa**|Educación primaria|
+|**Poder adquisitivo**|Bajo y medio|
 
 
 # Capítulo II Requirements Elicitation & Analysis
