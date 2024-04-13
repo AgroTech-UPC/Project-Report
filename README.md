@@ -1152,11 +1152,52 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 
 <img src="img/impactmap_1.png" alt="ImpactMap Asesor">
  
+ _Imagen 17. impact map - asesor_
 
 **Segmento: Criadores**
 
 <img src="img/impactmap_2.png" alt="ImpactMap Criador">
  
+ _Imagen 18. impact map - criador
+ 
+ ## 3.4. Product Backlog
+
+ Para trabajar el Product Backlog, se utilizó la herramienta Pivotal Tracker, la cual se encuentra en el siguiente enlace: <https://www.pivotaltracker.com/n/projects/2699734>
+
+ <img src="img/product_backlog.jpg" alt="Product backlog">
+
+  _Imagen 19. product backlog
+
+|**# Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points (1/2/3/5/8)**|
+| :- | :- | :- | :- | :- |
+|1|US22|Visualización de Navbar y Footer|**Como** potencial usuario **quiero** navegar con facilidad **para** movilizarme a través de la página y conocer sobre la aplicación.|2|
+|2|US23|Página de inicio|**Como** potencial usuario **quiero** acceder a una página de inicio **para** conocer la idea principal de la aplicación y ver un diseño agradable.|1|
+|3|US24|Sección “Acerca De”|**Como** potencial usuario **quiero** acceder a una página sobre el problema que resuelve **para** conocer el propósito de la aplicación.|2|
+|4|US25|Sección “Sobre Nosotros”|**Como** potencial usuario **quiere** acceder a una página sobre la startup **para** conocer el propósito de la empresa detrás de la aplicación.|2|
+|5|US26|Sección “Características”|**Como** potencial usuario **quiero** acceder a una página sobre las características **para** conocer las principales funcionalidades de la aplicación.|2|
+|6|US27|Sección “Contacto”|**Como** potencial usuario **quiero** acceder a una página de contacto **para** poder contactar con la empresa en caso tenga algún problema, duda o sugerencia.|2|
+|7|US01|Búsqueda de asesores|**Como** criador de cuyes **quiero** explorar asesores **para** recibir una mentoría.|5|
+|8|US02|Información del asesor|**Como** criador de cuyes **quiero** tener acceso a la información del asesor **para** tomar una decisión informada antes de separar una cita.|3|
+|9|US03|Visualización de horarios|**Como** criador de cuyes **quiero** ver la disponibilidad de los asesores **para** seleccionar un horario que se ajuste a mi agenda|3|
+|10|US04|Programación de citas|**Como** criador de cuyes **quiero** poder programar una cita con un asesor **para** recibir orientación personalizada|8|
+|11|US05|Información relevante previa cita|**Como** asesor **quiero** tener acceso al detalle de la cita **para** decidir si aceptar o no el trabajo.|5|
+|12|US06|Notificación de citas al asesor|**Como asesor, quiero** recibir notificaciones de citas programadas por los criadores **para** mantenerme al tanto de mis ofertas laborales.|3|
+|13|US07|Notificación de citas al criador de cuyes|**Como c**riador de cuyes **quiero** recibir notificaciones referentes al estado de mis citas **para** mantenerme al tanto de mi solicitud.|3|
+|14|US08|Calificación del asesor|**Como** criador de cuyes **quiero** calificar al asesor luego de consulta **para** ayudar a otros criadores a tomar una decisión informada antes de separar una cita.|5|
+|15|US09|Publicación del asesor|**Como** asesor **quiero** hacer publicaciones referentes a mis trabajos **para** que los criadores tengan más confianza en mí.|5|
+|16|US10|Ver publicación de asesor|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|5|
+|17|US11|Registro de galpones de cuyes|**Como** criador de cuyes **quiero** poder registrar un galpón en la plataforma **para** poder almacenar y gestionar mis cuyes de manera efectiva, garantizando su seguridad y bienestar.|3|
+|18|US12|Registro de animal|**Como** criador de cuyes **quiero** contar con un sistema de registro de animales **para** almacenar información básica sobre cada animal, incluyendo su número de identificación, especie, raza, género y fecha de nacimiento.|3|
+|19|US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** buscar a un animal en específico **para** visualizar o actualizar su información registrada.|8|
+|20|US14|Registro de fallecimiento de cuyes|**Como** criador de cuyes **quiero** poder registrar y documentar los fallecimientos de cuyes en mi granja **para** tomar medidas.|2|
+|21|US15|Gestión de recursos|**Como** criador de cuyes **quiero** registrar el inventario de mi granja **para** tener un control sobre los recursos esenciales como alimentos y medicamentos.|8|
+|22|US16|Gestión de gastos realizados|**Como** criador de cuyes **quiero** registrar gastos relacionados con mi negocio **para** tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad.|8|
+|23|US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|5|
+|24|US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|3|
+|25|US19|Registro de usuario|**Como** usuario **quiero** registrarme **para** acceder a las funciones de usuario.|3|
+|26|US20|Inicio de sesión|**Como** usuario **quiero** acceder a mi cuenta registrada **para** acceder a las funciones de usuario.|3|
+|27|US21|Recuperación de contraseña|**Como** usuario **quiero** poder recuperar mi contraseña **para** acceder a mi cuenta.|5|
+
 
 
 # Capítulo IV: Product Design
@@ -1173,7 +1214,7 @@ El logotipo de AgroConnect se presenta en forma de un círculo, que simboliza la
   <img src="img/logo.png" alt="logo de AgroConnect" width="200">
 </p>
 
-_Imagen 19. Logo de AgroConnect_
+_Imagen 20. Logo de AgroConnect_
 
 **Typography**
 
@@ -1183,7 +1224,7 @@ La tipografía elegida para AgroConnect es "Inter", una fuente sans-serif modern
   <img src="img/font1.png" alt="fuentes utilizados" width="600">
 </p>
 
-_Imagen 20. Variaciones de las fuentes a utilizar_
+_Imagen 21. Variaciones de las fuentes a utilizar_
 
 **Colors**
 
@@ -1208,7 +1249,7 @@ AgroConnect ha seleccionado cuidadosamente una paleta de colores que refleja los
   <img src="img/colors.png" alt="Colores de AgroConnect" width="600">
 </p>
 
-_Imagen 21. Colores a utilizar_
+_Imagen 22. Colores a utilizar_
 
 
 **Typography**
@@ -1219,7 +1260,7 @@ La tipografía desempeña un papel fundamental en la apariencia y la legibilidad
   <img src="img/font2.png" alt="Tipografia de AgroConnect" width="600">
 </p>
 
-_Imagen 22. Tipografia a utilizar_
+_Imagen 23. Tipografia a utilizar_
 
 **Icons**
 
@@ -1229,7 +1270,7 @@ Los íconos desempeñan un papel importante en la experiencia del usuario al pro
   <img src="img/icons.png" alt="Iconos de AgroConnect" width="600">
 </p>
 
-_Imagen 23. Iconos a utilizar_
+_Imagen 24. Iconos a utilizar_
 
 **Spacing**
 
@@ -1239,7 +1280,7 @@ El espaciado adecuado entre elementos es esencial para lograr una apariencia equ
   <img src="img/spacing.png" alt="Spacing de AgroConnect" width="600">
 </p>
 
-_Imagen 24. Espaciado a utilizar_
+_Imagen 25. Espaciado a utilizar_
 
 **Grid System**
 
@@ -1249,7 +1290,7 @@ El grid system es una herramienta esencial en el diseño y la organización de l
   <img src="img/grid.png" alt="Grid System de AgroConnect" width="600">
 </p>
 
-_Imagen 25. Grid System_
+_Imagen 26. Grid System_
 
 **Button**
 
@@ -1259,7 +1300,7 @@ Los botones son elementos importantes en la interfaz de usuario de AgroConnect, 
   <img src="img/button.png" alt="Button de AgroConnect" width="600">
 </p>
 
-_Imagen 26. Buttons_
+_Imagen 27. Buttons_
 
 **Input System**
 
@@ -1269,7 +1310,7 @@ El input system es fundamental en la experiencia del usuario en AgroConnect, ya 
   <img src="img/input-system.png" alt="Input Sys AgroConnect" width="600">
 </p>
 
-_Imagen 27. Input System_
+_Imagen 28. Input System_
 
 ## 4.2. Information Architecture
 
@@ -1595,6 +1636,8 @@ El objetivo de este primer sprint es la implementación del Landing Page estáti
 <https://trello.com/b/AtaOZblV/sprint-backlog-1> 
 
 <img src="img/sprintBacklog.jpg" width="100%"> 
+
+ _Imagen 29. sprint backlog
 
 <table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
