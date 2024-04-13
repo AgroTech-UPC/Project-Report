@@ -1304,12 +1304,14 @@ Usuarios de GitHub
 </table>
 
 
-
 *URL de repositorio de Landing Page:* https://github.com/AgroTech-UPC/Landing-Page
 
 *URL de repositorio de Web Services:* https://github.com/AgroTech-UPC/Web-Services
 
 *URL de repositorio de Frontend Web Applications:* https://github.com/AgroTech-UPC/Frontend-Web-Applications
+
+*URL de repositorio de Acceptance Tests*: https://github.com/AgroTech-UPC/Acceptance-Tests
+
 
 
 Para el desarrollo del trabajo se hará uso de GitFlow, el cual es un modelo de flujo de trabajo para la gestión de control de versiones Git. Está compuesta por ramas y cada una cumple un propósito distinto: Main, Feature, Develop. En la rama Main, se trabaja con las versiones finales del sprint y se hace un despliegue de la aplicación web, por lo que se espera que todas las versiones almacenadas en esta rama sean funcionales y estables para el usuario. En las ramas Feature se trabaja con versiones sobre las que se desarrolla un feature específico, así como un feature para registro de un usuario o un feature para inicio de sesión. Las ramas Feature se trabajan y controlan por separado para tener un orden sobre el cual trabajar a partir del Product Backlog, y en caso ocurra algún problema al trabajar en un feature, no afecte sobre todo el programa. Finalmente, tenemos la rama Develop, sobre la cual se fusionan todos los features ya trabajados. De esta manera, se puede asegurar que todo esté funcionando como se espera antes de hacer el despliegue oficial para pasarlo a la rama Main.
@@ -1396,6 +1398,142 @@ Por otro lado, tenemos a GitHub, el cual es la plataforma para poder alojar repo
 
 Así es como con este, que cada miembro podrá trabajar de forma remota desde su IDE, teniendo una copia del repositorio Git a través del repositorio en línea almacenado en GitHub, así poder hacer commits para empujar los cambios que hayan realizado.
 
+### 5.2. Landing Page, Services & Applications Implementation.
+
+### 5.2.1. Sprint 1
+
+### 5.2.1.1. Sprint Planning 1.
+
+Se planeó el primer sprint a través de una reunión en Meet. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+|**Sprint #**|Sprint 1|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-04-01|
+|Time|10: 00 PM|
+|Location|Virtual (Google Meet)|
+|Prepared by|Delgado Corrales, Piero Gonzalo|
+|Attendees (to planning meeting)|<p>Delgado Corrales, Piero Gonzalo</p><p>Lucas Coronel, Nadia Alessandra</p><p>Paredes Puente, Sebastián Roberto</p><p>Salinas Torres, Salvador Antonio</p><p>Valverde Mozo, Andre Gabriel</p>|
+|Sprint n - 1 Review Summary|No hubo sprint anterior|
+|Sprint n - 1 Retrospective Summary|No hubo sprint anterior|
+|**Sprint Goal & User Stories**||
+|Sprint 1 Goal|Realizar el Landing Page|
+|Sprint 1 Velocity|20|
+|Sum of Story Points|20|
+
+
+### 5.2.1.2. Sprint Backlog 1.
+
+El objetivo de este primer sprint es la implementación del Landing Page estático. Además, se trabajó con una tabla en Trello para manejar los Work-Items de forma adecuada.
+
+<https://trello.com/b/AtaOZblV/sprint-backlog-1> 
+
+<img src="img/sprintBacklog.jpg" width="100%"> 
+
+<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td rowspan="2" valign="top">US26</td><td rowspan="2" valign="top">Visualización de Navbar y Footer</td><td valign="top">TS01</td><td valign="top">Implementación de Navbar</td><td valign="top">Se implementa el navbar de forma responsive.</td><td valign="top">3</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS02</td><td valign="top">Implementación de Footer</td><td valign="top">Se implementa el footer de forma responsive.</td><td valign="top">1</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US27</td><td valign="top">Página de inicio</td><td valign="top">TS03</td><td valign="top">Implementación de página de inicio</td><td valign="top">Se implementa la página de inicio de forma responsive y con su archivo css correspondiente.</td><td valign="top">1</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US28</td><td valign="top">Sección “Acerca De”</td><td valign="top">TS04</td><td valign="top">Implementación de sección Acerca De</td><td valign="top">Se implementa la página Acerca De, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US29</td><td valign="top">Sección “Sobre Nosotros”</td><td valign="top">TS05</td><td valign="top">Implementación de sección Sobre Nosotros</td><td valign="top">Se implementa la página Sobre Nosotros, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US30</td><td valign="top">Sección “Características”</td><td valign="top">TS06</td><td valign="top">Implementación de sección Características</td><td valign="top">Se implementa la página Características, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Andre Valverde</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US31</td><td valign="top">Sección “Contacto”</td><td valign="top">TS07</td><td valign="top">Implementación de sección Contacto</td><td valign="top">Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
+</table>
+
+### 5.2.1.3. Development Evidence for Sprint Review.
+
+Se realizaron los avances con los commits correspondiente en el repositorio de la siguiente forma.
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Landing-Page|feature/header-footer|ff5467f|feat: Preparing the workspace|02/04/2024|
+|AgroTech-UPC/Landing-Page|feature/header-footer|965448b|feat: Complete header and footer|02/04/2024|
+|AgroTech-UPC/Landing-Page|develop|f450025|Merge pull request #1 from AgroTech-UPC/header-footer|02/04/2024|
+|AgroTech-UPC/Landing-Page|develop|bab8888|refactor: login button deleted & padding to main|02/04/2024|
+|AgroTech-UPC/Landing-Page|feature/contact|1fdfcb2|feat: contact page completed|03/04/2024|
+|AgroTech-UPC/Landing-Page|feature/contact|2a79c52|fix: fixed position of footer|03/04/2024|
+|AgroTech-UPC/Landing-Page|develop|1c1cab7|Merge pull request #4 from AgroTech-UPC/feature/contact|03/04/2024|
+|AgroTech-UPC/Landing-Page|feature/home|12c2b0b|feat: home page completed|03/04/2024|
+|AgroTech-UPC/Landing-Page|develop|b348cf3|Merge pull request #5 from AgroTech-UPC/feature/home|03/04/2024|
+|AgroTech-UPC/Landing-Page|feature/about-us|bcee2f1|feat: about us section added|03/04/2024|
+|AgroTech-UPC/Landing-Page|develop|f0b57ab|Merge pull request #7 from AgroTech-UPC/feature/about-us|03/04/2024|
+|AgroTech-UPC/Landing-Page|feature/about-app|a0f235c|Feat: Section about-app created|04/04/2024|
+|AgroTech-UPC/Landing-Page|feature/characteristics|2c15c6d|feat: features section added|04/04/2024|
+|AgroTech-UPC/Landing-Page|develop|961b6fe|Merge pull request #8 from AgroTech-UPC/feature/about-app|04/04/2024|
+|AgroTech-UPC/Landing-Page|develop|bc8aa23|Merge pull request #10 from AgroTech-UPC/feature/characteristics|04/04/2024|
+|AgroTech-UPC/Landing-Page|main|341ad78|Merge pull request #11 from AgroTech-UPC/develop|04/04/2024|
+
+### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Acceptance-Tests|main|57f2c58|feat: added feature file for US29|05/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|1b94680|feat: added feature file for US28|05/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|9027b2b|Fix: fix typing error|05/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|329c774|feat: added acceptance test for US31|05/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|24c738a|feat: added acceptance test for US30|06/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|802f736|feat: added acceptance test for US26|07/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|29d85ed|feat: added acceptance test for US27|07/04/2024|
+
+
+
+### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En esta sección, se mostrará lo avanzado en el primer sprint, el cual se basa en la implementación del Landing Page estático. Para ello, se realizó el siguiente video con la explicación y las capturas que evidencia la página web.
+
+**URL de video:** <https://youtu.be/Yi3p53UjKF0>
+
+<img src="img/evidence_landing_page_1.jpg" width="100%"> 
+
+Navbar: fue implementada para que sea responsive y las secciones pasen a un menú lateral en caso de ser necesario.
+
+<img src="img/evidence_landing_page_2.jpg" width="100%"> 
+
+<img src="img/evidence_landing_page_3.jpg" width="100%"> 
+
+Footer: al igual que el navbar, se implementó para acomodarse acorde al tamaño de la ventana.
+
+<img src="img/evidence_landing_page_4.jpg" width="100%"> 
+
+<img src="img/evidence_landing_page_5.jpg" width="100%"> 
+
+Página de inicio:
+
+<img src="img/evidence_landing_page_6.jpg" width="100%"> 
+
+<img src="img/evidence_landing_page_7.jpg" width="100%"> 
+
+Sección “Acerca De”:
+
+<img src="img/evidence_landing_page_8.jpg" width="100%"> 
+
+<img src="img/evidence_landing_page_9.jpg" width="100%"> 
+
+Sección “Sobre Nosotros”:
+
+<img src="img/evidence_landing_page_10.jpg" width="100%"> 
+
+<img src="img/evidence_landing_page_11.jpg" width="100%">
+
+Sección “Características”: 
+
+<img src="img/evidence_landing_page_12.jpg" width="100%"> 
+
+<img src="img/evidence_landing_page_13.jpg" width="100%"> 
+
+Sección “Contacto”:
+
+<img src="img/evidence_landing_page_14.jpg" width="100%"> 
+
+<img src="img/evidence_landing_page_15.jpg" width="100%"> 
+
+
+
+
 # Bibliografía
 
 hdeleon.net. (2019, May 2). ¿Cómo hacer una base de datos de Usuarios con Roles de acceso? | SQL Server [Video]. YouTube. https://www.youtube.com/watch?v=Xrbl6Xgmi-Q 
@@ -1411,6 +1549,8 @@ Ministerio de Desarrollo Agrario y Riego (2023) Cadena productiva de cuyes. http
 
 
 SENASA. (2019). Cajamarca es el principal productor de cuy en el Perú. Recuperado de https://www.senasa.gob.pe/senasacontigo/cajamarca-es-el-principal-productor-de-cuy-en-el-peru/
+
+Ministerio de Desarrollo Agrario y Riego. (2023). Cadena Productiva de Cuy. Recuperado de https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf. 
 
 
 # Anexos
