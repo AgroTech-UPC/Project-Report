@@ -1,4 +1,4 @@
-﻿﻿<p align="center">
+﻿<p align="center">
   <img src="img/image1.png" alt="Logo de UPC" width="100%">
 </p>
 
@@ -203,6 +203,8 @@ Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promo
   width="200">
 </p>
 
+_Imagen 1. Logo de la aplicación AgroConnect_
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table>
@@ -287,7 +289,7 @@ Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promo
 - **Why:** Para abordar estos desafíos y mejorar la gestión y productividad en la crianza de cuyes, garantizando el bienestar animal y promoviendo prácticas sostenibles en la industria agropecuaria. Además, se busca mejorar la rentabilidad de los agricultores y contribuir a la seguridad alimentaria peruana.
 - **How:** A través de la aplicación integral Agroconnect, que proporcionará asesoramiento especializado y herramientas tecnológicas para gestionar de manera inteligente y eficiente las granjas de cuyes. Esto incluirá sistemas de análisis predictivo para optimizar la alimentación y la salud de los animales, y la implementación de prácticas agrícolas más sostenibles.
 - **How much:** Se espera que la aplicación tenga un impacto significativo en la mejora de la gestión de las granjas de cuyes, aumentando la productividad, mejorando el bienestar animal y promoviendo prácticas más sostenibles en la industria agropecuaria. Esta innovación busca mejorar la eficiencia en la crianza de los cuyes para de esta manera poder sumar a los esfuerzos del Ministerio de Desarrollo Agrario y Riego (Midagri) en este ámbito, el cuál ha informado que se logró un incremento del 20% en las crianzas de cuyes, lo que ha permitido un mayor consumo de carne de esta especie, evidenciando el impacto positivo de las tecnologías y prácticas innovadoras en la crianza de cuyes.
-<br><br>Del mismo modo, hemos comprobado la necesidad del mercado gracias a las estadísticas brindadas por el Ministerio de Desarrollo Agrario y Riego (2023) ya que estas muestran que del año 2020 al 2021 hubo un aumento de 116 mil cuyes. Por lo que, se espera que siga aumentando **(Revisar Anexo N°1: Gráfico de evolución de población de cuyes)**.<br><br>Entonces, nuestra aplicación ayudará para  mejorar el cuidado de los cuyes, ya que suelen haber problemas como la mala nutrición o el déficit de control de enfermedades que perjudica directamente a las granjas. **(Revisar Anexo N°2: Diagrama de problemas en la crianza de cuyes)**
+<br><br>Del mismo modo, hemos comprobado la necesidad del mercado gracias a las estadísticas brindadas por el Ministerio de Desarrollo Agrario y Riego (2023) ya que estas muestran que del año 2020 al 2021 hubo un aumento de 116 mil cuyes. Por lo que, se espera que siga aumentando. (Revisar [Anexo N°1: Gráfico de evolución de población de cuyes](#anexo-n°1-gráfico-de-evolución-de-población-de-cuyes)).<br><br>Entonces, nuestra aplicación ayudará para  mejorar el cuidado de los cuyes, ya que suelen haber problemas como la mala nutrición o el déficit de control de enfermedades que perjudica directamente a las granjas. (Revisar [Anexo N°2: Diagrama de problemas en la crianza de cuyes](#anexo-n°2-diagrama-de-problemas-en-la-crianza-de-cuyes))
 
 ### 1.2.2 Lean UX Process.
 
@@ -387,8 +389,9 @@ Liderar la innovación tecnológica en la gestión de la crianza de cuyes, promo
 
 #### 1.2.2.4. Lean UX Canvas.
 
-![](img/Aspose.Words.0a2e9755-09ac-418f-b25d-3332e50e9248.008.png)
+![Lean Ux Canvas](img/leanuxcanvas.png)
 
+_Imagen 2. Lean UX Canvas_
 
 
 ## 1.3. Segmentos objetivo
@@ -614,6 +617,8 @@ Por otro lado, el mismo diagnóstico señala que el grado de instrucción predom
 
 <img src="img/entrevista1.png" width="100%">
 
+_Imagen 3. Entrevista a Rodrigo_
+
 **Resumen:** 
 
 Rodrigo Guerra, es asesor de cría de cuyes que tiene un año de experiencia y ofrece asesoramiento técnico en alimentación, reproducción y gestión de granjas. Los desafíos comunes para los criadores principiantes incluyen la falta de conocimientos técnicos. Utiliza herramientas como manuales técnicos y capacitaciones, con una experiencia generalmente positiva. En una plataforma como "AgroConnect", busca funciones para facilitar el intercambio de conocimientos y abordar temas como manejo del estrés y prácticas sostenibles, lo que beneficiaría a criadores y asesores.
@@ -629,6 +634,8 @@ Rodrigo Guerra, es asesor de cría de cuyes que tiene un año de experiencia y o
 
 <img src="img/entrevista2.png" width="100%">
 
+_Imagen 4. Entrevista a Tamara_
+
 **Resumen:**
 
 Tamara García es una potencial asesora en la cría de cuyes y está dispuesta a aconsejar a criadores principiantes en la granja de cuyes. Su principal recurso es la experiencia que ha ganado gracias a su familia, y cuenta cómo desde pequeña está familiarizada con la cría de cuyes y la gestión de granja de cuyes. Al comentarle un poco sobre la idea de la plataforma “AgroConnect”, menciona que le gustó mucho la idea ya que no ha visto algo parecido anteriormente, especialmente dirigido a la granja de cuyes. Asimismo, comenta que debería ser una aplicación fácil de usar y accesible para todos.
@@ -643,6 +650,8 @@ Tamara García es una potencial asesora en la cría de cuyes y está dispuesta a
 **Link de la entrevista:** https://youtu.be/xwnwEvw3LxI
 
 <img src="img/entrevista3.jpg" width="100%">
+
+_Imagen 5. Entrevista a Belen_
 
 **Resumen:**
 
@@ -660,6 +669,8 @@ Belen Ramos, la entrevistada, tiene un año de experiencia en la crianza de cuye
 
 <img src="img/entrevista4.png" width="100%">
 
+_Imagen 6. Entrevista a Alessandra_
+
 **Resumen:** 
 
 Alessandra Chaupis, una joven de 20 años que vive en San Juan de Lurigancho, se encuentra en sus inicios en el negocio de la crianza de cuyes, en la entrevista destaca que su operación agropecuaria es de tamaño mediano, gracias a esta escala puede gestionar todas las actividades de cuidado y producción de manera efectiva, manteniendo un equilibrio entre la rentabilidad y la atención individualizada que requieren los cuyes. Los principales desafíos que enfrenta en su granja son el control de enfermedades, la gestión de la alimentación adecuada y el mantenimiento de las condiciones sanitarias para garantizar la salud y el bienestar de los animales y la calidad de los productos. Utiliza un registro manual y aplicaciones móviles para el seguimiento de la salud de los cuyes, así como un calendario para planificar las tareas diarias. Además, utiliza información meteorológica y datos históricos de producción para tomar decisiones informadas. Además, tiene una experiencia positiva con aplicaciones móviles de gestión de granjas, que le han permitido mejorar la eficiencia de su operación. Busca acceso a información sobre nuevas técnicas de crianza y mejores prácticas de manejo, y considera que recibir asesoramiento de criadores más experimentados sería beneficioso para mejorar la eficiencia y productividad de su granja.
@@ -676,6 +687,8 @@ Alessandra Chaupis, una joven de 20 años que vive en San Juan de Lurigancho, se
 
 <img src="img/entrevista5.png" width="100%">
 
+_Imagen 7. Entrevista a Nayeli_
+
 **Resumen:**
 
 Nayeli Chávez, una criadora de 24 años que reside en Puente Piedra, es relativamente nueva en el negocio que maneja junto a su madre, crían alrededor de 50 cuyes debido a su alta demanda. Sus desafíos incluyen mantener la salud y condiciones ambientales adecuadas para los animales, así como gestionar su alimentación y espacio. Actualmente lleva registros manuales de la salud de cada cuy y planifica sus tareas diarias para garantizar un cuidado constante. Utiliza información sobre madurez sexual y ciclos reproductivos para tomar decisiones en su granja y está abierta a explorar aplicaciones que faciliten la gestión. Busca acceso a recursos sobre prácticas de cría avanzadas y considera valiosa la orientación de criadores más experimentados a través de plataformas en línea o aplicaciones.
@@ -691,6 +704,8 @@ Nayeli Chávez, una criadora de 24 años que reside en Puente Piedra, es relativ
 
 <img src="img/entrevista6.jpg" width="100%">
 
+_Imagen 8. Entrevista a Daniel_
+
 **Resumen:**
 
 Daniel viene de una familia que ha criado cuyes durante generaciones para generar un ingreso para su familia. Su familia maneja una operación mediana con alrededor de 30 cuyes. Uno de los desafíos más grandes para su criadero es mantener la salud y el bienestar de los cuyes, así como garantizar una alimentación adecuada y prevenir enfermedades. Para registrar la información de los cuyes, utiliza métodos manuales donde detalla la salud de cada animal y realiza revisiones periódicas para detectar problemas. Daniel no ha utilizado aplicaciones especializadas pero usa herramientas simples como calculadora y calendario. Está interesado en una herramienta intuitiva para gestionar la información de los cuyes y recibir asesoramiento en línea. Estaría dispuesto a pagar por una aplicación con estas funcionalidades si el precio es asequible.
@@ -698,42 +713,33 @@ Daniel viene de una familia que ha criado cuyes durante generaciones para genera
 
 ### 2.2.3. Análisis de entrevistas
 
-**Asesores de crianza de cuyes**
-**Segmento demográfico:**
-Edad: personas de 25 a 50 años de edad
-Sexo: Masculino y Femenino
-Formación educativa: Universitario o cualquier educación superior
-**Segmento Geográfico:**
-País: Perú
-Idioma: Español
-**Segmento Psicográfico:**
-Clase social: NSE A, NSE B, NSE C
-**Segmento Conductual:**
-Conocimientos: Conocimiento básico del manejo de una aplicación web.
-Actitudes: Personas con interés en tener un buen recurso para brindar asesorías a criadores de cuyes novatos.
+**Formas de difusión de información de los asesores**
+|Formas de difusión|Rodrigo|Tamara|Belen|
+| - | - | - | - |
+|Charlas|X| | |
+|Grupos de discusion en línea|X| |X|
+|Visita presencial| |X|X|
+|Videos en línea| | |X|
+
+<img src="img/piechart1.png" alt="% Asesores que apoyan nuestra idea">
+
+_Imagen 9. Gráfico circular - Asesores_
 
 Gracias a las entrevistas realizadas, comprendimos que los asesores suelen brindar apoyo a través de internet o a conocidos. Así, al comentarle sobre nuestra idea de aplicación web para poder brindar asesorías a criadores de cuyes, indicaron que les pareció muy buena idea ya que brinda mejor comunicación y confiabilidad.
 
+**Desafíos que tienen los asesores con la crianza de cuyes**
+|Desafíos de crianza|Alessandra|Nayeli|Daniel|
+| - | - | - | - |
+|Gestión de alimentación|X|X|X|
+|Mantenimiento de galpones|X| | |
+|Control de enfermedades|X|X|X|
+|Gestión de espacio| |X| |
 
-**Criadores de cuyes**
-**Segmento demográfico:**
-Edad: personas de 25 a 55 años de edad
-Sexo: Masculino y Femenino
-Formación educativa: Administrativo en área de logística
-**Segmento Geográfico:**
-País: Perú
-Idioma: Español
-**Segmento Psicográfico:**
-Clase social: NSE A, NSE B, NSE C
-**Segmento Conductual:**
-Conocimientos: Conocimiento básico del manejo de una aplicación web.
-Actitudes: Personas con interés en tener un buen recurso sobre el cual gestionar su criado de cuyes y obtener ayuda.
+<img src="img/piechart2.png" alt="% Criadores que apoyan nuestra idea">
 
+_Imagen 10. Gráfico circular - Criadores_
 
-Con las entrevistas realizadas, obtuvimos la conclusión de que los criadores de cuyes suelen tener dificultad para gestionar correctamente la alimentación y control de enfermedades, además de gestionar recursos de la granja en sí. De esta forma, al comentarle sobre nuestra idea de aplicación web para poder recibir asesorías de personas con experiencia y gestionar los recursos de su granja, indicaron que les pareció muy buena idea ya que sería un mejor recurso para obtener información confiable.
-
-
-Asimismo, también hemos realizado una investigación para comprobar la necesidad del mercado, y gracias a las estadísticas brindadas por el Ministerio de Desarrollo Agrario y Riego (2023), se comprobó que la población de cuyes va creciendo con el paso de los años, y se espera que siga aumentando (Revisar [Anexo N°2: Gráfico de evolución de población de cuyes](#anexo-n°2-gráfico-de-evolución-de-población-de-cuyes)). Por lo cual, nuestra aplicación ayudaría para mejorar el cuidado de los cuyes, ya que suelen haber problemas como la mala nutrición o el déficit de control de enfermedades que perjudica directamente a las granjas. (Revisar [Anexo N°3: Diagrama de problemas en la crianza de cuyes](#anexo-n°3-diagrama-de-problemas-en-la-crianza-de-cuyes))
+Asimismo, obtuvimos la conclusión de que los criadores de cuyes suelen tener dificultad para gestionar correctamente la alimentación y control de enfermedades, además de gestionar recursos de la granja en sí. De esta forma, al comentarle sobre nuestra idea de aplicación web para poder recibir asesorías de personas con experiencia y gestionar los recursos de su granja, indicaron que les pareció muy buena idea ya que sería un mejor recurso para obtener información confiable.
 
 ## 2.3. Needfinding
 
@@ -745,9 +751,13 @@ Para la realización de las fichas de User Personas se han considerado los 2 seg
 
 <img src="img/persona_asesor.png" alt="Persona Asesor">
 
+_Imagen 11. User Persona - Asesor_
+
 **Segmento Criador**
 
 <img src="img/persona_criador.png" alt="Persona Criador">
+
+_Imagen 12. User Persona - Criador_
 
 ### 2.3.2. User Task Matrix
 
@@ -884,9 +894,13 @@ Por otro lado, para el segmento de criadores de cuyes se tomó en cuenta desde l
 
 <img src="img/journeymap_asesor.png" alt="Journey Map Asesor">
 
+_Imagen 13. User Journey Map - Asesor_
+
 **Segmento Criador**
 
 <img src="img/journeymap_criador.png" alt="Journey Map Criador">
+
+_Imagen 14. User Journey Map - Criador_
 
 ### 2.3.4. Empathy Mapping
 
@@ -896,9 +910,13 @@ En esta sección, se desarrollaron los Empathy Maps de cada segmento objetivo. S
 
 <img src="img/empathymap_asesor.png" alt="Empathy Map Asesor">
 
+_Imagen 15. Empathy Map - Asesor_
+
 **Segmento Criador**
 
 <img src="img/empathymap_criador.png" alt="Empathy Map Criador">
+
+_Imagen 16. Empathy Map - Criador_
 
 ### 2.3.5. As-is Scenario Mapping
 **Segmento: Asesor**
@@ -907,7 +925,7 @@ En esta sección, se desarrollaron los Empathy Maps de cada segmento objetivo. S
 | :- | :- | :- | :- | :- |
 |**Doing**|- Busca la manera de llegar a más público, creándose  foros de difusión, cuentas de instagram,etc.Para que así más personas adquieran sus servicios.|- Habiendo creado su perfil, empieza a publicar información acerca de él, la experiencia que tiene en el campo, el rubro con el que se especializa, entre otros datos relevantes que ayuden a captar el interés del cliente.|-Se comunica con el ganadero mediante whatsapp, instagram o en llamadas cortas explicando los beneficios de su servicio.|- Mediante whatsapp y luego de haber llegado a un acuerdo se reúne con el ganador para poder asesorar en lo que necesita|
 |**Thinking**|- "Necesito que me contraten para poder generar ingresos."|- "Espero que la información que publique interese a los clientes."|- "Es importante comunicarse con la persona, sin embargo no llegó a comprender que exactamente desea."|- "El asesoramiento que brinda al ganadero ha sido no tan eficiente pero sí eficaz."|
-|**Feeling**|<p>-Estresado por no saber donde debo posicionarme para poder buscar trabajo. </p><p>- Decepcionado por no conocer una página o aplicación que me brinde la facilidad de conectar con mis clientes.</p>|<p>- Preocupado sobre qué dirán las personas al ver lo que ofrezco.</p><p>` `- Tímido al publicar mi información en mi feed.</p>|<p>- Satisfecho por haber conseguido un cliente dispuesto a contratarme.</p><p>` `- Confundido porque el cliente no detalla bien qué servicio  desea  de mí.</p>|<p>- Satisfecho de haber culminado mi asesoramiento continuo al cliente.</p><p></p><p>-Frustrado por el tiempo que me demore en asesorar debido a la gran cantidad de herramientas que he usado.</p>|
+|**Feeling**|<p>-Estresado por no saber donde debo posicionarme para poder buscar trabajo. </p><p>- Decepcionado por no conocer una página o aplicación que me brinde la facilidad de conectar con mis clientes.</p>|<p>- Preocupado sobre qué dirán las personas al ver lo que ofrezco.</p><p>- Tímido al publicar mi información en mi feed.</p>|<p>- Satisfecho por haber conseguido un cliente dispuesto a contratarme.</p><p>- Confundido porque el cliente no detalla bien qué servicio  desea  de mí.</p>|<p>- Satisfecho de haber culminado mi asesoramiento continuo al cliente.</p><p></p><p>-Frustrado por el tiempo que me demore en asesorar debido a la gran cantidad de herramientas que he usado.</p>|
 
 **Segmento: Criador**
 
@@ -915,7 +933,7 @@ En esta sección, se desarrollaron los Empathy Maps de cada segmento objetivo. S
 | :- | :- | :- | :- | :- |
 |**Doing**|- Busca información sobre la crianza de cuyes en línea y en libros especializados.|- Contacta a un asesor a través de la aplicación para obtener asesoramiento sobre la crianza de su ganado de cuyes.|<p>- Proporciona detalles sobre su ganado de cuyes, como la cantidad, la salud, la alimentación y otros aspectos relevantes, al asesor. </p><p>- Recibe asesoramiento y recomendaciones del asesor.</p>|- Mantiene una comunicación regular con el asesor para recibir orientación continua sobre la crianza de su ganado de cuyes.|
 |**Thinking**|- "Necesito encontrar información precisa y útil para mejorar la crianza de mi ganado de cuyes."|- "Espero que el asesor tenga el conocimiento necesario para ayudarme."|- "Es importante proporcionar datos precisos para recibir un asesoramiento efectivo."|- "La relación continua con el asesor es clave para el éxito de mi ganado de cuyes."|
-|**Feeling**|<p>- Motivado por mejorar la salud y la productividad de su ganado de cuyes.</p><p>` `- Interesado en aprender más sobre la crianza de cuyes</p>|<p>- Optimista sobre la posibilidad de recibir asesoramiento valioso del asesor.</p><p>` `- Satisfecho al establecer una comunicación efectiva.</p>|<p>- Satisfecho por recibir recomendaciones que benefician a su ganado de cuyes. </p><p>- Responsable de seguir las recomendaciones del asesor.</p>|<p>- Satisfecho con la relación continua con el asesor. </p><p>- Comprometido con mejorar su ganadería de cuyes a largo plazo.</p>|
+|**Feeling**|<p>- Motivado por mejorar la salud y la productividad de su ganado de cuyes.</p><p>`- Interesado en aprender más sobre la crianza de cuyes</p>|<p>- Optimista sobre la posibilidad de recibir asesoramiento valioso del asesor.</p><p>- Satisfecho al establecer una comunicación efectiva.</p>|<p>- Satisfecho por recibir recomendaciones que benefician a su ganado de cuyes. </p><p>- Responsable de seguir las recomendaciones del asesor.</p>|<p>- Satisfecho con la relación continua con el asesor. </p><p>- Comprometido con mejorar su ganadería de cuyes a largo plazo.</p>|
 
 
 ## 2.4. Ubiquitous Language
@@ -930,6 +948,18 @@ En esta sección, se definirán términos utilizados a lo largo del proyecto par
 - **Sustainable agricultural practices** (Prácticas agrícolas sostenibles):** Técnicas y métodos de producción que preservan los recursos naturales y minimizan el impacto ambiental negativo, contribuyendo a la conservación a largo plazo del medio ambiente y los ecosistemas.
 
 - **Self-sustainable** (Auto-sustentable): En el contexto de la crianza de cuyes, se refiere a la práctica de consumir los cuyes criados en la granja principalmente para satisfacer las necesidades alimenticias de los criadores y sus familias. En lugar de venderlos para generar ingresos adicionales.
+
+- **Shed** (Galpón): Es el ambiente donde se construyen o colocan las pozas o jaulas para criar a los cuyes, lo que permite un mejor control de los animales.
+
+- **Cage** (Jaula): Espacio donde vive un grupo de cuyes normalmente construidos de madera o mallas metálicas.
+
+- **Resources** (Recursos): Elementos físicos necesarios para la crianza de cuyes como el alimento que consumen los cuyes, la medicina para los cuyes enfermos, o recursos de producción como pueden ser las pieles de los cuyes.
+
+- **Expenses** (Gastos): Inversiones de dinero del criador para cubrir las necesidades de la crianza como puede ser la compra de los alimentos de los cuyes.
+
+- **Review** (Reseña): Evaluación del desempeño de un asesor durante una cita. Consta de calificación (con rango de 0 a 5 estrellas) y de un comentario opcional.
+
+- **Appointment** (Cita): Encuentro programado entre el criador y el asesor con el objetivo de recibir asistencia técnica en desafíos en la crianza, y con el objetivo de recibir recomendaciones.
 
 
 # Capítulo III Requirements Specification
@@ -955,8 +985,12 @@ En esta sección, se definirán términos utilizados a lo largo del proyecto par
 **Segmento: Asesor**
 <img src="img/impactmap_1.png" alt="ImpactMap Asesor">
 
+_Imagen 17. Impact Map - Asesor_
+
 **Segmento: Criadores**
 <img src="img/impactmap_2.png" alt="ImpactMap Criador">
+
+_Imagen 18. Impact Map - Criador_
 
 
 # Capítulo IV: Product Design
@@ -973,13 +1007,17 @@ El logotipo de AgroConnect se presenta en forma de un círculo, que simboliza la
   <img src="img/logo.png" alt="logo de AgroConnect" width="200">
 </p>
 
+_Imagen 19. Logo de AgroConnect_
+
 **Typography**
 
 La tipografía elegida para AgroConnect es "Inter", una fuente sans-serif moderna y altamente legible. Este tipo de letra se destaca por su estilo limpio y contemporáneo, lo que comunica profesionalismo y actualización. La elección de Inter asegura que el texto en las interfaces de usuario sea fácilmente legible y tenga una apariencia moderna y uniforme. Además, Inter es una fuente versátil que ofrece una amplia variedad de pesos y estilos, lo que permite una adaptación flexible a diferentes contextos y tamaños de texto en la aplicación.
 
 <p align="center">
-  <img src="img/font1.png" alt="logo de AgroConnect" width="600">
+  <img src="img/font1.png" alt="fuentes utilizados" width="600">
 </p>
+
+_Imagen 20. Variaciones de las fuentes a utilizar_
 
 **Colors**
 
@@ -994,7 +1032,7 @@ El spacing mantiene:
  - Margin entre secciones 72px
 
 ### 4.1.2. Web Style Guidelines
- [Ver Anexo N°1]
+(Revisar [Anexo N°3: Web Style Guidelines - Figma](#anexo-n°3-web-style-guidelines))
 
 **Colors**
 
@@ -1004,6 +1042,9 @@ AgroConnect ha seleccionado cuidadosamente una paleta de colores que refleja los
   <img src="img/colors.png" alt="Colores de AgroConnect" width="600">
 </p>
 
+_Imagen 21. Colores a utilizar_
+
+
 **Typography**
 
 La tipografía desempeña un papel fundamental en la apariencia y la legibilidad de AgroConnect. Hemos seleccionado cuidadosamente la fuente "Inter", una fuente sans-serif moderna y altamente legible.
@@ -1011,6 +1052,8 @@ La tipografía desempeña un papel fundamental en la apariencia y la legibilidad
 <p align="center">
   <img src="img/font2.png" alt="Tipografia de AgroConnect" width="600">
 </p>
+
+_Imagen 22. Tipografia a utilizar_
 
 **Icons**
 
@@ -1020,6 +1063,8 @@ Los íconos desempeñan un papel importante en la experiencia del usuario al pro
   <img src="img/icons.png" alt="Iconos de AgroConnect" width="600">
 </p>
 
+_Imagen 23. Iconos a utilizar_
+
 **Spacing**
 
 El espaciado adecuado entre elementos es esencial para lograr una apariencia equilibrada y una experiencia de usuario cómoda en AgroConnect. Hemos establecido pautas claras de espaciado que garantizan coherencia y claridad en toda la plataforma.
@@ -1027,6 +1072,8 @@ El espaciado adecuado entre elementos es esencial para lograr una apariencia equ
 <p align="center">
   <img src="img/spacing.png" alt="Spacing de AgroConnect" width="600">
 </p>
+
+_Imagen 24. Espaciado a utilizar_
 
 **Grid System**
 
@@ -1036,6 +1083,8 @@ El grid system es una herramienta esencial en el diseño y la organización de l
   <img src="img/grid.png" alt="Grid System de AgroConnect" width="600">
 </p>
 
+_Imagen 25. Grid System_
+
 **Button**
 
 Los botones son elementos importantes en la interfaz de usuario de AgroConnect, ya que proporcionan una forma clara y visualmente destacada para que los usuarios realicen acciones importantes. Hemos definido un estilo de botón consistente que refleja la identidad visual de la plataforma y promueve una experiencia de usuario intuitiva y coherente.
@@ -1044,6 +1093,8 @@ Los botones son elementos importantes en la interfaz de usuario de AgroConnect, 
   <img src="img/button.png" alt="Button de AgroConnect" width="600">
 </p>
 
+_Imagen 26. Buttons_
+
 **Input System**
 
 El input system es fundamental en la experiencia del usuario en AgroConnect, ya que proporciona formas para que los usuarios ingresen datos y realicen acciones dentro de la plataforma. Hemos definido un sistema de entrada consistente que garantiza una experiencia de usuario intuitiva y coherente en toda la interfaz.
@@ -1051,6 +1102,8 @@ El input system es fundamental en la experiencia del usuario en AgroConnect, ya 
 <p align="center">
   <img src="img/input-system.png" alt="Input Sys AgroConnect" width="600">
 </p>
+
+_Imagen 27. Input System_
 
 ## 4.2. Information Architecture
 
@@ -1362,17 +1415,16 @@ SENASA. (2019). Cajamarca es el principal productor de cuy en el Perú. Recupera
 
 # Anexos
 
-## Anexo N°1: Web Style Guidelines - Figma
-
-https://www.figma.com/file/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=0%3A1&mode=design&t=wpjgQEwVQwYdQHGP-1 
-
-
-## Anexo N°2: Gráfico de evolución de población de cuyes
+## Anexo N°1: Gráfico de evolución de población de cuyes
 
 <img src="img/grafico-anexo.png">
 
-https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
+Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
 
-## Anexo N°3: Diagrama de problemas en la crianza de cuyes
+## Anexo N°2: Diagrama de problemas en la crianza de cuyes
 
 <img src="img/cuadro-anexo.png">
+
+## Anexo N°3: Web Style Guidelines
+
+https://www.figma.com/file/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=0%3A1&mode=design&t=wpjgQEwVQwYdQHGP-1 
