@@ -981,6 +981,170 @@ En esta sección, se definirán términos utilizados a lo largo del proyecto par
 |**Feeling**|- Interesado mucho más en aprender más sobre la ganadería de cuyes. |- Satisfecho al establecer una comunicación efectiva.|<p>- Satisfecho por contribuir al bienestar de su ganado de cuyes.</p><p> </p>|<p>- Satisfecho con la relación continua con el asesor. </p><p>- Comprometido con el cuidado de su granja.</p>|
 
 ## 3.2. User Stories
+
+Se identificaron las siguientes épicas que se componen de las historias de usuario.
+
+<table>
+  <tr>
+    <th valign="top"><b>Epic ID</b></th>
+    <th valign="top"><b>Epic</b></th>
+    <th valign="top"><b>User story ID</b></th>
+    <th valign="top"><b>User stories</b></th>
+  </tr>
+  <tr>
+    <td rowspan="8" valign="top"><b>E01</b></td>
+    <td rowspan="8" valign="top">Sistema de búsqueda y programación de citas con asesores y calificaciones</td>
+    <td valign="top">US01</td>
+    <td valign="top">Búsqueda de asesores</td>
+  </tr>
+  <tr>
+    <td valign="top">US02</td>
+    <td valign="top">Información del asesor</td>
+  </tr>
+  <tr>
+    <td valign="top">US03</td>
+    <td valign="top">Visualización de horarios</td>
+  </tr>
+  <tr>
+    <td valign="top">US04</td>
+    <td valign="top">Programación de citas</td>
+  </tr>
+  <tr>
+    <td valign="top">US05</td>
+    <td valign="top">Información relevante previa cita</td>
+  </tr>
+  <tr>
+    <td valign="top">US06</td>
+    <td valign="top">Notificación de citas al asesor</td>
+  </tr>
+  <tr>
+    <td valign="top">US07</td>
+    <td valign="top">Notificación de citas al criador</td>
+  </tr>
+  <tr>
+    <td valign="top">US08</td>
+    <td valign="top">Calificación del asesor</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top"><b>E02</b></td>
+    <td rowspan="2" valign="top">Publicaciones en la aplicación</td>
+    <td valign="top">US09</td>
+    <td valign="top">Publicación del asesor</td>
+  </tr>
+  <tr>
+    <td valign="top">US10</td>
+    <td valign="top">Ver publicación de asesor</td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top"><b>E03</b></td>
+    <td rowspan="4" valign="top">Sistema integral de registro y seguimiento animal</td>
+    <td valign="top">US11</td>
+    <td valign="top">Registro de galpones de cuyes</td>
+  </tr>
+  <tr>
+    <td valign="top">US12</td>
+    <td valign="top">Registro de animal</td>
+  </tr>
+  <tr>
+    <td valign="top">US13</td>
+    <td valign="top">Visualización y edición de información de animales</td>
+  </tr>
+  <tr>
+    <td valign="top">US14</td>
+    <td valign="top">Registro de fallecimiento de cuyes</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top"><b>E04</b></td>
+    <td rowspan="2" valign="top">Gestión de granja</td>
+    <td valign="top">US15</td>
+    <td valign="top">Gestión de recursos</td>
+  </tr>
+  <tr>
+    <td valign="top">US16</td>
+    <td valign="top">Gestión de gastos realizados</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top"><b>E05</b></td>
+    <td rowspan="2" valign="top">Eficiencia y seguridad de aplicación</td>
+    <td valign="top">US17</td>
+    <td valign="top">Seguridad de información</td>
+  </tr>
+  <tr>
+    <td valign="top">US18</td>
+    <td valign="top">Disponibilidad y confiabilidad</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top"><b>E06</b></td>
+    <td rowspan="3" valign="top">Registro, acceso a la aplicación y datos personales</td>
+    <td valign="top">US19</td>
+    <td valign="top">Registro de usuario</td>
+  </tr>
+  <tr>
+    <td valign="top">US20</td>
+    <td valign="top">Inicio de sesión</td>
+  </tr>
+  <tr>
+    <td valign="top">US21</td>
+    <td valign="top">Recuperación de contraseña</td>
+  </tr>
+  <tr>
+    <td rowspan="6" valign="top"><b>E07</b></td>
+    <td rowspan="6" valign="top">Visualización de una Landing Page estática</td>
+    <td valign="top">US22</td>
+    <td valign="top">Visualización de Navbar y Footer</td>
+  </tr>
+  <tr>
+    <td valign="top">US23</td>
+    <td valign="top">Página de inicio</td>
+  </tr>
+  <tr>
+    <td valign="top">US24</td>
+    <td valign="top">Sección “Acerca De”</td>
+  </tr>
+  <tr>
+    <td valign="top">US25</td>
+    <td valign="top">Sección “Sobre Nosotros”</td>
+  </tr>
+  <tr>
+    <td valign="top">US26</td>
+    <td valign="top">Sección “Características”</td>
+  </tr>
+  <tr>
+    <td valign="top">US27</td>
+    <td valign="top">Sección “Contacto”</td>
+  </tr>
+</table>
+
+|**Epic / Story ID**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
+| :- | :- | :- | :- | :- |
+|US01|Búsqueda de Asesores|**Como** criador de cuyes **quiero** explorar asesores **para** recibir una mentoría.|<p>**Escenario 1: Explorar Asesores**</p><p>**Given** el criador quiere explorar asesores.</p><p>**And** se encuentra en el apartado de “Asesores” Sidebar.</p><p>**When** seleccione el botón “Explorar Asesores”.</p><p>**Then** el sistema le mostrará una lista de todos los asesores disponibles en la aplicación.</p><p></p><p>**Escenario 2: Filtrar búsqueda de Asesores**</p><p>**Given** el criador quiere personalizar su búsqueda.</p><p>**And** se encuentra explorando asesores.</p><p>**When** seleccione el botón de filtros.</p><p>**Then** el sistema** le permitirá elegir asesores por ubicación, experiencia, reputación o idioma.</p><p></p><p>**Escenario 3: Ver mis asesores**</p><p>**Given** el criador desea ver los asesores a los que les solicitó un servicio para recibir una mentoría.</p><p>**And** se encuentra en el apartado de “Asesores” de la SideBar.</p><p>**When** haga clic en el botón “Mis Asesores”</p><p>**Then** el sistema le mostrará una lista de todos los asesores a los que ha solicitado una cita.</p><p></p>|E01|
+|US02|Información del asesor|**Como** criador de cuyes **quiero** tener acceso a la información del asesor **para** tomar una decisión informada antes de separar una cita|<p>**Escenario 1: Ver información del asesor** </p><p>**Given** el criador quiere ver información relevante del asesor.</p><p>**And se** encuentra en el apartado de “Asesores” de la Sidebar.</p><p>**When** seleccione a un asesor.</p><p>**Then** el sistema le mostrará la información del asesor como experiencia, calificación y comentarios.</p><p></p><p>**Escenario 2: Fallar al visualizar la información del asesor**</p><p>**Given** el criador quiere ver información relevante del asesor.</p><p>**And se** encuentra en el apartado de “Asesores”</p><p>**When** seleccione a un asesor.</p><p>**And** se encuentre con un error al cargar la información.</p><p>**Then** el sistema le mostrará un mensaje de error indicando que hubo un error de carga.</p>|E01|
+|US03|Visualización de horarios|**Como** criador de cuyes **quiero** ver la disponibilidad de los asesores **para** seleccionar un horario que se ajuste a mi agenda|<p>**Escenario 1: Visualizar horarios disponibles**</p><p>**Given** el criador desea visualizar los horarios disponibles del asesor elegido.</p><p>**And** se encuentra mirando el perfil de un asesor.</p><p>**When** haga clic en el botón “Reservar Cita”</p><p>**Then** el sistema le mostrará una interfaz con los horarios disponibles del asesor</p><p></p><p>**Escenario 2: Fallar al intentar visualizar horarios.**</p><p>**Given** el criador desea visualizar los horarios disponibles del asesor elegido.</p><p>**And** se encuentra mirando el perfil de un asesor.</p><p>**When** haga clic en el botón “Reservar Cita”</p><p>**And** el asesor no tenga horarios disponibles</p><p>**Then** el sistema le mostrará un mensaje de error “El asesor no tiene horarios disponibles”.</p>|E01|
+|US04|Programación de citas|**Como** criador de cuyes **quiero** poder programar una cita con un asesor **para** recibir orientación personalizada|<p>**Escenario 1: Programar cita exitosa**</p><p>**Given** el criador desea programar una cita.</p><p>**And** se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor.</p><p>**When** seleccione un horario disponible</p><p>**And** complete los campos solicitados.</p><p>**And** haga clic en el botón “Reservar Cita”</p><p>**Then** el sistema le mostrará un mensaje de confirmación.</p><p></p><p>**Escenario 3:Programar cita por publicación vista**</p><p>**Given** el criador desea programar una cita.</p><p>**And** se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor.</p><p>**When** seleccione un horario disponible</p><p>**And** se encuentra un error técnico o de conexión que impide completar la programación.</p><p>**Then** la plataforma mostrará un mensaje de error sugiriendo contactar con soporte.</p><p></p><p>**Escenario 2: Fallar al programar cita**</p><p>**Given** el criador desea programar una cita.</p><p>**And** se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor.</p><p>**When** seleccione un horario disponible</p><p>**And** se encuentra un error técnico o de conexión que impide completar la programación.</p><p>**Then** el sistema le mostrará un mensaje de error sugiriendo contactar con soporte.</p>|E01|
+|US05|Información relevante previa cita|**Como** asesor **quiero** tener acceso al detalle de la cita **para** decidir si aceptar o no el trabajo.|<p>**Escenario 1: Ver Información del cita**</p><p>**Given** el asesor desea ver información de la cita para tomar una decisión.</p><p>**And** se encuentra en la sección de “Mis Citas” .</p><p>**And** observa que tiene una cita programada con un criador.</p><p>**When** haga clic en la card de la cita.</p><p>**Then** el sistema le permitirá ver el detalle y analizar si puede aceptar o no el trabajo.</p><p></p><p>**Escenario 1: Ver Información del criador**</p><p>**Given** el asesor desea ver información de la cita para tomar una decisión.</p><p>**And** está visualizando el detalle de la cita.</p><p>**When** haga clic en el botón “Ver perfil del criador”</p><p>**Then** el sistema le mostrará información relevante del criador.</p><p></p><p>**Escenario 3: Fallar al acceder a la información del criador**</p><p>**Given** el asesor desea ver información de la cita para tomar una decisión.</p><p>**And** está visualizando el detalle de la cita.</p><p>**When** haga clic en el botón “Ver perfil del criador”.</p><p>**And** se encuentre con un error al cargar la información.</p><p>**Then** el sistema le mostrará un mensaje de error indicando que hubo un error de carga.</p>|E01|
+|US06|Notificación de citas al asesor|**Como asesor, quiero** recibir notificaciones de citas programadas por los criadores **para** mantenerme al tanto de mis ofertas laborales.|<p>**Escenario 1: Ver notificaciones de cita programadas por criadores**</p><p>**Given** el asesor desea ver sus notificaciones de citas programadas.</p><p>**When** se encuentre en el apartado de “Notificaciones”</p><p>**Then** el sistema le mostrará un mensaje que describe brevemente la solicitud.</p><p></p><p>**Escenario 2: Redireccionarse al apartado de “Mis Citas”**</p><p>**Given** el asesor desea el detalle de una notificación.</p><p>**When** haga clic en la notificación.</p><p>**Then** el sistema lo redireccionará al apartado de “Mis Citas” de la Sidebar, donde podrá ver a detalle la solicitud.</p><p></p><p>**Escenario 3: Aceptar cita de el apartado de notificaciones**</p><p>**Given** el asesor desea aceptar una cita rápidamente</p><p>**When** haga clic en el botón “Aceptar” dentro de la card de notificación.</p><p>**Then** el sistema notificará esta acción al criador.</p><p>**Escenario 3: Rechazar cita de el apartado de notificaciones**</p><p>**Given** el asesor desea rechazar una cita rápidamente</p><p>**When** haga clic en el botón “Rechazar” dentro de la card de notificación.</p><p>**Then** el sistema le notificará esta acción al criador.</p>|E03|
+|US07|Notificación de citas al criador de cuyes|**Como c**riador de cuyes **quiero** recibir notificaciones referentes al estado de mis citas **para** mantenerme al tanto de mi solicitud.|<p>**Escenario 1: Ver notificación de cita aceptada por el asesor**</p><p>**Given** el criador desea saber si el asesor aceptó o rechazó la cita.</p><p>**When** se encuentre en el apartado de “Notificaciones” de la Sidebar.</p><p>**Then** el sistema le permitirá ver la notificación “El asesor aceptó su cita {nombre de cita} a las {xx:xx} horas”.</p><p></p><p>**Escenario 1: Ver notificación de cita denegada por el asesor**</p><p>**Given** el criador desea saber si el asesor aceptó o rechazó la cita.</p><p>**When** se encuentre en el apartado de “Notificaciones” de la sidebar.</p><p>**Then** el sistema le permitirá ver la notificación “El asesor aceptó su cita {nombre de cita} a las {xx:xx} horas”.</p>|EO1|
+|US08|Calificación del asesor|**Como** criador de cuyes **quiero** calificar al asesor luego de consulta **para** ayudar a otros criadores a tomar una decisión informada antes de separar una cita.|<p>**Escenario 1: Calificar al asesor**</p><p>**Given** el criador desea hacer un feedback referente al servicio del asesor.</p><p>**And** se encuentra en la vista de calificación del servicio.</p><p>**When** haga clic en el botón “Calificar Servicio”</p><p>**Then** el sistema le permitirá asignarle un número de estrellas y reseñar el servicio del asesor.</p><p></p><p>**Escenario 1: Omitir Calificación**</p><p>**Given** el criador no desea dar feedback al asesor referente al servicio.</p><p>**And** se encuentra en la vista de calificación del servicio.</p><p>**When** haga clic en el botón “Omitir calificación”</p><p>**Then** el sistema le permitirá omitir la reseña.</p>|E01|
+|US09|Publicación del asesor|**Como** asesor **quiero** hacer publicaciones referentes a mis trabajos **para** que los criadores tengan más confianza en mí.|<p>**Escenario 1: Crear una nueva publicación**</p><p>**Given** el asesor desea crear una publicación.</p><p>**And** está en el apartado de "Mis Publicaciones".</p><p>**When** hace clic en el botón "Crear Publicación" de la Sidebar.</p><p>**Then** se le redirige a un formulario donde puede ingresar el contenido de su nueva publicación.</p><p>**And** después de completar el contenido, hace clic en el botón "Publicar".</p><p>**Then** el sistema le mostrará un mensaje de confirmación.</p><p></p><p>**Escenario 2: Editar una publicación existente**</p><p>**Given** el asesor desea editar una publicación existente.</p><p>**And** está en el apartado de "Mis Publicaciones" de la Sidebar.</p><p>**And** tiene una publicación previamente creada.</p><p>**When** selecciona la opción de editar en la publicación que desea modificar.</p><p>**Then** se le redirige al formulario de edición donde puede modificar el contenido de la publicación.</p><p>**And** después de realizar los cambios deseados, hace clic en el botón "Guardar Cambios".</p><p>**Then** el sistema le mostrará un mensaje de confirmación y los cambios se reflejan en la publicación actualizada.</p><p></p><p>**Escenario 3: Eliminar una publicación existente**</p><p>**Given** el asesor desea eliminar una publicación existente.</p><p>**And** está en el apartado de "Mis Publicaciones" de la Sidebar.</p><p>**And** tiene una publicación previamente creada.</p><p>**When** selecciona la opción de eliminar en la publicación que desea borrar.</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, la publicación se elimina de su perfil y ya no está disponible para los criadores.</p>|E02|
+|US10|Visualización de publicaciones de los asesores|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|<p>**Escenario 1: Visualizar publicaciones de asesores**</p><p>**Given** el criador desea ver las publicaciones de la comunidad</p><p>**When** haga clic en el botón “Publicaciones” de la Sidebar.</p><p>**Then** el sistema le mostrará una lista de las últimas publicaciones de la comunidad de asesores.</p><p></p><p>**Escenario 2: Filtrar publicaciones de asesores por fecha**</p><p>**Given** el criador desea ver las publicaciones de la comunidad de un tiempo en específico como “esta semana”, “este mes” o ingresar una fecha en específico.</p><p>**And** se encuentra visualizando las publicaciones.</p><p>**When** haga clic en el ícono de filtro.</p><p>**Then** el sistema le permitirá filtrar las publicaciones por el parámetro elegido.</p>|E02|
+|US11|Registro de galpones de cuyes|**Como** criador de cuyes **quiero** poder registrar un galpón en la plataforma **para** poder almacenar y gestionar mis cuyes de manera efectiva, garantizando su seguridad y bienestar.|<p>**Escenario 1: Registro exitoso del galpón**</p><p>**Given** que el criador desea registrar su galón.</p><p>**And** se encuentra en el apartado "Registro".</p><p>**When** haga clic en el botón "Registrar Galpón".</p><p>**And** completa el formulario con la información requerida del galpón.</p><p>**And** hace clic en el botón "Registrar Galpón".</p><p>**Then** el sistema le mostrará un mensaje del registro exitoso del galpón.</p><p></p><p>**Escenario 1: Eliminar galpón**</p><p>**Given** que el criador desea eliminar su galón.</p><p>**And** se encuentra en un galpón del apartado "Mis Animales".</p><p>**When** haga clic en el botón "Borrar".</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, el galpón se elimina.</p>|E03|
+|US12|Registro de animal|**Como** criador de cuyes **quiero** contar con un sistema de registro de animales **para** almacenar información básica sobre cada animal, incluyendo su número de identificación, especie, raza, género y fecha de nacimiento.|<p>**Escenario 1: Registrar un nuevo animal**</p><p>**Given** el criador desea registrar un cuy en su galpón.</p><p>**And** se encuentra en el apartado de “Registro”.</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And** ingresa la información básica del animal, incluyendo su número de identificación, número de galpón, especie, raza, género, fecha de nacimiento o edad y el galpón en donde se va a encontrar.</p><p>**And** haga clic “Registrar”</p><p>**Then** el sistema le mostrará una confirmación del registro.</p><p></p><p>**Escenario 1: Fallar en el registro de animal**</p><p>**Given** el criador desea registrar un cuy en su galpón.</p><p>**And** se encuentra en el apartado de “Registro”.</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And i**ntenta ingresar la información del animal pero deja en blanco algunos campos obligatorios para el registro**.**</p><p>**And** haga clic “Registrar”.</p><p>**Then** el sistema le mostrará un mensaje de error.</p>|E03|
+|US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** buscar a un animal en específico **para** visualizar o actualizar su información registrada.|<p>**Escenario 1: Buscar y visualizar la información de un animal registrado**</p><p>**Given** el criador tiene varios animales registrados en la aplicación y desea visualizar la información de uno en específico.</p><p>**And** se encuentra en el apartado de “Mis Animales”</p><p>**When** haga clic en “Ver todos”</p><p>**And** busque al animal en específico.</p><p>**And s**eleccione al animal encontrado. </p><p>**Then** el sistema le mostrará la información detallada del animal.</p><p></p><p>**Escenario 2: Actualizar información de un animal registrado**</p><p></p><p>**Given** el criador desea actualizar la información de un animal.</p><p>**And** ha registrado previamente un animal en la aplicación. </p><p>**And** se encuentra viendo al animal en específico.</p><p>**When** haga clic en el botón “Editar”.</p><p>**And** realiza cambios en la información del animal.</p><p>**Then** el sistema actualizará la información del animal de manera efectiva</p><p>**And** mostrará una confirmación.</p>|E03|
+|US14|Registrar fallecimiento de Cuy|**Como** criador de cuyes **quiero** poder registrar y documentar los fallecimientos de cuyes en mi granja **para** tomar medidas.|<p>**Escenario 1: Registrar fallecimiento de cuy**</p><p>**Given** el criador desea registrar el fallecimiento de un cuy.</p><p>**And**  está visualizando la información de un cuy en el apartado de “Mis Animales”</p><p>**When** haga clic en el botón “Editar”</p><p>**And**  haga clic en el botón “Marcar como fallecido”</p><p>**Then** el sistema le pedirá un confirmación para actualizar el estado del cuy.</p><p></p><p>**Escenario 2: Cancelar intención de marcar fallecimiento a cuy**</p><p>**Given** el criador se ha equivocado de animal para marcar como fallecido.</p><p>**And**  se encuentra visualizando la confirmación.</p><p>**When** haga clic en el botón “Cancelar”</p><p>**Then** el sistema lo redireccionará a la vista de los datos del cuy.</p><p></p>|E03|
+|US15|Gestión de recursos|**Como** criador de cuyes **quiero** registrar el inventario de mi granja **para** tener un control sobre los recursos esenciales como alimentos y medicamentos.|<p>**Escenario 1: Registrar de nuevo ingreso de recursos en el inventario**</p><p>**Given** el criador ha recibido el pedido de recursos por parte del proveedor y desea registrar esto en su inventario.</p><p>**And** se encuentra en el apartado de “Registro” de la Sidebar.</p><p>**When** haga clic en el botón “Nuevo Recurso”</p><p>**And** ingresa los detalles de nombre y tipo de recurso, fecha, cantidad y observación.</p><p>**Then** el sistema mostrará una confirmación.</p><p></p><p>**Escenario 2:** **Actualizar recursos en el inventario**</p><p>**Given** el criador ha utilizado una cantidad de los recursos y desea actualizar el stock de algún producto.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de Recursos”</p><p>**And** seleccione el recurso utilizado</p><p>**And** ingrese la cantidad que fue utilizada y la fecha de consumo</p><p>**Then** el sistema mostrará una confirmación del cambio realizado.</p>|E04|
+|US16|Gestión de gastos realizados|**Como** criador de cuyes **quiero** registrar gastos relacionados con mi negocio **para** tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad.|<p>**Escenario 1: Registrar gasto**</p><p>**Given** el criador desea registrar los gastos que ha realizado.</p><p>**And** se encuentra en el apartado de “Registro” de la Sidebar.</p><p>**When** haga clic en el botón “gastos”</p><p>**And** ingrese datos como el precio, tipo de gasto, fecha y demás campos.</p><p>**Then** el sistema registrará correctamente los detalles del gasto.</p><p></p><p>**Escenario 2: Ver gasto registrado**</p><p>**Given** el criador desea modificar un gasto ya registrado.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de gastos”</p><p>**Then** el sistema le permitirá visualizar sus gastos.</p><p></p><p>**Escenario 3: Editar gasto registrado**</p><p>**Given** el criador desea modificar un gasto ya registrado.</p><p>**And** se encuentra visualizando un gasto.</p><p>**When** haga clic en el botón “Ver más” del gasto.</p><p>**And** haga clic en el botón de edición.</p><p>**Then** el sistema le permitirá reescribir el gasto.</p>|E04|
+|US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|<p>**Escenario 1: Seguridad en la conexión web**</p><p>**Given** el usuario desea que la aplicación sea segura para su uso personal.</p><p>**When** ingrese a la aplicación para hacer uso de ella.</p><p>**Then** la aplicación usará conexión segura https para enviar datos.</p>|E05|
+|US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|<p>**Escenario 1: Acceso a la aplicación en todo momento**</p><p>**Given** el usuario desea usar la aplicación en cualquier instante.</p><p>**When** ingrese a la aplicación.</p><p>**Then** la aplicación se encuentra disponible y funcional.</p><p></p><p>**Escenario 2: Acceso a la aplicación sin interrupciones**</p><p>**Given** el usuario desea usar la aplicación en cualquier instante.</p><p>**When** ingresa a la aplicación.</p><p>**Then** la aplicación carga rápidamente y controla el tráfico para que la experiencia sea fluida.</p>|E05|
+|US19|Registro de usuario|**Como** usuario **quiero** registrarme **para** acceder a las funciones de usuario.|<p>**Escenario 1: Registro de cuenta por formulario**</p><p>**Given** el usuario desea registrarse en la aplicación.</p><p>**And** se encuentra en el apartado de “Registrarse”.</p><p>**When** complete el formulario de registro con su información personal.</p><p>**And** seleccione su rol en la aplicación entre “Criador” o “Asesor”</p><p>**And** los datos** sean correctos según las validaciones establecidas.</p><p>**Then** la cuenta se creará.</p><p></p><p>**Escenario 2: Registro incorrecto de cuenta**</p><p>**Given** el criador/asesor se encuentra en el apartado de “Registrarse”.</p><p>**When** ingrese la información solicitada de manera errónea.</p><p>**Then** la cuenta no se creará.</p><p>**And** recibirá un mensaje indicando el error.</p>|E06|
+|US20|Inicio de sesión|**Como** usuario **quiero** acceder a mi cuenta registrada **para** acceder a las funciones de usuario.|<p>**Escenario 1: Inicio de sesión exitoso**</p><p>**Given** el criador/asesor desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Acceder”.</p><p>**When** introduzca sus credenciales correctamente.</p><p>**Then** recibirá un mensaje de bienvenida.</p><p>**And** será redireccionado a su vista de usuario.</p><p></p><p>**Escenario 2: Inicio de sesión fallido**</p><p>**Given** el criador/asesor desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Acceder”.</p><p>**When** introduzca sus credenciales incorrectamente.</p><p>**Then** no se le permitirá acceso a su cuenta.</p><p>**And** recibirá un mensaje indicando el error.</p><p></p><p>**Escenario 3: Bloqueo de sesión por exceso de intentos**</p><p>**Given** el criador/asesor desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Acceder”.</p><p>**When** introduzca sus credenciales incorrectamente.</p><p>**And** siga errando hasta alcanzar el número máximo de intentos permitidos (tres intentos).</p><p>**Then** recibirá un mensaje que le informe que ha excedido el número de intentos permitidos.</p><p>**And** su cuenta será bloqueada temporalmente.</p><p>**And** se le pedirá actualizar contraseña.</p>|E06|
+|US21|Recuperación de contraseña|**Como** usuario **quiero** poder recuperar mi contraseña **para** acceder a mi cuenta.|<p>**Escenario 1: Recuperación de contraseña**</p><p>**Given** el usuario olvidó su contraseña</p><p>**When** se dirija a la sección de “Inicio de sesión”</p><p>**And** seleccione “olvidé mi contraseña”</p><p>**And** coloque su correo vinculado a la cuenta.</p><p></p><p>**Then** se le enviará un correo para que cambie su contraseña.</p>|E06|
+|US22|Navbar y Footer|**Como** potencial usuario **quiero** navegar con facilidad **para** movilizarme a través de la página y conocer sobre la aplicación.|<p>**Escenario 1: Visualización de Navbar y Footer**</p><p>**Given** el usuario desea conocer sobre la aplicación.</p><p>**When** ingresa al Landing Page,</p><p>**Then** se mostrará el Navbar y Footer que permitirá al usuario navegar con facilidad.</p>|E07|
+|US23|Página de inicio|**Como** potencial usuario **quiero** acceder a una página de inicio **para** conocer la idea principal de la aplicación y ver un diseño agradable.|<p>**Escenario 1: Visualización de página de inicio**</p><p>**Given** el usuario desea conocer sobre la aplicación.</p><p>**When** ingresa al Landing Page.</p><p>**Then** se mostrará la página inicial sencilla que da a entender la idea principal.</p>|E07|
+|US24|Sección “Acerca De”|**Como** potencial usuario **quiero** acceder a una página sobre el problema que resuelve **para** conocer el propósito de la aplicación.|<p>**Escenario 1: Visualización de página Acerca De**</p><p>**Given** el usuario desea conocer sobre el problema que resuelve la aplicación</p><p>**When** ingresa al Landing Page</p><p>**And** ingresa a la sección Acerca De</p><p>**Then** se mostrará la página Acerca De, en la que se detalla la problemática que resolverá la aplicación.</p>|E07|
+|US25|Sección “Sobre Nosotros”|**Como** potencial usuario **quiero** acceder a una página sobre la startup **para** conocer el propósito de la empresa detrás de la aplicación.|<p>**Escenario 1: Visualización de página Sobre Nosotros**</p><p>**Given** el usuario desea conocer sobre la empresa detrás de la aplicación.</p><p>**When** ingresa al Landing Page</p><p>**And** ingresa a la sección Sobre Nosotros</p><p>**Then** se mostrará la página Sobre Nosotros, en la que detalla información sobre la startup, su misión y visión.</p>|E07|
+|US26|Sección “Características”|**Como** potencial usuario **quiero** acceder a una página sobre las características **para** conocer las principales funcionalidades de la aplicación.|<p>**Escenario 1: Visualización de página Características**</p><p>**Given** el usuario desea conocer sobre las características de la aplicación</p><p>**When** ingresa al Landing Page</p><p>**And** ingresa a la sección Características</p><p>**Then** se mostrará la página Características en la que detalla información sobre las funcionalidades principales que ofrece la aplicación.</p>|E07|
+|US27|Sección “Contacto”|**Como** potencial usuario **quiero** acceder a una página de contacto **para** poder contactar con la empresa en caso tenga algún problema, duda o sugerencia.|<p>**Escenario 1: Visualización de página Contacto**</p><p>**Given** el usuario desea contactar con el área de soporte de la empresa</p><p>**When** ingresa al Landing Page</p><p>**And** ingresa a la sección Contacto</p><p>**Then** se mostrará la página Contacto, en la que se muestra los medios de contacto que puede usar el usuario para hacer consultas.</p>|E07|
+
 ## 3.3. Impact Mapping
 **Segmento: Asesor**
 <img src="img/impactmap_1.png" alt="ImpactMap Asesor">
