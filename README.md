@@ -431,9 +431,16 @@ _Imagen 1. Logo de la aplicación AgroConnect_
 |Creemos que al promover prácticas agrícolas sostenibles y éticas en la crianza de cuyes en Lima a través de Agroconnect, los criadores adoptarán un enfoque más responsable con el medio ambiente.|
 | - |
 |Sabremos que esto es cierto…|
-|Cuando se establezcan conexiones con compradores y mercados a través de los asesores de AgroConnect, y evaluemos el impacto en las ventas de los criadores mediante un aumento del 25% en las ventas en los primeros 6 meses de uso de la aplicación.|
+|Cuando proporcionemos orientación y recursos específicos sobre prácticas sostenibles a través de AgroConnect y evaluemos la adopción de estas prácticas por parte de los criadores, viendo un aumento del 15% en el uso de prácticas sostenibles dentro de los primeros 6 meses de lanzamiento.|
 
 **Hypothesis Statement 3**
+
+|Creemos que al facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Lima a través de Agroconnect, los criadores aumentarán sus ventas y expandirán sus negocios.|
+| - |
+|Sabremos que esto es cierto…|
+|Cuando se establezcan conexiones con compradores y mercados a través de los asesores de AgroConnect, y evaluemos el impacto en las ventas de los criadores mediante un aumento del 25% en las ventas en los primeros 6 meses de uso de la aplicación.|
+
+**Hypothesis Statement 4**
 
 |Creemos que al facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Lima a través de Agroconnect, los criadores aumentarán sus ventas y expandirán sus negocios.|
 | - |
