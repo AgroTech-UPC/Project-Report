@@ -1672,26 +1672,74 @@ _Imagen 53. Wireframes de Notificaciones_
 ### 4.4.2 Web Applications Wireflow Diagrams
 Para usuario:
 <img src="img/usuario-wireflow-1.png" alt="Usuario - Wireflow 1">
+
+_Imagen 54. Wireflow - usuario - 1_
+
 <img src="img/usuario-wireflow-2.png" alt="Usuario - Wireflow 2">
+
+_Imagen 55. Wireflow - usuario - 2_
 
 Para asesor:
 <img src="img/asesor-wireflow-1.png" alt="Asesor - Wireflow 1">
+
+_Imagen 56. Wireflow - asesor - 1_
+
 <img src="img/asesor-wireflow-2.png" alt="Asesor - Wireflow 2">
+
+_Imagen 57. Wireflow - asesor - 2_
+
 <img src="img/asesor-wireflow-3.png" alt="Asesor - Wireflow 3">
+
+_Imagen 58. Wireflow - asesor - 3_
+
 <img src="img/asesor-wireflow-4.png" alt="Asesor - Wireflow 4">
+
+_Imagen 59. Wireflow - asesor - 4_
 
 Para criador:
 <img src="img/criador-wireflow-1.png" alt="Criador - Wireflow 1">
+
+_Imagen 60. Wireflow - criador - 1_
+
 <img src="img/criador-wireflow-2.png" alt="Criador - Wireflow 2">
+
+_Imagen 61. Wireflow - criador - 2_
+
 <img src="img/criador-wireflow-3.png" alt="Criador - Wireflow 3">
+
+_Imagen 62. Wireflow - criador - 3_
+
 <img src="img/criador-wireflow-4.png" alt="Criador - Wireflow 4">
+
+_Imagen 63. Wireflow - criador - 4_
+
 <img src="img/criador-wireflow-5.png" alt="Criador - Wireflow 5">
+
+_Imagen 64. Wireflow - criador - 5_
+
 <img src="img/criador-wireflow-6.png" alt="Criador - Wireflow 6">
+
+_Imagen 65. Wireflow - criador - 6_
+
 <img src="img/criador-wireflow-7.png" alt="Criador - Wireflow 7">
+
+_Imagen 66. Wireflow - criador - 7_
+
 <img src="img/criador-wireflow-8.png" alt="Criador - Wireflow 8">
+
+_Imagen 67. Wireflow - criador - 8_
+
 <img src="img/criador-wireflow-9.png" alt="Criador - Wireflow 9">
+
+_Imagen 68. Wireflow - criador - 9_
+
 <img src="img/criador-wireflow-10.png" alt="Criador - Wireflow 10">
+
+_Imagen 69. Wireflow - criador - 10_
+
 <img src="img/criador-wireflow-11.png" alt="Criador - Wireflow 11">
+
+_Imagen 70. Wireflow - criador - 11_
 
 ### 4.4.3 Web Applications Mock-ups
 
@@ -1700,81 +1748,158 @@ En este apartado, se muestran todos los mock-ups basados de los wireframes previ
 **Mock-ups de Inicio de sesión y Registro:** 
 <img src="img/Mockup1.png" alt = "Mock-ups de Inicio de sesión y Registro">
 
-_Imagen X. Mock-ups de Inicio de sesión y Registro_
+_Imagen 71. Mock-ups de Inicio de sesión y Registro_
 
 **Mock-ups de Mi Granja:**
 
 <img src="img/Mockup2.png" alt = "Mock-ups de Mi Granja">
 
-_Imagen X. Mock-ups de sección Mi Granja_
+_Imagen 72. Mock-ups de sección Mi Granja_
 
 **Mock-ups de Mis Animales - Jaulas:**
 
 <img src="img/Mockup3.png" alt = "Mock-ups de Mis animales - Jaulas">
 
-_Imagen X. Mock-ups de Mis animales - Jaulas_
+_Imagen 73. Mock-ups de Mis animales - Jaulas_
 
 **Mock-ups de Mis Animales - Jaulas:**
 
 <img src="img/Mockup4.png" alt = "Mock-ups de Mis animales - Cuyes">
 
-_Imagen X. Mock-ups de Mis animales - Cuyes_
+_Imagen 74. Mock-ups de Mis animales - Cuyes_
 
 **Mock-ups de Asesores - Citas:**
 
 <img src="img/Mockup5.png" alt = "Mock-ups de Asesores - Citas">
 
-_Imagen X. Mock-ups de Asesores - Citas_
+_Imagen 75. Mock-ups de Asesores - Citas_
 
 **Mock-ups de Asesores - Reseñas:**
 
 <img src="img/Mockup6.png" alt = "Mock-ups de Asesores - Reseñas">
 
-_Imagen X. Mock-ups de Asesores - Reseñas_
+_Imagen 76. Mock-ups de Asesores - Reseñas_
 
 **Mock-ups de Registro - Jaulas:**
 
 <img src="img/Mockup7.png" alt = "Mock-ups de Registro - Jaulas">
 
-_Imagen X. Mock-ups de Registro - Jaulas_
+_Imagen 77. Mock-ups de Registro - Jaulas_
 
 **Mock-ups de Registro - Cuyes:**
 
 <img src="img/Mockup8.png" alt = "Mock-ups de Registro - Cuyes">
 
-_Imagen X. Mock-ups de Registro - Cuyes_
+_Imagen 78. Mock-ups de Registro - Cuyes_
 
 **Mock-ups de Registro - Recursos:**
 
 <img src="img/Mockup9.png" alt = "Mock-ups de Registro - Recursos">
 
-_Imagen X. Mock-ups de Registro - Cuyes_
+_Imagen 79. Mock-ups de Registro - Cuyes_
 
 **Mock-ups de Notificaciones:**
 
 <img src="img/Mockup10.png" alt = "Mock-ups de Notificaciones">
 
-_Imagen X. Mock-ups de Notificaciones_
+_Imagen 80. Mock-ups de Notificaciones_
 
 **Mock-ups de Clientes:**
 
 <img src="img/Mockup11.png" alt = "Mock-ups de Clientes">
 
-_Imagen X. Mock-ups de Clientes_
+_Imagen 81. Mock-ups de Clientes_
 
 **Mock-ups de Publicaciones:**
 
 <img src="img/Mockup12.png" alt = "Mock-ups de Publicaciones">
 
-_Imagen X. Mock-ups de Publicaciones_
+_Imagen 82. Mock-ups de Publicaciones_
 
 **Mock-ups de Notificaciones:**
 
 <img src="img/Mockup13.png" alt = "Mock-ups de Notificaciones">
 
-_Imagen X. Mock-ups de Notificaciones_
+_Imagen 83. Mock-ups de Notificaciones_
 
 ### 4.4.4 Web Applications User Flow Diagrams
+
+Cabe mencionar que los happy paths son representados por cuadros amarillos, mientras que los unhappy paths se identifican por los cuadros con tonalidad rojiza.
+
+**Para usuario:**
+
+<img src="img/userflow1.png" alt = "userflow 1">
+
+_Imagen 84. usuario - inicio sesion_
+
+<img src="img/userflow3.png" alt = "userflow 3">
+
+_Imagen 85. usuario - recuperar contraseña_
+
+**Para asesor:**
+
+<img src="img/userflow2.png" alt = "userflow 2">
+
+_Imagen 86. asesor - registro_
+
+<img src="img/userflow4.png" alt = "userflow 4">
+
+_Imagen 87. asesor - visualizar clientes_
+
+<img src="img/userflow5.png" alt = "userflow 5">
+
+_Imagen 88. asesor - crear publicaciones_
+
+<img src="img/userflow6.png" alt = "userflow 6">
+
+_Imagen 89. asesor - recibir notificaciones_
+
+**Para criador:**
+
+<img src="img/userflow7.png" alt = "userflow 7">
+
+_Imagen 90. criador - registrar jaulas_
+
+<img src="img/userflow8.png" alt = "userflow 8">
+
+_Imagen 91. criador - registrar cuyes_
+
+<img src="img/userflow9.png" alt = "userflow 9">
+
+_Imagen 92. criador - registrar gastos_
+
+<img src="img/userflow10.png" alt = "userflow 10">
+
+_Imagen 93. criador - registrar recursos_
+
+<img src="img/userflow11.png" alt = "userflow 11">
+
+_Imagen 94. criador - modificar informacion jaulas_
+
+<img src="img/userflow12.png" alt = "userflow 12">
+
+_Imagen 95. criador - eliminar jaulas_
+
+<img src="img/userflow13.png" alt = "userflow 13">
+
+_Imagen 96. criador - ver en que jaulas pertencen cuyes_
+
+<img src="img/userflow14.png" alt = "userflow 14">
+
+_Imagen 97. criador - eliminar registro cuy_
+
+<img src="img/userflow15.png" alt = "userflow 15">
+
+_Imagen 98. criador - editar registro cuy_
+
+<img src="img/userflow16.png" alt = "userflow 16">
+
+_Imagen 99. criador - buscar asesores_
+
+<img src="img/userflow17.png" alt = "userflow 17">
+
+_Imagen 100. criador - calificar asesoria_
+ 
 
 ## 4.5 Web Applications Prototyping
 
@@ -2031,78 +2156,78 @@ En esta sección, se mostrará lo avanzado en el primer sprint, el cual se basa 
 
 <img src="img/evidence_landing_page_1.jpg" width="100%"> 
 
-_Imagen 29. evidencia landing page 1_
+_Imagen 101. evidencia landing page 1_
 
 
 Navbar: fue implementada para que sea responsive y las secciones pasen a un menú lateral en caso de ser necesario.
 
 <img src="img/evidence_landing_page_2.jpg" width="100%"> 
 
-_Imagen 30. navbar 1_
+_Imagen 102. navbar 1_
 
 <img src="img/evidence_landing_page_3.jpg" width="100%"> 
 
-_Imagen 31. navbar 2_
+_Imagen 103. navbar 2_
 
 Footer: al igual que el navbar, se implementó para acomodarse acorde al tamaño de la ventana.
 
 <img src="img/evidence_landing_page_4.jpg" width="100%"> 
 
-_Imagen 32. footer 1_
+_Imagen 104. footer 1_
 
 <img src="img/evidence_landing_page_5.jpg" width="100%"> 
 
-_Imagen 33. footer 2_
+_Imagen 105. footer 2_
 
 Página de inicio:
 
 <img src="img/evidence_landing_page_6.jpg" width="100%"> 
 
-_Imagen 34. pagina de inicio 1_
+_Imagen 106. pagina de inicio 1_
 
 <img src="img/evidence_landing_page_7.jpg" width="100%"> 
 
-_Imagen 35. pagina de inicio 2_
+_Imagen 107. pagina de inicio 2_
 
 Sección “Acerca De”:
 
 <img src="img/evidence_landing_page_8.jpg" width="100%"> 
 
-_Imagen 36. seccion "Acerca de" 1_
+_Imagen 108. seccion "Acerca de" 1_
 
 <img src="img/evidence_landing_page_9.jpg" width="100%"> 
 
-_Imagen 37. seccion "Acerca de" 2_
+_Imagen 109. seccion "Acerca de" 2_
 
 Sección “Sobre Nosotros”:
 
 <img src="img/evidence_landing_page_10.jpg" width="100%"> 
 
-_Imagen 38. seccion "Sobre Nosotros" 1_
+_Imagen 110. seccion "Sobre Nosotros" 1_
 
 <img src="img/evidence_landing_page_11.jpg" width="100%">
 
-_Imagen 39. seccion "Sobre Nosotros" 2_
+_Imagen 111. seccion "Sobre Nosotros" 2_
 
 Sección “Características”: 
 
 <img src="img/evidence_landing_page_12.jpg" width="100%"> 
 
-_Imagen 40. seccion "Caracteristicas" 1_
+_Imagen 112. seccion "Caracteristicas" 1_
 
 <img src="img/evidence_landing_page_13.jpg" width="100%"> 
 
-_Imagen 41. seccion "Caracteristicas" 2_
+_Imagen 113. seccion "Caracteristicas" 2_
 
 Sección “Contacto”:
 
 <img src="img/evidence_landing_page_14.jpg" width="100%"> 
 
-_Imagen 42. seccion "Contacto" 1_
+_Imagen 114. seccion "Contacto" 1_
 
 <img src="img/evidence_landing_page_15.jpg" width="100%"> 
 
-_Imagen 43. seccion "Contacto" 2_
+_Imagen 115. seccion "Contacto" 2_
 
 ### 5.2.1.6. Execution Evidence for Sprint Review.
 
@@ -2118,23 +2243,23 @@ Para lograr hacer el deployment, entramos a la configuración del repositorio y 
 
 <img src="img/github-pages.jpg" width="100%"> 
 
-_Imagen 44. github - pages - 1_
+_Imagen 116. github - pages - 1_
 
 Escogimos la rama main, ya que es la rama principal sobre la cual se guarda la versión final para hacer el deployment. Una vez se escoge, se guardan los cambios.
 
 <img src="img/github-pages-1.jpg" width="100%"> 
 
-_Imagen 45. github - pages - 2_
+_Imagen 116. github - pages - 2_
 
 Finalmente, solo se espera a que GitHub cree la página y nos brinde el enlace.
 
 <img src="img/github-pages-2.jpg" width="100%"> 
 
-_Imagen 46. github - pages - 3_
+_Imagen 117. github - pages - 3_
 
 <img src="img/github-pages-3.jpg" width="100%"> 
 
-_Imagen 47. github - pages - 4_
+_Imagen 118. github - pages - 4_
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -2142,7 +2267,7 @@ En la elaboración de la landing page, todos los integrantes realizaron commits 
 
 <img src="img/commits-landing-page.jpg" width="100%"> 
 
-_Imagen 48. commits - landing-page_
+_Imagen 119. commits - landing-page_
 
 La división de trabajo para lograr la implementación fue por secciones en las cuales cada miembro realizó una sección de la landing page:
 
@@ -2160,7 +2285,7 @@ Cada sección tuvo su rama con el formato ‘feature/sección’
 
 <img src="img/feature-seccion.jpg" width="100%">
 
-_Imagen 49. feature-seccion_
+_Imagen 120. feature-seccion_
 
 # Bibliografía
 
@@ -2187,7 +2312,7 @@ Ministerio de Desarrollo Agrario y Riego. (2023). Cadena Productiva de Cuy. Recu
 
 <img src="img/grafico-anexo.png">
 
-_Imagen 50. grafico - anexo_
+_Imagen 121. grafico - anexo_
 
 Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
 
@@ -2195,7 +2320,7 @@ Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20pro
 
 <img src="img/cuadro-anexo.png">
 
-_Imagen 51. cuadro - anexo_
+_Imagen 122. cuadro - anexo_
 
 ## Anexo N°3: Web Style Guidelines
 
