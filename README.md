@@ -1850,53 +1850,53 @@ _Imagen 87. asesor - visualizar clientes_
 
 _Imagen 88. asesor - crear publicaciones_
 
-<img src="img/userflow6png" alt = "userflow 6">
+<img src="img/userflow6.png" alt = "userflow 6">
 
 _Imagen 89. asesor - recibir notificaciones_
 
 **Para criador:**
 
-<img src="img/userflow7png" alt = "userflow 7">
+<img src="img/userflow7.png" alt = "userflow 7">
 
 _Imagen 90. criador - registrar jaulas_
 
-<img src="img/userflow8png" alt = "userflow 8">
+<img src="img/userflow8.png" alt = "userflow 8">
 
 _Imagen 91. criador - registrar cuyes_
 
-<img src="img/userflow9png" alt = "userflow 9">
+<img src="img/userflow9.png" alt = "userflow 9">
 
 _Imagen 92. criador - registrar gastos_
 
-<img src="img/userflow10png" alt = "userflow 10">
+<img src="img/userflow10.png" alt = "userflow 10">
 
 _Imagen 93. criador - registrar recursos_
 
-<img src="img/userflow11png" alt = "userflow 11">
+<img src="img/userflow11.png" alt = "userflow 11">
 
 _Imagen 94. criador - modificar informacion jaulas_
 
-<img src="img/userflow12png" alt = "userflow 12">
+<img src="img/userflow12.png" alt = "userflow 12">
 
 _Imagen 95. criador - eliminar jaulas_
 
-<img src="img/userflow13png" alt = "userflow 13">
+<img src="img/userflow13.png" alt = "userflow 13">
 
 _Imagen 96. criador - ver en que jaulas pertencen cuyes_
 
-<img src="img/userflow14png" alt = "userflow 14">
+<img src="img/userflow14.png" alt = "userflow 14">
 
 _Imagen 97. criador - eliminar registro cuy_
 
-<img src="img/userflow15png" alt = "userflow 15">
+<img src="img/userflow15.png" alt = "userflow 15">
 
 _Imagen 98. criador - editar registro cuy_
 
-<img src="img/userflow16png" alt = "userflow 16">
+<img src="img/userflow16.png" alt = "userflow 16">
 
 _Imagen 99. criador - buscar asesores_
 
-<img src="img/userflow17png" alt = "userflow 17">
+<img src="img/userflow17.png" alt = "userflow 17">
 
 _Imagen 100. criador - calificar asesoria_
  
