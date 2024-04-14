@@ -182,11 +182,67 @@ ABET – EAC - Student Outcome 3
 
 Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
 
-|**Criterio específico**|**Acciones realizadas**|**Conclusiones**|
-| :- | :- | :- |
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Delgado Corrales, Piero Gonzalo**</p><p>**TB1:**</p><p>En esta primera entrega, se desarrolló la idea de negocio. Para lograr esto, en lo personal tuve que realizar entrevista a un criador de cuyes para obtener mayores especificaciones sobre el problema a tratar. Del mismo modo, comunique oralmente las ideas del diseño de la aplicación web y de los diagramas de arquitectura de software mediante el proyecto.</p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p>Se enfocó principalmente en el diseño y desarrollo del producto, destacando el diseño de la landing page, guías de estilo, historias de usuario y la base de datos. Se priorizó que el diseño fuera intuitivo y atractivo para los usuarios, mientras cumplía con los requisitos. Esta labor fue fundamental para garantizar que el producto final satisficiera las necesidades de los usuarios y las demandas del mercado de manera efectiva.</p><p>**Paredes Puente, Sebastián Roberto**</p><p>**TB1:**</p><p>Se puso especial énfasis en el diseño y desarrollo del producto, concentrándose en la sección “Acerca de” de la landing page, user stories, user personas y scenario mapping. Esta labor fue esencial para asegurar que el producto final cumpliera efectivamente con las necesidades de los usuarios, al delimitar las user stories, y las exigencias del mercado. Además, se llevó a cabo una investigación inicial para conocer opiniones de algunos expertos en el tema, por ello se realizó entrevistas con personas clave de nuestros segmentos objetivo, lo que facilitó el trabajo en equipo y el avance del proyecto.</p><p>**Salinas Torres, Salvador Antonio**</p><p>**TB1:**</p><p>En este primer avance, primero identificamos la problemática y realizamos la investigación necesaria para identificar los requisitos que nuestra aplicación final abarca. Para ello, realizamos entrevistas de forma oral con personas de nuestros segmentos objetivo para conocer sus principales necesidades y ponernos un poco mejor en su perspectiva. Gracias a estas, es que el desarrollo del trabajo fue fluido, ya que luego en grupo nos reunimos y fuimos avanzando, realizando recomendaciones y resolviendo dudas sobre nuestros objetivos como startup.</p><p>**Valverde Mozo, Andre Gabriel**</p><p>**TB1:**</p><p>En la fase inicial, investigamos a fondo las necesidades de nuestros usuarios mediante entrevistas directas. Esto facilitó el progreso del trabajo en equipo al ofrecer recomendaciones y aclarar dudas. Luego, nos centramos en el diseño y desarrollo del producto, priorizando un diseño intuitivo y atractivo que cumpliera con los requisitos establecidos y satisficiera las demandas del mercado.</p>|**TB1:** <p>En conclusión, a través de un enfoque meticuloso, nos aseguramos de definir claramente los requisitos del proyecto, crear un diseño robusto y funcional, llevar a cabo un desarrollo cuidadoso y exhaustivo, y realizar pruebas rigurosas para garantizar la calidad y fiabilidad del producto. Parte de este proceso de definición fueron las entrevistas en las cuales nos comunicamos con nuestros segmentos objetivo para definir mejor la problemática y las funcionalidades que ayudarán a solucionarla. Estos hallazgos se vieron reflejados en la exposición del primer avance donde explicamos a detalle todos los aspectos desarrollados durante la primera entrega.</p>|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Delgado Corrales, Piero Gonzalo**</p><p>**TB1:**</p><p>Durante esta primera entrega, comunique de forma escrita mis ideas mediante la realización del informe del trabajo en Github con el lenguaje Markdown. Asimismo, mostré los resultados de las entrevistas mediante tablas y gráficos que mostraban con objetividad los hallazgos obtenidos.</p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p>Se facilitó una comunicación clara y precisa sobre el diseño y desarrollo del producto a través de diferentes áreas, incluyendo el diseño de las guías de estilo, las historias de usuario y el diseño de la base de datos. Esta comunicación efectiva fue esencial para mantener informados a todos los miembros del equipo, independientemente de su nivel de experiencia técnica, y promovió una colaboración exitosa.</p><p>**Paredes Puente, Sebastián Roberto**</p><p>**TB1:**</p><p>Me concentré en comunicar mis ideas y avances a través de un informe escrito, lo cual resultó fundamental para transmitir claramente los detalles del diseño y desarrollo del producto. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso utilizando lenguaje Markdown, asegurando así un informe completo y fácil de entender.</p><p>**Salinas Torres, Salvador Antonio**</p><p>**TB1:**</p><p>Durante el desarrollo de este primer sprint, realice la documentación de forma escrita con todos los puntos requeridos a lo largo del proyecto. Así como establecer las convenciones de estilo y configuración de sistema de software, los cuales son importantes ya que de estos es que se basará el desarrollo del proyecto hasta su fin.</p><p>**Valverde Mozo, Andre Gabriel**</p><p>**TB1:**</p><p>Al inicio del proyecto, me concentré en comunicar mis ideas y avances a través del informe escrito. Este informe fue esencial para transmitir claramente los detalles del diseño y desarrollo del producto, asegurando que todos los miembros del equipo estuvieran al tanto de nuestros progresos y facilitando una colaboración efectiva. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso, garantizando un registro completo y accesible para todos los involucrados en el proyecto.</p>|**TB1:** <p>En conclusión, para esta primera entrega nos comunicamos de forma escrita mediante nuestro informe en el cual desarrollamos nuestra idea de negocio utilizando convenciones para facilitar la comprensión del proceso. Asimismo, la comunicación directa entre los miembros del equipo fue clave para la resolución de problemas y planificación de plazos para alcanzar los objetivos planteados.</p>|
+<table>
+  <thead>
+    <tr>
+      <th><strong>Criterio específico</strong></th>
+      <th><strong>Acciones realizadas</strong></th>
+      <th><strong>Conclusiones</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+      <td>
+        <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
+        <p><strong>TB1:</strong></p>
+        <p>En esta primera entrega, se desarrolló la idea de negocio. Para lograr esto, en lo personal tuve que realizar entrevista a un criador de cuyes para obtener mayores especificaciones sobre el problema a tratar. Del mismo modo, comunique oralmente las ideas del diseño de la aplicación web y de los diagramas de arquitectura de software mediante el proyecto.</p>
+        <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
+        <p><strong>TB1:</strong></p>
+        <p>Se enfocó principalmente en el diseño y desarrollo del producto, destacando el diseño de la landing page, guías de estilo, historias de usuario y la base de datos. Se priorizó que el diseño fuera intuitivo y atractivo para los usuarios, mientras cumplía con los requisitos. Esta labor fue fundamental para garantizar que el producto final satisficiera las necesidades de los usuarios y las demandas del mercado de manera efectiva.</p>
+        <p><strong>Paredes Puente, Sebastián Roberto</strong></p>
+        <p><strong>TB1:</strong></p>
+        <p>Se puso especial énfasis en el diseño y desarrollo del producto, concentrándose en la sección “Acerca de” de la landing page, user stories, user personas y scenario mapping. Esta labor fue esencial para asegurar que el producto final cumpliera efectivamente con las necesidades de los usuarios, al delimitar las user stories, y las exigencias del mercado. Además, se llevó a cabo una investigación inicial para conocer opiniones de algunos expertos en el tema, por ello se realizó entrevistas con personas clave de nuestros segmentos objetivo, lo que facilitó el trabajo en equipo y el avance del proyecto.</p>
+        <p><strong>Salinas Torres, Salvador Antonio</strong></p>
+        <p><strong>TB1:</strong></p>
+        <p>En este primer avance, primero identificamos la problemática y realizamos la investigación necesaria para identificar los requisitos que nuestra aplicación final abarca. Para ello, realizamos entrevistas de forma oral con personas de nuestros segmentos objetivo para conocer sus principales necesidades y ponernos un poco mejor en su perspectiva. Gracias a estas, es que el desarrollo del trabajo fue fluido, ya que luego en grupo nos reunimos y fuimos avanzando, realizando recomendaciones y resolviendo dudas sobre nuestros objetivos como startup.</p>
+        <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
+        <p><strong>TB1:</strong></p>
+        <p>En la fase inicial, investigamos a fondo las necesidades de nuestros usuarios mediante entrevistas directas. Esto facilitó el progreso del trabajo en equipo al ofrecer recomendaciones y aclarar dudas. Luego, nos centramos en el diseño y desarrollo del producto, priorizando un diseño intuitivo y atractivo que cumpliera con los requisitos establecidos y satisficiera las demandas del mercado.</p>
+      </td>
+      <td>
+        <p><strong>TB1:</strong></p>
+        <p>En conclusión, a través de un enfoque meticuloso, nos aseguramos de definir claramente los requisitos del proyecto, crear un diseño robusto y funcional, llevar a cabo un desarrollo cuidadoso y exhaustivo, y realizar pruebas rigurosas para garantizar la calidad y fiabilidad del producto. Parte de este proceso de definición fueron las entrevistas en las cuales nos comunicamos con nuestros segmentos objetivo para definir mejor la problemática y las funcionalidades que ayudarán a solucionarla. Estos hallazgos se vieron reflejados en la exposición del primer avance donde explicamos a detalle todos los aspectos desarrollados durante la primera entrega.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+      <td>
+        <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
+        <p><strong>TB1:</strong></p>
+        <p>Durante esta primera entrega, comunique de forma escrita mis ideas mediante la realización del informe del trabajo en Github con el lenguaje Markdown. Asimismo, mostré los resultados de las entrevistas mediante tablas y gráficos que mostraban con objetividad los hallazgos obtenidos.</p>
+        <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
+        <p><strong>TB1:</strong></p>
+        <p>Se facilitó una comunicación clara y precisa sobre el diseño y desarrollo del producto a través de diferentes áreas, incluyendo el diseño de las guías de estilo, las historias de usuario y el diseño de la base de datos. Esta comunicación efectiva fue esencial para mantener informados a todos los miembros del equipo, independientemente de su nivel de experiencia técnica, y promovió una colaboración exitosa.</p>
+        <p><strong>Paredes Puente, Sebastián Roberto</strong></p>
+        <p><strong>TB1:</strong></p>
+        <p>Me concentré en comunicar mis ideas y avances a través de un informe escrito, lo cual resultó fundamental para transmitir claramente los detalles del diseño y desarrollo del producto. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso utilizando lenguaje Markdown, asegurando así un informe completo y fácil de entender.</p>
+        <p><strong>Salinas Torres, Salvador Antonio</strong></p>
+        <p><strong>TB1:</strong></p>
+        <p>Durante el desarrollo de este primer sprint, realice la documentación de forma escrita con todos los puntos requeridos a lo largo del proyecto. Así como establecer las convenciones de estilo y configuración de sistema de software, los cuales son importantes ya que de estos es que se basará el desarrollo del proyecto hasta su fin.</p>
+        <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
+        <p><strong>TB1:</strong></p>
+        <p>Al inicio del proyecto, me concentré en comunicar mis ideas y avances a través del informe escrito. Este informe fue esencial para transmitir claramente los detalles del diseño y desarrollo del producto, asegurando que todos los miembros del equipo estuvieran al tanto de nuestros progresos y facilitando una colaboración efectiva. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso, garantizando un registro completo y accesible para todos los involucrados en el proyecto.</p>
+      </td>
+      <td>
+        <p><strong>TB1:</strong></p>
+        <p>En conclusión, para esta primera entrega nos comunicamos de forma escrita mediante nuestro informe en el cual desarrollamos nuestra idea de negocio utilizando convenciones para facilitar la comprensión del proceso. Asimismo, la comunicación directa entre los miembros del equipo fue clave para la resolución de problemas y planificación de plazos para alcanzar los objetivos planteados.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+<br>
 
 # Capítulo I: Introducción
 
@@ -217,73 +273,64 @@ _Imagen 1. Logo de la aplicación AgroConnect_
 
 <table>
   <tr>
-    <th colspan="1" rowspan="2">
+    <th>
       <img src="img/piero_perfil.jpg" alt="Foto de perfil de Piero" width="800px">
     </th>
-    <td colspan="1" rowspan="2" valign="top">
+    <td valign="top">
       <p><b>Delgado Corrales, Piero Gonzalo</b></p>
       <p>
         Actualmente estoy en el quinto ciclo de Ingeniería de Software. Poseo destrezas en programación en C++, así como conocimientos en estructuras de datos y sus aplicaciones. Recientemente, he adquirido habilidades en diseño web utilizando HTML, CSS y herramientas como Figma. Soy una persona responsable y me esfuerzo por mantener una organización óptima para gestionar eficazmente las entregas de trabajos.
       </p>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <th colspan="1" rowspan="2">
+    <th>
       <img src="img/salvador_perfil.jpg" alt="Foto de perfil de Salvador" width="800px">
     </th>
-    <td colspan="1" rowspan="2" valign="top">
+    <td valign="top">
       <p><b>Salinas Torres, Salvador Antonio</b></p>
       <p>
         Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Poseo conocimientos en programación orientada a objetos en C++ y Python, desarrollo web usando HTML, CSS y JavaScript, y gestión de base de datos en SQL Server. Considero que soy una persona responsable y siempre organizo el tiempo para hacerlos tranquilamente antes de la fecha de entrega.
       </p>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <th colspan="1" rowspan="2">
+    <th>
       <img src="img/nadia_perfil.png" alt="Foto de perfil de Nadia" width="800px">
     </th>
-    <td colspan="1" rowspan="2" valign="top">
+    <td valign="top">
       <p><b>Lucas Coronel, Nadia Alessandra</b></p>
       <p>
         Mi nombre es Nadia Alessandra Lucas Coronel y soy estudiante del sexto ciclo de la carrera de Ingeniería de Software. Me considero una persona entusiasta, perseverante y responsable. Cuento con conocimientos en SQL, C++, Python, HTML, CSS, JavaScript y metodologías ágiles. Me comprometo a aplicar mis conocimientos de manera efectiva para contribuir al desarrollo de soluciones de software de alta calidad.
       </p>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <th colspan="1" rowspan="2">
+    <th>
       <img src="img/sebastian_perfil.png" alt="Foto de perfil de Sebastian" width="800px">
     </th>
-    <td colspan="1" rowspan="2" valign="top">
+    <td valign="top">
       <p><b>Paredes Puente, Sebastian Roberto</b></p>
       <p>
-        Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Dentro de mi experiencia, destaco la capacidad de analizar información y programar en lenguaje C + +. Además, he completado cursos en Python, SQL Server y HTML. En cuanto a mis habilidades interpersonales, cuento con adaptabilidad, pensamiento creativo, trabajo en equipo, gestión del tiempo y capacidad analítica para resolver problemas.
+        Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Dentro de mi experiencia, destaco la capacidad de analizar información y programar en lenguaje C++. Además, he completado cursos en Python, SQL Server y HTML. En cuanto a mis habilidades interpersonales, cuento con adaptabilidad, pensamiento creativo, trabajo en equipo, gestión del tiempo y capacidad analítica para resolver problemas.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="img/andre_perfil.png" alt="Foto de perfil de Andre" width="700px">
+    </th>
+    <td valign="top">
+      <p><b>Valverde Mozo, Andre Gabriel</b></p>
+      <p>
+        Mi perfil se basa en ser alguien que busca soluciones creativas a todo problema. Considero que tengo una buena capacidad de análisis de problemas y un pensamiento rápido en dichos casos. Me encanta todo lo que es la programación ya que es una forma de arte para mí, solo que lo puedo hacer realidad frente a mis ojos.
       </p>
     </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <th colspan="1" rowspan="2">
-      <img src="img/andre_perfil.png" alt="Foto de perfil de Sebastian" width="800px">
-    </th>
-    <td colspan="1" rowspan="2" valign="top">
-      <p><b>Valverde Mozo, Andre Gabriel</b></p>
-      <p>
-        Mi perfil se basa en ser alguien que busca soluciones creativas a todo problema, todo es posible al fin y al cabo. Considero que tengo una buena capacidad de análisis de problemas y un pensamiento rápido en dichos casos. Me encanta todo lo que es la programación ya que es una forma de arte para mi, solo que lo puedo hacer realidad frente a mis ojos.
-      </p>
-    </td>
-  </tr>
-</table>
+
+<br>
 
 ## 1.2. Solution Profile
 
@@ -948,12 +995,12 @@ _Imagen 16. Empathy Map - Criador_
 
 En esta sección, se definirán términos utilizados a lo largo del proyecto para que se pueda comprender para todos los miembros del equipo y agentes interesados. 
 
-- **Guinea pig breeder** (Criador de cuyes):** Persona dedicada a la crianza y producción de cuyes con el fin de obtener carne y otros productos derivados de estos animales.
+- **Guinea pig breeder** (Criador de cuyes): Persona dedicada a la crianza y producción de cuyes con el fin de obtener carne y otros productos derivados de estos animales.
 - **Ganadero** (Rancher): Individuo dedicado a la crianza de animales. En este contexto, es otra forma de llamar a los criadores de cuyes, pero de forma más general. Los ganaderos son responsables del cuidado diario de los cuyes, incluida la alimentación, el manejo del hábitat y la reproducción.
 - **Advisor** (Asesor): En el contexto del proyecto, es una persona con experiencia y conocimientos especializados en la crianza de cuyes y prácticas agrícolas relacionadas. Su papel es brindar apoyo personalizado para resolver desafíos específicos que enfrentan los criadores en el cuidado de los cuyes.
-- **Guinea pig farm** (Granja de cuyes):** Instalación destinada a la cría y manejo de cuyes, equipada con las infraestructuras necesarias para su cuidado y reproducción.
-- **Animal welfare** (Bienestar animal):** Estado de salud física y psicológica de los cuyes que garantiza su crecimiento óptimo, garantizado mediante prácticas de crianza adecuadas que respetan sus necesidades naturales.
-- **Sustainable agricultural practices** (Prácticas agrícolas sostenibles):** Técnicas y métodos de producción que preservan los recursos naturales y minimizan el impacto ambiental negativo, contribuyendo a la conservación a largo plazo del medio ambiente y los ecosistemas.
+- **Guinea pig farm** (Granja de cuyes): Instalación destinada a la cría y manejo de cuyes, equipada con las infraestructuras necesarias para su cuidado y reproducción.
+- **Animal welfare** (Bienestar animal): Estado de salud física y psicológica de los cuyes que garantiza su crecimiento óptimo, garantizado mediante prácticas de crianza adecuadas que respetan sus necesidades naturales.
+- **Sustainable agricultural practices** (Prácticas agrícolas sostenibles): Técnicas y métodos de producción que preservan los recursos naturales y minimizan el impacto ambiental negativo, contribuyendo a la conservación a largo plazo del medio ambiente y los ecosistemas.
 
 - **Self-sustainable** (Auto-sustentable): En el contexto de la crianza de cuyes, se refiere a la práctica de consumir los cuyes criados en la granja principalmente para satisfacer las necesidades alimenticias de los criadores y sus familias. En lugar de venderlos para generar ingresos adicionales.
 
@@ -1047,7 +1094,7 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
         <td rowspan="4" valign="top"><b>E03</b></td>
         <td rowspan="4" valign="top">Sistema integral de registro y seguimiento animal</td>
         <td valign="top">US11</td>
-        <td valign="top">Registro de galpones de cuyes</td>
+        <td valign="top">Registro de jaulas de cuyes</td>
     </tr>
     <tr>
         <td valign="top">US12</td>
@@ -1135,8 +1182,8 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |US08|Calificación del asesor|**Como** criador de cuyes **quiero** calificar al asesor luego de consulta **para** ayudar a otros criadores a tomar una decisión informada antes de separar una cita.|<p>**Escenario 1: Calificar al asesor**</p><p>**Given** el criador desea hacer un feedback referente al servicio del asesor.</p><p>**And** se encuentra en la vista de calificación del servicio.</p><p>**When** haga clic en el botón “Calificar Servicio”</p><p>**Then** el sistema le permitirá asignarle un número de estrellas y reseñar el servicio del asesor.</p><p></p><p>**Escenario 2: Omitir Calificación**</p><p>**Given** el criador no desea dar feedback al asesor referente al servicio.</p><p>**And** se encuentra en la vista de calificación del servicio.</p><p>**When** haga clic en el botón “Omitir calificación”</p><p>**Then** el sistema le permitirá omitir la reseña.</p>|E01|
 |US09|Publicación del asesor|**Como** asesor **quiero** hacer publicaciones referentes a mis trabajos **para** que los criadores tengan más confianza en mí.|<p>**Escenario 1: Crear una nueva publicación**</p><p>**Given** el asesor desea crear una publicación.</p><p>**And** está en el apartado de "Mis Publicaciones".</p><p>**When** hace clic en el botón "Crear Publicación" de la Sidebar.</p><p>**Then** se le redirige a un formulario donde puede ingresar el contenido de su nueva publicación.</p><p>**And** después de completar el contenido, hace clic en el botón "Publicar".</p><p>**Then** el sistema le mostrará un mensaje de confirmación.</p><p></p><p>**Escenario 2: Editar una publicación existente**</p><p>**Given** el asesor desea editar una publicación existente.</p><p>**And** está en el apartado de "Mis Publicaciones" de la Sidebar.</p><p>**And** tiene una publicación previamente creada.</p><p>**When** selecciona la opción de editar en la publicación que desea modificar.</p><p>**Then** se le redirige al formulario de edición donde puede modificar el contenido de la publicación.</p><p>**And** después de realizar los cambios deseados, hace clic en el botón "Guardar Cambios".</p><p>**Then** el sistema le mostrará un mensaje de confirmación y los cambios se reflejan en la publicación actualizada.</p><p></p><p>**Escenario 3: Eliminar una publicación existente**</p><p>**Given** el asesor desea eliminar una publicación existente.</p><p>**And** está en el apartado de "Mis Publicaciones" de la Sidebar.</p><p>**And** tiene una publicación previamente creada.</p><p>**When** selecciona la opción de eliminar en la publicación que desea borrar.</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, la publicación se elimina de su perfil y ya no está disponible para los criadores.</p>|E02|
 |US10|Visualización de publicaciones de los asesores|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|<p>**Escenario 1: Visualizar publicaciones de asesores**</p><p>**Given** el criador desea ver las publicaciones de la comunidad</p><p>**When** haga clic en el botón “Publicaciones” de la Sidebar.</p><p>**Then** el sistema le mostrará una lista de las últimas publicaciones de la comunidad de asesores.</p><p></p><p>**Escenario 2: Filtrar publicaciones de asesores por fecha**</p><p>**Given** el criador desea ver las publicaciones de la comunidad de un tiempo en específico como “esta semana”, “este mes” o ingresar una fecha en específico.</p><p>**And** se encuentra visualizando las publicaciones.</p><p>**When** haga clic en el ícono de filtro.</p><p>**Then** el sistema le permitirá filtrar las publicaciones por el parámetro elegido.</p>|E02|
-|US11|Registro de galpones de cuyes|**Como** criador de cuyes **quiero** poder registrar un galpón en la plataforma **para** poder almacenar y gestionar mis cuyes de manera efectiva, garantizando su seguridad y bienestar.|<p>**Escenario 1: Registro exitoso del galpón**</p><p>**Given** que el criador desea registrar su galón.</p><p>**And** se encuentra en el apartado "Registro".</p><p>**When** haga clic en el botón "Registrar Galpón".</p><p>**And** completa el formulario con la información requerida del galpón.</p><p>**And** hace clic en el botón "Registrar Galpón".</p><p>**Then** el sistema le mostrará un mensaje del registro exitoso del galpón.</p><p></p><p>**Escenario 2: Eliminar galpón**</p><p>**Given** que el criador desea eliminar su galón.</p><p>**And** se encuentra en un galpón del apartado "Mis Animales".</p><p>**When** haga clic en el botón "Borrar".</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, el galpón se elimina.</p>|E03|
-|US12|Registro de animal|**Como** criador de cuyes **quiero** contar con un sistema de registro de animales **para** almacenar información básica sobre cada animal, incluyendo su número de identificación, especie, raza, género y fecha de nacimiento.|<p>**Escenario 1: Registrar un nuevo animal**</p><p>**Given** el criador desea registrar un cuy en su galpón.</p><p>**And** se encuentra en el apartado de “Registro”.</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And** ingresa la información básica del animal, incluyendo su número de identificación, número de galpón, especie, raza, género, fecha de nacimiento o edad y el galpón en donde se va a encontrar.</p><p>**And** haga clic “Registrar”</p><p>**Then** el sistema le mostrará una confirmación del registro.</p><p></p><p>**Escenario 2: Fallar en el registro de animal**</p><p>**Given** el criador desea registrar un cuy en su galpón.</p><p>**And** se encuentra en el apartado de “Registro”.</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And i**ntenta ingresar la información del animal pero deja en blanco algunos campos obligatorios para el registro**.**</p><p>**And** haga clic “Registrar”.</p><p>**Then** el sistema le mostrará un mensaje de error.</p>|E03|
+|US11|Registro de jaulas de cuyes|**Como** criador de cuyes **quiero** poder registrar una jaula en la plataforma **para** poder almacenar y gestionar mis cuyes de manera efectiva, garantizando su seguridad y bienestar.|<p>**Escenario 1: Registro exitoso de la jaula**</p><p>**Given** que el criador desea registrar su galón.</p><p>**And** se encuentra en el apartado "Registro".</p><p>**When** haga clic en el botón "Registrar Jaula".</p><p>**And** completa el formulario con la información requerida de la jaula.</p><p>**And** hace clic en el botón "Registrar Jaula".</p><p>**Then** el sistema le mostrará un mensaje del registro exitoso de la jaula.</p><p></p><p>**Escenario 2: Eliminar jaula**</p><p>**Given** que el criador desea eliminar su galón.</p><p>**And** se encuentra en una jaula del apartado "Mis Animales".</p><p>**When** haga clic en el botón "Borrar".</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, la jaula se elimina.</p>|E03|
+|US12|Registro de animal|**Como** criador de cuyes **quiero** contar con un sistema de registro de animales **para** almacenar información básica sobre cada animal, incluyendo su número de identificación, especie, raza, género y fecha de nacimiento.|<p>**Escenario 1: Registrar un nuevo animal**</p><p>**Given** el criador desea registrar un cuy en su jaula.</p><p>**And** se encuentra en el apartado de “Registro”.</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And** ingresa la información básica del animal, incluyendo su número de identificación, número de jaula, especie, raza, género, fecha de nacimiento o edad y la jaula en donde se va a encontrar.</p><p>**And** haga clic “Registrar”</p><p>**Then** el sistema le mostrará una confirmación del registro.</p><p></p><p>**Escenario 2: Fallar en el registro de animal**</p><p>**Given** el criador desea registrar un cuy en su jaula.</p><p>**And** se encuentra en el apartado de “Registro”.</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And i**ntenta ingresar la información del animal pero deja en blanco algunos campos obligatorios para el registro**.**</p><p>**And** haga clic “Registrar”.</p><p>**Then** el sistema le mostrará un mensaje de error.</p>|E03|
 |US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** buscar a un animal en específico **para** visualizar o actualizar su información registrada.|<p>**Escenario 1: Buscar y visualizar la información de un animal registrado**</p><p>**Given** el criador tiene varios animales registrados en la aplicación y desea visualizar la información de uno en específico.</p><p>**And** se encuentra en el apartado de “Mis Animales”</p><p>**When** haga clic en “Ver todos”</p><p>**And** busque al animal en específico.</p><p>**And s**eleccione al animal encontrado. </p><p>**Then** el sistema le mostrará la información detallada del animal.</p><p></p><p>**Escenario 2: Actualizar información de un animal registrado**</p><p></p><p>**Given** el criador desea actualizar la información de un animal.</p><p>**And** ha registrado previamente un animal en la aplicación. </p><p>**And** se encuentra viendo al animal en específico.</p><p>**When** haga clic en el botón “Editar”.</p><p>**And** realiza cambios en la información del animal.</p><p>**Then** el sistema actualizará la información del animal de manera efectiva</p><p>**And** mostrará una confirmación.</p>|E03|
 |US14|Registrar fallecimiento de Cuy|**Como** criador de cuyes **quiero** poder registrar y documentar los fallecimientos de cuyes en mi granja **para** tomar medidas.|<p>**Escenario 1: Registrar fallecimiento de cuy**</p><p>**Given** el criador desea registrar el fallecimiento de un cuy.</p><p>**And**  está visualizando la información de un cuy en el apartado de “Mis Animales”</p><p>**When** haga clic en el botón “Editar”</p><p>**And**  haga clic en el botón “Marcar como fallecido”</p><p>**Then** el sistema le pedirá un confirmación para actualizar el estado del cuy.</p><p></p><p>**Escenario 2: Cancelar intención de marcar fallecimiento a cuy**</p><p>**Given** el criador se ha equivocado de animal para marcar como fallecido.</p><p>**And**  se encuentra visualizando la confirmación.</p><p>**When** haga clic en el botón “Cancelar”</p><p>**Then** el sistema lo redireccionará a la vista de los datos del cuy.</p><p></p>|E03|
 |US15|Gestión de recursos|**Como** criador de cuyes **quiero** registrar el inventario de mi granja **para** tener un control sobre los recursos esenciales como alimentos y medicamentos.|<p>**Escenario 1: Registrar de nuevo ingreso de recursos en el inventario**</p><p>**Given** el criador ha recibido el pedido de recursos por parte del proveedor y desea registrar esto en su inventario.</p><p>**And** se encuentra en el apartado de “Registro” de la Sidebar.</p><p>**When** haga clic en el botón “Nuevo Recurso”</p><p>**And** ingresa los detalles de nombre y tipo de recurso, fecha, cantidad y observación.</p><p>**Then** el sistema mostrará una confirmación.</p><p></p><p>**Escenario 2:** **Actualizar recursos en el inventario**</p><p>**Given** el criador ha utilizado una cantidad de los recursos y desea actualizar el stock de algún producto.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de Recursos”</p><p>**And** seleccione el recurso utilizado</p><p>**And** ingrese la cantidad que fue utilizada y la fecha de consumo</p><p>**Then** el sistema mostrará una confirmación del cambio realizado.</p>|E04|
@@ -1194,7 +1241,7 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |14|US08|Calificación del asesor|**Como** criador de cuyes **quiero** calificar al asesor luego de consulta **para** ayudar a otros criadores a tomar una decisión informada antes de separar una cita.|5|
 |15|US09|Publicación del asesor|**Como** asesor **quiero** hacer publicaciones referentes a mis trabajos **para** que los criadores tengan más confianza en mí.|5|
 |16|US10|Ver publicación de asesor|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|5|
-|17|US11|Registro de galpones de cuyes|**Como** criador de cuyes **quiero** poder registrar un galpón en la plataforma **para** poder almacenar y gestionar mis cuyes de manera efectiva, garantizando su seguridad y bienestar.|3|
+|17|US11|Registro de jaulas de cuyes|**Como** criador de cuyes **quiero** poder registrar una jaula en la plataforma **para** poder almacenar y gestionar mis cuyes de manera efectiva, garantizando su seguridad y bienestar.|3|
 |18|US12|Registro de animal|**Como** criador de cuyes **quiero** contar con un sistema de registro de animales **para** almacenar información básica sobre cada animal, incluyendo su número de identificación, especie, raza, género y fecha de nacimiento.|3|
 |19|US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** buscar a un animal en específico **para** visualizar o actualizar su información registrada.|8|
 |20|US14|Registro de fallecimiento de cuyes|**Como** criador de cuyes **quiero** poder registrar y documentar los fallecimientos de cuyes en mi granja **para** tomar medidas.|2|
@@ -2350,14 +2397,14 @@ _Imagen 125. Cuadro - problemas de la crianza de cuyes_
 
 ## Anexo N°3: Web Style Guidelines
 
-https://www.figma.com/file/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=0%3A1&mode=design&t=wpjgQEwVQwYdQHGP-1 
+[https://www.figma.com/file/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=0%3A1&mode=design&t=wpjgQEwVQwYdQHGP-1 ](https://www.figma.com/file/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=0%3A1&mode=design&t=wpjgQEwVQwYdQHGP-1 )
 
 ## Anexo N°4: Video de exposiciones
 
 Exposición del TB1: [upc-pre-202401-si729-wx52-agrotech-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/EZz3pjA0mJhDvymuSBI8WywBb2DCa7RrK25a5osiHJz_zw?e=aeuDy3)
 
 ## Anexo N°5: Prototipo de la aplicación web
-Enlace del prototipo en figma: https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548
+Enlace del prototipo en figma: [https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548](https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548)
 
 ## Anexo N°6: Explicación del prototipo
 Enlace: [Explicación del protitipo](https://youtu.be/lTo_Pz0j2vc)
