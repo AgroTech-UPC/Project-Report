@@ -1199,12 +1199,33 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |27|US21|Recuperación de contraseña|**Como** usuario **quiero** poder recuperar mi contraseña **para** acceder a mi cuenta.|5|
 
 
-
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
 
+La importancia del estilo de un producto radica en la creación de una experiencia visual armoniosa y atractiva para los usuarios. A continuación, se presentará una descripción detallada de las pautas de estilo de nuestro proyecto.
+
 ### 4.1.1. General Style Guidelines
+
+**Consistencia Visual**
+
+Garantizar una apariencia uniforme en todos los aspectos del producto, desde la disposición de la interfaz de usuario hasta los elementos visuales. Esto implica seleccionar colores coherentes, tipografía adecuada, estilos consistentes y una navegación web intuitiva.
+
+<p align="center">
+  <img src="img/consistencia-visual.webp" alt="Ejemplo de consistencia visual" width="600">
+</p>
+
+_Imagen 20. Ejemplo de consistencia visual_
+
+**Simplicidad**
+
+Enfatizar la simplicidad en el diseño para una experiencia de usuario intuitiva y evitar el uso excesivo de elementos que puedan hacer perder el foco de atención al usuario.
+
+<p align="center">
+  <img src="img/simplicidad.jpg" alt="Ejemplo de simplicidad" width="600">
+</p>
+
+_Imagen 21. Ejemplo de simplicidad_
 
 **Branding**
 
@@ -1214,17 +1235,17 @@ El logotipo de AgroConnect se presenta en forma de un círculo, que simboliza la
   <img src="img/logo.png" alt="logo de AgroConnect" width="200">
 </p>
 
-_Imagen 20. Logo de AgroConnect_
+_Imagen 22. Logo de AgroConnect_
 
 **Typography**
 
 La tipografía elegida para AgroConnect es "Inter", una fuente sans-serif moderna y altamente legible. Este tipo de letra se destaca por su estilo limpio y contemporáneo, lo que comunica profesionalismo y actualización. La elección de Inter asegura que el texto en las interfaces de usuario sea fácilmente legible y tenga una apariencia moderna y uniforme. Además, Inter es una fuente versátil que ofrece una amplia variedad de pesos y estilos, lo que permite una adaptación flexible a diferentes contextos y tamaños de texto en la aplicación.
 
 <p align="center">
-  <img src="img/font1.png" alt="fuentes utilizados" width="600">
+  <img src="img/font1.png" alt="Fuentes" width="600">
 </p>
 
-_Imagen 21. Variaciones de las fuentes a utilizar_
+_Imagen 23. Fuentes_
 
 **Colors**
 
@@ -1232,14 +1253,26 @@ AgroConnect ha seleccionado una paleta de colores que comunica confiabilidad y e
 
 **Spacing**
 
-El spacing mantiene: 
+El spacing garantiza una distribución uniforme y un equilibrio visual en la interfaz. Se han establecido las siguientes medidas.
+
+````
  - Botones: padding de 16px vertical y 32px horizontal 
  - Margin entre texto 16px 
  - Margin entre elementos 24px 
  - Margin entre secciones 72px
+````
+
+**Diseño Visual con Patrón Z**
+
+ Vamos a incorporar el conocido Patrón Z en nuestro diseño visual, el cual dirige de manera intuitiva la atención del usuario a través de la interfaz. Este enfoque implica estratégicamente ubicar los elementos clave en las esquinas superior e inferior izquierdas, mientras que los elementos secundarios se colocan en las esquinas superior e inferior derechas. Este diseño genera un flujo visual eficaz y atractivo que mejora la experiencia del usuario.
+
+<p align="center">
+  <img src="img/patronZ.png" alt="Patron Z ejemplo" width="600">
+</p>
+
+_Imagen 24. Ejemplo de Patron Z_
 
 ### 4.1.2. Web Style Guidelines
-(Revisar [Anexo N°3: Web Style Guidelines - Figma](#anexo-n°3-web-style-guidelines))
 
 **Colors**
 
@@ -1249,8 +1282,7 @@ AgroConnect ha seleccionado cuidadosamente una paleta de colores que refleja los
   <img src="img/colors.png" alt="Colores de AgroConnect" width="600">
 </p>
 
-_Imagen 22. Colores a utilizar_
-
+_Imagen 25. Colores de AgroConnect_
 
 **Typography**
 
@@ -1260,7 +1292,7 @@ La tipografía desempeña un papel fundamental en la apariencia y la legibilidad
   <img src="img/font2.png" alt="Tipografia de AgroConnect" width="600">
 </p>
 
-_Imagen 23. Tipografia a utilizar_
+_Imagen 26. Tipografia de AgroConnect_
 
 **Icons**
 
@@ -1270,7 +1302,7 @@ Los íconos desempeñan un papel importante en la experiencia del usuario al pro
   <img src="img/icons.png" alt="Iconos de AgroConnect" width="600">
 </p>
 
-_Imagen 24. Iconos a utilizar_
+_Imagen 27. Iconos de AgroConnect_
 
 **Spacing**
 
@@ -1279,8 +1311,7 @@ El espaciado adecuado entre elementos es esencial para lograr una apariencia equ
 <p align="center">
   <img src="img/spacing.png" alt="Spacing de AgroConnect" width="600">
 </p>
-
-_Imagen 25. Espaciado a utilizar_
+_Imagen 28. Spacing de AgroConnect_
 
 **Grid System**
 
@@ -1290,7 +1321,7 @@ El grid system es una herramienta esencial en el diseño y la organización de l
   <img src="img/grid.png" alt="Grid System de AgroConnect" width="600">
 </p>
 
-_Imagen 26. Grid System_
+_Imagen 28. Grid System de AgroConnect_
 
 **Button**
 
@@ -1300,7 +1331,7 @@ Los botones son elementos importantes en la interfaz de usuario de AgroConnect, 
   <img src="img/button.png" alt="Button de AgroConnect" width="600">
 </p>
 
-_Imagen 27. Buttons_
+_Imagen 29. Button de AgroConnect_
 
 **Input System**
 
@@ -1310,9 +1341,11 @@ El input system es fundamental en la experiencia del usuario en AgroConnect, ya 
   <img src="img/input-system.png" alt="Input Sys AgroConnect" width="600">
 </p>
 
-_Imagen 28. Input System_
+_Imagen 30. Input System de AgroConnect_
 
 ## 4.2. Information Architecture
+
+La arquitectura de información desempeña un papel fundamental en la organización y estructuración del contenido para garantizar su accesibilidad y comprensión por parte de los usuarios. En este apartado, se detallarán los sistemas de organización, etiquetado, etiquetas SEO y metaetiquetas, sistema de búsqueda y sistemas de navegación que componen la arquitectura de la información de nuestro producto.
 
 ### 4.2.1. Organization Systems
 
@@ -1332,11 +1365,11 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
       <td>Se implementará un botón que permitirá a los usuarios gestionar su inventario, que incluirá medicamentos, producción de carne, fertilizante y otros elementos relacionados.</td>
   </tr>
   <tr>
-      <th>My Publications - Mis publicaciones</th>
+      <th>My publications - Mis publicaciones</th>
       <td>Se implementará un botón que permitirá al usuario ver el historial de sus ofertas de trabajo.</td>
   </tr>
   <tr>
-      <th>Advisors - Asesores</th>
+      <th>Advisors - Mis asesores</th>
       <td>Se implementará un botón que permitirá a los usuarios contactar con asesores.</td>
   </tr>
   <tr>
@@ -1346,6 +1379,10 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
   <tr>
       <th>Calendar - Calendario</th>
       <td>Se implementará un botón que permitirá visualizar un calendario con las tareas, eventos y actividades registradas.</td>
+  </tr>
+  <tr>
+      <th>Registry - Registro</th>
+      <td>Se implementará un botón que permitirá al usuario registrar información de nuevos animales, datos de la producción y alimentos.</td>
   </tr>
   <tr>
       <th>Notifications - Notificaciones</th>
@@ -1364,20 +1401,12 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
 <table>
   <tbody>
   <tr>
-      <th>My Farm - Mi Granja</th>
-      <td>Se implementará un botón que permitirá a los usuarios gestionar su inventario, que incluirá medicamentos, producción de carne, fertilizante y otros elementos relacionados.</td>
-  </tr>
-  <tr>
-      <th>Publications - Publicaciones</th>
-      <td>Se implementará un botón que permitirá al usuario ver las ofertas publicadas por los usuarios “Criadores”.</td>
+      <th>Home - Inicio</th>
+      <td>Se implementará un botón que permitirá al usuario ver publicaciones de clientes y poder ofertar.</td>
   </tr>
   <tr>
       <th>My clients - Mis clientes</th>
       <td>Se implementará un botón que permitirá a los usuarios ver su clientes.</td>
-  </tr>
-  <tr>
-      <th>My animals - Mis animales</th>
-      <td>Se implementará un botón que permitirá al usuario llevar un registro y seguimiento de los animales en la granja.</td>
   </tr>
   <tr>
       <th>Calendar - Calendario</th>
@@ -1394,6 +1423,45 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
 </table>
 
 ### 4.2.3. SEO Tags and Meta Tags
+
+Las Search Engine Optimization (Etiquetas SEO) y las Meta Tags (Meta Etiquetas) juegan un papel vital en la visibilidad y el posicionamiento del contenido en los motores de búsqueda. Existen varios tipos de etiquetas SEO y metaetiquetas, y a continuación se destacan algunas de las más relevantes para la empresa:
+
+- **Metaetiqueta de Descripción (Meta Description Tag):** Esta etiqueta ofrece una breve   descripción del contenido de la página. Aunque no influye directamente en el ranking de búsqueda, una meta descripción bien redactada puede aumentar la tasa de clics (CTR) al proporcionar a los usuarios una visión clara del contenido de la página.
+
+````
+<meta name="description" content="AgroTech ofrece soluciones tecnológicas innovadoras para mejorar la gestión de granjas de cuyes. Nuestra misión es empoderar a los granjeros con herramientas inteligentes y eficientes.">
+````
+
+**Metaetiqueta de Autor (Meta Autor Tag):** Esta etiqueta especifica el autor del contenido de la página. Esto puede ser útil para atribuir la propiedad intelectual o identificar la fuente del contenido.
+
+````
+<meta name="author" content="AgroTech">
+````
+
+**Etiqueta de Título (Title Tag):** Esta etiqueta es esencial para el SEO, ya que define el título de una página web y aparece como el título principal en los resultados de búsqueda. 
+
+````
+<title>AgroConnect</title>
+````
+
+**Etiqueta de Idioma (Language Tag):** Esta etiqueta especifica el idioma principal del contenido de la página. Es útil para la clasificación en búsquedas locales y ayuda a los motores de búsqueda a comprender el idioma del contenido.
+
+````
+<html lang="en">
+````
+
+**Metaetiqueta de Robots (Meta Robots Tag):** Esta etiqueta indica a los motores de búsqueda cómo indexar y rastrear la página. Puede especificar si la página debe ser indexada, si deben seguirse los enlaces o si se deben seguir ciertas instrucciones específicas.
+
+````
+<meta name="robots" content="index, follow"> 
+````
+
+<p align="center">
+  <img src="img/seotags.JPG" alt="SEO tags" width="600">
+</p>
+
+_Imagen 31. SEO tags de AgroConnect_
+
 ### 4.2.4. Searching Systems
 
 La aplicación AgroConnect desarrollará un sistema de búsqueda intuitivo, diseñado para que los usuarios encuentren rápidamente la información que necesitan. Este sistema se basará en filtros inteligentes que simplificarán la búsqueda de asesores, evitando así que los usuarios se vean abrumados por la cantidad de información disponible. Con esta mejora, nuestra aplicación garantizará una experiencia de usuario más fluida y satisfactoria al buscar información relevante.
@@ -1421,10 +1489,6 @@ La aplicación AgroConnect desarrollará un sistema de búsqueda intuitivo, dise
       <td>Permite al usuario buscar asesores según las calificaciones obtenidas.</td>
   </tr>
   <tr>
-      <th>Notifications - Notificaciones</th>
-      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo.</td>
-  </tr>
-  <tr>
       <th>Idioma</th>
       <td>Permite al usuario buscar según el idioma.</td>
   </tr>
@@ -1439,11 +1503,101 @@ La aplicación AgroConnect desarrollará un sistema de búsqueda intuitivo, dise
 
 La página de inicio de AgroConnect ha sido diseñada para una experiencia fácil y completa, ofreciendo las siguientes características:
 
- - **Descargar la Aplicación:** AgroConnect brinda a los usuarios la posibilidad de descargar la aplicación móvil de manera destacada en la página de inicio. Esto les permite acceder a la plataforma de forma conveniente desde sus dispositivos móviles. Al hacer clic en "Descargar App", los usuarios pueden obtener fácilmente la aplicación.
+ - ***Menús de Navegación:*** Los menús de navegación son una estructura estándar que se utiliza para organizar y presentar las diversas secciones y páginas de un producto. Estos menús pueden adoptar diferentes formas, como menús desplegables, ubicados en la parte superior o lateral de una página, e incluso enlaces de navegación en el pie de página.
 
- - **Escanear el Código QR:** Para una experiencia aún más rápida y práctica, los usuarios tienen la opción de escanear un código QR proporcionado en la plataforma. Esto los lleva directamente a la aplicación de AgroConnect.
+ - ***Navegación por Pestañas:*** Es un sistema que emplea pestañas para organizar el contenido en secciones o categorías. Esto permite a los usuarios cambiar entre las distintas secciones de contenido simplemente haciendo clic en las pestañas correspondientes, sin necesidad de cargar nuevas páginas.
 
- - **Iniciar Sesión / Registrarse:** En la landing page, los usuarios pueden optar por iniciar sesión si ya tienen una cuenta o registrarse si son nuevos en la plataforma. Estos botones les permiten acceder a sus cuentas existentes o crear nuevas cuentas para aprovechar todas las funciones de AgroConnect.
+## 4.3. Landing Page UI Design
+
+En este apartado, nos enfocaremos en el diseño de la interfaz de usuario (UI) de nuestra landing page. Es crucial que los usuarios que visiten nuestra página comprendan rápidamente de qué se trata nuestro producto y qué beneficios principales ofrecemos.
+
+### 4.3.1. Landing Page Wireframe
+
+**Wireframe - sección de ‘Inicio’ de AgroConnect:** la sección tendrá una imagen de fondo llamativa con un mensaje que refleja el objetivo de la startup para llamar la atención de posibles usuarios.
+
+<p align="center">
+  <img src="img/wireframe-landing-about-app.JPG" alt="Pagina Acerca de" width="600">
+</p>
+
+_Imagen 32. Pagina Acerca de_
+
+**Wireframe - sección de ‘Sobre Nosotros’:** la sección tendrá una imagen de fondo y tendrá información sobre la startup Agrotech junto con nuestra misión y visión.
+
+<p align="center">
+  <img src="img/wireframe-landing-about-us.JPG" alt="Pagina Sobre Nosotros" width="600">
+</p>
+
+_Imagen 33. Pagina Sobre Nosotros_
+
+**Wireframe - sección de ‘Características’:** la sección tendrá una imagen de fondo y tendrá información sobre los servicios que ofrecemos con nuestra aplicación AgroConnect.
+
+<p align="center">
+  <img src="img/wireframe-landing-features.JPG" alt="Pagina Características" width="600">
+</p>
+
+_Imagen 34. Pagina Características_
+
+**Wireframe - sección de ‘Contacto’:** la sección tendrá una imagen de fondo y tendrá un formulario donde los usuarios potenciales puedan escribir consultas para que sean respondidas en un correo por un miembro de AgroTech.
+
+<p align="center">
+  <img src="img/wireframe-landing-contact.JPG" alt="Pagina Contacto" width="600">
+</p>
+
+_Imagen 35. Pagina Contacto_
+
+### 4.3.2. Landing Page Mock-up
+**Mockup - sección de ‘Inicio’ de AgroConnect:** la sección tiene una imagen de fondo llamativa con un mensaje que refleja el objetivo de la startup para llamar la atención de posibles usuarios.
+
+<p align="center">
+  <img src="img/mockup-landing-home.JPG" alt="Pagina de Inicio" width="600">
+</p>
+
+_Imagen 36. Mockup Pagina Inicio_
+
+**Mockup - sección de ‘Acerca de’:** la sección tiene una imagen de fondo y tiene información sobre la problemática que queremos resolver.
+
+<p align="center">
+  <img src="img/mockup-landing-about-app.JPG" alt="Página Acerca de la problemática" width="600">
+</p>
+
+_Imagen 37. Mockup Pagina Acerca de_
+
+**Mockup - sección de ‘Sobre Nosotros’:** la sección tiene una imagen de fondo y tiene información sobre la startup Agrotech junto con nuestra misión y visión.
+
+<p align="center">
+  <img src="img/mockup-landing-about-us.JPG" alt="Pagina Sobre Nosotros" width="600">
+</p>
+
+_Imagen 38. Mockup Pagina Sobre Nosotros_
+
+**Mockup - sección de ‘Características’:** la sección tiene una imagen de fondo y tiene información sobre los servicios que ofrecemos con nuestra aplicación AgroConnect.
+
+<p align="center">
+  <img src="img/mockup-landing-features.JPG" alt="Pagina de Características" width="600">
+</p>
+
+_Imagen 39. Mockup Pagina de Características_
+
+**Mockup - sección de ‘Contacto’:** la sección tiene una imagen de fondo y tiene un formulario donde los usuarios potenciales pueden escribir consultas para que sean respondidas en un correo por un miembro de AgroTech.
+
+<p align="center">
+  <img src="img/mockup-landing-contact.JPG" alt="Pagina de Contacto" width="600">
+</p>
+
+_Imagen 40. Mockup Pagina de Contacto_
+
+## 4.4 Web Applications UX/UI Design
+
+### 4.4.1 Web Applications Wireframes
+
+### 4.4.2 Web Applications Wireflow Diagrams
+
+### 4.4.3 Web Applications Mock-ups
+
+### 4.4.4 Web Applications User Flow Diagrams
+
+## 4.5 Web Applications Prototyping
+
 
 # Capítulo V Product Implementation, Validation & Deployment
 
