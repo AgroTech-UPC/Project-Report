@@ -1670,8 +1670,28 @@ _Imagen 52. Wireframes de Publicaciones_
 _Imagen 53. Wireframes de Notificaciones_
 
 ### 4.4.2 Web Applications Wireflow Diagrams
+Para usuario:
+<img src="img/usuario-wireflow-1.png" alt="Usuario - Wireflow 1">
+<img src="img/usuario-wireflow-2.png" alt="Usuario - Wireflow 2">
 
+Para asesor:
+<img src="img/asesor-wireflow-1.png" alt="Asesor - Wireflow 1">
+<img src="img/asesor-wireflow-2.png" alt="Asesor - Wireflow 2">
+<img src="img/asesor-wireflow-3.png" alt="Asesor - Wireflow 3">
+<img src="img/asesor-wireflow-4.png" alt="Asesor - Wireflow 4">
 
+Para criador:
+<img src="img/criador-wireflow-1.png" alt="Criador - Wireflow 1">
+<img src="img/criador-wireflow-2.png" alt="Criador - Wireflow 2">
+<img src="img/criador-wireflow-3.png" alt="Criador - Wireflow 3">
+<img src="img/criador-wireflow-4.png" alt="Criador - Wireflow 4">
+<img src="img/criador-wireflow-5.png" alt="Criador - Wireflow 5">
+<img src="img/criador-wireflow-6.png" alt="Criador - Wireflow 6">
+<img src="img/criador-wireflow-7.png" alt="Criador - Wireflow 7">
+<img src="img/criador-wireflow-8.png" alt="Criador - Wireflow 8">
+<img src="img/criador-wireflow-9.png" alt="Criador - Wireflow 9">
+<img src="img/criador-wireflow-10.png" alt="Criador - Wireflow 10">
+<img src="img/criador-wireflow-11.png" alt="Criador - Wireflow 11">
 
 ### 4.4.3 Web Applications Mock-ups
 
