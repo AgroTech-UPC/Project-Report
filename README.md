@@ -1589,7 +1589,7 @@ _Imagen 40. Mockup Pagina de Contacto_
 ## 4.4 Web Applications UX/UI Design
 
 ### 4.4.1 Web Applications Wireframes
-
+En este apartado, se muestran todos los wireframes necesarios para cumplir las funcionalidades indicadas en las User Stories con sus escenarios relacionados con el Web Application.
 
 **Wireframes de Inicio de sesión y Registro:** En estos wireframes se han colocado las vistas de registro las cuales tienen primero los mismos inputs para criador y asesor, siendo el correo y contraseña, para luego diferir en información específica como es el caso de asesor donde coloca su profesión, años de experiencia, foto de perfil, etc.
 
@@ -1671,7 +1671,88 @@ _Imagen 53. Wireframes de Notificaciones_
 
 ### 4.4.2 Web Applications Wireflow Diagrams
 
+
+
 ### 4.4.3 Web Applications Mock-ups
+
+En este apartado, se muestran todos los mock-ups basados de los wireframes previamento mencionados. Añadiendo los colores del general style guidelines e imágenes para mejorar la visibilidad de la aplicación.
+
+**Mock-ups de Inicio de sesión y Registro:** 
+<img src="img/Mockup1.png" alt = "Mock-ups de Inicio de sesión y Registro">
+
+_Imagen X. Mock-ups de Inicio de sesión y Registro_
+
+**Mock-ups de Mi Granja:**
+
+<img src="img/Mockup2.png" alt = "Mock-ups de Mi Granja">
+
+_Imagen X. Mock-ups de sección Mi Granja_
+
+**Mock-ups de Mis Animales - Jaulas:**
+
+<img src="img/Mockup3.png" alt = "Mock-ups de Mis animales - Jaulas">
+
+_Imagen X. Mock-ups de Mis animales - Jaulas_
+
+**Mock-ups de Mis Animales - Jaulas:**
+
+<img src="img/Mockup4.png" alt = "Mock-ups de Mis animales - Cuyes">
+
+_Imagen X. Mock-ups de Mis animales - Cuyes_
+
+**Mock-ups de Asesores - Citas:**
+
+<img src="img/Mockup5.png" alt = "Mock-ups de Asesores - Citas">
+
+_Imagen X. Mock-ups de Asesores - Citas_
+
+**Mock-ups de Asesores - Reseñas:**
+
+<img src="img/Mockup6.png" alt = "Mock-ups de Asesores - Reseñas">
+
+_Imagen X. Mock-ups de Asesores - Reseñas_
+
+**Mock-ups de Registro - Jaulas:**
+
+<img src="img/Mockup7.png" alt = "Mock-ups de Registro - Jaulas">
+
+_Imagen X. Mock-ups de Registro - Jaulas_
+
+**Mock-ups de Registro - Cuyes:**
+
+<img src="img/Mockup8.png" alt = "Mock-ups de Registro - Cuyes">
+
+_Imagen X. Mock-ups de Registro - Cuyes_
+
+**Mock-ups de Registro - Recursos:**
+
+<img src="img/Mockup9.png" alt = "Mock-ups de Registro - Recursos">
+
+_Imagen X. Mock-ups de Registro - Cuyes_
+
+**Mock-ups de Notificaciones:**
+
+<img src="img/Mockup10.png" alt = "Mock-ups de Notificaciones">
+
+_Imagen X. Mock-ups de Notificaciones_
+
+**Mock-ups de Clientes:**
+
+<img src="img/Mockup11.png" alt = "Mock-ups de Clientes">
+
+_Imagen X. Mock-ups de Clientes_
+
+**Mock-ups de Publicaciones:**
+
+<img src="img/Mockup12.png" alt = "Mock-ups de Publicaciones">
+
+_Imagen X. Mock-ups de Publicaciones_
+
+**Mock-ups de Notificaciones:**
+
+<img src="img/Mockup13.png" alt = "Mock-ups de Notificaciones">
+
+_Imagen X. Mock-ups de Notificaciones_
 
 ### 4.4.4 Web Applications User Flow Diagrams
 
