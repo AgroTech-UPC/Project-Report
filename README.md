@@ -75,6 +75,14 @@ Abril 2024
 # **Project Report Collaboration Insights**
 URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 
+Commits en el project report de la TB1:
+
+<img src="img/commits-tb1.png">
+
+<img src="img/commits-tb1_detailed1.png">
+<img src="img/commits-tb1_detailed2.png">
+<img src="img/commits-tb1_detailed3.png">
+
 # **Tabla de Contenido**
 
 - [Registro de Versiones](#registro-de-versiones)
@@ -176,8 +184,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
 
 |**Criterio específico**|**Acciones realizadas**|**Conclusiones**|
 | :- | :- | :- |
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Delgado Corrales, Piero Gonzalo**</p><p>**TB1:**</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p></p><p>**Paredes Puente, Sebastián Roberto**</p><p>**TB1:**</p><p></p><p>**Salinas Torres, Salvador Antonio**</p><p>**TB1:**</p><p></p><p>**Valverde Mozo, Andre Gabriel**</p><p>**TB1:**</p>|**TB1:**|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Delgado Corrales, Piero Gonzalo**</p><p>**TB1:**</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p></p><p>**Paredes Puente, Sebastián Roberto**</p><p>**TB1:**</p><p></p><p>**Salinas Torres, Salvador Antonio**</p><p>**TB1:**</p><p></p><p>**Valverde Mozo, Andre Gabriel**</p><p>**TB1:**</p>|**TB1:**|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Delgado Corrales, Piero Gonzalo**</p><p>**TB1:**</p><p>En esta primera entrega, se desarrolló la idea de negocio. Para lograr esto, en lo personal tuve que realizar entrevista a un criador de cuyes para obtener mayores especificaciones sobre el problema a tratar. Del mismo modo, comunique oralmente las ideas del diseño de la aplicación web y de los diagramas de arquitectura de software mediante el proyecto.</p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p>Se enfocó principalmente en el diseño y desarrollo del producto, destacando el diseño de la landing page, guías de estilo, historias de usuario y la base de datos. Se priorizó que el diseño fuera intuitivo y atractivo para los usuarios, mientras cumplía con los requisitos. Esta labor fue fundamental para garantizar que el producto final satisficiera las necesidades de los usuarios y las demandas del mercado de manera efectiva.</p><p>**Paredes Puente, Sebastián Roberto**</p><p>**TB1:**</p><p>Se puso especial énfasis en el diseño y desarrollo del producto, concentrándose en la sección “Acerca de” de la landing page, user stories, user personas y scenario mapping. Esta labor fue esencial para asegurar que el producto final cumpliera efectivamente con las necesidades de los usuarios, al delimitar las user stories, y las exigencias del mercado. Además, se llevó a cabo una investigación inicial para conocer opiniones de algunos expertos en el tema, por ello se realizó entrevistas con personas clave de nuestros segmentos objetivo, lo que facilitó el trabajo en equipo y el avance del proyecto.</p><p>**Salinas Torres, Salvador Antonio**</p><p>**TB1:**</p><p>En este primer avance, primero identificamos la problemática y realizamos la investigación necesaria para identificar los requisitos que nuestra aplicación final abarca. Para ello, realizamos entrevistas de forma oral con personas de nuestros segmentos objetivo para conocer sus principales necesidades y ponernos un poco mejor en su perspectiva. Gracias a estas, es que el desarrollo del trabajo fue fluido, ya que luego en grupo nos reunimos y fuimos avanzando, realizando recomendaciones y resolviendo dudas sobre nuestros objetivos como startup.</p><p>**Valverde Mozo, Andre Gabriel**</p><p>**TB1:**</p><p>En la fase inicial, investigamos a fondo las necesidades de nuestros usuarios mediante entrevistas directas. Esto facilitó el progreso del trabajo en equipo al ofrecer recomendaciones y aclarar dudas. Luego, nos centramos en el diseño y desarrollo del producto, priorizando un diseño intuitivo y atractivo que cumpliera con los requisitos establecidos y satisficiera las demandas del mercado.</p>|**TB1:** <p>En conclusión, a través de un enfoque meticuloso, nos aseguramos de definir claramente los requisitos del proyecto, crear un diseño robusto y funcional, llevar a cabo un desarrollo cuidadoso y exhaustivo, y realizar pruebas rigurosas para garantizar la calidad y fiabilidad del producto. Parte de este proceso de definición fueron las entrevistas en las cuales nos comunicamos con nuestros segmentos objetivo para definir mejor la problemática y las funcionalidades que ayudarán a solucionarla. Estos hallazgos se vieron reflejados en la exposición del primer avance donde explicamos a detalle todos los aspectos desarrollados durante la primera entrega.</p>|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Delgado Corrales, Piero Gonzalo**</p><p>**TB1:**</p><p>Durante esta primera entrega, comunique de forma escrita mis ideas mediante la realización del informe del trabajo en Github con el lenguaje Markdown. Asimismo, mostré los resultados de las entrevistas mediante tablas y gráficos que mostraban con objetividad los hallazgos obtenidos.</p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p>Se facilitó una comunicación clara y precisa sobre el diseño y desarrollo del producto a través de diferentes áreas, incluyendo el diseño de las guías de estilo, las historias de usuario y el diseño de la base de datos. Esta comunicación efectiva fue esencial para mantener informados a todos los miembros del equipo, independientemente de su nivel de experiencia técnica, y promovió una colaboración exitosa.</p><p>**Paredes Puente, Sebastián Roberto**</p><p>**TB1:**</p><p>Me concentré en comunicar mis ideas y avances a través de un informe escrito, lo cual resultó fundamental para transmitir claramente los detalles del diseño y desarrollo del producto. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso utilizando lenguaje Markdown, asegurando así un informe completo y fácil de entender.</p><p>**Salinas Torres, Salvador Antonio**</p><p>**TB1:**</p><p>Durante el desarrollo de este primer sprint, realice la documentación de forma escrita con todos los puntos requeridos a lo largo del proyecto. Así como establecer las convenciones de estilo y configuración de sistema de software, los cuales son importantes ya que de estos es que se basará el desarrollo del proyecto hasta su fin.</p><p>**Valverde Mozo, Andre Gabriel**</p><p>**TB1:**</p><p>Al inicio del proyecto, me concentré en comunicar mis ideas y avances a través del informe escrito. Este informe fue esencial para transmitir claramente los detalles del diseño y desarrollo del producto, asegurando que todos los miembros del equipo estuvieran al tanto de nuestros progresos y facilitando una colaboración efectiva. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso, garantizando un registro completo y accesible para todos los involucrados en el proyecto.</p>|**TB1:** <p>En conclusión, para esta primera entrega nos comunicamos de forma escrita mediante nuestro informe en el cual desarrollamos nuestra idea de negocio utilizando convenciones para facilitar la comprensión del proceso. Asimismo, la comunicación directa entre los miembros del equipo fue clave para la resolución de problemas y planificación de plazos para alcanzar los objetivos planteados.</p>|
 
 
 # Capítulo I: Introducción
@@ -369,21 +377,21 @@ _Imagen 1. Logo de la aplicación AgroConnect_
 |Creemos que al proporcionar a los criadores de cuyes en Lima acceso a tecnologías avanzadas y asesoramiento especializado a través de nuestra plataforma Agroconnect, mejorarán la eficiencia y la rentabilidad de sus granjas..|
 | - |
 |Sabremos que esto es cierto…|
-|Cuando implementemos AgroConnect y realicemos un seguimiento de los resultados a lo largo del tiempo.|
+|Cuando se aprecie un incremento del 20% en la cantidad de solicitudes de asesorías durante los primeros 6 meses de lanzamiento.|
 
 **Hypothesis Statement 2**
 
 |Creemos que al promover prácticas agrícolas sostenibles y éticas en la crianza de cuyes en Lima a través de Agroconnect, los criadores adoptarán un enfoque más responsable con el medio ambiente.|
 | - |
 |Sabremos que esto es cierto…|
-|Cuando proporcionemos mediante los asesores, orientación y recursos específicos sobre prácticas sostenibles a través de Agroconnect y evaluemos la adopción de estas prácticas por parte de los criadores.|
+|Cuando se establezcan conexiones con compradores y mercados a través de los asesores de AgroConnect, y evaluemos el impacto en las ventas de los criadores mediante un aumento del 25% en las ventas en los primeros 6 meses de uso de la aplicación.|
 
 **Hypothesis Statement 3**
 
 |Creemos que al facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Lima a través de Agroconnect, los criadores aumentarán sus ventas y expandirán sus negocios.|
 | - |
 |Sabremos que esto es cierto…|
-|Cuando se establezcan conexiones con compradores y mercados a través de los asesores de Agroconnect y evaluemos el impacto en las ventas de los criadores que vendrían a ser los usuarios de la app.|
+|Cuando se observe un aumento del 20% en el número de asesores activos en los primeros tres meses posteriores a la implementación de la nueva estructura de comisiones. Además, mediremos la retroalimentación de los asesores mediante encuestas regulares, y consideraremos que hemos tenido éxito si al menos el 70% de las respuestas son positivas en relación con la nueva estructura de comisiones.|
 
 
 
@@ -1902,6 +1910,15 @@ _Imagen 100. criador - calificar asesoria_
  
 
 ## 4.5 Web Applications Prototyping
+A partir de los User Flows definidos en el punto anterior, se trabajó el prototipo funcional en Figma, el cual se explica en el siguiente video.
+
+URL del video: [Video de explicación](https://www.youtube.com/watch?v=lTo_Pz0j2vc)
+
+URL del prototipo: [Prototipo en figma](https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548)
+
+<img src="img/prototyping.png">
+
+_Imagen 101. Explicaicón del prototipo_
 
 
 # Capítulo V Product Implementation, Validation & Deployment
@@ -2096,6 +2113,7 @@ El objetivo de este primer sprint es la implementación del Landing Page estáti
 
 <img src="img/sprintBacklog.jpg" width="100%"> 
 
+_Imagen 102. Sprint Backlog 1 en Trello_
 
 <table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
@@ -2156,78 +2174,78 @@ En esta sección, se mostrará lo avanzado en el primer sprint, el cual se basa 
 
 <img src="img/evidence_landing_page_1.jpg" width="100%"> 
 
-_Imagen 101. evidencia landing page 1_
+_Imagen 103. evidencia landing page 1_
 
 
 Navbar: fue implementada para que sea responsive y las secciones pasen a un menú lateral en caso de ser necesario.
 
 <img src="img/evidence_landing_page_2.jpg" width="100%"> 
 
-_Imagen 102. navbar 1_
+_Imagen 104. navbar 1_
 
 <img src="img/evidence_landing_page_3.jpg" width="100%"> 
 
-_Imagen 103. navbar 2_
+_Imagen 105. navbar 2_
 
 Footer: al igual que el navbar, se implementó para acomodarse acorde al tamaño de la ventana.
 
 <img src="img/evidence_landing_page_4.jpg" width="100%"> 
 
-_Imagen 104. footer 1_
+_Imagen 106. footer 1_
 
 <img src="img/evidence_landing_page_5.jpg" width="100%"> 
 
-_Imagen 105. footer 2_
+_Imagen 107. footer 2_
 
 Página de inicio:
 
 <img src="img/evidence_landing_page_6.jpg" width="100%"> 
 
-_Imagen 106. pagina de inicio 1_
+_Imagen 108. pagina de inicio 1_
 
 <img src="img/evidence_landing_page_7.jpg" width="100%"> 
 
-_Imagen 107. pagina de inicio 2_
+_Imagen 109. pagina de inicio 2_
 
 Sección “Acerca De”:
 
 <img src="img/evidence_landing_page_8.jpg" width="100%"> 
 
-_Imagen 108. seccion "Acerca de" 1_
+_Imagen 110. seccion "Acerca de" 1_
 
 <img src="img/evidence_landing_page_9.jpg" width="100%"> 
 
-_Imagen 109. seccion "Acerca de" 2_
+_Imagen 111. seccion "Acerca de" 2_
 
 Sección “Sobre Nosotros”:
 
 <img src="img/evidence_landing_page_10.jpg" width="100%"> 
 
-_Imagen 110. seccion "Sobre Nosotros" 1_
+_Imagen 112. seccion "Sobre Nosotros" 1_
 
 <img src="img/evidence_landing_page_11.jpg" width="100%">
 
-_Imagen 111. seccion "Sobre Nosotros" 2_
+_Imagen 113. seccion "Sobre Nosotros" 2_
 
 Sección “Características”: 
 
 <img src="img/evidence_landing_page_12.jpg" width="100%"> 
 
-_Imagen 112. seccion "Caracteristicas" 1_
+_Imagen 114. seccion "Caracteristicas" 1_
 
 <img src="img/evidence_landing_page_13.jpg" width="100%"> 
 
-_Imagen 113. seccion "Caracteristicas" 2_
+_Imagen 115. seccion "Caracteristicas" 2_
 
 Sección “Contacto”:
 
 <img src="img/evidence_landing_page_14.jpg" width="100%"> 
 
-_Imagen 114. seccion "Contacto" 1_
+_Imagen 116. seccion "Contacto" 1_
 
 <img src="img/evidence_landing_page_15.jpg" width="100%"> 
 
-_Imagen 115. seccion "Contacto" 2_
+_Imagen 117. seccion "Contacto" 2_
 
 ### 5.2.1.6. Execution Evidence for Sprint Review.
 
@@ -2243,23 +2261,23 @@ Para lograr hacer el deployment, entramos a la configuración del repositorio y 
 
 <img src="img/github-pages.jpg" width="100%"> 
 
-_Imagen 116. github - pages - 1_
+_Imagen 118. github - pages - 1_
 
 Escogimos la rama main, ya que es la rama principal sobre la cual se guarda la versión final para hacer el deployment. Una vez se escoge, se guardan los cambios.
 
 <img src="img/github-pages-1.jpg" width="100%"> 
 
-_Imagen 116. github - pages - 2_
+_Imagen 119. github - pages - 2_
 
 Finalmente, solo se espera a que GitHub cree la página y nos brinde el enlace.
 
 <img src="img/github-pages-2.jpg" width="100%"> 
 
-_Imagen 117. github - pages - 3_
+_Imagen 120. github - pages - 3_
 
 <img src="img/github-pages-3.jpg" width="100%"> 
 
-_Imagen 118. github - pages - 4_
+_Imagen 121. github - pages - 4_
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -2267,7 +2285,7 @@ En la elaboración de la landing page, todos los integrantes realizaron commits 
 
 <img src="img/commits-landing-page.jpg" width="100%"> 
 
-_Imagen 119. commits - landing-page_
+_Imagen 122. commits - landing-page_
 
 La división de trabajo para lograr la implementación fue por secciones en las cuales cada miembro realizó una sección de la landing page:
 
@@ -2285,25 +2303,33 @@ Cada sección tuvo su rama con el formato ‘feature/sección’
 
 <img src="img/feature-seccion.jpg" width="100%">
 
-_Imagen 120. feature-seccion_
+_Imagen 123. feature-seccion_
+
+# Conclusiones
+## Conclusiones y recomendaciones
+* La estructura realizada del proceso Lean UX ha permitido a nuestra startup AgroTech identificar los segmentos objetivos, competidores y necesidades del mercado, entre otros aspectos clave. Desde la formulación inicial de los problem statements hasta la elaboración de hypothesis statements y la creación del Lean UX canvas, cada paso ha contribuido a mejorar la eficiencia y la agilidad en el desarrollo de la aplicación AgroConnect.
+
+
+* AgroTech ha realizado un análisis exhaustivo de sus competidores, así como entrevistas y actividades de needfinding para comprender las necesidades de sus usuarios. Lo anteriormente desarrollado se realizó en el capítulo II, dónde se realizó dicha investigación y análisis que aportaron con la creación de una solución como lo es AgroConnect, para que satisfaga las necesidades reales de sus usuarios.
+
+
+* Plantear e identificar los requisitos del proyecto al inicial fue crucial, ya que establecieron las bases sólidas sobre las cuales se construirá la aplicación AgroConnect de AgroTech, estas se lograron identificar gracias a los empathy mappings, impact mappings y user personas ayudaron a empatizar y estar en el lugar de nuestro públic objetivo, As-is y To-Be Scenario Mappings que permiten visualizar el proceso en el que realiza una tarea sin y con AgroConnect respectivamente. Además, las user stories proporcionaron una descripción detallada de las interacciones que los usuarios tendrán con la aplicación, lo que es fundamental para brindar una experiencia de usuario satisfactoria. Finalmente, el product backlog estableció la lista priorizada de todas las funcionalidades y características que se implementarán en la aplicación y reducir los esfuerzos en el desarrollo de la aplicación.
+
 
 # Bibliografía
 
-hdeleon.net. (2019, May 2). ¿Cómo hacer una base de datos de Usuarios con Roles de acceso? | SQL Server [Video]. YouTube. https://www.youtube.com/watch?v=Xrbl6Xgmi-Q 
+Aguilar, G., Bustamante, J., Bazán, V. y Falcón, N. (2011). Diagnóstico situacional de la crianza de cuyes en una zona de Cajamarca. _Revista de Investigaciones Veterinarias del Perú, 22_(1), 09-14. http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1609-91172011000100002&lng=es&tlng=es
+
+Guerra, C. (2009). _Manual técnico de crianza de cuyes_. Cedepas. https://www.cedepas.org.pe/sites/default/files/manual_tecnico_de_crianza_de_cuyes.pdf
+
+Instituto Nacional de Innovación Agraria. (23 de enero de 2023). Razas de cuyes del INIA mejoran un 20% la productividad de la crianza familiar y consumo de carne. _El Peruano_. https://www.elperuano.pe/noticia/225260-razas-de-cuyes-del-inia-mejoran-un-20-la-productividad-de-la-crianza-familiar-y-consumo-de-carne
 
 
-Luque, R. (2023). Meta Tags | Las 7 más importantes en SEO. SEOcrawl. https://seocrawl.com/meta-tags/
+Luque, R. (2023). _Meta Tags | Las 7 más importantes en SEO_. SEOcrawl. https://seocrawl.com/meta-tags/
 
+Ministerio de Desarrollo Agrario y Riego. (2023). _Cadena productiva de cuyes_. https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
 
-Me, K. (2016). GALPON PARA CRIANZA DE CUYES 1. Nombres de la Tecnología: Galpón para Crianza de Cuyes 2. Campo de Aplicación de la Tecnología: Nivel productivo. www.academia.edu. https://www.academia.edu/27131568/GALPON_PARA_CRIANZA_DE_CUYES_1_Nombres_de_la_Tecnolog%C3%ADa_Galp%C3%B3n_para_Crianza_de_Cuyes_2_Campo_de_Aplicaci%C3%B3n_de_la_Tecnolog%C3%ADa_Nivel_productivo 
-
-
-Ministerio de Desarrollo Agrario y Riego (2023) Cadena productiva de cuyes. https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
-
-
-SENASA. (2019). Cajamarca es el principal productor de cuy en el Perú. Recuperado de https://www.senasa.gob.pe/senasacontigo/cajamarca-es-el-principal-productor-de-cuy-en-el-peru/
-
-Ministerio de Desarrollo Agrario y Riego. (2023). Cadena Productiva de Cuy. Recuperado de https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf. 
+SENASA. (2019). _Cajamarca es el principal productor de cuy en el Perú_. https://www.senasa.gob.pe/senasacontigo/cajamarca-es-el-principal-productor-de-cuy-en-el-peru/
 
 
 # Anexos
@@ -2312,7 +2338,7 @@ Ministerio de Desarrollo Agrario y Riego. (2023). Cadena Productiva de Cuy. Recu
 
 <img src="img/grafico-anexo.png">
 
-_Imagen 121. grafico - anexo_
+_Imagen 124. Gráfico - poblacion de cuyes_
 
 Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
 
@@ -2320,8 +2346,18 @@ Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20pro
 
 <img src="img/cuadro-anexo.png">
 
-_Imagen 122. cuadro - anexo_
+_Imagen 125. Cuadro - problemas de la crianza de cuyes_
 
 ## Anexo N°3: Web Style Guidelines
 
 https://www.figma.com/file/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=0%3A1&mode=design&t=wpjgQEwVQwYdQHGP-1 
+
+## Anexo N°4: Video de exposiciones
+
+Exposición del TB1: [upc-pre-202401-si729-wx52-agrotech-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/EZz3pjA0mJhDvymuSBI8WywBb2DCa7RrK25a5osiHJz_zw?e=aeuDy3)
+
+## Anexo N°5: Prototipo de la aplicación web
+Enlace del prototipo en figma: https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548
+
+## Anexo N°6: Explicación del prototipo
+Enlace: [Explicación del protitipo](https://youtu.be/lTo_Pz0j2vc)
