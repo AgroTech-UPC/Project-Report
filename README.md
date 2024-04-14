@@ -1158,7 +1158,7 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 
 <img src="img/impactmap_2.png" alt="ImpactMap Criador">
  
- _Imagen 18. impact map - criador
+ _Imagen 18. impact map - criador_
  
  ## 3.4. Product Backlog
 
@@ -1166,7 +1166,7 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 
  <img src="img/product_backlog.jpg" alt="Product backlog">
 
-  _Imagen 19. product backlog
+  _Imagen 19. product backlog_
 
 |**# Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points (1/2/3/5/8)**|
 | :- | :- | :- | :- | :- |
@@ -1637,7 +1637,6 @@ El objetivo de este primer sprint es la implementación del Landing Page estáti
 
 <img src="img/sprintBacklog.jpg" width="100%"> 
 
- _Imagen 29. sprint backlog
 
 <table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
@@ -1698,47 +1697,78 @@ En esta sección, se mostrará lo avanzado en el primer sprint, el cual se basa 
 
 <img src="img/evidence_landing_page_1.jpg" width="100%"> 
 
+_Imagen 29. evidencia landing page 1_
+
+
 Navbar: fue implementada para que sea responsive y las secciones pasen a un menú lateral en caso de ser necesario.
 
 <img src="img/evidence_landing_page_2.jpg" width="100%"> 
 
+_Imagen 30. navbar 1_
+
 <img src="img/evidence_landing_page_3.jpg" width="100%"> 
+
+_Imagen 31. navbar 2_
 
 Footer: al igual que el navbar, se implementó para acomodarse acorde al tamaño de la ventana.
 
 <img src="img/evidence_landing_page_4.jpg" width="100%"> 
 
+_Imagen 32. footer 1_
+
 <img src="img/evidence_landing_page_5.jpg" width="100%"> 
+
+_Imagen 33. footer 2_
 
 Página de inicio:
 
 <img src="img/evidence_landing_page_6.jpg" width="100%"> 
 
+_Imagen 34. pagina de inicio 1_
+
 <img src="img/evidence_landing_page_7.jpg" width="100%"> 
+
+_Imagen 35. pagina de inicio 2_
 
 Sección “Acerca De”:
 
 <img src="img/evidence_landing_page_8.jpg" width="100%"> 
 
+_Imagen 36. seccion "Acerca de" 1_
+
 <img src="img/evidence_landing_page_9.jpg" width="100%"> 
+
+_Imagen 37. seccion "Acerca de" 2_
 
 Sección “Sobre Nosotros”:
 
 <img src="img/evidence_landing_page_10.jpg" width="100%"> 
 
+_Imagen 38. seccion "Sobre Nosotros" 1_
+
 <img src="img/evidence_landing_page_11.jpg" width="100%">
+
+_Imagen 39. seccion "Sobre Nosotros" 2_
 
 Sección “Características”: 
 
 <img src="img/evidence_landing_page_12.jpg" width="100%"> 
 
+_Imagen 40. seccion "Caracteristicas" 1_
+
 <img src="img/evidence_landing_page_13.jpg" width="100%"> 
+
+_Imagen 41. seccion "Caracteristicas" 2_
 
 Sección “Contacto”:
 
 <img src="img/evidence_landing_page_14.jpg" width="100%"> 
 
+_Imagen 42. seccion "Contacto" 1_
+
 <img src="img/evidence_landing_page_15.jpg" width="100%"> 
+
+_Imagen 43. seccion "Contacto" 2_
 
 ### 5.2.1.6. Execution Evidence for Sprint Review.
 
@@ -1754,21 +1784,31 @@ Para lograr hacer el deployment, entramos a la configuración del repositorio y 
 
 <img src="img/github-pages.jpg" width="100%"> 
 
+_Imagen 44. github - pages - 1_
+
 Escogimos la rama main, ya que es la rama principal sobre la cual se guarda la versión final para hacer el deployment. Una vez se escoge, se guardan los cambios.
 
 <img src="img/github-pages-1.jpg" width="100%"> 
+
+_Imagen 45. github - pages - 2_
 
 Finalmente, solo se espera a que GitHub cree la página y nos brinde el enlace.
 
 <img src="img/github-pages-2.jpg" width="100%"> 
 
+_Imagen 46. github - pages - 3_
+
 <img src="img/github-pages-3.jpg" width="100%"> 
+
+_Imagen 47. github - pages - 4_
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 En la elaboración de la landing page, todos los integrantes realizaron commits referentes al branch feature que les tocó trabajar. 
 
 <img src="img/commits-landing-page.jpg" width="100%"> 
+
+_Imagen 48. commits - landing-page_
 
 La división de trabajo para lograr la implementación fue por secciones en las cuales cada miembro realizó una sección de la landing page:
 
@@ -1784,10 +1824,9 @@ La división de trabajo para lograr la implementación fue por secciones en las 
 
 Cada sección tuvo su rama con el formato ‘feature/sección’
 
-<img src="img/feature-seccion.jpg" width="100%"> 
+<img src="img/feature-seccion.jpg" width="100%">
 
-
-
+_Imagen 49. feature-seccion_
 
 # Bibliografía
 
@@ -1814,11 +1853,15 @@ Ministerio de Desarrollo Agrario y Riego. (2023). Cadena Productiva de Cuy. Recu
 
 <img src="img/grafico-anexo.png">
 
+_Imagen 50. grafico - anexo_
+
 Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
 
 ## Anexo N°2: Diagrama de problemas en la crianza de cuyes
 
 <img src="img/cuadro-anexo.png">
+
+_Imagen 51. cuadro - anexo_
 
 ## Anexo N°3: Web Style Guidelines
 
