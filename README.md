@@ -1590,6 +1590,85 @@ _Imagen 40. Mockup Pagina de Contacto_
 
 ### 4.4.1 Web Applications Wireframes
 
+
+**Wireframes de Inicio de sesión y Registro:** En estos wireframes se han colocado las vistas de registro las cuales tienen primero los mismos inputs para criador y asesor, siendo el correo y contraseña, para luego diferir en información específica como es el caso de asesor donde coloca su profesión, años de experiencia, foto de perfil, etc.
+
+<img src="img/Wireframe1.png" alt = "Wireframes de Inicio de sesión y Registro">
+
+_Imagen 41. Wireframes de Inicio de sesión y Registro_
+
+**Wireframes de Mi Granja:** En estos wireframes se maneja las vistas del criador donde podrá gestionar tanto sus recursos como sus gastos, pudiendo ver toda la información con respecto a estos que ha ido registrando.
+
+<img src="img/Wireframe2.png" alt = "Wireframes de Mi Granja">
+
+_Imagen 42. Wireframes de sección Mi Granja_
+
+**Wireframes de Mis Animales - Jaulas:** En estos wireframes se maneja las vistas de la sección Mis Animales en específico los que tratan del manejo de las jaulas donde están los cuyes pudiendo modificar su información y/o eliminarlas.
+
+<img src="img/Wireframe3.png" alt = "Wireframes de Mis animales - Jaulas">
+
+_Imagen 43. Wireframes de Mis animales - Jaulas_
+
+**Wireframes de Mis Animales - Jaulas:** En estos wireframes se maneja las vistas de la sección Mis Animales en específico los que tratan de la visualización y edición de información de los cuyes.
+
+<img src="img/Wireframe4.png" alt = "Wireframes de Mis animales - Cuyes">
+
+_Imagen 44. Wireframes de Mis animales - Cuyes_
+
+**Wireframes de Asesores - Citas:** En estos wireframes se maneja la visualización de los asesores que participan de la aplicación, incluyendo la funcionalidad de filtrar los asesores por palabras clave como su nombre. Además de poder comprobar los horarios disponibles de los asesores y reservar citas.
+
+<img src="img/Wireframe5.png" alt = "Wireframes de Asesores - Citas">
+
+_Imagen 45. Wireframes de Asesores - Citas_
+
+**Wireframes de Asesores - Reseñas:** En estos wireframes se maneja la funcionalidad de reseñas de los asesores.
+
+<img src="img/Wireframe6.png" alt = "Wireframes de Asesores - Reseñas">
+
+_Imagen 46. Wireframes de Asesores - Reseñas_
+
+**Wireframes de Registro - Jaulas:** En estos wireframes se maneja el registro de nuevas jaulas.
+
+<img src="img/Wireframe7.png" alt = "Wireframes de Registro - Jaulas">
+
+_Imagen 47. Wireframes de Registro - Jaulas_
+
+**Wireframes de Registro - Cuyes:** En estos wireframes se maneja el registro de nuevos cuyes.
+
+<img src="img/Wireframe8.png" alt = "Wireframes de Registro - Cuyes">
+
+_Imagen 48. Wireframes de Registro - Cuyes_
+
+**Wireframes de Registro - Recursos:** En estos wireframes se maneja el registro de nuevos recursos.
+
+<img src="img/Wireframe9.png" alt = "Wireframes de Registro - Recursos">
+
+_Imagen 49. Wireframes de Registro - Cuyes_
+
+**Wireframes de Notificaciones:** En estos wireframes se maneja la vista de las notificaciones del criador que serían los recordatorios de citas programadas.
+
+<img src="img/Wireframe10.png" alt = "Wireframes de Notificaciones">
+
+_Imagen 50. Wireframes de Notificaciones_
+
+**Wireframes de Clientes:** En estos wireframes se maneja la vista de los clientes del asesor.
+
+<img src="img/Wireframe11.png" alt = "Wireframes de Clientes">
+
+_Imagen 51. Wireframes de Clientes_
+
+**Wireframes de Publicaciones:** En estos wireframes se maneja la vista de las publicaciones actuales del asesor y la creación de nuevas publicaciones.
+
+<img src="img/Wireframe12.png" alt = "Wireframes de Publicaciones">
+
+_Imagen 52. Wireframes de Publicaciones_
+
+**Wireframes de Notificaciones:** En estos wireframes se maneja la vista de las notificaciones del asesor que serían los recordatorios de citas programadas y interés en sus publicaciones.
+
+<img src="img/Wireframe13.png" alt = "Wireframes de Notificaciones">
+
+_Imagen 53. Wireframes de Notificaciones_
+
 ### 4.4.2 Web Applications Wireflow Diagrams
 
 ### 4.4.3 Web Applications Mock-ups
