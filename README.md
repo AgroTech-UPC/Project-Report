@@ -1991,24 +1991,41 @@ _Imagen 103. Diagrama de contenedores_
 
 ### 4.6.1 Software Architecture Components Diagrams
 Los diagramas de componentes fueron creados tanto para el contender de sistema de gestión, como para el contender de sistema de asesoramiento, y constan de componentes internos.
-El contenedor del sistema de gestión tiene tres componentes que son: el registro de animales, componente que maneja el registro de la información de cuyes; gestión de inventario, componente que maneja los recursos para el funcionamiento de la granja; y gestión de gastos, para registrar los gastos para el mantenimiento de la granja.
 
-<img src="img/diagrama_asesoramiento.png">
+**API Rest Component Diagram**
+<img src="img/API_Rest_Component_Diagram.png">
 
-_Imagen 104. Diagrama de componentes - Asesoramiento_
+_Imagen 104. Diagrama de componentes - API REST_
 
-Por otro lado, el contenedor del sistema de asesoramiento consta de tres componentes. Primero, el componente de información de asesores que maneja la información básica del asesor como también su calificación; la gestión de citas que maneja la programación de citas y utiliza el sistema externo; y el componente de publicación que maneja las publicaciones creadas por los asesores para tener visibilidad.
 
-<img src="img/diagrama_gestion.png">
+**Management Component Diagram**
+<img src="img/Management_Component_Diagram.png">
 
 _Imagen 105. Diagrama de componentes - Gestión_
+
+
+**Publication Component Diagram**
+<img src="img/Publication_Component_Diagram.png">
+
+_Imagen 106. Diagrama de componentes - Publicación_
+
+
+**User Component Diagram**
+<img src="img/User_Component_Diagram.png">
+
+_Imagen 107. Diagrama de componentes - Usuario_
+
+**Appointment Component Diagram**
+<img src="img/Appointment_Component_Diagram.png">
+
+_Imagen 108. Diagrama de componentes - Cita_
 
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1 Class Diagrams
 
 <img src="img/class_diagram.png">
 
-_Imagen 105. Diagrama de clases_
+_Imagen 109. Diagrama de clases_
 
 ### 4.7.2 Class Dictionary
 
