@@ -2023,123 +2023,26 @@ _Imagen 108. Diagrama de componentes - Cita_
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1 Class Diagrams
 
-<img src="img/class_diagram.png">
+<img src="img/class_diagram_appointment.png">
 
-_Imagen 109. Diagrama de clases_
+_Imagen 109. Diagrama de Clases Apointment Bounded Context_
+
+<img src="img/class_diagram_management.png">
+
+_Imagen 110. Diagrama de Clases Management Bounded Context_
+
+<img src="img/class_diagram_publication.png">
+
+_Imagen 111. Diagrama de Clases Publication Bounded Context_
+
+<img src="img/class_diagram_user.png">
+
+_Imagen 112. Diagrama de Clases User Bounded Context_
+
 
 ### 4.7.2 Class Dictionary
 
-User:
-- id: ID del usuario.
-- email: Correo electrónico del usuario.
-- password: Contraseña del usuario.
-- fullname: Nombre completo del usuario.
-- location: Ubicación del usuario que se refiere al departamento que habita.
-- birthdate: Fecha de nacimiento del usuario.
-- description: Descripción opcional sobre el usuario.
-- changePassword(): Método para cambiar la contraseña del usuario.
 
-
-Advisor:
-- id: ID del asesor.
-- occupation: Ocupación del asesor.
-- experience: Experiencia en años del asesor.
-- photo: URL de la foto del asesor.
-- rating: Calificación del asesor que va desde 0 hasta 5.
-- createPublication(): Método para crear una nueva publicación.
-- sendNotification(): Método para que se le envíe una notificación.
-
-
-Animal:
-- id: ID del animal.
-- breed: Raza del animal.
-- gender: Género del animal.
-- birthdate: Fecha de nacimiento del animal.
-- status: Estado del animal ya sea vivo, muerto o que esté enfermo.
-- cage_id: ID de la jaula en la que se encuentra el animal.
-- updateInformation(): Método para actualizar la información del animal.
-- getInformation(): Método para obtener la información del animal.
-
-Appointment:
-  - id: ID de la cita.
-  - breeder_id: ID del criador asociado a la cita.
-  - advisor_id: ID del asesor asociado a la cita.
-  - status: Estado de la cita.
-  - date: Fecha y hora de la cita.
-  - setStatus(): Método para establecer el estado de la cita.
-  - getStatus(): Método para obtener el estado de la cita.
-
-Breeder:
-  - id: ID del criador.
-  - user_id: ID del usuario asociado al criador.
-  - registerCage(): Método para registrar una jaula.
-  - registerAnimal(): Método para registrar un animal.
-  - registerExpense(): Método para registrar un gasto.
-  - registerResource(): Método para registrar un recurso.
-  - sendNotification(): Método para enviarle una notificación al criador.
-  - sendReview(): Método para enviar una reseña de una cita completada.
-  - scheduleAppointment(): Método para programar una cita.
-
-Cage:
-  - id: ID de la jaula.
-  - breeder_id: ID del criador asociado a la jaula.
-  - name: Nombre de la jaula.
-  - size: Tamaño de la jaula.
-  - observations: Observaciones sobre la jaula.
-  - getAnimals(): Método para obtener los animales en la jaula.
-
-Date:
-  - id: ID de la fecha.
-  - date: Fecha y hora.
-  - status: Estado de la fecha.
-  - advisor_id: ID del asesor asociado a la fecha.
-  - setStatus(): Método para establecer la disponibilidad de la fecha que puede ser disponible o no disponible.
-  - getStatus(): Método para obtener el estado de la fecha.
-
-Expense:
-  - id: ID del gasto.
-  - breeder_id: ID del criador asociado al gasto.
-  - type: Tipo de gasto.
-  - amount: Monto gastado.
-  - date: Fecha de realización del gasto.
-  - details: Detalles del gasto.
-  - animal_id: ID del animal asociado al gasto si es necesario.
-  - getInformation(): Método para obtener información del gasto.
-
-Notification:
-  - id: Identificador único de la notificación.
-  - type_notification: Tipo de notificación.
-  - advisor_id: ID del asesor asociado a la notificación.
-  - text: Texto de la notificación.
-  - date: Fecha de la notificación.
-  - getInformation(): Método para obtener información de la notificación.
-
-Publication:
-  - advisor_id: ID del asesor que publica.
-  - id: ID de la publicación.
-  - title: Título de la publicación.
-  - description: Descripción de la publicación.
-  - date: Fecha de publicación.
-  - image: URL de la imagen de la publicación.
-  - is_active: Estado de la publicación si está activo o no.
-  - setStatus(): Método para establecer el estado de la publicación.
-  - getInformation(): Método para obtener información de la publicación.
-
-Resource:
-  - id: ID del recurso.
-  - breeder_id: ID del criador asociado al recurso.
-  - name: Nombre del recurso.
-  - type: Tipo de recurso.
-  - quantity: Cantidad del recurso.
-  - date: Fecha de registro de los datos del recurso.
-  - observations: Observaciones sobre el recurso.
-  - getInformation(): Método para obtener información del recurso.
-
-Review:
-  - id: ID de la reseña.
-  - comment: Comentario sobre la cita que se tuvo con el asesor.
-  - rating: Calificación de la reseña que puede ser del 0 al 5 representado por estrellas (colocado por el criador).
-  - getInformation(): Método para obtener información de la reseña.
 
 ## 4.8 Database Design
 ### 4.8.1 Database Diagram
@@ -2147,7 +2050,7 @@ Se hizo el diseño de la base de datos no relacional, considerando cumplir con l
 
 <img src="img/database.png">
 
-_Imagen 106. Diagrama de base de datos_
+_Imagen 113. Diagrama de base de datos_
 
 
 # Capítulo V Product Implementation, Validation & Deployment
@@ -2342,7 +2245,7 @@ El objetivo de este primer sprint es la implementación del Landing Page estáti
 
 <img src="img/sprintBacklog.jpg" width="100%"> 
 
-_Imagen 107. Sprint Backlog 1 en Trello_
+_Imagen 114. Sprint Backlog 1 en Trello_
 
 <table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
@@ -2403,78 +2306,78 @@ En esta sección, se mostrará lo avanzado en el primer sprint, el cual se basa 
 
 <img src="img/evidence_landing_page_1.jpg" width="100%"> 
 
-_Imagen 108. evidencia landing page 1_
+_Imagen 115. evidencia landing page 1_
 
 
 Navbar: fue implementada para que sea responsive y las secciones pasen a un menú lateral en caso de ser necesario.
 
 <img src="img/evidence_landing_page_2.jpg" width="100%"> 
 
-_Imagen 109. navbar 1_
+_Imagen 116. navbar 1_
 
 <img src="img/evidence_landing_page_3.jpg" width="100%"> 
 
-_Imagen 110. navbar 2_
+_Imagen 117. navbar 2_
 
 Footer: al igual que el navbar, se implementó para acomodarse acorde al tamaño de la ventana.
 
 <img src="img/evidence_landing_page_4.jpg" width="100%"> 
 
-_Imagen 111. footer 1_
+_Imagen 118. footer 1_
 
 <img src="img/evidence_landing_page_5.jpg" width="100%"> 
 
-_Imagen 112. footer 2_
+_Imagen 119. footer 2_
 
 Página de inicio:
 
 <img src="img/evidence_landing_page_6.jpg" width="100%"> 
 
-_Imagen 113. pagina de inicio 1_
+_Imagen 120. pagina de inicio 1_
 
 <img src="img/evidence_landing_page_7.jpg" width="100%"> 
 
-_Imagen 114. pagina de inicio 2_
+_Imagen 121. pagina de inicio 2_
 
 Sección “Acerca De”:
 
 <img src="img/evidence_landing_page_8.jpg" width="100%"> 
 
-_Imagen 115. seccion "Acerca de" 1_
+_Imagen 122. seccion "Acerca de" 1_
 
 <img src="img/evidence_landing_page_9.jpg" width="100%"> 
 
-_Imagen 116. seccion "Acerca de" 2_
+_Imagen 123. seccion "Acerca de" 2_
 
 Sección “Sobre Nosotros”:
 
 <img src="img/evidence_landing_page_10.jpg" width="100%"> 
 
-_Imagen 117. seccion "Sobre Nosotros" 1_
+_Imagen 124. seccion "Sobre Nosotros" 1_
 
 <img src="img/evidence_landing_page_11.jpg" width="100%">
 
-_Imagen 118. seccion "Sobre Nosotros" 2_
+_Imagen 125. seccion "Sobre Nosotros" 2_
 
 Sección “Características”: 
 
 <img src="img/evidence_landing_page_12.jpg" width="100%"> 
 
-_Imagen 119. seccion "Caracteristicas" 1_
+_Imagen 126. seccion "Caracteristicas" 1_
 
 <img src="img/evidence_landing_page_13.jpg" width="100%"> 
 
-_Imagen 120. seccion "Caracteristicas" 2_
+_Imagen 127. seccion "Caracteristicas" 2_
 
 Sección “Contacto”:
 
 <img src="img/evidence_landing_page_14.jpg" width="100%"> 
 
-_Imagen 121. seccion "Contacto" 1_
+_Imagen 128. seccion "Contacto" 1_
 
 <img src="img/evidence_landing_page_15.jpg" width="100%"> 
 
-_Imagen 122. seccion "Contacto" 2_
+_Imagen 129. seccion "Contacto" 2_
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -2490,23 +2393,23 @@ Para lograr hacer el deployment, entramos a la configuración del repositorio y 
 
 <img src="img/github-pages.jpg" width="100%"> 
 
-_Imagen 123. github - pages - 1_
+_Imagen 130. github - pages - 1_
 
 Escogimos la rama main, ya que es la rama principal sobre la cual se guarda la versión final para hacer el deployment. Una vez se escoge, se guardan los cambios.
 
 <img src="img/github-pages-1.jpg" width="100%"> 
 
-_Imagen 124. github - pages - 2_
+_Imagen 131. github - pages - 2_
 
 Finalmente, solo se espera a que GitHub cree la página y nos brinde el enlace.
 
 <img src="img/github-pages-2.jpg" width="100%"> 
 
-_Imagen 125. github - pages - 3_
+_Imagen 132. github - pages - 3_
 
 <img src="img/github-pages-3.jpg" width="100%"> 
 
-_Imagen 126. github - pages - 4_
+_Imagen 133. github - pages - 4_
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -2514,7 +2417,7 @@ En la elaboración de la landing page, todos los integrantes realizaron commits 
 
 <img src="img/commits-landing-page.jpg" width="100%"> 
 
-_Imagen 127. commits - landing-page_
+_Imagen 134. commits - landing-page_
 
 La división de trabajo para lograr la implementación fue por secciones en las cuales cada miembro realizó una sección de la landing page:
 
@@ -2532,7 +2435,7 @@ Cada sección tuvo su rama con el formato ‘feature/sección’
 
 <img src="img/feature-seccion.jpg" width="100%">
 
-_Imagen 128. feature-seccion_
+_Imagen 135. feature-seccion_
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -2567,7 +2470,7 @@ SENASA. (2019). _Cajamarca es el principal productor de cuy en el Perú_. https:
 
 <img src="img/grafico-anexo.png">
 
-_Imagen 129. Gráfico - poblacion de cuyes_
+_Imagen 136. Gráfico - poblacion de cuyes_
 
 Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
 
@@ -2575,7 +2478,7 @@ Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20pro
 
 <img src="img/cuadro-anexo.png">
 
-_Imagen 130. Cuadro - problemas de la crianza de cuyes_
+_Imagen 137. Cuadro - problemas de la crianza de cuyes_
 
 ## Anexo N°3: Web Style Guidelines
 
