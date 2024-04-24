@@ -1989,7 +1989,7 @@ El diagrama de contenedores representa la arquitectura del sistema de asesoramie
 
 _Imagen 103. Diagrama de contenedores_
 
-### 4.6.1 Software Architecture Components Diagrams
+### 4.6.3 Software Architecture Components Diagrams
 Los diagramas de componentes fueron creados en base a los bounded context definidos para la aplicación: API Rest, Gestión, Publicación, Usuario y Cita.
 
 **API Rest Bounded Context Component Diagram**
