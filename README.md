@@ -1990,32 +1990,32 @@ El diagrama de contenedores representa la arquitectura del sistema de asesoramie
 _Imagen 103. Diagrama de contenedores_
 
 ### 4.6.1 Software Architecture Components Diagrams
-Los diagramas de componentes fueron creados tanto para el contender de sistema de gestión, como para el contender de sistema de asesoramiento, y constan de componentes internos.
+Los diagramas de componentes fueron creados en base a los bounded context definidos para la aplicación: API Rest, Gestión, Publicación, Usuario y Cita.
 
-**API Rest Component Diagram**
+**API Rest Bounded Context Component Diagram**
 <img src="img/API_Rest_Component_Diagram.png">
 
 _Imagen 104. Diagrama de componentes - API REST_
 
 
-**Management Component Diagram**
+**Management Bounded Context Component Diagram**
 <img src="img/Management_Component_Diagram.png">
 
 _Imagen 105. Diagrama de componentes - Gestión_
 
 
-**Publication Component Diagram**
+**Publication Bounded Context Component Diagram**
 <img src="img/Publication_Component_Diagram.png">
 
 _Imagen 106. Diagrama de componentes - Publicación_
 
 
-**User Component Diagram**
+**User Bounded Context Component Diagram**
 <img src="img/User_Component_Diagram.png">
 
 _Imagen 107. Diagrama de componentes - Usuario_
 
-**Appointment Component Diagram**
+**Appointment Bounded Context Component Diagram**
 <img src="img/Appointment_Component_Diagram.png">
 
 _Imagen 108. Diagrama de componentes - Cita_
