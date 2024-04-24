@@ -2459,11 +2459,11 @@ _Imagen 121. seccion "Contacto" 1_
 
 _Imagen 122. seccion "Contacto" 2_
 
-### 5.2.1.6. Execution Evidence for Sprint Review.
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En este primer sprint, no hemos trabajado con servicios web, ya que nos hemos concentrado exclusivamente en la creación del Landing Page estático. Es por ello que en esta ocasión, no se trabajó la documentación relacionada con el uso de servicios web.
 
-### 5.2.1.7. Execution Evidence for Sprint Review.
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Una vez acabamos de trabajar con todas las historias de usuario, realizamos el deployment del Landing Page utilizando GitHub Pages.
 
@@ -2572,4 +2572,4 @@ Exposición del TB1: [upc-pre-202401-si729-wx52-agrotech-expo-tb1.mp4](https://u
 Enlace del prototipo en figma: [https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548](https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548)
 
 ## Anexo N°6: Explicación del prototipo
-Enlace: [Explicación del protitipo](https://youtu.be/lTo_Pz0j2vc)
+Enlace: [Explicación del prototipo](https://youtu.be/lTo_Pz0j2vc)
