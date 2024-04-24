@@ -2040,7 +2040,227 @@ _Imagen 111. Diagrama de Clases Publication Bounded Context_
 _Imagen 112. Diagrama de Clases User Bounded Context_
 
 
-### 4.7.2 Class Dictionary
+
+**4.7.2. Class Dictionary.**
+
+**User Bounded Context**
+
+|User|
+| - |
+|Es la interfaz que representa a un usuario general dentro de la aplicación. Tiene relación de asociación con User Factory.|
+
+|Advisor|
+| - |
+|Es la clase que representa un asesor dentro de la aplicación. Es una clase hija de User, por lo que tiene relación de herencia con User.|
+
+|Breeder|
+| - |
+|Es la clase que representa un criador dentro de la aplicación. Es una clase hija de User, por lo que tiene relación de herencia con User.|
+
+|UserFactory||
+| - | :- |
+|Es la clase que se encarga de la creación de los usuarios, es clase hija de UserManager. Tiene relación de asociación con User y relación de herencia con UserManager.||
+|createUser()|Método que implementa la creación de un nuevo objeto.|
+
+|UserManager||
+| - | :- |
+|Es la clase que se encarga de la gestión de los usuarios. Tiene relación de herencia con UserFactory.||
+|createUser()|Método que implementa la creación de un nuevo objeto User.|
+|getUser()|Método que obtiene información de un usuario específico.|
+|updateUser()|Método que permite actualizar los atributos de un usuario específico.|
+|deleteUser()|Método que permite eliminar a un usuario específico.|
+
+|AdvisorFactory||
+| - | :- |
+|Es la clase que se encarga de la creación de los usuarios de tipo Advisor. Es clase hija de UserFactory. Tiene relación de herencia con UserManager.||
+|createUser()|Método que implementa la creación de un nuevo objeto Advisor.|
+
+|BreederFactory||
+| - | :- |
+|Es la clase que se encarga de la creación de los usuarios de tipo Breeder. Es clase hija de UserFactory. Tiene relación de herencia con UserManager.||
+|createUser()|Método que implementa la creación de un nuevo objeto Breeder.|
+
+**Management Bounded Context**
+
+|Breeder|
+| - |
+|Es la clase que representa un criador dentro de la aplicación y tiene una relación de asociación con la clase Farm.|
+
+|Farm|
+| - |
+|Es la clase que representa la colección de recursos, gastos y animales del criador. Por lo que, tiene una relación de agregación con dichas clases.|
+
+|Cage||
+| - | :- |
+|Es la clase que representa las jaulas donde están los cuyes. Entonces, tiene una relación de composición con Animal. Además, actúa como Director en el patrón Builder para registrar un animal porque este invoca al Builder.||
+|getAnimals()|Método para obtener el conjunto de cuyes de la jaula.|
+|registerAnimal()|Método para registrar un cuy usando el patrón Builder.|
+
+|Animal|
+| - |
+|Es la clase que representa a los cuyes que crían los criadores.|
+
+|Builder||
+| - | :- |
+|Es la clase que define los métodos para crear un Animal por parte y declara los pasos para crear un objeto Animal. ||
+|setName()|Método para ponerle el nombre a un cuy.|
+|setBreed()|Método para señalar la raza de un cuy.|
+|setGender()|Método para indicar el género de un cuy.|
+|setBirthDate()|Método para señalar la fecha de nacimiento de un cuy.|
+|setStatus()|Método para indicar el estado de un cuy.|
+|setCage()|Método para indicar la jaula donde habita un cuy.|
+|setWeight()|Método para señalar el peso de un cuy.|
+|setObservation()|Método para indicar observaciones adicionales de un cuy.|
+
+|AnimalBuilder||
+| - | :- |
+|Es una implementación específica del Builder que permite crear a un animal.||
+|setName()|Método para ponerle el nombre a un cuy.|
+|setBreed()|Método para señalar la raza de un cuy.|
+|setGender()|Método para indicar el género de un cuy.|
+|setBirthDate()|Método para señalar la fecha de nacimiento de un cuy.|
+|setStatus()|Método para indicar el estado de un cuy.|
+|setCage()|Método para indicar la jaula donde habita un cuy.|
+|setWeight()|Método para señalar el peso de un cuy.|
+|setObservation()|Método para indicar observaciones adicionales de un cuy.|
+|getAnimal()|Método para obtener el objeto Animal.|
+
+|Expense|
+| - |
+|Es una interfaz que representa un gasto del criador.|
+
+|FoodExpense|
+| - |
+|Es una implementación de un gasto específicamente un gasto de comida para cuyes del criador.|
+
+
+|HealthExpense|
+| - |
+|Es una implementación de un gasto específicamente un gasto realizado para mantener la salud de los cuyes del criador.|
+
+|MaintenanceExpense|
+| - |
+|Es una implementación de un gasto específicamente un gasto realizado para mantener el galpón del criador, pueden ser productos de limpieza, nuevas jaulas, etc.|
+
+|ExpenseFactory||
+| - | :- |
+|Es la clase que define la creación de gastos. ||
+|createExpense()|Método para la creación de un nuevo gasto.|
+
+|FoodExpenseFactory||
+| - | :- |
+|Es la clase que define la creación de gastos sobre comida. ||
+|createExpense()|Método que sobreescribe la creación de un nuevo gasto para que sea un gasto de comida.|
+
+|HealthExpenseFactory||
+| - | :- |
+|Es la clase que define la creación de gastos sobre salud de los cuyes. ||
+|createExpense()|Método que sobreescribe la creación de un nuevo gasto para que sea un gasto relacionado con la salud de los cuyes.|
+
+|MaintenanceExpenseFactory||
+| - | :- |
+|Es la clase que define la creación de gastos sobre mantenimiento del galpón. ||
+|createExpense()|Método que sobreescribe la creación de un nuevo gasto para que sea un gasto relacionado con el mantenimiento del galpón.|
+
+|Resource|
+| - |
+|Es una interfaz que representa un recurso que el criador posee.|
+
+
+|FoodResource|
+| - |
+|Es una implementación de un recurso, en este caso el recurso sería comida para cuyes.|
+
+|MedicineResource|
+| - |
+|Es una implementación de un recurso, en este caso el recurso sería medicina para cuyes.|
+
+|EquipmentResource|
+| - |
+|Es una implementación de un recurso, en este caso el recurso sería equipamiento necesario para el mantenimiento del galpón puede ser por ejemplo nuevas jaulas.|
+
+|ResourceFactory||
+| - | :- |
+|Es la clase que define la creación de recursos. ||
+|createResource()|Método para la creación de un nuevo recurso.|
+
+|FoodResourceFactory||
+| - | :- |
+|Es la clase que define la creación de recursos de comida. ||
+|createResource()|Método que sobreescribe la creación de un nuevo recurso para que sea un recurso de tipo comida.|
+
+|MedicineResourceFactory||
+| - | :- |
+|Es la clase que define la creación de recurso sobre medicina para los cuyes. ||
+|createResource()|Método que sobreescribe la creación de un nuevo recurso para que sea un recurso relacionado con medicina para cuyes.|
+
+|EquipmentResourceFactory||
+| - | :- |
+|Es la clase que define la creación de gastos de equipamiento. ||
+|createResource()|Método que sobreescribe la creación de un nuevo recurso para que sea un gasto relacionado con equipamiento como nuevas jaulas.|
+
+**Appointment Bounded Context**
+
+|Breeder||
+| - | :- |
+|Es la clase que representa un criador dentro de la aplicación. Es la clase que representa un asesor dentro de la aplicación. Implementa la interfaz “Observer” y definen su propio método ‘update()’ para recibir notificaciones.||
+|update()|Cuando la fecha de la cita se acerca o cambia, la clase Appointment puede invocar el método update() en “Breeder”. Por ejemplo, si la fecha actual es igual a la fecha de la cita menos un día, el Appointment podría notificar al “Breeder” de dicho cambio; o también, cuando ya es la fecha de la cita.|
+
+|Advicer||
+| - | :- |
+|Es la clase que representa un asesor dentro de la aplicación. Implementa la interfaz “Observer” y definen su propio método ‘update()’ para recibir notificaciones.||
+|update()|Cuando la fecha de la cita se acerca o cambia, la clase Appointment puede invocar el método update() en “Advicer”. Por ejemplo, si la fecha actual es igual a la fecha de la cita menos un día, el Appointment podría notificar al “Advicer” de dicho cambio; o también, cuando ya es la fecha de la cita.|
+
+|Appointment||
+| - | :- |
+|Es la clase que representa una cita entre el asesor y el criador de cuyes.||
+|getDate()|Método que obtiene la fecha de la cita y luego compararla con la fecha actual para determinar si se debe enviar una notificación.|
+|setDate()|Se utiliza para establecer la fecha inicial de la cita|
+
+|Observer||
+| - | :- |
+|La interfaz Observer establece un acuerdo para los objetos interesados en recibir avisos sobre modificaciones en un objeto que puede ser observado.||
+|update()|Método que se llama cuando la fecha del “Appointment” cambia y/o ya es la fecha de la cita necesita notificar a sus observadores.|
+
+
+Publication Bounded Context
+
+|Advisor||
+| - | :- |
+|Es la clase que representa un asesor dentro de la aplicación en el contexto de sus publicaciones||
+|createPublication()|Método que crea una publicación.|
+|updatePublication()|Método que actualiza la información de una publicación|
+|deletePublication()|Método para eliminar una publicación|
+
+|Publications|
+| - |
+|Es una interfaz que representa las publicaciones de un asesor|
+
+|Publication||
+| - | :- |
+|Es la clase que representa una publicación hecha por un asesor||
+|title|Título de la publicación|
+|description|Descripción de la publicación|
+|photo|Imagen que va en la publicación|
+|getTitle()|Método que obtiene el título de la publicación|
+|getDescription()|Método que obtiene la descripción de la publicación|
+|getPhoto()|Método que obtiene la imagen de la publicación|
+|Publication(PublicationAdvisorBuilder)|Método constructor utilizado para construir instancias de “Publication” utilizando los valores configurados en el “PublicationAdvisorBuilder”|
+
+
+|PublicationAdvisorBuilder||
+| - | :- |
+|Es la clase que facilita la construcción paso a paso de objetos “Publication”||
+|title|Título de la publicación|
+|description|Descripción de la publicación|
+|photo|Imagen que va en la publicación|
+|setTitle()|Método que establece el título de la publicación|
+|setDescription()|Método que establece la descripción de la publicación|
+|getPhoto()|Método que establece la imagen de la publicación|
+|build()|Método responsable de finalizar el proceso de construcción del objeto “Publication” y devuelve la instancia completa del mismo|
+
+
+
 
 
 
