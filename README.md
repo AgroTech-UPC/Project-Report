@@ -352,33 +352,33 @@ _Imagen 1. Logo de la aplicación AgroConnect_
 
 ***Problem Statement 1***
 
-|Nuestro producto tiene como objetivo mejorar la gestión de granjas de cuyes en el departamento de Lima.|
+|Nuestro producto tiene como objetivo mejorar la gestión de granjas de cuyes en el Perú.|
 | - |
-|Hemos observado que los criadores de cuyes en Lima enfrentan dificultades para gestionar eficientemente sus granjas, lo que afecta su productividad y rentabilidad.|
-|¿Podría nuestra aplicación AgroConnect ayudar a los criadores de cuyes en Lima a mejorar la gestión de sus granjas y aumentar su productividad?|
+|Hemos observado que los criadores de cuyes en Perú enfrentan dificultades para gestionar eficientemente sus granjas, lo que afecta su productividad y rentabilidad.|
+|¿Podría nuestra aplicación AgroConnect ayudar a los criadores de cuyes a mejorar la gestión de sus granjas y aumentar su productividad?|
 
 
 ***Problem Statement 2***
 
-|Nuestro producto tiene como objetivo aumentar la rentabilidad de los criadores de cuyes en Lima.|
+|Nuestro producto tiene como objetivo aumentar la rentabilidad de los criadores de cuyes en Perú.|
 | - |
-|Hemos observado que muchos criadores de cuyes en Lima enfrentan desafíos para lograr una rentabilidad adecuada debido a la falta de eficiencia en la gestión de sus granjas.|
-|¿Podría Agroconnect ayudar a los criadores de cuyes en Lima a mejorar su rentabilidad mediante una gestión más eficiente de sus granjas?|
+|Hemos observado que muchos criadores de cuyes en Perú enfrentan desafíos para lograr una rentabilidad adecuada debido a la falta de eficiencia en la gestión de sus granjas.|
+|¿Podría Agroconnect ayudar a los criadores de cuyes en Perú a mejorar su rentabilidad mediante una gestión más eficiente de sus granjas?|
 
 
 ***Problem Statement 3***
 
-|Nuestro producto tiene como objetivo facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Lima.|
+|Nuestro producto tiene como objetivo facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Perú.|
 | - |
-|Hemos observado que muchos criadores de cuyes en Lima enfrentan dificultades para acceder a mercados y comercializar sus productos de manera efectiva.|
-|¿Podría Agroconnect ayudar a los criadores de cuyes en Lima a acceder a mercados y mejorar la comercialización de sus productos?|
+|Hemos observado que muchos criadores de cuyes en Perú enfrentan dificultades para acceder a mercados y comercializar sus productos de manera efectiva.|
+|¿Podría Agroconnect ayudar a los criadores de cuyes en Perú a acceder a mercados y mejorar la comercialización de sus productos?|
 
 
 #### 1.2.2.2. Lean UX Assumptions.
 
 1. **¿Quién es el usuario?** 
 
-   El usuario principal de nuestro producto es el criador de cuyes en el departamento de Lima. También pueden incluirse otros actores involucrados en la cadena de producción y comercialización de productos cárnicos de cuy, como los trabajadores de las granjas, los compradores de cuyes y los consumidores finales.
+   El usuario principal de nuestro producto es el criador de cuyes en Perú. También pueden incluirse otros actores involucrados en la cadena de producción y comercialización de productos cárnicos de cuy, como los trabajadores de las granjas, los compradores de cuyes y los consumidores finales.
 
 1. **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
@@ -386,11 +386,11 @@ _Imagen 1. Logo de la aplicación AgroConnect_
 
 1. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
 
-   Actualmente, nuestro producto presenta un inconveniente, ya que no está configurado para enfocarse en la crianza de animales distintos al cuy. Por otra parte, aborda varios problemas que enfrentan los criadores de cuyes en Lima, como la falta de acceso a tecnologías adecuadas, la gestión ineficiente de las granjas, la necesidad de mejorar el bienestar animal, la baja rentabilidad y el impacto ambiental negativo de las prácticas agrícolas. Agroconnect resuelve estos problemas al proporcionar herramientas y conocimientos para una gestión más eficiente, prácticas agrícolas sostenibles, mejoramiento del bienestar animal, aumento de la rentabilidad y reducción del impacto ambiental.
+   Actualmente, nuestro producto presenta un inconveniente, ya que no está configurado para enfocarse en la crianza de animales distintos al cuy. Por otra parte, aborda varios problemas que enfrentan los criadores de cuyes en Perú, como la falta de acceso a tecnologías adecuadas, la gestión ineficiente de las granjas, la necesidad de mejorar el bienestar animal, la baja rentabilidad y el impacto ambiental negativo de las prácticas agrícolas. Agroconnect resuelve estos problemas al proporcionar herramientas y conocimientos para una gestión más eficiente, prácticas agrícolas sostenibles, mejoramiento del bienestar animal, aumento de la rentabilidad y reducción del impacto ambiental.
 
 1. **¿Cuándo y cómo es nuestro producto? ¿Usado?** 
 
-   Nuestro producto sería utilizado de manera continua por los criadores de cuyes en Lima, como una herramienta integral en la gestión diaria de sus granjas. Agroconnect se utilizará a través de dispositivos móviles o computadoras, con acceso a internet, permitiendo a los usuarios utilizar la plataforma en cualquier momento y desde cualquier lugar.
+   Nuestro producto sería utilizado de manera continua por los criadores de cuyes en Perú, como una herramienta integral en la gestión diaria de sus granjas. Agroconnect se utilizará a través de dispositivos móviles o computadoras, con acceso a internet, permitiendo a los usuarios utilizar la plataforma en cualquier momento y desde cualquier lugar.
 
 1. **¿Qué características son importantes?**
 
@@ -411,7 +411,7 @@ _Imagen 1. Logo de la aplicación AgroConnect_
 |Creo que mis clientes necesitan un servicio que les brinde soluciones integrales para la gestión eficiente de la crianza de cuyes, abordando aspectos como la salud animal, la nutrición, la reproducción y la comercialización.|Haré dinero a través de la venta de suscripciones a nuestra plataforma Agroconnect, así como mediante la prestación de servicios de consultoría especializada y la venta de productos complementarios.|
 | - | - |
 |Estas necesidades se pueden resolver con tecnologías avanzadas de monitoreo y análisis de datos, junto con el acceso a un equipo de expertos en crianza de cuyes que proporcionen orientación y recomendaciones personalizadas.|<p>Mi competencia principal en el mercado será: BestFarm  </p><p></p>|
-|Mis clientes iniciales son los criadores de cuyes en el departamento de Lima que buscan mejorar la eficiencia y la rentabilidad de sus operaciones.|Los venceremos gracias a nuestra combinación única de tecnología avanzada, conocimientos especializados y enfoque centrado en las necesidades específicas de la crianza de cuyes.|
+|Mis clientes iniciales son los criadores de cuyes en Perú que buscan mejorar la eficiencia y la rentabilidad de sus operaciones.|Los venceremos gracias a nuestra combinación única de tecnología avanzada, conocimientos especializados y enfoque centrado en las necesidades específicas de la crianza de cuyes.|
 |El valor número uno que un cliente quiere de mi servicio es mejorar la rentabilidad de su granja de cuyes mientras garantiza el bienestar de los animales y adoptar prácticas sostenibles.|Mi mayor riesgo con respecto al producto es la resistencia al cambio por parte de algunos criadores, que pueden ser reacios a adoptar nuevas tecnologías o modificar sus métodos de crianza.|
 |El cliente también puede optar por no renovar su suscripción a nuestra plataforma si no percibe mejoras significativas en la gestión y rentabilidad de su granja de cuyes.|Resolveremos esto a través de una estrategia integral de educación y soporte continuo para nuestros clientes, demostrando el valor tangible de nuestra plataforma a través de casos de éxito y resultados demostrables.|
 |Voy a adquirir a la mayoría de mis clientes a través de campañas de marketing dirigidas en línea, participación en eventos agrícolas locales y asociaciones con organizaciones de productores de cuyes.|Nuestro enfoque principal es proporcionar asesoramiento especializado y herramientas tecnológicas para mejorar la gestión de la crianza de cuyes de forma inteligente y eficiente.|
@@ -421,28 +421,28 @@ _Imagen 1. Logo de la aplicación AgroConnect_
 
 **Hypothesis Statement 1**
 
-|Creemos que al proporcionar a los criadores de cuyes en Lima acceso a tecnologías avanzadas y asesoramiento especializado a través de nuestra plataforma Agroconnect, mejorarán la eficiencia y la rentabilidad de sus granjas..|
+|Creemos que al proporcionar a los criadores de cuyes en Perú acceso a tecnologías avanzadas y asesoramiento especializado a través de nuestra plataforma Agroconnect, mejorarán la eficiencia y la rentabilidad de sus granjas..|
 | - |
 |Sabremos que esto es cierto…|
 |Cuando se aprecie un incremento del 20% en la cantidad de solicitudes de asesorías durante los primeros 6 meses de lanzamiento.|
 
 **Hypothesis Statement 2**
 
-|Creemos que al promover prácticas agrícolas sostenibles y éticas en la crianza de cuyes en Lima a través de Agroconnect, los criadores adoptarán un enfoque más responsable con el medio ambiente.|
+|Creemos que al promover prácticas agrícolas sostenibles y éticas en la crianza de cuyes en Perú a través de Agroconnect, los criadores adoptarán un enfoque más responsable con el medio ambiente.|
 | - |
 |Sabremos que esto es cierto…|
 |Cuando proporcionemos orientación y recursos específicos sobre prácticas sostenibles a través de AgroConnect y evaluemos la adopción de estas prácticas por parte de los criadores, viendo un aumento del 15% en el uso de prácticas sostenibles dentro de los primeros 6 meses de lanzamiento.|
 
 **Hypothesis Statement 3**
 
-|Creemos que al facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Lima a través de Agroconnect, los criadores aumentarán sus ventas y expandirán sus negocios.|
+|Creemos que al facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Perú a través de Agroconnect, los criadores aumentarán sus ventas y expandirán sus negocios.|
 | - |
 |Sabremos que esto es cierto…|
 |Cuando se establezcan conexiones con compradores y mercados a través de los asesores de AgroConnect, y evaluemos el impacto en las ventas de los criadores mediante un aumento del 25% en las ventas en los primeros 6 meses de uso de la aplicación.|
 
 **Hypothesis Statement 4**
 
-|Creemos que al facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Lima a través de Agroconnect, los criadores aumentarán sus ventas y expandirán sus negocios.|
+|Creemos que al facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Perú a través de Agroconnect, los criadores aumentarán sus ventas y expandirán sus negocios.|
 | - |
 |Sabremos que esto es cierto…|
 |Cuando se observe un aumento del 20% en el número de asesores activos en los primeros tres meses posteriores a la implementación de la nueva estructura de comisiones. Además, mediremos la retroalimentación de los asesores mediante encuestas regulares, y consideraremos que hemos tenido éxito si al menos el 70% de las respuestas son positivas en relación con la nueva estructura de comisiones.|
@@ -1976,21 +1976,21 @@ _Imagen 101. Explicación del prototipo_
 
 ## 4.6 Domain-Driven Software Architecture
 ### 4.6.1 Software Architecture Context Diagram
-El diagrama de contexto representa la estructura y las principales interacciones de un sistema de software. Este sistema permite a los usuarios, ya sean los criadores novatos o asesores, explorar la plataforma y llevar a cabo las sesiones para apoyo, y para gestionar inventario de la granja. Además, el sistema establece conexiones con sistemas externos, así como el sistema de servicio de citas para la programación según calendario.
+El diagrama de contexto representa la estructura y las principales interacciones de un sistema de software. Este sistema permite a los usuarios, ya sean los criadores novatos o asesores, explorar la plataforma y llevar a cabo las sesiones para apoyo, y para gestionar inventario de la granja. Además, el sistema establece conexiones con sistemas externos, así como el sistema de calendario de Google para la programación de citas.
 
 <img src="img/diagrama_contexto.png">
 
 _Imagen 102. Diagrama de contexto_
 
 ### 4.6.2 Software Architecture Container Diagrams
-El diagrama de contenedores representa la arquitectura del sistema de asesoramiento y gestión para criadores de cuyes. Los criadores y asesores utilizan la aplicación web para interactuar con las funcionalidades de diversos contenedores. Los contenedores son el sistema de gestión que se encarga de manejar la información de las granjas, el sistema de asesoramiento que administra la información de los asesores y las citas con los criadores, y la base de datos que almacena toda la información para que sea consultada por los componentes o actualizada.
+El diagrama de contenedores representa la arquitectura del sistema de AgroConnect. Los criadores y asesores utilizan el contenedor de la aplicación web para interactuar con las funcionalidades del sistema mediante una conexión con la API REST. Asimismo, el contenedor del API REST se conecta con los sistemas externos.
 
 <img src="img/diagrama_contenedor.png">
 
 _Imagen 103. Diagrama de contenedores_
 
 ### 4.6.3 Software Architecture Components Diagrams
-Los diagramas de componentes fueron creados en base a los bounded context definidos para la aplicación: API Rest, Gestión, Publicación, Usuario y Cita.
+Los diagramas de componentes fueron creados en base a la API Rest y los bounded contexts que la componen: Gestión, Publicación, Usuario y Cita.
 
 **API Rest Bounded Context Component Diagram**
 <img src="img/API_Rest_Component_Diagram.png">
