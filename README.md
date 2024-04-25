@@ -1980,7 +1980,7 @@ _Imagen 102. Explicación del prototipo_
 
 ## 4.6 Domain-Driven Software Architecture
 ### 4.6.1 Software Architecture Context Diagram
-El diagrama de contexto representa la estructura y las principales interacciones de un sistema de software. Este sistema permite a los usuarios, ya sean los criadores novatos o asesores, explorar la plataforma y llevar a cabo las sesiones para apoyo, y para gestionar inventario de la granja. Además, el sistema establece conexiones con sistemas externos, así como el sistema de calendario de Google para la programación de citas.
+El diagrama de contexto representa la estructura y las principales interacciones de un sistema de software. Este sistema permite a los usuarios, ya sean los criadores novatos o asesores, explorar la plataforma y llevar a cabo las sesiones para apoyo, y para gestionar inventario de la granja. Además, el sistema establece conexiones con sistemas externos, como el sistema de calendario de Google para la programación de citas.
 
 <img src="img/diagrama_contexto.png">
 
