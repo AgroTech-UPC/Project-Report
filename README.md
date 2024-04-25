@@ -35,6 +35,9 @@ Abril 2024
 
 </div>
 
+
+# Registro de versiones
+
 <table>
   <thead>
     <tr>
@@ -1228,7 +1231,7 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 
  <img src="img/product_backlog.jpg" alt="Product backlog">
 
-  _Imagen 19. product backlog_
+  _Imagen 19. Product backlog_
 
 |**# Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points (1/2/3/5/8)**|
 | :- | :- | :- | :- | :- |
@@ -1373,6 +1376,7 @@ El espaciado adecuado entre elementos es esencial para lograr una apariencia equ
 <p align="center">
   <img src="img/spacing.png" alt="Spacing de AgroConnect" width="600">
 </p>
+
 _Imagen 28. Spacing de AgroConnect_
 
 **Grid System**
@@ -1383,7 +1387,7 @@ El grid system es una herramienta esencial en el diseño y la organización de l
   <img src="img/grid.png" alt="Grid System de AgroConnect" width="600">
 </p>
 
-_Imagen 28. Grid System de AgroConnect_
+_Imagen 29. Grid System de AgroConnect_
 
 **Button**
 
@@ -1393,7 +1397,7 @@ Los botones son elementos importantes en la interfaz de usuario de AgroConnect, 
   <img src="img/button.png" alt="Button de AgroConnect" width="600">
 </p>
 
-_Imagen 29. Button de AgroConnect_
+_Imagen 30. Button de AgroConnect_
 
 **Input System**
 
@@ -1403,7 +1407,7 @@ El input system es fundamental en la experiencia del usuario en AgroConnect, ya 
   <img src="img/input-system.png" alt="Input Sys AgroConnect" width="600">
 </p>
 
-_Imagen 30. Input System de AgroConnect_
+_Imagen 31. Input System de AgroConnect_
 
 ## 4.2. Information Architecture
 
@@ -1522,7 +1526,7 @@ Las Search Engine Optimization (Etiquetas SEO) y las Meta Tags (Meta Etiquetas) 
   <img src="img/seotags.JPG" alt="SEO tags" width="600">
 </p>
 
-_Imagen 31. SEO tags de AgroConnect_
+_Imagen 32. SEO tags de AgroConnect_
 
 ### 4.2.4. Searching Systems
 
@@ -1581,7 +1585,7 @@ En este apartado, nos enfocaremos en el diseño de la interfaz de usuario (UI) d
   <img src="img/wireframe-landing-about-app.JPG" alt="Pagina Acerca de" width="600">
 </p>
 
-_Imagen 32. Pagina Acerca de_
+_Imagen 33. Pagina Acerca de_
 
 **Wireframe - sección de ‘Sobre Nosotros’:** la sección tendrá una imagen de fondo y tendrá información sobre la startup Agrotech junto con nuestra misión y visión.
 
@@ -1589,7 +1593,7 @@ _Imagen 32. Pagina Acerca de_
   <img src="img/wireframe-landing-about-us.JPG" alt="Pagina Sobre Nosotros" width="600">
 </p>
 
-_Imagen 33. Pagina Sobre Nosotros_
+_Imagen 34. Pagina Sobre Nosotros_
 
 **Wireframe - sección de ‘Características’:** la sección tendrá una imagen de fondo y tendrá información sobre los servicios que ofrecemos con nuestra aplicación AgroConnect.
 
@@ -1597,7 +1601,7 @@ _Imagen 33. Pagina Sobre Nosotros_
   <img src="img/wireframe-landing-features.JPG" alt="Pagina Características" width="600">
 </p>
 
-_Imagen 34. Pagina Características_
+_Imagen 35. Pagina Características_
 
 **Wireframe - sección de ‘Contacto’:** la sección tendrá una imagen de fondo y tendrá un formulario donde los usuarios potenciales puedan escribir consultas para que sean respondidas en un correo por un miembro de AgroTech.
 
@@ -1605,7 +1609,7 @@ _Imagen 34. Pagina Características_
   <img src="img/wireframe-landing-contact.JPG" alt="Pagina Contacto" width="600">
 </p>
 
-_Imagen 35. Pagina Contacto_
+_Imagen 36. Pagina Contacto_
 
 ### 4.3.2. Landing Page Mock-up
 **Mockup - sección de ‘Inicio’ de AgroConnect:** la sección tiene una imagen de fondo llamativa con un mensaje que refleja el objetivo de la startup para llamar la atención de posibles usuarios.
@@ -1614,7 +1618,7 @@ _Imagen 35. Pagina Contacto_
   <img src="img/mockup-landing-home.JPG" alt="Pagina de Inicio" width="600">
 </p>
 
-_Imagen 36. Mockup Pagina Inicio_
+_Imagen 37. Mockup Pagina Inicio_
 
 **Mockup - sección de ‘Acerca de’:** la sección tiene una imagen de fondo y tiene información sobre la problemática que queremos resolver.
 
@@ -1622,7 +1626,7 @@ _Imagen 36. Mockup Pagina Inicio_
   <img src="img/mockup-landing-about-app.JPG" alt="Página Acerca de la problemática" width="600">
 </p>
 
-_Imagen 37. Mockup Pagina Acerca de_
+_Imagen 38. Mockup Pagina Acerca de_
 
 **Mockup - sección de ‘Sobre Nosotros’:** la sección tiene una imagen de fondo y tiene información sobre la startup Agrotech junto con nuestra misión y visión.
 
@@ -1630,7 +1634,7 @@ _Imagen 37. Mockup Pagina Acerca de_
   <img src="img/mockup-landing-about-us.JPG" alt="Pagina Sobre Nosotros" width="600">
 </p>
 
-_Imagen 38. Mockup Pagina Sobre Nosotros_
+_Imagen 39. Mockup Pagina Sobre Nosotros_
 
 **Mockup - sección de ‘Características’:** la sección tiene una imagen de fondo y tiene información sobre los servicios que ofrecemos con nuestra aplicación AgroConnect.
 
@@ -1638,7 +1642,7 @@ _Imagen 38. Mockup Pagina Sobre Nosotros_
   <img src="img/mockup-landing-features.JPG" alt="Pagina de Características" width="600">
 </p>
 
-_Imagen 39. Mockup Pagina de Características_
+_Imagen 40. Mockup Pagina de Características_
 
 **Mockup - sección de ‘Contacto’:** la sección tiene una imagen de fondo y tiene un formulario donde los usuarios potenciales pueden escribir consultas para que sean respondidas en un correo por un miembro de AgroTech.
 
@@ -1646,7 +1650,7 @@ _Imagen 39. Mockup Pagina de Características_
   <img src="img/mockup-landing-contact.JPG" alt="Pagina de Contacto" width="600">
 </p>
 
-_Imagen 40. Mockup Pagina de Contacto_
+_Imagen 41. Mockup Pagina de Contacto_
 
 ## 4.4 Web Applications UX/UI Design
 
@@ -1657,151 +1661,151 @@ En este apartado, se muestran todos los wireframes necesarios para cumplir las f
 
 <img src="img/Wireframe1.png" alt = "Wireframes de Inicio de sesión y Registro">
 
-_Imagen 41. Wireframes de Inicio de sesión y Registro_
+_Imagen 42. Wireframes de Inicio de sesión y Registro_
 
 **Wireframes de Mi Granja:** En estos wireframes se maneja las vistas del criador donde podrá gestionar tanto sus recursos como sus gastos, pudiendo ver toda la información con respecto a estos que ha ido registrando.
 
 <img src="img/Wireframe2.png" alt = "Wireframes de Mi Granja">
 
-_Imagen 42. Wireframes de sección Mi Granja_
+_Imagen 43. Wireframes de sección Mi Granja_
 
 **Wireframes de Mis Animales - Jaulas:** En estos wireframes se maneja las vistas de la sección Mis Animales en específico los que tratan del manejo de las jaulas donde están los cuyes pudiendo modificar su información y/o eliminarlas.
 
 <img src="img/Wireframe3.png" alt = "Wireframes de Mis animales - Jaulas">
 
-_Imagen 43. Wireframes de Mis animales - Jaulas_
+_Imagen 44. Wireframes de Mis animales - Jaulas_
 
 **Wireframes de Mis Animales - Jaulas:** En estos wireframes se maneja las vistas de la sección Mis Animales en específico los que tratan de la visualización y edición de información de los cuyes.
 
 <img src="img/Wireframe4.png" alt = "Wireframes de Mis animales - Cuyes">
 
-_Imagen 44. Wireframes de Mis animales - Cuyes_
+_Imagen 45. Wireframes de Mis animales - Cuyes_
 
 **Wireframes de Asesores - Citas:** En estos wireframes se maneja la visualización de los asesores que participan de la aplicación, incluyendo la funcionalidad de filtrar los asesores por palabras clave como su nombre. Además de poder comprobar los horarios disponibles de los asesores y reservar citas.
 
 <img src="img/Wireframe5.png" alt = "Wireframes de Asesores - Citas">
 
-_Imagen 45. Wireframes de Asesores - Citas_
+_Imagen 46. Wireframes de Asesores - Citas_
 
 **Wireframes de Asesores - Reseñas:** En estos wireframes se maneja la funcionalidad de reseñas de los asesores.
 
 <img src="img/Wireframe6.png" alt = "Wireframes de Asesores - Reseñas">
 
-_Imagen 46. Wireframes de Asesores - Reseñas_
+_Imagen 47. Wireframes de Asesores - Reseñas_
 
 **Wireframes de Registro - Jaulas:** En estos wireframes se maneja el registro de nuevas jaulas.
 
 <img src="img/Wireframe7.png" alt = "Wireframes de Registro - Jaulas">
 
-_Imagen 47. Wireframes de Registro - Jaulas_
+_Imagen 48. Wireframes de Registro - Jaulas_
 
 **Wireframes de Registro - Cuyes:** En estos wireframes se maneja el registro de nuevos cuyes.
 
 <img src="img/Wireframe8.png" alt = "Wireframes de Registro - Cuyes">
 
-_Imagen 48. Wireframes de Registro - Cuyes_
+_Imagen 49. Wireframes de Registro - Cuyes_
 
 **Wireframes de Registro - Recursos:** En estos wireframes se maneja el registro de nuevos recursos.
 
 <img src="img/Wireframe9.png" alt = "Wireframes de Registro - Recursos">
 
-_Imagen 49. Wireframes de Registro - Cuyes_
+_Imagen 50. Wireframes de Registro - Cuyes_
 
 **Wireframes de Notificaciones:** En estos wireframes se maneja la vista de las notificaciones del criador que serían los recordatorios de citas programadas.
 
 <img src="img/Wireframe10.png" alt = "Wireframes de Notificaciones">
 
-_Imagen 50. Wireframes de Notificaciones_
+_Imagen 51. Wireframes de Notificaciones_
 
 **Wireframes de Clientes:** En estos wireframes se maneja la vista de los clientes del asesor.
 
 <img src="img/Wireframe11.png" alt = "Wireframes de Clientes">
 
-_Imagen 51. Wireframes de Clientes_
+_Imagen 52. Wireframes de Clientes_
 
 **Wireframes de Publicaciones:** En estos wireframes se maneja la vista de las publicaciones actuales del asesor y la creación de nuevas publicaciones.
 
 <img src="img/Wireframe12.png" alt = "Wireframes de Publicaciones">
 
-_Imagen 52. Wireframes de Publicaciones_
+_Imagen 53. Wireframes de Publicaciones_
 
 **Wireframes de Notificaciones:** En estos wireframes se maneja la vista de las notificaciones del asesor que serían los recordatorios de citas programadas y interés en sus publicaciones.
 
 <img src="img/Wireframe13.png" alt = "Wireframes de Notificaciones">
 
-_Imagen 53. Wireframes de Notificaciones_
+_Imagen 54. Wireframes de Notificaciones_
 
 ### 4.4.2 Web Applications Wireflow Diagrams
 Para usuario:
 <img src="img/usuario-wireflow-1.png" alt="Usuario - Wireflow 1">
 
-_Imagen 54. Wireflow - usuario - 1_
+_Imagen 55. Wireflow - usuario - 1_
 
 <img src="img/usuario-wireflow-2.png" alt="Usuario - Wireflow 2">
 
-_Imagen 55. Wireflow - usuario - 2_
+_Imagen 56. Wireflow - usuario - 2_
 
 Para asesor:
 <img src="img/asesor-wireflow-1.png" alt="Asesor - Wireflow 1">
 
-_Imagen 56. Wireflow - asesor - 1_
+_Imagen 57. Wireflow - asesor - 1_
 
 <img src="img/asesor-wireflow-2.png" alt="Asesor - Wireflow 2">
 
-_Imagen 57. Wireflow - asesor - 2_
+_Imagen 58. Wireflow - asesor - 2_
 
 <img src="img/asesor-wireflow-3.png" alt="Asesor - Wireflow 3">
 
-_Imagen 58. Wireflow - asesor - 3_
+_Imagen 59. Wireflow - asesor - 3_
 
 <img src="img/asesor-wireflow-4.png" alt="Asesor - Wireflow 4">
 
-_Imagen 59. Wireflow - asesor - 4_
+_Imagen 60. Wireflow - asesor - 4_
 
 Para criador:
 <img src="img/criador-wireflow-1.png" alt="Criador - Wireflow 1">
 
-_Imagen 60. Wireflow - criador - 1_
+_Imagen 61. Wireflow - criador - 1_
 
 <img src="img/criador-wireflow-2.png" alt="Criador - Wireflow 2">
 
-_Imagen 61. Wireflow - criador - 2_
+_Imagen 62. Wireflow - criador - 2_
 
 <img src="img/criador-wireflow-3.png" alt="Criador - Wireflow 3">
 
-_Imagen 62. Wireflow - criador - 3_
+_Imagen 63. Wireflow - criador - 3_
 
 <img src="img/criador-wireflow-4.png" alt="Criador - Wireflow 4">
 
-_Imagen 63. Wireflow - criador - 4_
+_Imagen 64. Wireflow - criador - 4_
 
 <img src="img/criador-wireflow-5.png" alt="Criador - Wireflow 5">
 
-_Imagen 64. Wireflow - criador - 5_
+_Imagen 65. Wireflow - criador - 5_
 
 <img src="img/criador-wireflow-6.png" alt="Criador - Wireflow 6">
 
-_Imagen 65. Wireflow - criador - 6_
+_Imagen 66. Wireflow - criador - 6_
 
 <img src="img/criador-wireflow-7.png" alt="Criador - Wireflow 7">
 
-_Imagen 66. Wireflow - criador - 7_
+_Imagen 67. Wireflow - criador - 7_
 
 <img src="img/criador-wireflow-8.png" alt="Criador - Wireflow 8">
 
-_Imagen 67. Wireflow - criador - 8_
+_Imagen 68. Wireflow - criador - 8_
 
 <img src="img/criador-wireflow-9.png" alt="Criador - Wireflow 9">
 
-_Imagen 68. Wireflow - criador - 9_
+_Imagen 69. Wireflow - criador - 9_
 
 <img src="img/criador-wireflow-10.png" alt="Criador - Wireflow 10">
 
-_Imagen 69. Wireflow - criador - 10_
+_Imagen 70. Wireflow - criador - 10_
 
 <img src="img/criador-wireflow-11.png" alt="Criador - Wireflow 11">
 
-_Imagen 70. Wireflow - criador - 11_
+_Imagen 71. Wireflow - criador - 11_
 
 ### 4.4.3 Web Applications Mock-ups
 
@@ -1810,79 +1814,79 @@ En este apartado, se muestran todos los mock-ups basados de los wireframes previ
 **Mock-ups de Inicio de sesión y Registro:** 
 <img src="img/Mockup1.png" alt = "Mock-ups de Inicio de sesión y Registro">
 
-_Imagen 71. Mock-ups de Inicio de sesión y Registro_
+_Imagen 72. Mock-ups de Inicio de sesión y Registro_
 
 **Mock-ups de Mi Granja:**
 
 <img src="img/Mockup2.png" alt = "Mock-ups de Mi Granja">
 
-_Imagen 72. Mock-ups de sección Mi Granja_
+_Imagen 73. Mock-ups de sección Mi Granja_
 
 **Mock-ups de Mis Animales - Jaulas:**
 
 <img src="img/Mockup3.png" alt = "Mock-ups de Mis animales - Jaulas">
 
-_Imagen 73. Mock-ups de Mis animales - Jaulas_
+_Imagen 74. Mock-ups de Mis animales - Jaulas_
 
 **Mock-ups de Mis Animales - Jaulas:**
 
 <img src="img/Mockup4.png" alt = "Mock-ups de Mis animales - Cuyes">
 
-_Imagen 74. Mock-ups de Mis animales - Cuyes_
+_Imagen 75. Mock-ups de Mis animales - Cuyes_
 
 **Mock-ups de Asesores - Citas:**
 
 <img src="img/Mockup5.png" alt = "Mock-ups de Asesores - Citas">
 
-_Imagen 75. Mock-ups de Asesores - Citas_
+_Imagen 76. Mock-ups de Asesores - Citas_
 
 **Mock-ups de Asesores - Reseñas:**
 
 <img src="img/Mockup6.png" alt = "Mock-ups de Asesores - Reseñas">
 
-_Imagen 76. Mock-ups de Asesores - Reseñas_
+_Imagen 77. Mock-ups de Asesores - Reseñas_
 
 **Mock-ups de Registro - Jaulas:**
 
 <img src="img/Mockup7.png" alt = "Mock-ups de Registro - Jaulas">
 
-_Imagen 77. Mock-ups de Registro - Jaulas_
+_Imagen 78. Mock-ups de Registro - Jaulas_
 
 **Mock-ups de Registro - Cuyes:**
 
 <img src="img/Mockup8.png" alt = "Mock-ups de Registro - Cuyes">
 
-_Imagen 78. Mock-ups de Registro - Cuyes_
+_Imagen 79. Mock-ups de Registro - Cuyes_
 
 **Mock-ups de Registro - Recursos:**
 
 <img src="img/Mockup9.png" alt = "Mock-ups de Registro - Recursos">
 
-_Imagen 79. Mock-ups de Registro - Cuyes_
+_Imagen 80. Mock-ups de Registro - Cuyes_
 
 **Mock-ups de Notificaciones:**
 
 <img src="img/Mockup10.png" alt = "Mock-ups de Notificaciones">
 
-_Imagen 80. Mock-ups de Notificaciones_
+_Imagen 81. Mock-ups de Notificaciones_
 
 **Mock-ups de Clientes:**
 
 <img src="img/Mockup11.png" alt = "Mock-ups de Clientes">
 
-_Imagen 81. Mock-ups de Clientes_
+_Imagen 82. Mock-ups de Clientes_
 
 **Mock-ups de Publicaciones:**
 
 <img src="img/Mockup12.png" alt = "Mock-ups de Publicaciones">
 
-_Imagen 82. Mock-ups de Publicaciones_
+_Imagen 83. Mock-ups de Publicaciones_
 
 **Mock-ups de Notificaciones:**
 
 <img src="img/Mockup13.png" alt = "Mock-ups de Notificaciones">
 
-_Imagen 83. Mock-ups de Notificaciones_
+_Imagen 84. Mock-ups de Notificaciones_
 
 ### 4.4.4 Web Applications User Flow Diagrams
 
@@ -1892,75 +1896,75 @@ Cabe mencionar que los happy paths son representados por cuadros amarillos, mien
 
 <img src="img/userflow1.png" alt = "userflow 1">
 
-_Imagen 84. usuario - inicio sesion_
+_Imagen 85. usuario - inicio sesion_
 
 <img src="img/userflow3.png" alt = "userflow 3">
 
-_Imagen 85. usuario - recuperar contraseña_
+_Imagen 86. usuario - recuperar contraseña_
 
 **Para asesor:**
 
 <img src="img/userflow2.png" alt = "userflow 2">
 
-_Imagen 86. asesor - registro_
+_Imagen 87. asesor - registro_
 
 <img src="img/userflow4.png" alt = "userflow 4">
 
-_Imagen 87. asesor - visualizar clientes_
+_Imagen 88. asesor - visualizar clientes_
 
 <img src="img/userflow5.png" alt = "userflow 5">
 
-_Imagen 88. asesor - crear publicaciones_
+_Imagen 89. asesor - crear publicaciones_
 
 <img src="img/userflow6.png" alt = "userflow 6">
 
-_Imagen 89. asesor - recibir notificaciones_
+_Imagen 90. asesor - recibir notificaciones_
 
 **Para criador:**
 
 <img src="img/userflow7.png" alt = "userflow 7">
 
-_Imagen 90. criador - registrar jaulas_
+_Imagen 91. criador - registrar jaulas_
 
 <img src="img/userflow8.png" alt = "userflow 8">
 
-_Imagen 91. criador - registrar cuyes_
+_Imagen 92. criador - registrar cuyes_
 
 <img src="img/userflow9.png" alt = "userflow 9">
 
-_Imagen 92. criador - registrar gastos_
+_Imagen 93. criador - registrar gastos_
 
 <img src="img/userflow10.png" alt = "userflow 10">
 
-_Imagen 93. criador - registrar recursos_
+_Imagen 94. criador - registrar recursos_
 
 <img src="img/userflow11.png" alt = "userflow 11">
 
-_Imagen 94. criador - modificar informacion jaulas_
+_Imagen 95. criador - modificar informacion jaulas_
 
 <img src="img/userflow12.png" alt = "userflow 12">
 
-_Imagen 95. criador - eliminar jaulas_
+_Imagen 96. criador - eliminar jaulas_
 
 <img src="img/userflow13.png" alt = "userflow 13">
 
-_Imagen 96. criador - ver en que jaulas pertencen cuyes_
+_Imagen 97. criador - ver en que jaulas pertencen cuyes_
 
 <img src="img/userflow14.png" alt = "userflow 14">
 
-_Imagen 97. criador - eliminar registro cuy_
+_Imagen 98. criador - eliminar registro cuy_
 
 <img src="img/userflow15.png" alt = "userflow 15">
 
-_Imagen 98. criador - editar registro cuy_
+_Imagen 99. criador - editar registro cuy_
 
 <img src="img/userflow16.png" alt = "userflow 16">
 
-_Imagen 99. criador - buscar asesores_
+_Imagen 100. criador - buscar asesores_
 
 <img src="img/userflow17.png" alt = "userflow 17">
 
-_Imagen 100. criador - calificar asesoria_
+_Imagen 101. criador - calificar asesoria_
  
 
 ## 4.5 Web Applications Prototyping
@@ -1972,7 +1976,7 @@ URL del prototipo: [Prototipo en figma](https://www.figma.com/proto/y65W2Fnk2Ire
 
 <img src="img/prototyping.png">
 
-_Imagen 101. Explicación del prototipo_
+_Imagen 102. Explicación del prototipo_
 
 ## 4.6 Domain-Driven Software Architecture
 ### 4.6.1 Software Architecture Context Diagram
@@ -1980,14 +1984,14 @@ El diagrama de contexto representa la estructura y las principales interacciones
 
 <img src="img/diagrama_contexto.png">
 
-_Imagen 102. Diagrama de contexto_
+_Imagen 103. Diagrama de contexto_
 
 ### 4.6.2 Software Architecture Container Diagrams
 El diagrama de contenedores representa la arquitectura del sistema de AgroConnect. Los criadores y asesores utilizan el contenedor de la aplicación web para interactuar con las funcionalidades del sistema mediante una conexión con la API REST. Asimismo, el contenedor del API REST se conecta con los sistemas externos.
 
 <img src="img/diagrama_contenedor.png">
 
-_Imagen 103. Diagrama de contenedores_
+_Imagen 104. Diagrama de contenedores_
 
 ### 4.6.3 Software Architecture Components Diagrams
 Los diagramas de componentes fueron creados en base a la API Rest y los bounded contexts que la componen: Gestión, Publicación, Usuario y Cita.
@@ -1995,53 +1999,53 @@ Los diagramas de componentes fueron creados en base a la API Rest y los bounded 
 **API Rest Bounded Context Component Diagram**
 <img src="img/API_Rest_Component_Diagram.png">
 
-_Imagen 104. Diagrama de componentes - API REST_
+_Imagen 105. Diagrama de componentes - API REST_
 
 
 **Management Bounded Context Component Diagram**
 <img src="img/Management_Component_Diagram.png">
 
-_Imagen 105. Diagrama de componentes - Gestión_
+_Imagen 106. Diagrama de componentes - Gestión_
 
 
 **Publication Bounded Context Component Diagram**
 <img src="img/Publication_Component_Diagram.png">
 
-_Imagen 106. Diagrama de componentes - Publicación_
+_Imagen 107. Diagrama de componentes - Publicación_
 
 
 **User Bounded Context Component Diagram**
 <img src="img/User_Component_Diagram.png">
 
-_Imagen 107. Diagrama de componentes - Usuario_
+_Imagen 108. Diagrama de componentes - Usuario_
 
 **Appointment Bounded Context Component Diagram**
 <img src="img/Appointment_Component_Diagram.png">
 
-_Imagen 108. Diagrama de componentes - Cita_
+_Imagen 109. Diagrama de componentes - Cita_
 
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1 Class Diagrams
 
 <img src="img/class_diagram_appointment.png">
 
-_Imagen 109. Diagrama de Clases Apointment Bounded Context_
+_Imagen 110. Diagrama de Clases Apointment Bounded Context_
 
 <img src="img/class_diagram_management.png">
 
-_Imagen 110. Diagrama de Clases Management Bounded Context_
+_Imagen 111. Diagrama de Clases Management Bounded Context_
 
 <img src="img/class_diagram_publication.png">
 
-_Imagen 111. Diagrama de Clases Publication Bounded Context_
+_Imagen 112. Diagrama de Clases Publication Bounded Context_
 
 <img src="img/class_diagram_user.png">
 
-_Imagen 112. Diagrama de Clases User Bounded Context_
+_Imagen 113. Diagrama de Clases User Bounded Context_
 
 
 
-**4.7.2. Class Dictionary.**
+### 4.7.2. Class Dictionary.
 
 **User Bounded Context**
 
@@ -2262,15 +2266,13 @@ Publication Bounded Context
 
 
 
-
-
 ## 4.8 Database Design
 ### 4.8.1 Database Diagram
 Se hizo el diseño de la base de datos no relacional, considerando cumplir con las funcionalidades mencionadas en las User Stories.
 
 <img src="img/database.png">
 
-_Imagen 113. Diagrama de base de datos_
+_Imagen 114. Diagrama de base de datos_
 
 
 # Capítulo V Product Implementation, Validation & Deployment
@@ -2465,7 +2467,7 @@ El objetivo de este primer sprint es la implementación del Landing Page estáti
 
 <img src="img/sprintBacklog.jpg" width="100%"> 
 
-_Imagen 114. Sprint Backlog 1 en Trello_
+_Imagen 115. Sprint Backlog 1 en Trello_
 
 <table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
@@ -2526,78 +2528,78 @@ En esta sección, se mostrará lo avanzado en el primer sprint, el cual se basa 
 
 <img src="img/evidence_landing_page_1.jpg" width="100%"> 
 
-_Imagen 115. evidencia landing page 1_
+_Imagen 116. evidencia landing page 1_
 
 
 Navbar: fue implementada para que sea responsive y las secciones pasen a un menú lateral en caso de ser necesario.
 
 <img src="img/evidence_landing_page_2.jpg" width="100%"> 
 
-_Imagen 116. navbar 1_
+_Imagen 117. navbar 1_
 
 <img src="img/evidence_landing_page_3.jpg" width="100%"> 
 
-_Imagen 117. navbar 2_
+_Imagen 118. navbar 2_
 
 Footer: al igual que el navbar, se implementó para acomodarse acorde al tamaño de la ventana.
 
 <img src="img/evidence_landing_page_4.jpg" width="100%"> 
 
-_Imagen 118. footer 1_
+_Imagen 119. footer 1_
 
 <img src="img/evidence_landing_page_5.jpg" width="100%"> 
 
-_Imagen 119. footer 2_
+_Imagen 120. footer 2_
 
 Página de inicio:
 
 <img src="img/evidence_landing_page_6.jpg" width="100%"> 
 
-_Imagen 120. pagina de inicio 1_
+_Imagen 121. pagina de inicio 1_
 
 <img src="img/evidence_landing_page_7.jpg" width="100%"> 
 
-_Imagen 121. pagina de inicio 2_
+_Imagen 122. pagina de inicio 2_
 
 Sección “Acerca De”:
 
 <img src="img/evidence_landing_page_8.jpg" width="100%"> 
 
-_Imagen 122. seccion "Acerca de" 1_
+_Imagen 123. seccion "Acerca de" 1_
 
 <img src="img/evidence_landing_page_9.jpg" width="100%"> 
 
-_Imagen 123. seccion "Acerca de" 2_
+_Imagen 124. seccion "Acerca de" 2_
 
 Sección “Sobre Nosotros”:
 
 <img src="img/evidence_landing_page_10.jpg" width="100%"> 
 
-_Imagen 124. seccion "Sobre Nosotros" 1_
+_Imagen 125. seccion "Sobre Nosotros" 1_
 
 <img src="img/evidence_landing_page_11.jpg" width="100%">
 
-_Imagen 125. seccion "Sobre Nosotros" 2_
+_Imagen 126. seccion "Sobre Nosotros" 2_
 
 Sección “Características”: 
 
 <img src="img/evidence_landing_page_12.jpg" width="100%"> 
 
-_Imagen 126. seccion "Caracteristicas" 1_
+_Imagen 127. seccion "Caracteristicas" 1_
 
 <img src="img/evidence_landing_page_13.jpg" width="100%"> 
 
-_Imagen 127. seccion "Caracteristicas" 2_
+_Imagen 128. seccion "Caracteristicas" 2_
 
 Sección “Contacto”:
 
 <img src="img/evidence_landing_page_14.jpg" width="100%"> 
 
-_Imagen 128. seccion "Contacto" 1_
+_Imagen 129. seccion "Contacto" 1_
 
 <img src="img/evidence_landing_page_15.jpg" width="100%"> 
 
-_Imagen 129. seccion "Contacto" 2_
+_Imagen 130. seccion "Contacto" 2_
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -2613,23 +2615,23 @@ Para lograr hacer el deployment, entramos a la configuración del repositorio y 
 
 <img src="img/github-pages.jpg" width="100%"> 
 
-_Imagen 130. github - pages - 1_
+_Imagen 131. github - pages - 1_
 
 Escogimos la rama main, ya que es la rama principal sobre la cual se guarda la versión final para hacer el deployment. Una vez se escoge, se guardan los cambios.
 
 <img src="img/github-pages-1.jpg" width="100%"> 
 
-_Imagen 131. github - pages - 2_
+_Imagen 132. github - pages - 2_
 
 Finalmente, solo se espera a que GitHub cree la página y nos brinde el enlace.
 
 <img src="img/github-pages-2.jpg" width="100%"> 
 
-_Imagen 132. github - pages - 3_
+_Imagen 133. github - pages - 3_
 
 <img src="img/github-pages-3.jpg" width="100%"> 
 
-_Imagen 133. github - pages - 4_
+_Imagen 134. github - pages - 4_
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -2637,7 +2639,7 @@ En la elaboración de la landing page, todos los integrantes realizaron commits 
 
 <img src="img/commits-landing-page.jpg" width="100%"> 
 
-_Imagen 134. commits - landing-page_
+_Imagen 135. commits - landing-page_
 
 La división de trabajo para lograr la implementación fue por secciones en las cuales cada miembro realizó una sección de la landing page:
 
@@ -2655,7 +2657,7 @@ Cada sección tuvo su rama con el formato ‘feature/sección’
 
 <img src="img/feature-seccion.jpg" width="100%">
 
-_Imagen 135. feature-seccion_
+_Imagen 136. feature-seccion_
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -2690,7 +2692,7 @@ SENASA. (2019). _Cajamarca es el principal productor de cuy en el Perú_. https:
 
 <img src="img/grafico-anexo.png">
 
-_Imagen 136. Gráfico - poblacion de cuyes_
+_Imagen 137. Gráfico - poblacion de cuyes_
 
 Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
 
@@ -2698,7 +2700,7 @@ Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20pro
 
 <img src="img/cuadro-anexo.png">
 
-_Imagen 137. Cuadro - problemas de la crianza de cuyes_
+_Imagen 138. Cuadro - problemas de la crianza de cuyes_
 
 ## Anexo N°3: Web Style Guidelines
 
