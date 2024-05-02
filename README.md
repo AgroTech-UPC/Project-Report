@@ -31,7 +31,7 @@ Grupo: 1
 |  Salinas Torres, Salvador Antonio   |    U20221B127    |
 |   Valverde Mozo, Andre Gabriel   |    U202218899    |
 
-Abril 2024
+Mayo 2024
 
 </div>
 
@@ -70,6 +70,23 @@ Abril 2024
           <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
           <li>Avance de Conclusiones, Bibliografía y Anexos</li>
         </ul>
+      </td>
+  </tr>
+  <tr>
+  <td><strong>TP1</strong></td>
+      <td>Viernes 3 de Mayo</td>
+      <td>
+        <ul>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Lucas Coronel, Nadia Alessandra</li>
+          <li>Paredes Puente, Sebastián Roberto</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+          <li>Valverde Mozo, Andre Gabriel</li>
+        </ul>
+      </td>
+      <td>
+        Correcciones levantadas.
+        Avance del punto 5.2.2. Sprint 2.
       </td>
   </tr>
   </tbody>
@@ -166,6 +183,15 @@ Commits en el project report de la TB1:
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -722,9 +748,39 @@ _Imagen 5. Entrevista a Belen_
 
 Belen Ramos, la entrevistada, tiene un año de experiencia en la crianza de cuyes y ofrece asesoramiento básico sobre aspectos como la alimentación y el control de enfermedades. Utiliza recursos en línea y su experiencia personal para brindar consejos prácticos a criadores principiantes. Considera que una plataforma como "AgroConnect" sería beneficiosa para conectar con criadores y abordar temas relevantes como la selección de razas y el manejo de enfermedades.
 
+**Entrevista N 4 - Asesor:**
+
+**Entrevistador:** Piero Delgado
+
+**Entrevistado:** Adrián Espinoza
+
+**Link de la entrevista:** https://youtu.be/ANKhs9e_x5E
+
+<img src="img/entrevista4.png" width="100%">
+
+_Imagen 6. Entrevista a Adrián_
+
+**Resumen:**
+Adrián ha estado involucrado en la crianza de cuyes desde joven por su familia y recientemente ha empezado a ofrecer asesoramiento a otras familias en alimentación, manejo sanitario y selección de razas de cuyes. Por ello, decidió estudiar Medicina Veterinaria en Arequipa para aprender más de la crianza de animales. Durante la entrevista, destacó los desafíos comunes que enfrentan los criadores principiantes, como el manejo de la alimentación y la prevención de enfermedades. Actualmente, utiliza principalmente su conocimiento personal y recursos en línea para brindar asesoramiento, pero está interesado en explorar nuevas herramientas como aplicaciones. Sugirió que AgroConnect debería permitir la programación de citas de asesoramiento de manera sencilla y abordar temas como la organización de criaderos y la gestión de recursos.
 
 
-**Entrevista N 4- Criador:**
+**Entrevista N 5 - Asesor:**
+
+**Entrevistador:** Nadia Lucas
+
+**Entrevistado:** Romina Arana
+
+**Link de la entrevista:** https://www.youtube.com/watch?v=-s0YObYyF8c
+
+<img src="img/entrevista5.png" width="100%">
+
+_Imagen 7. Entrevista a Romina_
+
+**Resumen:**
+Romina, una egresada de la UNALM con más de 3 años de experiencia en trabajos de campo desde su sexto ciclo universitario, ofrece asesoramiento en diversos aspectos de la producción de cuyes, desde selección de razas hasta planificación de instalaciones. Su experiencia positiva en el trabajo actual, obtenido a través de una convocatoria en línea, resalta la utilidad de recursos digitales para el aprendizaje. En cuanto a "AgroConnect", Romina sugiere funciones que faciliten la interacción directa entre asesores y criadores, así como la inclusión de temas como reproducción, nutrición, manejo sanitario y comercialización. También considera que ambos, criadores principiantes y asesores, podrían beneficiarse de una plataforma que brinde información confiable y servicios eficientes.
+
+
+**Entrevista N 6 - Criador:**
 
 **Entrevistador:** Sebastian Paredes
 
@@ -732,9 +788,9 @@ Belen Ramos, la entrevistada, tiene un año de experiencia en la crianza de cuye
 
 **Link de la entrevista:** https://youtu.be/3UqveRZBafU
 
-<img src="img/entrevista4.png" width="100%">
+<img src="img/entrevista6.png" width="100%">
 
-_Imagen 6. Entrevista a Alessandra_
+_Imagen 8. Entrevista a Alessandra_
 
 **Resumen:** 
 
@@ -742,7 +798,7 @@ Alessandra Chaupis, una joven de 20 años que vive en San Juan de Lurigancho, se
 
 
 
-**Entrevista N 5 - Criador:** 
+**Entrevista N 7 - Criador:** 
 
 **Entrevistador:** Nadia Lucas
 
@@ -750,16 +806,16 @@ Alessandra Chaupis, una joven de 20 años que vive en San Juan de Lurigancho, se
 
 **Link de la entrevista:** https://youtu.be/xM3fyi4a-To 
 
-<img src="img/entrevista5.png" width="100%">
+<img src="img/entrevista7.png" width="100%">
 
-_Imagen 7. Entrevista a Nayeli_
+_Imagen 9. Entrevista a Nayeli_
 
 **Resumen:**
 
 Nayeli Chávez, una criadora de 24 años que reside en Puente Piedra, es relativamente nueva en el negocio que maneja junto a su madre, crían alrededor de 50 cuyes debido a su alta demanda. Sus desafíos incluyen mantener la salud y condiciones ambientales adecuadas para los animales, así como gestionar su alimentación y espacio. Actualmente lleva registros manuales de la salud de cada cuy y planifica sus tareas diarias para garantizar un cuidado constante. Utiliza información sobre madurez sexual y ciclos reproductivos para tomar decisiones en su granja y está abierta a explorar aplicaciones que faciliten la gestión. Busca acceso a recursos sobre prácticas de cría avanzadas y considera valiosa la orientación de criadores más experimentados a través de plataformas en línea o aplicaciones.
 
 
-**Entrevista N 6 - Criador:**
+**Entrevista N 8 - Criador:**
 
 **Entrevistador:** Piero Delgado
 
@@ -767,14 +823,30 @@ Nayeli Chávez, una criadora de 24 años que reside en Puente Piedra, es relativ
 
 **Link de la entrevista:** https://youtu.be/Lst4qVknGrk?si=2-f34iRuoXJ4amyC
 
-<img src="img/entrevista6.jpg" width="100%">
+<img src="img/entrevista8.jpg" width="100%">
 
-_Imagen 8. Entrevista a Daniel_
+_Imagen 10. Entrevista a Daniel_
 
 **Resumen:**
 
 Daniel viene de una familia que ha criado cuyes durante generaciones para generar un ingreso para su familia. Su familia maneja una operación mediana con alrededor de 30 cuyes. Uno de los desafíos más grandes para su criadero es mantener la salud y el bienestar de los cuyes, así como garantizar una alimentación adecuada y prevenir enfermedades. Para registrar la información de los cuyes, utiliza métodos manuales donde detalla la salud de cada animal y realiza revisiones periódicas para detectar problemas. Daniel no ha utilizado aplicaciones especializadas pero usa herramientas simples como calculadora y calendario. Está interesado en una herramienta intuitiva para gestionar la información de los cuyes y recibir asesoramiento en línea. Estaría dispuesto a pagar por una aplicación con estas funcionalidades si el precio es asequible.
 
+
+**Entrevista N 9 - Criador:**
+
+**Entrevistador:** Salvador Salinas
+
+**Entrevistado:** Anderson Morales
+
+**Link de la entrevista:** https://youtu.be/y0rkvGo_8nQ
+
+<img src="img/entrevista9.png" width="100%">
+
+_Imagen 11. Entrevista a Anderson_
+
+**Resumen:**
+
+Daniel viene de una familia que ha criado cuyes durante generaciones para generar un ingreso para su familia. Su familia maneja una operación mediana con alrededor de 30 cuyes. Uno de los desafíos más grandes para su criadero es mantener la salud y el bienestar de los cuyes, así como garantizar una alimentación adecuada y prevenir enfermedades. Para registrar la información de los cuyes, utiliza métodos manuales donde detalla la salud de cada animal y realiza revisiones periódicas para detectar problemas. Daniel no ha utilizado aplicaciones especializadas pero usa herramientas simples como calculadora y calendario. Está interesado en una herramienta intuitiva para gestionar la información de los cuyes y recibir asesoramiento en línea. Estaría dispuesto a pagar por una aplicación con estas funcionalidades si el precio es asequible.
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -788,7 +860,7 @@ Daniel viene de una familia que ha criado cuyes durante generaciones para genera
 
 <img src="img/piechart1.png" alt="% Asesores que apoyan nuestra idea">
 
-_Imagen 9. Gráfico circular - Asesores_
+_Imagen 12. Gráfico circular - Asesores_
 
 Gracias a las entrevistas realizadas, comprendimos que los asesores suelen brindar apoyo a través de internet o a conocidos. Así, al comentarle sobre nuestra idea de aplicación web para poder brindar asesorías a criadores de cuyes, indicaron que les pareció muy buena idea ya que brinda mejor comunicación y confiabilidad.
 
@@ -802,7 +874,7 @@ Gracias a las entrevistas realizadas, comprendimos que los asesores suelen brind
 
 <img src="img/piechart2.png" alt="% Criadores que apoyan nuestra idea">
 
-_Imagen 10. Gráfico circular - Criadores_
+_Imagen 13. Gráfico circular - Criadores_
 
 Asimismo, obtuvimos la conclusión de que los criadores de cuyes suelen tener dificultad para gestionar correctamente la alimentación y control de enfermedades, además de gestionar recursos de la granja en sí. De esta forma, al comentarle sobre nuestra idea de aplicación web para poder recibir asesorías de personas con experiencia y gestionar los recursos de su granja, indicaron que les pareció muy buena idea ya que sería un mejor recurso para obtener información confiable.
 
@@ -816,13 +888,13 @@ Para la realización de las fichas de User Personas se han considerado los 2 seg
 
 <img src="img/persona_asesor.png" alt="Persona Asesor">
 
-_Imagen 11. User Persona - Asesor_
+_Imagen 14. User Persona - Asesor_
 
 **Segmento Criador**
 
 <img src="img/persona_criador.png" alt="Persona Criador">
 
-_Imagen 12. User Persona - Criador_
+_Imagen 15. User Persona - Criador_
 
 ### 2.3.2. User Task Matrix
 
@@ -959,13 +1031,13 @@ Por otro lado, para el segmento de criadores de cuyes se tomó en cuenta desde l
 
 <img src="img/journeymap_asesor.png" alt="Journey Map Asesor">
 
-_Imagen 13. User Journey Map - Asesor_
+_Imagen 16. User Journey Map - Asesor_
 
 **Segmento Criador**
 
 <img src="img/journeymap_criador.png" alt="Journey Map Criador">
 
-_Imagen 14. User Journey Map - Criador_
+_Imagen 17. User Journey Map - Criador_
 
 ### 2.3.4. Empathy Mapping
 
@@ -975,13 +1047,13 @@ En esta sección, se desarrollaron los Empathy Maps de cada segmento objetivo. S
 
 <img src="img/empathymap_asesor.png" alt="Empathy Map Asesor">
 
-_Imagen 15. Empathy Map - Asesor_
+_Imagen 18. Empathy Map - Asesor_
 
 **Segmento Criador**
 
 <img src="img/empathymap_criador.png" alt="Empathy Map Criador">
 
-_Imagen 16. Empathy Map - Criador_
+_Imagen 19. Empathy Map - Criador_
 
 ### 2.3.5. As-is Scenario Mapping
 **Segmento: Asesor**
@@ -1231,13 +1303,13 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 
 <img src="img/impactmap_1.png" alt="ImpactMap Asesor">
  
- _Imagen 17. impact map - asesor_
+ _Imagen 20. impact map - asesor_
 
 **Segmento: Criadores**
 
 <img src="img/impactmap_2.png" alt="ImpactMap Criador">
  
- _Imagen 18. impact map - criador_
+ _Imagen 21. impact map - criador_
  
  ## 3.4. Product Backlog
 
@@ -1245,7 +1317,7 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 
  <img src="img/product_backlog.jpg" alt="Product backlog">
 
-  _Imagen 19. Product backlog_
+  _Imagen 22. Product backlog_
 
 |**# Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points (1/2/3/5/8)**|
 | :- | :- | :- | :- | :- |
@@ -1298,7 +1370,7 @@ Garantizar una apariencia uniforme en todos los aspectos del producto, desde la 
   <img src="img/consistencia-visual.webp" alt="Ejemplo de consistencia visual" width="600">
 </p>
 
-_Imagen 20. Ejemplo de consistencia visual_
+_Imagen 23. Ejemplo de consistencia visual_
 
 **Simplicidad**
 
@@ -1308,7 +1380,7 @@ Enfatizar la simplicidad en el diseño para una experiencia de usuario intuitiva
   <img src="img/simplicidad.jpg" alt="Ejemplo de simplicidad" width="600">
 </p>
 
-_Imagen 21. Ejemplo de simplicidad_
+_Imagen 24. Ejemplo de simplicidad_
 
 **Branding**
 
@@ -1318,7 +1390,7 @@ El logotipo de AgroConnect se presenta en forma de un círculo, que simboliza la
   <img src="img/logo.png" alt="logo de AgroConnect" width="200">
 </p>
 
-_Imagen 22. Logo de AgroConnect_
+_Imagen 25. Logo de AgroConnect_
 
 **Typography**
 
@@ -1328,7 +1400,7 @@ La tipografía elegida para AgroConnect es "Inter", una fuente sans-serif modern
   <img src="img/font1.png" alt="Fuentes" width="600">
 </p>
 
-_Imagen 23. Fuentes_
+_Imagen 26. Fuentes_
 
 **Colors**
 
@@ -1353,7 +1425,7 @@ El spacing garantiza una distribución uniforme y un equilibrio visual en la int
   <img src="img/patronZ.png" alt="Patron Z ejemplo" width="600">
 </p>
 
-_Imagen 24. Ejemplo de Patron Z_
+_Imagen 27. Ejemplo de Patron Z_
 
 ### 4.1.2. Web Style Guidelines
 
@@ -1365,7 +1437,7 @@ AgroConnect ha seleccionado cuidadosamente una paleta de colores que refleja los
   <img src="img/colors.png" alt="Colores de AgroConnect" width="600">
 </p>
 
-_Imagen 25. Colores de AgroConnect_
+_Imagen 28. Colores de AgroConnect_
 
 **Typography**
 
@@ -1375,7 +1447,7 @@ La tipografía desempeña un papel fundamental en la apariencia y la legibilidad
   <img src="img/font2.png" alt="Tipografia de AgroConnect" width="600">
 </p>
 
-_Imagen 26. Tipografia de AgroConnect_
+_Imagen 29. Tipografia de AgroConnect_
 
 **Icons**
 
@@ -1385,7 +1457,7 @@ Los íconos desempeñan un papel importante en la experiencia del usuario al pro
   <img src="img/icons.png" alt="Iconos de AgroConnect" width="600">
 </p>
 
-_Imagen 27. Iconos de AgroConnect_
+_Imagen 30. Iconos de AgroConnect_
 
 **Spacing**
 
@@ -1395,7 +1467,7 @@ El espaciado adecuado entre elementos es esencial para lograr una apariencia equ
   <img src="img/spacing.png" alt="Spacing de AgroConnect" width="600">
 </p>
 
-_Imagen 28. Spacing de AgroConnect_
+_Imagen 31. Spacing de AgroConnect_
 
 **Grid System**
 
@@ -1405,7 +1477,7 @@ El grid system es una herramienta esencial en el diseño y la organización de l
   <img src="img/grid.png" alt="Grid System de AgroConnect" width="600">
 </p>
 
-_Imagen 29. Grid System de AgroConnect_
+_Imagen 32. Grid System de AgroConnect_
 
 **Button**
 
@@ -1415,7 +1487,7 @@ Los botones son elementos importantes en la interfaz de usuario de AgroConnect, 
   <img src="img/button.png" alt="Button de AgroConnect" width="600">
 </p>
 
-_Imagen 30. Button de AgroConnect_
+_Imagen 33. Button de AgroConnect_
 
 **Input System**
 
@@ -1425,7 +1497,7 @@ El input system es fundamental en la experiencia del usuario en AgroConnect, ya 
   <img src="img/input-system.png" alt="Input Sys AgroConnect" width="600">
 </p>
 
-_Imagen 31. Input System de AgroConnect_
+_Imagen 34. Input System de AgroConnect_
 
 ## 4.2. Information Architecture
 
@@ -1544,7 +1616,7 @@ Las Search Engine Optimization (Etiquetas SEO) y las Meta Tags (Meta Etiquetas) 
   <img src="img/seotags.JPG" alt="SEO tags" width="600">
 </p>
 
-_Imagen 32. SEO tags de AgroConnect_
+_Imagen 35. SEO tags de AgroConnect_
 
 ### 4.2.4. Searching Systems
 
@@ -1603,7 +1675,7 @@ En este apartado, nos enfocaremos en el diseño de la interfaz de usuario (UI) d
   <img src="img/wireframe-landing-about-app.JPG" alt="Pagina Acerca de" width="600">
 </p>
 
-_Imagen 33. Pagina Acerca de_
+_Imagen 36. Pagina Acerca de_
 
 **Wireframe - sección de ‘Sobre Nosotros’:** la sección tendrá una imagen de fondo y tendrá información sobre la startup Agrotech junto con nuestra misión y visión.
 
@@ -1611,7 +1683,7 @@ _Imagen 33. Pagina Acerca de_
   <img src="img/wireframe-landing-about-us.JPG" alt="Pagina Sobre Nosotros" width="600">
 </p>
 
-_Imagen 34. Pagina Sobre Nosotros_
+_Imagen 37. Pagina Sobre Nosotros_
 
 **Wireframe - sección de ‘Características’:** la sección tendrá una imagen de fondo y tendrá información sobre los servicios que ofrecemos con nuestra aplicación AgroConnect.
 
@@ -1619,7 +1691,7 @@ _Imagen 34. Pagina Sobre Nosotros_
   <img src="img/wireframe-landing-features.JPG" alt="Pagina Características" width="600">
 </p>
 
-_Imagen 35. Pagina Características_
+_Imagen 38. Pagina Características_
 
 **Wireframe - sección de ‘Contacto’:** la sección tendrá una imagen de fondo y tendrá un formulario donde los usuarios potenciales puedan escribir consultas para que sean respondidas en un correo por un miembro de AgroTech.
 
@@ -1627,7 +1699,7 @@ _Imagen 35. Pagina Características_
   <img src="img/wireframe-landing-contact.JPG" alt="Pagina Contacto" width="600">
 </p>
 
-_Imagen 36. Pagina Contacto_
+_Imagen 39. Pagina Contacto_
 
 ### 4.3.2. Landing Page Mock-up
 **Mockup - sección de ‘Inicio’ de AgroConnect:** la sección tiene una imagen de fondo llamativa con un mensaje que refleja el objetivo de la startup para llamar la atención de posibles usuarios.
@@ -1636,7 +1708,7 @@ _Imagen 36. Pagina Contacto_
   <img src="img/mockup-landing-home.JPG" alt="Pagina de Inicio" width="600">
 </p>
 
-_Imagen 37. Mockup Pagina Inicio_
+_Imagen 40. Mockup Pagina Inicio_
 
 **Mockup - sección de ‘Acerca de’:** la sección tiene una imagen de fondo y tiene información sobre la problemática que queremos resolver.
 
@@ -1644,7 +1716,7 @@ _Imagen 37. Mockup Pagina Inicio_
   <img src="img/mockup-landing-about-app.JPG" alt="Página Acerca de la problemática" width="600">
 </p>
 
-_Imagen 38. Mockup Pagina Acerca de_
+_Imagen 41. Mockup Pagina Acerca de_
 
 **Mockup - sección de ‘Sobre Nosotros’:** la sección tiene una imagen de fondo y tiene información sobre la startup Agrotech junto con nuestra misión y visión.
 
@@ -1652,7 +1724,7 @@ _Imagen 38. Mockup Pagina Acerca de_
   <img src="img/mockup-landing-about-us.JPG" alt="Pagina Sobre Nosotros" width="600">
 </p>
 
-_Imagen 39. Mockup Pagina Sobre Nosotros_
+_Imagen 42. Mockup Pagina Sobre Nosotros_
 
 **Mockup - sección de ‘Características’:** la sección tiene una imagen de fondo y tiene información sobre los servicios que ofrecemos con nuestra aplicación AgroConnect.
 
@@ -1660,7 +1732,7 @@ _Imagen 39. Mockup Pagina Sobre Nosotros_
   <img src="img/mockup-landing-features.JPG" alt="Pagina de Características" width="600">
 </p>
 
-_Imagen 40. Mockup Pagina de Características_
+_Imagen 43. Mockup Pagina de Características_
 
 **Mockup - sección de ‘Contacto’:** la sección tiene una imagen de fondo y tiene un formulario donde los usuarios potenciales pueden escribir consultas para que sean respondidas en un correo por un miembro de AgroTech.
 
@@ -1668,7 +1740,7 @@ _Imagen 40. Mockup Pagina de Características_
   <img src="img/mockup-landing-contact.JPG" alt="Pagina de Contacto" width="600">
 </p>
 
-_Imagen 41. Mockup Pagina de Contacto_
+_Imagen 44. Mockup Pagina de Contacto_
 
 ## 4.4 Web Applications UX/UI Design
 
@@ -1679,151 +1751,151 @@ En este apartado, se muestran todos los wireframes necesarios para cumplir las f
 
 <img src="img/Wireframe1.png" alt = "Wireframes de Inicio de sesión y Registro">
 
-_Imagen 42. Wireframes de Inicio de sesión y Registro_
+_Imagen 45. Wireframes de Inicio de sesión y Registro_
 
 **Wireframes de Mi Granja:** En estos wireframes se maneja las vistas del criador donde podrá gestionar tanto sus recursos como sus gastos, pudiendo ver toda la información con respecto a estos que ha ido registrando.
 
 <img src="img/Wireframe2.png" alt = "Wireframes de Mi Granja">
 
-_Imagen 43. Wireframes de sección Mi Granja_
+_Imagen 46. Wireframes de sección Mi Granja_
 
 **Wireframes de Mis Animales - Jaulas:** En estos wireframes se maneja las vistas de la sección Mis Animales en específico los que tratan del manejo de las jaulas donde están los cuyes pudiendo modificar su información y/o eliminarlas.
 
 <img src="img/Wireframe3.png" alt = "Wireframes de Mis animales - Jaulas">
 
-_Imagen 44. Wireframes de Mis animales - Jaulas_
+_Imagen 47. Wireframes de Mis animales - Jaulas_
 
 **Wireframes de Mis Animales - Jaulas:** En estos wireframes se maneja las vistas de la sección Mis Animales en específico los que tratan de la visualización y edición de información de los cuyes.
 
 <img src="img/Wireframe4.png" alt = "Wireframes de Mis animales - Cuyes">
 
-_Imagen 45. Wireframes de Mis animales - Cuyes_
+_Imagen 48. Wireframes de Mis animales - Cuyes_
 
 **Wireframes de Asesores - Citas:** En estos wireframes se maneja la visualización de los asesores que participan de la aplicación, incluyendo la funcionalidad de filtrar los asesores por palabras clave como su nombre. Además de poder comprobar los horarios disponibles de los asesores y reservar citas.
 
 <img src="img/Wireframe5.png" alt = "Wireframes de Asesores - Citas">
 
-_Imagen 46. Wireframes de Asesores - Citas_
+_Imagen 49. Wireframes de Asesores - Citas_
 
 **Wireframes de Asesores - Reseñas:** En estos wireframes se maneja la funcionalidad de reseñas de los asesores.
 
 <img src="img/Wireframe6.png" alt = "Wireframes de Asesores - Reseñas">
 
-_Imagen 47. Wireframes de Asesores - Reseñas_
+_Imagen 50. Wireframes de Asesores - Reseñas_
 
 **Wireframes de Registro - Jaulas:** En estos wireframes se maneja el registro de nuevas jaulas.
 
 <img src="img/Wireframe7.png" alt = "Wireframes de Registro - Jaulas">
 
-_Imagen 48. Wireframes de Registro - Jaulas_
+_Imagen 51. Wireframes de Registro - Jaulas_
 
 **Wireframes de Registro - Cuyes:** En estos wireframes se maneja el registro de nuevos cuyes.
 
 <img src="img/Wireframe8.png" alt = "Wireframes de Registro - Cuyes">
 
-_Imagen 49. Wireframes de Registro - Cuyes_
+_Imagen 52. Wireframes de Registro - Cuyes_
 
 **Wireframes de Registro - Recursos:** En estos wireframes se maneja el registro de nuevos recursos.
 
 <img src="img/Wireframe9.png" alt = "Wireframes de Registro - Recursos">
 
-_Imagen 50. Wireframes de Registro - Cuyes_
+_Imagen 53. Wireframes de Registro - Cuyes_
 
 **Wireframes de Notificaciones:** En estos wireframes se maneja la vista de las notificaciones del criador que serían los recordatorios de citas programadas.
 
 <img src="img/Wireframe10.png" alt = "Wireframes de Notificaciones">
 
-_Imagen 51. Wireframes de Notificaciones_
+_Imagen 54. Wireframes de Notificaciones_
 
 **Wireframes de Clientes:** En estos wireframes se maneja la vista de los clientes del asesor.
 
 <img src="img/Wireframe11.png" alt = "Wireframes de Clientes">
 
-_Imagen 52. Wireframes de Clientes_
+_Imagen 55. Wireframes de Clientes_
 
 **Wireframes de Publicaciones:** En estos wireframes se maneja la vista de las publicaciones actuales del asesor y la creación de nuevas publicaciones.
 
 <img src="img/Wireframe12.png" alt = "Wireframes de Publicaciones">
 
-_Imagen 53. Wireframes de Publicaciones_
+_Imagen 56. Wireframes de Publicaciones_
 
 **Wireframes de Notificaciones:** En estos wireframes se maneja la vista de las notificaciones del asesor que serían los recordatorios de citas programadas y interés en sus publicaciones.
 
 <img src="img/Wireframe13.png" alt = "Wireframes de Notificaciones">
 
-_Imagen 54. Wireframes de Notificaciones_
+_Imagen 57. Wireframes de Notificaciones_
 
 ### 4.4.2 Web Applications Wireflow Diagrams
 Para usuario:
 <img src="img/usuario-wireflow-1.png" alt="Usuario - Wireflow 1">
 
-_Imagen 55. Wireflow - usuario - 1_
+_Imagen 58. Wireflow - usuario - 1_
 
 <img src="img/usuario-wireflow-2.png" alt="Usuario - Wireflow 2">
 
-_Imagen 56. Wireflow - usuario - 2_
+_Imagen 59. Wireflow - usuario - 2_
 
 Para asesor:
 <img src="img/asesor-wireflow-1.png" alt="Asesor - Wireflow 1">
 
-_Imagen 57. Wireflow - asesor - 1_
+_Imagen 60. Wireflow - asesor - 1_
 
 <img src="img/asesor-wireflow-2.png" alt="Asesor - Wireflow 2">
 
-_Imagen 58. Wireflow - asesor - 2_
+_Imagen 61. Wireflow - asesor - 2_
 
 <img src="img/asesor-wireflow-3.png" alt="Asesor - Wireflow 3">
 
-_Imagen 59. Wireflow - asesor - 3_
+_Imagen 62. Wireflow - asesor - 3_
 
 <img src="img/asesor-wireflow-4.png" alt="Asesor - Wireflow 4">
 
-_Imagen 60. Wireflow - asesor - 4_
+_Imagen 63. Wireflow - asesor - 4_
 
 Para criador:
 <img src="img/criador-wireflow-1.png" alt="Criador - Wireflow 1">
 
-_Imagen 61. Wireflow - criador - 1_
+_Imagen 64. Wireflow - criador - 1_
 
 <img src="img/criador-wireflow-2.png" alt="Criador - Wireflow 2">
 
-_Imagen 62. Wireflow - criador - 2_
+_Imagen 65. Wireflow - criador - 2_
 
 <img src="img/criador-wireflow-3.png" alt="Criador - Wireflow 3">
 
-_Imagen 63. Wireflow - criador - 3_
+_Imagen 66. Wireflow - criador - 3_
 
 <img src="img/criador-wireflow-4.png" alt="Criador - Wireflow 4">
 
-_Imagen 64. Wireflow - criador - 4_
+_Imagen 67. Wireflow - criador - 4_
 
 <img src="img/criador-wireflow-5.png" alt="Criador - Wireflow 5">
 
-_Imagen 65. Wireflow - criador - 5_
+_Imagen 68. Wireflow - criador - 5_
 
 <img src="img/criador-wireflow-6.png" alt="Criador - Wireflow 6">
 
-_Imagen 66. Wireflow - criador - 6_
+_Imagen 69. Wireflow - criador - 6_
 
 <img src="img/criador-wireflow-7.png" alt="Criador - Wireflow 7">
 
-_Imagen 67. Wireflow - criador - 7_
+_Imagen 70. Wireflow - criador - 7_
 
 <img src="img/criador-wireflow-8.png" alt="Criador - Wireflow 8">
 
-_Imagen 68. Wireflow - criador - 8_
+_Imagen 71. Wireflow - criador - 8_
 
 <img src="img/criador-wireflow-9.png" alt="Criador - Wireflow 9">
 
-_Imagen 69. Wireflow - criador - 9_
+_Imagen 72. Wireflow - criador - 9_
 
 <img src="img/criador-wireflow-10.png" alt="Criador - Wireflow 10">
 
-_Imagen 70. Wireflow - criador - 10_
+_Imagen 73. Wireflow - criador - 10_
 
 <img src="img/criador-wireflow-11.png" alt="Criador - Wireflow 11">
 
-_Imagen 71. Wireflow - criador - 11_
+_Imagen 74. Wireflow - criador - 11_
 
 ### 4.4.3 Web Applications Mock-ups
 
@@ -1832,79 +1904,79 @@ En este apartado, se muestran todos los mock-ups basados de los wireframes previ
 **Mock-ups de Inicio de sesión y Registro:** 
 <img src="img/Mockup1.png" alt = "Mock-ups de Inicio de sesión y Registro">
 
-_Imagen 72. Mock-ups de Inicio de sesión y Registro_
+_Imagen 75. Mock-ups de Inicio de sesión y Registro_
 
 **Mock-ups de Mi Granja:**
 
 <img src="img/Mockup2.png" alt = "Mock-ups de Mi Granja">
 
-_Imagen 73. Mock-ups de sección Mi Granja_
+_Imagen 76. Mock-ups de sección Mi Granja_
 
 **Mock-ups de Mis Animales - Jaulas:**
 
 <img src="img/Mockup3.png" alt = "Mock-ups de Mis animales - Jaulas">
 
-_Imagen 74. Mock-ups de Mis animales - Jaulas_
+_Imagen 77. Mock-ups de Mis animales - Jaulas_
 
 **Mock-ups de Mis Animales - Jaulas:**
 
 <img src="img/Mockup4.png" alt = "Mock-ups de Mis animales - Cuyes">
 
-_Imagen 75. Mock-ups de Mis animales - Cuyes_
+_Imagen 78. Mock-ups de Mis animales - Cuyes_
 
 **Mock-ups de Asesores - Citas:**
 
 <img src="img/Mockup5.png" alt = "Mock-ups de Asesores - Citas">
 
-_Imagen 76. Mock-ups de Asesores - Citas_
+_Imagen 79. Mock-ups de Asesores - Citas_
 
 **Mock-ups de Asesores - Reseñas:**
 
 <img src="img/Mockup6.png" alt = "Mock-ups de Asesores - Reseñas">
 
-_Imagen 77. Mock-ups de Asesores - Reseñas_
+_Imagen 80. Mock-ups de Asesores - Reseñas_
 
 **Mock-ups de Registro - Jaulas:**
 
 <img src="img/Mockup7.png" alt = "Mock-ups de Registro - Jaulas">
 
-_Imagen 78. Mock-ups de Registro - Jaulas_
+_Imagen 81. Mock-ups de Registro - Jaulas_
 
 **Mock-ups de Registro - Cuyes:**
 
 <img src="img/Mockup8.png" alt = "Mock-ups de Registro - Cuyes">
 
-_Imagen 79. Mock-ups de Registro - Cuyes_
+_Imagen 82. Mock-ups de Registro - Cuyes_
 
 **Mock-ups de Registro - Recursos:**
 
 <img src="img/Mockup9.png" alt = "Mock-ups de Registro - Recursos">
 
-_Imagen 80. Mock-ups de Registro - Cuyes_
+_Imagen 83. Mock-ups de Registro - Cuyes_
 
 **Mock-ups de Notificaciones:**
 
 <img src="img/Mockup10.png" alt = "Mock-ups de Notificaciones">
 
-_Imagen 81. Mock-ups de Notificaciones_
+_Imagen 84. Mock-ups de Notificaciones_
 
 **Mock-ups de Clientes:**
 
 <img src="img/Mockup11.png" alt = "Mock-ups de Clientes">
 
-_Imagen 82. Mock-ups de Clientes_
+_Imagen 85. Mock-ups de Clientes_
 
 **Mock-ups de Publicaciones:**
 
 <img src="img/Mockup12.png" alt = "Mock-ups de Publicaciones">
 
-_Imagen 83. Mock-ups de Publicaciones_
+_Imagen 86. Mock-ups de Publicaciones_
 
 **Mock-ups de Notificaciones:**
 
 <img src="img/Mockup13.png" alt = "Mock-ups de Notificaciones">
 
-_Imagen 84. Mock-ups de Notificaciones_
+_Imagen 87. Mock-ups de Notificaciones_
 
 ### 4.4.4 Web Applications User Flow Diagrams
 
@@ -1914,75 +1986,75 @@ Cabe mencionar que los happy paths son representados por cuadros amarillos, mien
 
 <img src="img/userflow1.png" alt = "userflow 1">
 
-_Imagen 85. usuario - inicio sesion_
+_Imagen 88. usuario - inicio sesion_
 
 <img src="img/userflow3.png" alt = "userflow 3">
 
-_Imagen 86. usuario - recuperar contraseña_
+_Imagen 89. usuario - recuperar contraseña_
 
 **Para asesor:**
 
 <img src="img/userflow2.png" alt = "userflow 2">
 
-_Imagen 87. asesor - registro_
+_Imagen 90. asesor - registro_
 
 <img src="img/userflow4.png" alt = "userflow 4">
 
-_Imagen 88. asesor - visualizar clientes_
+_Imagen 91. asesor - visualizar clientes_
 
 <img src="img/userflow5.png" alt = "userflow 5">
 
-_Imagen 89. asesor - crear publicaciones_
+_Imagen 92. asesor - crear publicaciones_
 
 <img src="img/userflow6.png" alt = "userflow 6">
 
-_Imagen 90. asesor - recibir notificaciones_
+_Imagen 93. asesor - recibir notificaciones_
 
 **Para criador:**
 
 <img src="img/userflow7.png" alt = "userflow 7">
 
-_Imagen 91. criador - registrar jaulas_
+_Imagen 94. criador - registrar jaulas_
 
 <img src="img/userflow8.png" alt = "userflow 8">
 
-_Imagen 92. criador - registrar cuyes_
+_Imagen 95. criador - registrar cuyes_
 
 <img src="img/userflow9.png" alt = "userflow 9">
 
-_Imagen 93. criador - registrar gastos_
+_Imagen 96. criador - registrar gastos_
 
 <img src="img/userflow10.png" alt = "userflow 10">
 
-_Imagen 94. criador - registrar recursos_
+_Imagen 97. criador - registrar recursos_
 
 <img src="img/userflow11.png" alt = "userflow 11">
 
-_Imagen 95. criador - modificar informacion jaulas_
+_Imagen 98. criador - modificar informacion jaulas_
 
 <img src="img/userflow12.png" alt = "userflow 12">
 
-_Imagen 96. criador - eliminar jaulas_
+_Imagen 99. criador - eliminar jaulas_
 
 <img src="img/userflow13.png" alt = "userflow 13">
 
-_Imagen 97. criador - ver en que jaulas pertencen cuyes_
+_Imagen 100. criador - ver en que jaulas pertencen cuyes_
 
 <img src="img/userflow14.png" alt = "userflow 14">
 
-_Imagen 98. criador - eliminar registro cuy_
+_Imagen 101. criador - eliminar registro cuy_
 
 <img src="img/userflow15.png" alt = "userflow 15">
 
-_Imagen 99. criador - editar registro cuy_
+_Imagen 102. criador - editar registro cuy_
 
 <img src="img/userflow16.png" alt = "userflow 16">
 
-_Imagen 100. criador - buscar asesores_
+_Imagen 103. criador - buscar asesores_
 
 <img src="img/userflow17.png" alt = "userflow 17">
 
-_Imagen 101. criador - calificar asesoria_
+_Imagen 104. criador - calificar asesoria_
  
 
 ## 4.5 Web Applications Prototyping
@@ -1994,7 +2066,7 @@ URL del prototipo: [Prototipo en figma](https://www.figma.com/proto/y65W2Fnk2Ire
 
 <img src="img/prototyping.png">
 
-_Imagen 102. Explicación del prototipo_
+_Imagen 105. Explicación del prototipo_
 
 ## 4.6 Domain-Driven Software Architecture
 ### 4.6.1 Software Architecture Context Diagram
@@ -2002,14 +2074,14 @@ El diagrama de contexto representa la estructura y las principales interacciones
 
 <img src="img/diagrama_contexto.png">
 
-_Imagen 103. Diagrama de contexto_
+_Imagen 106. Diagrama de contexto_
 
 ### 4.6.2 Software Architecture Container Diagrams
 El diagrama de contenedores representa la arquitectura del sistema de AgroConnect. Los criadores y asesores utilizan el contenedor de la aplicación web para interactuar con las funcionalidades del sistema mediante una conexión con la API REST. Asimismo, el contenedor del API REST se conecta con los sistemas externos.
 
 <img src="img/diagrama_contenedor.png">
 
-_Imagen 104. Diagrama de contenedores_
+_Imagen 107. Diagrama de contenedores_
 
 ### 4.6.3 Software Architecture Components Diagrams
 Los diagramas de componentes fueron creados en base a la API Rest y los bounded contexts que la componen: Gestión, Publicación, Usuario y Cita.
@@ -2017,49 +2089,49 @@ Los diagramas de componentes fueron creados en base a la API Rest y los bounded 
 **API Rest Bounded Context Component Diagram**
 <img src="img/API_Rest_Component_Diagram.png">
 
-_Imagen 105. Diagrama de componentes - API REST_
+_Imagen 108. Diagrama de componentes - API REST_
 
 
 **Management Bounded Context Component Diagram**
 <img src="img/Management_Component_Diagram.png">
 
-_Imagen 106. Diagrama de componentes - Gestión_
+_Imagen 109. Diagrama de componentes - Gestión_
 
 
 **Publication Bounded Context Component Diagram**
 <img src="img/Publication_Component_Diagram.png">
 
-_Imagen 107. Diagrama de componentes - Publicación_
+_Imagen 110. Diagrama de componentes - Publicación_
 
 
 **User Bounded Context Component Diagram**
 <img src="img/User_Component_Diagram.png">
 
-_Imagen 108. Diagrama de componentes - Usuario_
+_Imagen 111. Diagrama de componentes - Usuario_
 
 **Appointment Bounded Context Component Diagram**
 <img src="img/Appointment_Component_Diagram.png">
 
-_Imagen 109. Diagrama de componentes - Cita_
+_Imagen 112. Diagrama de componentes - Cita_
 
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1 Class Diagrams
 
 <img src="img/class_diagram_appointment.png">
 
-_Imagen 110. Diagrama de Clases Apointment Bounded Context_
+_Imagen 113. Diagrama de Clases Apointment Bounded Context_
 
 <img src="img/class_diagram_management.png">
 
-_Imagen 111. Diagrama de Clases Management Bounded Context_
+_Imagen 114. Diagrama de Clases Management Bounded Context_
 
 <img src="img/class_diagram_publication.png">
 
-_Imagen 112. Diagrama de Clases Publication Bounded Context_
+_Imagen 115. Diagrama de Clases Publication Bounded Context_
 
 <img src="img/class_diagram_user.png">
 
-_Imagen 113. Diagrama de Clases User Bounded Context_
+_Imagen 116. Diagrama de Clases User Bounded Context_
 
 
 
@@ -2290,7 +2362,7 @@ Se hizo el diseño de la base de datos no relacional, considerando cumplir con l
 
 <img src="img/database.png">
 
-_Imagen 114. Diagrama de base de datos_
+_Imagen 117. Diagrama de base de datos_
 
 
 # Capítulo V Product Implementation, Validation & Deployment
@@ -2457,7 +2529,7 @@ Así es como con este, que cada miembro podrá trabajar de forma remota desde su
 
 ### 5.2.1. Sprint 1
 
-### 5.2.1.1. Sprint Planning 1.
+#### 5.2.1.1. Sprint Planning 1.
 
 Se planeó el primer sprint a través de una reunión en Meet. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
 
@@ -2477,7 +2549,7 @@ Se planeó el primer sprint a través de una reunión en Meet. Para ello, se hiz
 |Sum of Story Points|20|
 
 
-### 5.2.1.2. Sprint Backlog 1.
+#### 5.2.1.2. Sprint Backlog 1.
 
 El objetivo de este primer sprint es la implementación del Landing Page estático. Además, se trabajó con una tabla en Trello para manejar los Work-Items de forma adecuada.
 
@@ -2485,7 +2557,7 @@ El objetivo de este primer sprint es la implementación del Landing Page estáti
 
 <img src="img/sprintBacklog.jpg" width="100%"> 
 
-_Imagen 115. Sprint Backlog 1 en Trello_
+_Imagen 118. Sprint Backlog 1 en Trello_
 
 <table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
@@ -2499,7 +2571,7 @@ _Imagen 115. Sprint Backlog 1 en Trello_
 <tr><td valign="top">US27</td><td valign="top">Sección “Contacto”</td><td valign="top">TS07</td><td valign="top">Implementación de sección Contacto</td><td valign="top">Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
 </table>
 
-### 5.2.1.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
 Se realizaron los avances con los commits correspondiente en el repositorio de la siguiente forma.
 
@@ -2522,7 +2594,7 @@ Se realizaron los avances con los commits correspondiente en el repositorio de l
 |AgroTech-UPC/Landing-Page|develop|bc8aa23|Merge pull request #10 from AgroTech-UPC/feature/characteristics|04/04/2024|
 |AgroTech-UPC/Landing-Page|main|341ad78|Merge pull request #11 from AgroTech-UPC/develop|04/04/2024|
 
-### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
 Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
 
@@ -2538,7 +2610,7 @@ Se realizaron las pruebas de aceptación para las historias de usuario trabajada
 
 
 
-### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
 En esta sección, se mostrará lo avanzado en el primer sprint, el cual se basa en la implementación del Landing Page estático. Para ello, se realizó el siguiente video con la explicación y las capturas que evidencia la página web.
 
@@ -2546,84 +2618,84 @@ En esta sección, se mostrará lo avanzado en el primer sprint, el cual se basa 
 
 <img src="img/evidence_landing_page_1.jpg" width="100%"> 
 
-_Imagen 116. evidencia landing page 1_
+_Imagen 119. evidencia landing page 1_
 
 
 Navbar: fue implementada para que sea responsive y las secciones pasen a un menú lateral en caso de ser necesario.
 
 <img src="img/evidence_landing_page_2.jpg" width="100%"> 
 
-_Imagen 117. navbar 1_
+_Imagen 120. navbar 1_
 
 <img src="img/evidence_landing_page_3.jpg" width="100%"> 
 
-_Imagen 118. navbar 2_
+_Imagen 121. navbar 2_
 
 Footer: al igual que el navbar, se implementó para acomodarse acorde al tamaño de la ventana.
 
 <img src="img/evidence_landing_page_4.jpg" width="100%"> 
 
-_Imagen 119. footer 1_
+_Imagen 122. footer 1_
 
 <img src="img/evidence_landing_page_5.jpg" width="100%"> 
 
-_Imagen 120. footer 2_
+_Imagen 123. footer 2_
 
 Página de inicio:
 
 <img src="img/evidence_landing_page_6.jpg" width="100%"> 
 
-_Imagen 121. pagina de inicio 1_
+_Imagen 124. pagina de inicio 1_
 
 <img src="img/evidence_landing_page_7.jpg" width="100%"> 
 
-_Imagen 122. pagina de inicio 2_
+_Imagen 125. pagina de inicio 2_
 
 Sección “Acerca De”:
 
 <img src="img/evidence_landing_page_8.jpg" width="100%"> 
 
-_Imagen 123. seccion "Acerca de" 1_
+_Imagen 126. seccion "Acerca de" 1_
 
 <img src="img/evidence_landing_page_9.jpg" width="100%"> 
 
-_Imagen 124. seccion "Acerca de" 2_
+_Imagen 127. seccion "Acerca de" 2_
 
 Sección “Sobre Nosotros”:
 
 <img src="img/evidence_landing_page_10.jpg" width="100%"> 
 
-_Imagen 125. seccion "Sobre Nosotros" 1_
+_Imagen 128. seccion "Sobre Nosotros" 1_
 
 <img src="img/evidence_landing_page_11.jpg" width="100%">
 
-_Imagen 126. seccion "Sobre Nosotros" 2_
+_Imagen 129. seccion "Sobre Nosotros" 2_
 
 Sección “Características”: 
 
 <img src="img/evidence_landing_page_12.jpg" width="100%"> 
 
-_Imagen 127. seccion "Caracteristicas" 1_
+_Imagen 130. seccion "Caracteristicas" 1_
 
 <img src="img/evidence_landing_page_13.jpg" width="100%"> 
 
-_Imagen 128. seccion "Caracteristicas" 2_
+_Imagen 131. seccion "Caracteristicas" 2_
 
 Sección “Contacto”:
 
 <img src="img/evidence_landing_page_14.jpg" width="100%"> 
 
-_Imagen 129. seccion "Contacto" 1_
+_Imagen 132. seccion "Contacto" 1_
 
 <img src="img/evidence_landing_page_15.jpg" width="100%"> 
 
-_Imagen 130. seccion "Contacto" 2_
+_Imagen 133. seccion "Contacto" 2_
 
-### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En este primer sprint, no hemos trabajado con servicios web, ya que nos hemos concentrado exclusivamente en la creación del Landing Page estático. Es por ello que en esta ocasión, no se trabajó la documentación relacionada con el uso de servicios web.
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Una vez acabamos de trabajar con todas las historias de usuario, realizamos el deployment del Landing Page utilizando GitHub Pages.
 
@@ -2633,31 +2705,31 @@ Para lograr hacer el deployment, entramos a la configuración del repositorio y 
 
 <img src="img/github-pages.jpg" width="100%"> 
 
-_Imagen 131. github - pages - 1_
+_Imagen 134. github - pages - 1_
 
 Escogimos la rama main, ya que es la rama principal sobre la cual se guarda la versión final para hacer el deployment. Una vez se escoge, se guardan los cambios.
 
 <img src="img/github-pages-1.jpg" width="100%"> 
 
-_Imagen 132. github - pages - 2_
+_Imagen 135. github - pages - 2_
 
 Finalmente, solo se espera a que GitHub cree la página y nos brinde el enlace.
 
 <img src="img/github-pages-2.jpg" width="100%"> 
 
-_Imagen 133. github - pages - 3_
+_Imagen 136. github - pages - 3_
 
 <img src="img/github-pages-3.jpg" width="100%"> 
 
-_Imagen 134. github - pages - 4_
+_Imagen 137. github - pages - 4_
 
-### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 En la elaboración de la landing page, todos los integrantes realizaron commits referentes al branch feature que les tocó trabajar. 
 
 <img src="img/commits-landing-page.jpg" width="100%"> 
 
-_Imagen 135. commits - landing-page_
+_Imagen 138. commits - landing-page_
 
 La división de trabajo para lograr la implementación fue por secciones en las cuales cada miembro realizó una sección de la landing page:
 
@@ -2675,7 +2747,79 @@ Cada sección tuvo su rama con el formato ‘feature/sección’
 
 <img src="img/feature-seccion.jpg" width="100%">
 
-_Imagen 136. feature-seccion_
+_Imagen 139. feature-seccion_
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+Se planeó el segundo sprint a través de una reunión en Meet. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+|**Sprint #**|Sprint 2|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-04-24|
+|Time|11: 00 PM|
+|Location|Virtual (Google Meet)|
+|Prepared by|Delgado Corrales, Piero Gonzalo|
+|Attendees (to planning meeting)|<p>Delgado Corrales, Piero Gonzalo</p><p>Lucas Coronel, Nadia Alessandra</p><p>Paredes Puente, Sebastián Roberto</p><p>Salinas Torres, Salvador Antonio</p><p>Valverde Mozo, Andre Gabriel</p>|
+|Sprint 1 Review Summary|En el primer sprint, logramos realizar el deployment del landing page, pero igualmente no se llegó a una versión buena. Además, se necesita mejorar la base de datos y las historias de usuario.|
+|Sprint 1 Retrospective Summary|En retrospectiva, se debe mejorar el landing page, la base de datos, mejorar algunas historias de usuario y añadir más.|
+|**Sprint Goal & User Stories**||
+|Sprint 2 Goal|Implementar el Frontend de nuestra aplicación web|
+|Sprint 2 Velocity|72|
+|Sum of Story Points|72|
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+El objetivo de este segundo sprint es la implementación del Frontend de nuestra aplicación web. Además, se trabajó con una tabla en Trello para manejar los Work-Items de forma adecuada.
+
+https://trello.com/b/lyM1zKbK/agrotech-sprint-backlog-2
+
+<img src="img/sprint-backlog-2.png" width="100%">
+
+_Imagen 140. Sprint Backlog 2_
+
+<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td valign="top">US24</td><td valign="top">Sección “Acerca De”</td><td valign="top">TS01</td><td valign="top">Mejorar diseño y contenido de Landing Page</td><td valign="top">Se mejora el contenido de la página sobre la problemática, sobre nosotros, características y contacto.</td><td valign="top">8</td><td valign="top">Nadia Lucas, Piero Delgado, Salvador Salinas, Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US01</td><td valign="top">Búsqueda de asesores</td><td valign="top">TS02</td><td valign="top">Implementación de búsqueda de asesores</td><td valign="top">Se implementa el componente para la búsqueda de asesores para los criadores.</td><td valign="top">3</td><td valign="top">Andre Valverde</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US02</td><td valign="top">Información del asesor</td><td valign="top">TS03</td><td valign="top">Implementación de vista de información de un asesor</td><td valign="top">Se implementa el componente con la vista de información de un asesor.</td><td valign="top">2</td><td valign="top">Andre Valverde</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US03</td><td valign="top">Visualización de horarios</td><td valign="top">TS04</td><td valign="top">Implementación de vista de horarios</td><td valign="top">Se implementa el componente con la vista de los horarios disponibles del asesor.</td><td valign="top">2</td><td valign="top">Andre Valverde</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US04</td><td valign="top">Programación de citas</td><td valign="top">TS05</td><td valign="top">Implementación de vista para programar cita</td><td valign="top">Se implementa la vista para programar una cita con un asesor.</td><td valign="top">6</td><td valign="top">Andre Valverde</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US05</td><td valign="top">Información relevante previa cita</td><td valign="top">TS06</td><td valign="top">Implementación de detalles de cita</td><td valign="top">Se implementa la página para visualizar los datos del criador previa a la cita.</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US06</td><td rowspan="2" valign="top">Notificación de citas al asesor</td><td valign="top">TS07</td><td valign="top">Implementación de visualización de notificaciones al asesor</td><td valign="top">Se implementa el componente que muestra la vista de notificaciones para los asesores.</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS08</td><td valign="top">Implementación de eliminación de notificaciones al asesor</td><td valign="top">Se implementa la función que permite eliminar una notificación.</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">US07</td><td rowspan="3" valign="top">Notificación de citas al criador de cuyes</td><td valign="top">TS09</td><td valign="top">Implementación de visualización de notificaciones al criador</td><td valign="top">Se implementa el componente que muestra la vista de notificaciones para los criadores.</td><td valign="top">2</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS10</td><td valign="top">Implementación de eliminación de notificaciones al criador</td><td valign="top">Se implementa la función que permite eliminar una notificación.</td><td valign="top">2</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS11</td><td valign="top">Implementación de Pantalla de Resultados Vacíos</td><td valign="top">Se implementa un componente que recibe un mensaje como parámetro y permite mostrar una vista cuando no se encuentren datos disponibles.</td><td valign="top">1</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US08</td><td valign="top">Calificación del asesor</td><td valign="top">TS12</td><td valign="top">Implementación de registro de calificación del asesor</td><td valign="top">Se implementa la funcionalidad en el componente para registrar la calificación del asesor brindada por el criador.</td><td valign="top">1</td><td valign="top">Andre Valverde</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US09</td><td rowspan="2" valign="top">Publicación del asesor</td><td valign="top">TS13</td><td valign="top">Implementación de creación de publicaciones</td><td valign="top">Se implementa el componente para crear nuevas publicaciones</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS14</td><td valign="top">Implementación de eliminar publicaciones</td><td valign="top">Se implementa la función dentro del componente de publicaciones para eliminar una publicación.</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US11</td><td valign="top">Registro de jaulas de cuyes</td><td valign="top">TS15</td><td valign="top">Implementación de registro de una jaula</td><td valign="top">Se implementa el componente para registrar una nueva jaula de cuyes.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US12</td><td valign="top">Registro de animal</td><td valign="top">TS16</td><td valign="top">Implementación de registro de un cuy</td><td valign="top">Se implementa el componente para registrar un nuevo cuy dentro de una jaula existente.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US13</td><td rowspan="2" valign="top">Visualización y edición de información de animales</td><td valign="top">TS17</td><td valign="top">Implementación de vista de información de animales</td><td valign="top">Se implementa el componente para visualizar las jaulas y el componente para visualizar la información de los cuyes.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS18</td><td valign="top">Implementación de edición de información de animales</td><td valign="top">Se implementa la edición dentro de la componente de jaula, así como la edición para la componente de información de un cuy.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US14</td><td valign="top">Registro de fallecimiento de cuyes</td><td valign="top">TS19</td><td valign="top">Implementación de cambio de estado de un cuy</td><td valign="top">Se implementa la función para cambiar el estado a fallecido dentro de la componente de información de cuy.</td><td valign="top">1</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US15</td><td rowspan="2" valign="top">Gestión de recursos</td><td valign="top">TS20</td><td valign="top">Implementación de registro de recurso</td><td valign="top">Se implementa el componente para registrar un recurso para el criador.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS21</td><td valign="top">Implementación de vista de recursos</td><td valign="top">Se implementa el componente para la vista de los recursos del criador</td><td valign="top">2</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US16</td><td rowspan="2" valign="top">Gestión de gastos realizados</td><td valign="top">TS22</td><td valign="top">Implementación de registro de gasto</td><td valign="top">Se implementa el componente para registrar un gasto para el criador.</td><td valign="top">1</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS23</td><td valign="top">Implementación de vista de gastos</td><td valign="top">Se implementa el componente para la vista de los recursos del criador.</td><td valign="top">1</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -2710,7 +2854,7 @@ SENASA. (2019). _Cajamarca es el principal productor de cuy en el Perú_. https:
 
 <img src="img/grafico-anexo.png">
 
-_Imagen 137. Gráfico - poblacion de cuyes_
+_Imagen 141. Gráfico - poblacion de cuyes_
 
 Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20productiva%20de%20cuy.pdf
 
@@ -2718,7 +2862,7 @@ Recuperado de: https://cdn.www.gob.pe/uploads/document/file/4061856/Cadena%20pro
 
 <img src="img/cuadro-anexo.png">
 
-_Imagen 138. Cuadro - problemas de la crianza de cuyes_
+_Imagen 142. Cuadro - problemas de la crianza de cuyes_
 
 ## Anexo N°3: Web Style Guidelines
 
@@ -2727,6 +2871,9 @@ _Imagen 138. Cuadro - problemas de la crianza de cuyes_
 ## Anexo N°4: Video de exposiciones
 
 Exposición del TB1: [upc-pre-202401-si729-wx52-agrotech-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/EZz3pjA0mJhDvymuSBI8WywBb2DCa7RrK25a5osiHJz_zw?e=aeuDy3)
+
+Exposición del TP: [upc-pre-202401-si729-wx52-agrotech-expo-tp1.mp4]()
+
 
 ## Anexo N°5: Prototipo de la aplicación web
 Enlace del prototipo en figma: [https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548](https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548)
