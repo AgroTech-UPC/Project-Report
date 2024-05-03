@@ -2848,11 +2848,11 @@ Se realizaron las pruebas de aceptación para las historias de usuario trabajada
 |AgroTech-UPC/Acceptance-Tests|main|209c8d5|feat: Updated features 06 and 15, and added features 07 and 16|03/05/2024|
 |AgroTech-UPC/Acceptance-Tests|main|a16a719|feat: Added User Stories: 01, 02, 03, 04, 05|03/05/2024|
 
-
-
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+En el alcance de este sprint 2, se ha priorizado el desarrollo de la parte de Front-end de la aplicación web, por lo que en este caso no se evidencia el empleo de web services.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
