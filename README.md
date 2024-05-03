@@ -97,10 +97,11 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 
 Commits en el project report de la TB1:
 
-<img src="img/commits_sprint2.png">
+<img src="img/commits-tb1.png">
 
-<img src="img/historial-commit-tp.PNG">
-<img src="img/historial-commit2-tp.PNG">
+<img src="img/commits-tb1_detailed1.png">
+<img src="img/commits-tb1_detailed2.png">
+<img src="img/commits-tb1_detailed3.png">
 
 # **Tabla de Contenido**
 
@@ -2897,6 +2898,44 @@ https://my-json-server.typicode.com/salvadoorssalinas/api-1
 https://my-json-server.typicode.com/salvadoorssalinas/api-2
 https://my-json-server.typicode.com/salvadoorssalinas/api-3
 
+<img src="img/json-server-salvador.png" width="100%">
+
+Por otro lado, para el deployment del Frontend Web Application Para ello, seguimos los siguientes pasos:
+
+Primero, se utilizó el comando ng build para crear la carpeta dist, la cual sirve para realizar el deployment en Firebase.
+<img src="img/deployment1.png" width="100%">
+<img src="img/deployment2.png" width="100%">
+
+Luego, se utilizó el comando de lite-server para comprobar el funcionamiento de la aplicación
+<img src="img/deployment3.png" width="100%">
+
+Se instaló firebase-tools dentro del proyecto, y luego se inició sesión.
+<img src="img/deployment4.png" width="100%">
+<img src="img/deployment5.png" width="100%">
+
+Se crea el proyecto Firebase en el cual se guardará todos los archivos, el cual le pusimos como nombre agroconnect-demo.
+<img src="img/deployment6.png" width="100%">
+
+Se ejecuta el comando para instalar @angular/fire.
+<img src="img/deployment7.png" width="100%">
+
+Se selecciona la opción ng deploy -- hosting.
+<img src="img/deployment8.png" width="100%">
+
+Se selecciona el proyecto y se crea el enlace donde se aloja el proyecto
+<img src="img/deployment9.png" width="100%">
+
+Se modifica el archivo firebase.json de la siguiente forma:
+<img src="img/deployment10.png" width="100%">
+
+Se usa el comando ng deploy para deployear la aplicación
+<img src="img/deployment11.png" width="100%">
+<img src="img/deployment12.png" width="100%">
+
+Finalmente, logramos acceder a nuestra aplicación deployada.
+<img src="img/deployment13.png" width="100%">
+
+URL de Frontend Web Application deployado: https://agroconnect-demo.web.app/home
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
