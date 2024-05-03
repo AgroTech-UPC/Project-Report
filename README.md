@@ -2856,25 +2856,25 @@ En esta sección, se mostrará lo avanzado en el segundo sprint, el cual se basa
 
 - Se implementaron flip cards en la sección “Problemática” que contienen información relevante para nuestro segmento objetivo.
 
-<img src="img/landing-page-1.png">
+<img src="img/landing-page-1.png" width="100%">
   En este apartado, también se añadió información sobre los dos segmentos objetivos.
 
-<img src="img/landing-page-2.png">
+<img src="img/landing-page-2.png" width="100%">
 
 - Se realizaron mejoras en el diseño de la sección “características”.
 
-<img src="img/landing-page-3.png">
+<img src="img/landing-page-3.png" width="100%">
 
 - Se realizaron mejoras en el diseño de la sección “Sobre Nosotros”.
 
-<img src="img/landing-page-4.png">
+<img src="img/landing-page-4.png" width="100%">
 En este apartado también se añadieron las fotos del equipo de desarrollo.
 
-<img src="img/landing-page-5.png">
+<img src="img/landing-page-5.png" width="100%">
 
 - Se realizaron mejoras en el diseño de la sección “Contacto”.
 
-<img src="img/landing-page-6.png">
+<img src="img/landing-page-6.png" width="100%">
 
 **Evidencia del Frontend-Web-Application:**
 
@@ -2888,6 +2888,14 @@ En el alcance de este sprint 2, se ha priorizado el desarrollo de la parte de Fr
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Para la elaboración del Frontend, nos repartimos las tareas entre cada miembro, y cada uno trabajó en las ramas feature correspondientes, para luego ir realizando los merge con la rama develop. Asimismo, nos reunimos de forma virtual a través de Google Meet para revisar juntos los avances y los merges realizados para verificar que todo funciona acorde a lo esperado.
+
+<img src="img/team-collaboration-1.jpg" width="100%">
+
+<img src="img/team-collaboration-2.jp" width="100%">
+
+<img src="img/team-collaboration-3.jp" width="100%">
 
 
 # Conclusiones
