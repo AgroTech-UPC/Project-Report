@@ -2856,25 +2856,25 @@ En esta sección, se mostrará lo avanzado en el segundo sprint, el cual se basa
 
 - Se implementaron flip cards en la sección “Problemática” que contienen información relevante para nuestro segmento objetivo.
 
-<img src="img/landing-page-1.png" width="100%">
+<img src="img/landing-page-1.jpg" width="100%">
   En este apartado, también se añadió información sobre los dos segmentos objetivos.
 
-<img src="img/landing-page-2.png" width="100%">
+<img src="img/landing-page-2.jpg" width="100%">
 
 - Se realizaron mejoras en el diseño de la sección “características”.
 
-<img src="img/landing-page-3.png" width="100%">
+<img src="img/landing-page-3.jpg" width="100%">
 
 - Se realizaron mejoras en el diseño de la sección “Sobre Nosotros”.
 
-<img src="img/landing-page-4.png" width="100%">
+<img src="img/landing-page-4.jpg" width="100%">
 En este apartado también se añadieron las fotos del equipo de desarrollo.
 
-<img src="img/landing-page-5.png" width="100%">
+<img src="img/landing-page-5.jpg" width="100%">
 
 - Se realizaron mejoras en el diseño de la sección “Contacto”.
 
-<img src="img/landing-page-6.png" width="100%">
+<img src="img/landing-page-6.jpg" width="100%">
 
 **Evidencia del Frontend-Web-Application:**
 
