@@ -2947,6 +2947,8 @@ Para la elaboración del Frontend, nos repartimos las tareas entre cada miembro,
 
 <img src="img/team-collaboration-3.jpg" width="100%">
 
+<img src="img/team-collaboration-4.png" width="100%">
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones
