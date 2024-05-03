@@ -2882,7 +2882,6 @@ Se implementó todas las historias de usuario en el sprint backlog, a excepción
 
 URL DEL VIDEO:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b127_upc_edu_pe/EYY0ErnjEsFBiUZXlO60wHQBnqjOJRxM13gjVWm8Gpbbzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Hd2T2Y
-
 <img src="img/front-web-evidence.png">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
@@ -2892,6 +2891,13 @@ En el alcance de este sprint 2, se ha priorizado el desarrollo de la parte de Fr
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Para el caso del Landing Page, se hizo el deployment igualmente a través de GitHub Pages, y se accede a esta a través del siguiente enlace: https://agrotech-upc.github.io/Landing-Page/home.html
+
+
+Para el Frontend Web Application, utilizamos la página https://my-json-server.typicode.com/ para alojar nuestros API creados a partir del db.json, solo creamos los repositorios en GitHub que alojan cada parte de nuestro API, el cual tuvimos que dividirlo en tres ya que hay un límite de 5 endpoints. Estos se pueden encontrar en los siguientes enlaces:
+https://my-json-server.typicode.com/salvadoorssalinas/api-1
+https://my-json-server.typicode.com/salvadoorssalinas/api-2
+https://my-json-server.typicode.com/salvadoorssalinas/api-3
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
