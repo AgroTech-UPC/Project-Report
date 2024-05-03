@@ -97,11 +97,10 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 
 Commits en el project report de la TB1:
 
-<img src="img/commits-tb1.png">
+<img src="img/commits_sprint2.png">
 
-<img src="img/commits-tb1_detailed1.png">
-<img src="img/commits-tb1_detailed2.png">
-<img src="img/commits-tb1_detailed3.png">
+<img src="img/historial-commit-tp.PNG">
+<img src="img/historial-commit2-tp.PNG">
 
 # **Tabla de Contenido**
 
