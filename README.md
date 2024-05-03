@@ -2835,6 +2835,65 @@ _Imagen 140. Sprint Backlog 2_
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
+Se realizaron los avances con los commits correspondientes en los repositorios del Landing Page y Frontend Web Applications de la siguiente forma.
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Landing-Page|feature/about-us|b658932|feat: added develop team and fixed font size|25/04/2024|
+|AgroTech-UPC/Landing-Page|feature/about-app|393d06a|fix: fixed font size|25/04/2024|
+|AgroTech-UPC/Landing-Page|feature/about-us|5d05343|feat: Added improvements in about-us section|26/04/2024|
+|AgroTech-UPC/Landing-Page|feature/about-app|ac57c51|feat: added more images and redesign problem section|01/05/2024|
+|AgroTech-UPC/Landing-Page|feature/characteristics|74704dc|feat: added improvements in features section|02/05/2024|
+|AgroTech-UPC/Landing-Page|feature/about-app|3bbb28b|feat: Added improvements in about-app section|02/05/2024|
+|AgroTech-UPC/Landing-Page|main|35548e5|Merge pull request #24 from AgroTech-UPC/develop|02/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|main|303c08c|chore: Setting up the work environment|23/04/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/header-sidenav|3217293|feat: Added header and sidenav|30/04/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/json-data|74089d5|chore: added json-server configuration files|30/04/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/json-data|5a83167|feat: Updated db.json includes users, advisors, resources and resource\_breed|30/04/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/json-data|c61773a|feat: added breeders, appointments, publications, notifications|30/04/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-farm-view|15298b8|feat: added my farm view component for breeder|30/04/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/header-sidenav|c29f9bb|fix: fixed sidenav visibility and added button|30/04/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-farm-resource-management|a856a03|feat: Create a my-farm-resource-management.component|30/04/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/header-sidenav|a853c26|fix: fixed padding on sidebar|30/04/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-farm-resource-management|711e7cb|feat: Resource management completed|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-farm-resource-management|a2546de|feat: added responsive version|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/register|0718256|feat: register-cage component added|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/register|38767f5|feat: register cage component and functionality added|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-farm-expenses-management|3a05500|feat: my-farm-expenses-management view completed|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-farm-expenses-management|a58148b|feat: added aria labels|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/register|0f32e71|fix: issue with confirmation of register solved with snackbar|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/register|f038f92|fix: method handleClick() fixed|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/register|ef8b3d6|feat: register-cuy section added|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/register|6684f5c|feat: section register-expense added|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-animals|c359b67|feat: added routes for my animals|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-animals|d0e2622|feat: added confirmation dialog component|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-animals|7a4191d|feat: added animal and cage models|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-animals|01007d4|feat: added http service|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/notifications-view|f7c7ee9|feat: added notification view|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-animals|603b0b4|feat: added table with cages|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-animals|10bbcc6|feat: added edit cage form|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-animals|a80172b|feat: added view for animals in a specific cage|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-animals|7841c9c|feat: added form for visualizing and editing animal information|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/clients|a9302f7|feat: clients appointments view for advisor|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/notifications-advisor|899e8d0|feat: added notifications view for advisor|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/publication|40b03dc|feat: added my publications view|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/notifications-view|e6511c1|feat: sorted folders with the ddd|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/publication|3d4b64a|feat: added publication detail view|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/publication|7dd310a|feat: added new publication feature for advisor|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/register|b442663|feat: register-resources section added|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/register|c62a0f8|fix: organization of components and services were fixed|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/notifications-advisor|12dcb5d|fix: fixed model for notification|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/notifications-view|7f0beb7|fix: conflict with header solved|01/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|60598bd|fix: fixed go back buttons and notifications for advisor|02/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/publication|6504622|feat: added feature to delete publications|02/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/appointment|f3de032|feat: Added Sections: Search advisors, more information about an advisor, view advisor reviews, view advisor schedules, and book an appointment|02/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/appointment|1429648|fix: fixed link that redirects the “back” button|02/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/appointment|b566228|feat: Added interface my advisors|02/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/appointment|9d1a9dd|feat: Functionality was added to the “My advisors” section|02/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/appointment|f2be04b|feat: The search bar was implemented|02/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/appointment|eb9e789|fix: Solution to redirect button|03/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/appointment|33f23e9|feat: Added Review section|03/05/2024|
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
 
