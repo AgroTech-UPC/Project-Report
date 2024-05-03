@@ -2850,6 +2850,37 @@ Se realizaron las pruebas de aceptación para las historias de usuario trabajada
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
+En esta sección, se mostrará lo avanzado en el segundo sprint, el cual se basa en la nueva versión de la landing page y el despliegue del Frontend-Web-Application de AgroConnect.
+
+**Evidencia de la landing page:**
+
+- Se implementaron flip cards en la sección “Problemática” que contienen información relevante para nuestro segmento objetivo.
+
+<img src="img/landing-page-1.png">
+  En este apartado, también se añadió información sobre los dos segmentos objetivos.
+
+<img src="img/landing-page-2.png">
+
+- Se realizaron mejoras en el diseño de la sección “características”.
+
+<img src="img/landing-page-3.png">
+
+- Se realizaron mejoras en el diseño de la sección “Sobre Nosotros”.
+
+<img src="img/landing-page-4.png">
+En este apartado también se añadieron las fotos del equipo de desarrollo.
+
+<img src="img/landing-page-5.png">
+
+- Se realizaron mejoras en el diseño de la sección “Contacto”.
+
+<img src="img/landing-page-6.png">
+
+**Evidencia del Frontend-Web-Application:**
+
+Se implementó todas las historias de usuario en el sprint backlog, a excepción de la primera que tiene que ver con el Landing Page, para el primer release del Frontend de nuestra aplicación web. Para ello, se grabó el siguiente video de explicación en el cual se muestran todos los procesos alcanzados.
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 En el alcance de este sprint 2, se ha priorizado el desarrollo de la parte de Front-end de la aplicación web, por lo que en este caso no se evidencia el empleo de web services.
