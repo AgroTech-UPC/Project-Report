@@ -846,7 +846,7 @@ _Imagen 11. Entrevista a Anderson_
 
 **Resumen:**
 
-Daniel viene de una familia que ha criado cuyes durante generaciones para generar un ingreso para su familia. Su familia maneja una operación mediana con alrededor de 30 cuyes. Uno de los desafíos más grandes para su criadero es mantener la salud y el bienestar de los cuyes, así como garantizar una alimentación adecuada y prevenir enfermedades. Para registrar la información de los cuyes, utiliza métodos manuales donde detalla la salud de cada animal y realiza revisiones periódicas para detectar problemas. Daniel no ha utilizado aplicaciones especializadas pero usa herramientas simples como calculadora y calendario. Está interesado en una herramienta intuitiva para gestionar la información de los cuyes y recibir asesoramiento en línea. Estaría dispuesto a pagar por una aplicación con estas funcionalidades si el precio es asequible.
+Anderson Morales ha empezado junto a su padre a criar unos treinta cuyes aproximadamente. Comenta que a veces se le dificulta el mantener registro de los recursos y datos de los animales, ya que lo hace en un excel pero no suele ser muy eficiente. Al comentarle sobre la idea de la app para poder gestionar los datos de su granja y recibir asesorías, mencionó que le pareció una gran idea, ya que así podría tener una mejor manera para organizar sus datos y además poder tener gente de la cual apoyarse en caso tenga algún problema.
 
 ### 2.2.3. Análisis de entrevistas
 
