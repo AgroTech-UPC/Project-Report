@@ -2801,7 +2801,7 @@ El objetivo de este segundo sprint es la implementación del Frontend de nuestra
 
 https://trello.com/b/lyM1zKbK/agrotech-sprint-backlog-2
 
-<img src="img/sprint-backlog-2.png" width="100%">
+<img src="img/sprintbacklog2.PNG" width="100%">
 
 _Imagen 140. Sprint Backlog 2_
 
