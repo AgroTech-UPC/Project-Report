@@ -2953,7 +2953,7 @@ _Imagen 142. Cuadro - problemas de la crianza de cuyes_
 
 Exposición del TB1: [upc-pre-202401-si729-wx52-agrotech-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/EZz3pjA0mJhDvymuSBI8WywBb2DCa7RrK25a5osiHJz_zw?e=aeuDy3)
 
-Exposición del TP: [upc-pre-202401-si729-wx52-agrotech-expo-tp1.mp4]()
+Exposición del TP: [upc-pre-202401-si729-wx52-agrotech-expo-tp1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/EcuWnAtFFa5Aseqn8_glQZwBhxi1acBsSWeR7ko-zFCT3g?e=yVgPhv)
 
 
 ## Anexo N°5: Prototipo de la aplicación web
