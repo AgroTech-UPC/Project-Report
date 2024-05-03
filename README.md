@@ -97,10 +97,11 @@ URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 
 Commits en el project report de la TP1:
 
-<img src="img/commits_sprint2.png">
+<img src="img/commits-tb1.png">
 
-<img src="img/historial-commit-tp.PNG">
-<img src="img/historial-commit2-tp.PNG">
+<img src="img/commits-tb1_detailed1.png">
+<img src="img/commits-tb1_detailed2.png">
+<img src="img/commits-tb1_detailed3.png">
 
 # **Tabla de Contenido**
 
@@ -2881,7 +2882,6 @@ Se implementó todas las historias de usuario en el sprint backlog, a excepción
 
 URL DEL VIDEO:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b127_upc_edu_pe/EYY0ErnjEsFBiUZXlO60wHQBnqjOJRxM13gjVWm8Gpbbzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Hd2T2Y
-
 <img src="img/front-web-evidence.png">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
@@ -2891,6 +2891,51 @@ En el alcance de este sprint 2, se ha priorizado el desarrollo de la parte de Fr
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Para el caso del Landing Page, se hizo el deployment igualmente a través de GitHub Pages, y se accede a esta a través del siguiente enlace: https://agrotech-upc.github.io/Landing-Page/home.html
+
+
+Para el Frontend Web Application, utilizamos la página https://my-json-server.typicode.com/ para alojar nuestros API creados a partir del db.json, solo creamos los repositorios en GitHub que alojan cada parte de nuestro API, el cual tuvimos que dividirlo en tres ya que hay un límite de 5 endpoints. Estos se pueden encontrar en los siguientes enlaces:
+https://my-json-server.typicode.com/salvadoorssalinas/api-1
+https://my-json-server.typicode.com/salvadoorssalinas/api-2
+https://my-json-server.typicode.com/salvadoorssalinas/api-3
+
+<img src="img/json-server-salvador.png" width="100%">
+
+Por otro lado, para el deployment del Frontend Web Application Para ello, seguimos los siguientes pasos:
+
+Primero, se utilizó el comando ng build para crear la carpeta dist, la cual sirve para realizar el deployment en Firebase.
+<img src="img/deployment1.png" width="100%">
+<img src="img/deployment2.png" width="100%">
+
+Luego, se utilizó el comando de lite-server para comprobar el funcionamiento de la aplicación
+<img src="img/deployment3.png" width="100%">
+
+Se instaló firebase-tools dentro del proyecto, y luego se inició sesión.
+<img src="img/deployment4.png" width="100%">
+<img src="img/deployment5.png" width="100%">
+
+Se crea el proyecto Firebase en el cual se guardará todos los archivos, el cual le pusimos como nombre agroconnect-demo.
+<img src="img/deployment6.png" width="100%">
+
+Se ejecuta el comando para instalar @angular/fire.
+<img src="img/deployment7.png" width="100%">
+
+Se selecciona la opción ng deploy -- hosting.
+<img src="img/deployment8.png" width="100%">
+
+Se selecciona el proyecto y se crea el enlace donde se aloja el proyecto
+<img src="img/deployment9.png" width="100%">
+
+Se modifica el archivo firebase.json de la siguiente forma:
+<img src="img/deployment10.png" width="100%">
+
+Se usa el comando ng deploy para deployear la aplicación
+<img src="img/deployment11.png" width="100%">
+<img src="img/deployment12.png" width="100%">
+
+Finalmente, logramos acceder a nuestra aplicación deployada.
+<img src="img/deployment13.png" width="100%">
+
+URL de Frontend Web Application deployado: https://agroconnect-demo.web.app/home
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
