@@ -2880,6 +2880,10 @@ En este apartado también se añadieron las fotos del equipo de desarrollo.
 
 Se implementó todas las historias de usuario en el sprint backlog, a excepción de la primera que tiene que ver con el Landing Page, para el primer release del Frontend de nuestra aplicación web. Para ello, se grabó el siguiente video de explicación en el cual se muestran todos los procesos alcanzados.
 
+URL DEL VIDEO:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b127_upc_edu_pe/EYY0ErnjEsFBiUZXlO60wHQBnqjOJRxM13gjVWm8Gpbbzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Hd2T2Y
+
+<img src="img/front-web-evidence.png">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
