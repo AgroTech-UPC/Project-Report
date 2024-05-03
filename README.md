@@ -95,13 +95,19 @@ Mayo 2024
 # **Project Report Collaboration Insights**
 URL Project Report (Github): https://github.com/AgroTech-UPC/Project-Report
 
-Commits en el project report de la TP1:
+Commits en el project report de la TB1:
 
 <img src="img/commits-tb1.png">
 
 <img src="img/commits-tb1_detailed1.png">
 <img src="img/commits-tb1_detailed2.png">
 <img src="img/commits-tb1_detailed3.png">
+
+Commits en el project report de la TP1:
+
+<img src="img/team-collaboration-tp1.png">
+<img src="img/commits-tp1-1.png">
+<img src="img/commits-tp1-2.png">
 
 # **Tabla de Contenido**
 
