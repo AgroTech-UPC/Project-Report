@@ -226,22 +226,34 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong></p>
         <p>En esta primera entrega, se desarrolló la idea de negocio. Para lograr esto, en lo personal tuve que realizar entrevista a un criador de cuyes para obtener mayores especificaciones sobre el problema a tratar. Del mismo modo, comunique oralmente las ideas del diseño de la aplicación web y de los diagramas de arquitectura de software mediante el proyecto.</p>
+        <p><strong>TP1:</strong></p>
+        <p>Para este entregable, se desarrolló el sprint 2 el cual se enfocó en el desarrollo del frontend. Dichos cambios se comunicaron oralmente mediante el video del proyecto. Además, realicé una entrevista a un asesor para tener una mayor información sobre el alcance de nuestro proyecto.</p>
         <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se enfocó principalmente en el diseño y desarrollo del producto, destacando el diseño de la landing page, guías de estilo, historias de usuario y la base de datos. Se priorizó que el diseño fuera intuitivo y atractivo para los usuarios, mientras cumplía con los requisitos. Esta labor fue fundamental para garantizar que el producto final satisficiera las necesidades de los usuarios y las demandas del mercado de manera efectiva.</p>
+        <p><strong>TP1:</strong></p>
+        <p>Durante este entregable, nuestro enfoque se centró en mejorar el diseño de la página de inicio (landing page) del proyecto. Con el objetivo de garantizar la eficacia y la coherencia visual, se implementaron cambios significativos que se alinean con las mejores prácticas de diseño web. Además, se completó con éxito las tareas asignadas durante el segundo sprint del proyecto. Estas incluyeron el desarrollo del front-end, la implementación de la API y la integración exitosa del front-end con el backend.</p>
         <p><strong>Paredes Puente, Sebastián Roberto</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se puso especial énfasis en el diseño y desarrollo del producto, concentrándose en la sección “Acerca de” de la landing page, user stories, user personas y scenario mapping. Esta labor fue esencial para asegurar que el producto final cumpliera efectivamente con las necesidades de los usuarios, al delimitar las user stories, y las exigencias del mercado. Además, se llevó a cabo una investigación inicial para conocer opiniones de algunos expertos en el tema, por ello se realizó entrevistas con personas clave de nuestros segmentos objetivo, lo que facilitó el trabajo en equipo y el avance del proyecto.</p>
+        <p><strong>TP1:</strong></p>
+        <p>Durante este entregable, nuestro enfoque se centró en mejorar el diseño de la landing page del proyecto, implementando ciertas mejoras como adicionar información y hacer que se vea visualmente más estético y llamativo. Además, se completaron con éxito las tareas asignadas durante el segundo sprint, que incluyeron el desarrollo del front-end y la implementación de la API. Para comunicar estos cambios, se realizaron un total de 9 entrevistas a nuestros segmentos objetivos, para obtener más información sobre el alcance del proyecto en una próxima entrega.</p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong></p>
         <p>En este primer avance, primero identificamos la problemática y realizamos la investigación necesaria para identificar los requisitos que nuestra aplicación final abarca. Para ello, realizamos entrevistas de forma oral con personas de nuestros segmentos objetivo para conocer sus principales necesidades y ponernos un poco mejor en su perspectiva. Gracias a estas, es que el desarrollo del trabajo fue fluido, ya que luego en grupo nos reunimos y fuimos avanzando, realizando recomendaciones y resolviendo dudas sobre nuestros objetivos como startup.</p>
+        <p><strong>TP1:</strong></p>
+        <p>Para este avance nos enfocamos en mejorar un poco más la investigación del mercado a partir de los comentarios brindados por el profesor. De este modo, realicé una entrevista más para obtener una perspectiva más a tomar en cuenta en el segmento objetivo. Igualmente, realizamos mejoras en el Landing Page, para lo cual realizamos una videoconferencia para conversar en grupo y compartir ideas sobre los siguientes pasos.</p>
         <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
         <p><strong>TB1:</strong></p>
         <p>En la fase inicial, investigamos a fondo las necesidades de nuestros usuarios mediante entrevistas directas. Esto facilitó el progreso del trabajo en equipo al ofrecer recomendaciones y aclarar dudas. Luego, nos centramos en el diseño y desarrollo del producto, priorizando un diseño intuitivo y atractivo que cumpliera con los requisitos establecidos y satisficiera las demandas del mercado.</p>
+        <p><strong>TP1:</strong></p>
+        <p>En el segundo sprint, nos enfocamos en profundizar nuestro conocimiento de Angular y completar tareas clave para mejorar el front-end de nuestra aplicación. Paralelamente, ajustamos el diseño de la página principal y consideramos comentarios del profesor para una mejor comprensión del mercado y las preferencias de nuestros usuarios.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
         <p>En conclusión, a través de un enfoque meticuloso, nos aseguramos de definir claramente los requisitos del proyecto, crear un diseño robusto y funcional, llevar a cabo un desarrollo cuidadoso y exhaustivo, y realizar pruebas rigurosas para garantizar la calidad y fiabilidad del producto. Parte de este proceso de definición fueron las entrevistas en las cuales nos comunicamos con nuestros segmentos objetivo para definir mejor la problemática y las funcionalidades que ayudarán a solucionarla. Estos hallazgos se vieron reflejados en la exposición del primer avance donde explicamos a detalle todos los aspectos desarrollados durante la primera entrega.</p>
+        <p><strong>TP1:</strong></p>
+        <p>En resumen, durante esta etapa del proyecto, implementamos las mejoras sugeridas por el profesor, las cuales incluyeron la adición de más historias técnicas y la mejora del diseño de la landing page siguiendo buenas prácticas. Además, todos los integrantes del equipo completaron con éxito todas las actividades asignadas en el segundo sprint. Este progreso se refleja claramente en el tablero de Trello correspondiente al sprint.</p>
       </td>
     </tr>
     <tr>
@@ -250,22 +262,35 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Durante esta primera entrega, comunique de forma escrita mis ideas mediante la realización del informe del trabajo en Github con el lenguaje Markdown. Asimismo, mostré los resultados de las entrevistas mediante tablas y gráficos que mostraban con objetividad los hallazgos obtenidos.</p>
+        <p><strong>TP1:</strong></p>
+        <p>Para esta entrega, comunique de forma escrita las mejoras realizadas a los diagramas de domain driven design y del diseño de la base de datos en el informe del trabajo. Del mismo modo, con los cambios realizados al landing page se pudo expresar de mejor manera nuestras funcionalidades y alcances a los segmentos objetivos.</p>
         <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se facilitó una comunicación clara y precisa sobre el diseño y desarrollo del producto a través de diferentes áreas, incluyendo el diseño de las guías de estilo, las historias de usuario y el diseño de la base de datos. Esta comunicación efectiva fue esencial para mantener informados a todos los miembros del equipo, independientemente de su nivel de experiencia técnica, y promovió una colaboración exitosa.</p>
+        <p><strong>TP1:</strong></p>
+        <p>En este entregable, se enfocó en mejorar el diseño de la landing page,  lo cual implicó la revisión de la estructura y el contenido para optimizar la experiencia del usuario. Asimismo, se brindó apoyo en la gestión y organización del proyecto a través de la plataforma Trello, contribuyendo a la creación y actualización de tableros, asignación de tareas y seguimiento del progreso del equipo. Además, se culminó con éxito las tareas del segundo sprint, estas incluyen colaborar en el desarrollo del front-end, la implementación de la API y la integración del front-end con el backend.</p>
         <p><strong>Paredes Puente, Sebastián Roberto</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Me concentré en comunicar mis ideas y avances a través de un informe escrito, lo cual resultó fundamental para transmitir claramente los detalles del diseño y desarrollo del producto. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso utilizando lenguaje Markdown, asegurando así un informe completo y fácil de entender.</p>
+        <p><strong>TP1:</strong></p>
+        <p>Durante el desarrollo para esta entrega, se puso énfasis en abordar los puntos a mejorar en el feedback del trabajo anterior, como lo fueron el mejorar la redacción de algunas user stories, a su vez, agregar más user stories técnicas. Además, se desarrolló el Frontend de la aplicación web mediante el uso de Angular como framework y una API fake en formato JSON para simular la gestión de datos, la cuál se estuvo probando para su correcto funcionamiento.</p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Durante el desarrollo de este primer sprint, realice la documentación de forma escrita con todos los puntos requeridos a lo largo del proyecto. Así como establecer las convenciones de estilo y configuración de sistema de software, los cuales son importantes ya que de estos es que se basará el desarrollo del proyecto hasta su fin.</p>
+        <p><strong>TP1:</strong></p>
+        <p>Este avance parcial se enfocó principalmente en subsanar los comentarios brindados por el profesor así como en la redacción de las historias de usuario, y en la realización del Frontend de la aplicación web utilizando como framework Angular y fake API en json para simular la gestión de datos.</p>
         <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Al inicio del proyecto, me concentré en comunicar mis ideas y avances a través del informe escrito. Este informe fue esencial para transmitir claramente los detalles del diseño y desarrollo del producto, asegurando que todos los miembros del equipo estuvieran al tanto de nuestros progresos y facilitando una colaboración efectiva. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso, garantizando un registro completo y accesible para todos los involucrados en el proyecto.</p>
+        <p><strong>TP1:</strong></p>
+        <p>En este avance parcial, nos enfocamos en mejorar la redacción de user stories, subsanar comentarios del profesor, y desarrollar el Frontend de la aplicación web utilizando Angular y una API fake en JSON. Buscamos también entender mejor las necesidades de nuestros usuarios potenciales, asegurando una buena experiencia de usuario y mejorando la calidad del trabajo anterior.</p>
+        <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
         <p>En conclusión, para esta primera entrega nos comunicamos de forma escrita mediante nuestro informe en el cual desarrollamos nuestra idea de negocio utilizando convenciones para facilitar la comprensión del proceso. Asimismo, la comunicación directa entre los miembros del equipo fue clave para la resolución de problemas y planificación de plazos para alcanzar los objetivos planteados.</p>
+        <p><strong>TP1:</strong></p>
+        <p>En resumen, para esta entrega se enfatizó en mejorar mediante el feedback proporcionado por el profesor y un autoanálisis. Por lo tanto, nos comunicamos de forma escrita en el informe del proyecto, buscando mejorar tanto el formato como el contenido para mostrar nuestras ideas de manera más objetiva.</p>
       </td>
     </tr>
   </tbody>
