@@ -2891,6 +2891,8 @@ En el alcance de este sprint 2, se ha priorizado el desarrollo de la parte de Fr
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+Para el caso del Landing Page, se hizo el deployment igualmente a través de GitHub Pages, y se accede a esta a través del siguiente enlace: https://agrotech-upc.github.io/Landing-Page/home.html
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 Para la elaboración del Frontend, nos repartimos las tareas entre cada miembro, y cada uno trabajó en las ramas feature correspondientes, para luego ir realizando los merge con la rama develop. Asimismo, nos reunimos de forma virtual a través de Google Meet para revisar juntos los avances y los merges realizados para verificar que todo funciona acorde a lo esperado.
