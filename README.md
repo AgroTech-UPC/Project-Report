@@ -2836,6 +2836,19 @@ _Imagen 140. Sprint Backlog 2_
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Acceptance-Tests|main|b046326|feat: added acceptance test for US13|01/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|964877f|feat: added acceptance test for US14|01/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|c8e984d|feat: added acceptance test for US06|02/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|950fb0b|feat: added acceptance test for US08, US09|02/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|718cd68|feat: added acceptance test for US11, US12, US15|02/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|209c8d5|feat: Updated features 06 and 15, and added features 07 and 16|03/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|a16a719|feat: Added User Stories: 01, 02, 03, 04, 05|03/05/2024|
+
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
