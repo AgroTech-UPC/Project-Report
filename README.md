@@ -1552,10 +1552,6 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
       <td>Se implementará un botón que permitirá a los usuarios gestionar su inventario, que incluirá medicamentos, producción de carne, fertilizante y otros elementos relacionados.</td>
   </tr>
   <tr>
-      <th>My publications - Mis publicaciones</th>
-      <td>Se implementará un botón que permitirá al usuario ver el historial de sus ofertas de trabajo.</td>
-  </tr>
-  <tr>
       <th>Advisors - Mis asesores</th>
       <td>Se implementará un botón que permitirá a los usuarios contactar con asesores.</td>
   </tr>
@@ -1569,7 +1565,7 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
   </tr>
   <tr>
       <th>Registry - Registro</th>
-      <td>Se implementará un botón que permitirá al usuario registrar información de nuevos animales, datos de la producción y alimentos.</td>
+      <td>Se implementará un botón que permitirá al usuario registrar información de nuevos animales, datos de la gastos y recursos.</td>
   </tr>
   <tr>
       <th>Notifications - Notificaciones</th>
@@ -1596,12 +1592,12 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
       <td>Se implementará un botón que permitirá a los usuarios ver su clientes.</td>
   </tr>
   <tr>
-      <th>Calendar - Calendario</th>
-      <td>Se implementará un botón que permitirá visualizar un calendario con las tareas, eventos y actividades registradas.</td>
+      <th>My publications - Mis publicaciones</th>
+      <td>Se implementará un botón que permitirá al usuario ver el historial de sus publicaciones de ofertas de trabajo.</td>
   </tr>
   <tr>
       <th>Notifications - Notificaciones</th>
-      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo.</td>
+      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo y recordatorios de citas pendientes.</td>
   </tr>
   <tr>
       <th>Logout</th>
