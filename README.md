@@ -2912,13 +2912,13 @@ _Imagen 140. Sprint Backlog 2_
     <tr>
       <td rowspan="2" valign="top">US15</td>
       <td rowspan="2" valign="top">Gestión de recursos de la granja</td>
-      <td valign="top">TS20</td>
+      <td valign="top">TS22</td>
       <td valign="top">Implementación de registro de recurso</td>
       <td valign="top">Se implementa el componente para registrar un recurso para el criador.</td>
       <td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">TS21</td>
+      <td valign="top">TS23</td>
       <td valign="top">Implementación de vista de recursos</td>
       <td valign="top">Se implementa el componente para la vista de los recursos del criador</td>
       <td valign="top">2</td><td valign="top">Nadia Lucas</td>
@@ -2927,7 +2927,7 @@ _Imagen 140. Sprint Backlog 2_
     <tr>
       <td rowspan="2" valign="top">US16</td>
       <td rowspan="2" valign="top">Gestión de gastos realizados</td>
-      <td valign="top">TS22</td>
+      <td valign="top">TS24</td>
       <td valign="top">Implementación de registro de gasto</td>
       <td valign="top">Se implementa el componente para registrar un gasto para el criador.</td>
       <td valign="top">1</td>
@@ -2935,7 +2935,7 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">TS23</td>
+      <td valign="top">TS25</td>
       <td valign="top">Implementación de vista de gastos</td>
       <td valign="top">Se implementa el componente para la vista de los recursos del criador.</td>
       <td valign="top">1</td><td valign="top">Nadia Lucas</td>
@@ -2944,19 +2944,38 @@ _Imagen 140. Sprint Backlog 2_
     <tr>
       <td valign="top">US24</td>
       <td valign="top">Visualización de la sección "Acerca De"</td>
-      <td valign="top">TS01</td><td valign="top">Mejorar diseño y contenido de la sección "Acerca De"</td>
+      <td valign="top">TS26</td><td valign="top">Mejorar diseño y contenido de la sección "Acerca De"</td>
       <td valign="top">Se mejora el contenido de la página sobre la problemática, sobre nosotros, características y contacto.</td>
-      <td valign="top">8</td><td valign="top">Nadia Lucas, Piero Delgado, Salvador Salinas, Sebastián Paredes</td>
+      <td valign="top">2</td><td valign="top">Nadia Lucas, Piero Delgado, Salvador Salinas, Sebastián Paredes</td>
       <td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US25</td><td valign="top">Visualización de la sección "Sobre Nosotros"</td><td valign="top">TS04</td><td valign="top">Mejorar diseño y contenido de la sección "Sobre Nosotros"</td><td valign="top">Se mejora el diseño y contenido de la sección "Sobre Nosotros" para proporcionar información clara y concisa sobre el equipo y la misión.</td><td valign="top">8</td><td valign="top">Nadia Lucas, Piero Delgado, Salvador Salinas, Sebastián Paredes</td><td valign="top">Done</td>
+      <td valign="top">US25</td>
+      <td valign="top">Visualización de la sección "Sobre Nosotros"</td>
+      <td valign="top">TS27</td>
+      <td valign="top">Mejorar diseño y contenido de la sección "Sobre Nosotros"</td>
+      <td valign="top">Se mejora el diseño y contenido de la sección "Sobre Nosotros" para proporcionar información clara y concisa sobre el equipo y la misión.</td>
+      <td valign="top">2</td>
+      <td valign="top">Nadia Lucas, Piero Delgado, Salvador Salinas, Sebastián Paredes</td>
+      <td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US26</td><td valign="top">Visualización de la sección "Características"</td><td valign="top">TS05</td><td valign="top">Mejorar diseño y contenido de la sección "Características"</td><td valign="top">Se mejora el diseño y contenido de la sección "Características" para resaltar las funcionalidades clave de la plataforma.</td><td valign="top">8</td><td valign="top">Nadia Lucas, Piero Delgado, Salvador Salinas, Sebastián Paredes</td><td valign="top">Done</td>
+      <td valign="top">US26</td>
+      <td valign="top">Visualización de la sección "Características"</td>
+      <td valign="top">TS28</td>
+      <td valign="top">Mejorar diseño y contenido de la sección "Características"</td>
+      <td valign="top">Se mejora el diseño y contenido de la sección "Características" para resaltar las funcionalidades clave de la plataforma.</td>
+      <td valign="top">2</td>
+      <td valign="top">Nadia Lucas, Piero Delgado, Salvador Salinas, Sebastián Paredes</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US27</td><td valign="top">Visualización de la sección "Contacto"</td><td valign="top">TS06</td><td valign="top">Mejorar diseño y contenido de la sección "Contacto"</td><td valign="top">Se mejora el diseño y contenido de la sección "Contacto" para facilitar la comunicación entre usuarios y el equipo de soporte.</td><td valign="top">8</td><td valign="top">Nadia Lucas, Piero Delgado, Salvador Salinas, Sebastián Paredes</td><td valign="top">Done</td>
+      <td valign="top">US27</td>
+      <td valign="top">Visualización de la sección "Contacto"</td>
+      <td valign="top">TS29</td>
+      <td valign="top">Mejorar diseño y contenido de la sección "Contacto"</td>
+      <td valign="top">Se mejora el diseño y contenido de la sección "Contacto" para facilitar la comunicación entre usuarios y el equipo de soporte.</td>
+      <td valign="top">1</td>
+      <td valign="top">Nadia Lucas, Piero Delgado, Salvador Salinas, Sebastián Paredes</td><td valign="top">Done</td>
     </tr>
 </table>
 
