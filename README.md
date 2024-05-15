@@ -198,6 +198,15 @@ Commits en el project report de la TP1:
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -2645,7 +2654,8 @@ Se realizaron las pruebas de aceptación para las historias de usuario trabajada
 
 En esta sección, se mostrará lo avanzado en el primer sprint, el cual se basa en la implementación del Landing Page estático. Para ello, se realizó el siguiente video con la explicación y las capturas que evidencia la página web.
 
-**URL de video:** <https://youtu.be/Yi3p53UjKF0>
+**URL de video:**
+[Execution Evidence](https://youtu.be/Yi3p53UjKF0)
 
 <img src="img/evidence_landing_page_1.jpg" width="100%"> 
 
@@ -3085,8 +3095,8 @@ En este apartado también se añadieron las fotos del equipo de desarrollo.
 
 Se implementó todas las historias de usuario en el sprint backlog, a excepción de la primera que tiene que ver con el Landing Page, para el primer release del Frontend de nuestra aplicación web. Para ello, se grabó el siguiente video de explicación en el cual se muestran todos los procesos alcanzados.
 
-URL DEL VIDEO:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b127_upc_edu_pe/EYY0ErnjEsFBiUZXlO60wHQBnqjOJRxM13gjVWm8Gpbbzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Hd2T2Y
+URL de video:
+[Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b127_upc_edu_pe/EYY0ErnjEsFBiUZXlO60wHQBnqjOJRxM13gjVWm8Gpbbzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Hd2T2Y)
 <img src="img/front-web-evidence.png">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
@@ -3154,6 +3164,51 @@ Para la elaboración del Frontend, nos repartimos las tareas entre cada miembro,
 
 <img src="img/team-collaboration-4.png" width="100%">
 
+### 5.2.3. Sprint 3.
+
+#### 5.2.3.1. Sprint Planning 3.
+
+El tercer sprint se planeó a través de una reunión virtual en Google Meet. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+
+|**Sprint #**|Sprint 3|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-05-14|
+|Time|09: 00 PM|
+|Location|Virtual (Google Meet)|
+|Prepared by|Delgado Corrales, Piero Gonzalo|
+|Attendees (to planning meeting)|<p>Delgado Corrales, Piero Gonzalo</p><p>Lucas Coronel, Nadia Alessandra</p><p>Paredes Puente, Sebastián Roberto</p><p>Salinas Torres, Salvador Antonio</p><p>Valverde Mozo, Andre Gabriel</p>|
+|Sprint 2 Review Summary|En el sprint 2, se realizó la implementación y deployment del Frontend de la aplicación web.|
+|Sprint 2 Retrospective Summary|Este segundo sprint consistió principalmente en Frontend, aunque faltaron algunas partes a desarrollar y realizar algunas mejoras en las historias de usuario.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|Desarrollar la parte faltante en Frontend y empezar con el desarrollo de Backend de la aplicación web.|
+|Sprint 3 Velocity|-|
+|Sum of Story Points|-|
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de entrevistas.
+
+### 5.3.2. Registro de entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-The-Product
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -3164,6 +3219,8 @@ Para la elaboración del Frontend, nos repartimos las tareas entre cada miembro,
 
 
 * Plantear e identificar los requisitos del proyecto al inicial fue crucial, ya que establecieron las bases sólidas sobre las cuales se construirá la aplicación AgroConnect de AgroTech, estas se lograron identificar gracias a los empathy mappings, impact mappings y user personas ayudaron a empatizar y estar en el lugar de nuestro públic objetivo, As-is y To-Be Scenario Mappings que permiten visualizar el proceso en el que realiza una tarea sin y con AgroConnect respectivamente. Además, las user stories proporcionaron una descripción detallada de las interacciones que los usuarios tendrán con la aplicación, lo que es fundamental para brindar una experiencia de usuario satisfactoria. Finalmente, el product backlog estableció la lista priorizada de todas las funcionalidades y características que se implementarán en la aplicación y reducir los esfuerzos en el desarrollo de la aplicación.
+
+# Video About-The-Team
 
 
 # Bibliografía
