@@ -1161,149 +1161,40 @@ En esta sección, se definirán términos utilizados a lo largo del proyecto par
 
 Se identificaron las siguientes épicas que se componen de las historias de usuario.
 
-<table>
-    <tr>
-        <th valign="top"><b>Epic ID</b></th>
-        <th valign="top"><b>Epic</b></th>
-        <th valign="top"><b>User story ID</b></th>
-        <th valign="top"><b>User stories</b></th>
-    </tr>
-    <tr>
-        <td rowspan="8" valign="top"><b>E01</b></td>
-        <td rowspan="8" valign="top">Sistema de búsqueda y programación de citas con asesores y calificaciones</td>
-        <td valign="top">US01</td>
-        <td valign="top">Catálogo de asesores</td>
-    </tr>
-    <tr>
-        <td valign="top">US02</td>
-        <td valign="top">Información de un asesor</td>
-    </tr>
-    <tr>
-        <td valign="top">US03</td>
-        <td valign="top">Visualización de horarios de asesores</td>
-    </tr>
-    <tr>
-        <td valign="top">US04</td>
-        <td valign="top">Programación de citas con asesores</td>
-    </tr>
-    <tr>
-        <td valign="top">US05</td>
-        <td valign="top">Visualización de información del criador de cuyes</td>
-    </tr>
-    <tr>
-        <td valign="top">US06</td>
-        <td valign="top">Notificación de citas al asesor</td>
-    </tr>
-    <tr>
-        <td valign="top">US07</td>
-        <td valign="top">Notificación de citas al criador</td>
-    </tr>
-    <tr>
-        <td valign="top">US08</td>
-        <td valign="top">Calificación al asesor luego de una cita</td>
-    </tr>
-    <tr>
-        <td valign="top">US14</td>
-        <td valign="top">Separar fechas disponibles para asesoría</td>
-    </tr>
-    <tr>
-        <td rowspan="2" valign="top"><b>E02</b></td>
-        <td rowspan="2" valign="top">Publicaciones de los asesores</td>
-        <td valign="top">US09</td>
-        <td valign="top">Gestión de una publicación</td>
-    </tr>
-    <tr>
-        <td valign="top">US10</td>
-        <td valign="top">Visualización de publicaciones de asesores</td>
-    </tr>
-    <tr>
-        <td rowspan="4" valign="top"><b>E03</b></td>
-        <td rowspan="4" valign="top">Sistema integral de registro y seguimiento animal</td>
-        <td valign="top">US11</td>
-        <td valign="top">Gestión de jaulas de cuyes</td>
-    </tr>
-    <tr>
-        <td valign="top">US12</td>
-        <td valign="top">Registro de información de animales</td>
-    </tr>
-    <tr>
-        <td valign="top">US13</td>
-        <td valign="top">Visualización y edición de información de animales</td>
-    </tr> 
-    <tr>
-        <td rowspan="2" valign="top"><b>E04</b></td>
-        <td rowspan="2" valign="top">Gestión de granja</td>
-        <td valign="top">US15</td>
-        <td valign="top">Gestión de recursos de la granja</td>
-    </tr>
-    <tr>
-        <td valign="top">US16</td>
-        <td valign="top">Gestión de gastos realizados</td>
-    </tr>
-    <tr>
-        <td rowspan="2" valign="top"><b>E05</b></td>
-        <td rowspan="2" valign="top">Eficiencia y seguridad de aplicación</td>
-        <td valign="top">US17</td>
-        <td valign="top">Seguridad de información</td>
-    </tr>
-    <tr>
-        <td valign="top">US18</td>
-        <td valign="top">Disponibilidad y confiabilidad</td>
-    </tr>
-    <tr>
-        <td rowspan="3" valign="top"><b>E06</b></td>
-        <td rowspan="3" valign="top">Registro, acceso a la aplicación y datos personales</td>
-        <td valign="top">US19</td>
-        <td valign="top">Registro de un usuario nuevo</td>
-    </tr>
-    <tr>
-        <td valign="top">US20</td>
-        <td valign="top">Inicio de sesión</td>
-    </tr>
-    <tr>
-        <td valign="top">US21</td>
-        <td valign="top">Recuperación de contraseña</td>
-    </tr>
-    <tr>
-        <td rowspan="6" valign="top"><b>E07</b></td>
-        <td rowspan="6" valign="top">Visualización de una Landing Page estática</td>
-        <td valign="top">US22</td>
-        <td valign="top">Visualización de Navbar y Footer</td>
-    </tr>
-    <tr>
-        <td valign="top">US23</td>
-        <td valign="top">Visualización de la sección de inicio</td>
-    </tr>
-    <tr>
-        <td valign="top">US24</td>
-        <td valign="top">Visualización de la sección “Acerca De”</td>
-    </tr>
-    <tr>
-        <td valign="top">US25</td>
-        <td valign="top">Visualización de la sección “Sobre Nosotros”</td>
-    </tr>
-    <tr>
-        <td valign="top">US26</td>
-        <td valign="top">Visualización de la sección “Características”</td>
-    </tr>
-    <tr>
-        <td valign="top">US27</td>
-        <td valign="top">Visualización de la sección “Contacto”</td>
-    </tr>
-    <tr>
-      <td rowspan ="4" valign="top"><b>E08</b></td>
-      <td rowspan ="4" valign="top">Funcionalidades de servicios externos</td>
-      <td>US28</td>
-      <td>Uso de un API para iniciar sesión</td>
-    </tr>
-    <tr>
-      <td valign="top">US29</td>
-      <td valign="top">Uso de un API para videollamadas</td>
-    </tr>
-      <td valign="top">US30</td>
-      <td valign="top">Uso de un API para separar fechas</td>
-    </tr>
+<table><tr><th valign="top"><b>Epic ID</b></th><th valign="top"><b>Epic</b></th><th valign="top"><b>User story ID</b></th><th valign="top"><b>User stories</b></th></tr>
+<tr><td rowspan="9" valign="top"><b>E01</b></td><td rowspan="9" valign="top">Sistema de búsqueda y programación de citas con asesores y calificaciones</td><td valign="top">US01</td><td valign="top">Catálogo de asesores</td></tr>
+<tr><td valign="top">US02</td><td valign="top">Información de un asesor</td></tr>
+<tr><td valign="top">US03</td><td valign="top">Visualización de horarios de asesores</td></tr>
+<tr><td valign="top">US04</td><td valign="top">Programación de citas con asesores</td></tr>
+<tr><td valign="top">US05</td><td valign="top">Visualización de información del criador de cuyes</td></tr>
+<tr><td valign="top">US06</td><td valign="top">Notificación de citas al asesor</td></tr>
+<tr><td valign="top">US07</td><td valign="top">Notificación de citas al criador</td></tr>
+<tr><td valign="top">US08</td><td valign="top">Calificación al asesor luego de una cita</td></tr>
+<tr><td valign="top">US14</td><td valign="top">Separar fechas disponibles para asesoría</td></tr>
+<tr><td rowspan="2" valign="top"><b>E02</b></td><td rowspan="2" valign="top">Publicaciones en la aplicación</td><td valign="top">US09</td><td valign="top">Gestión de una publicación</td></tr>
+<tr><td valign="top">US10</td><td valign="top">Visualización de publicaciones de asesores</td></tr>
+<tr><td rowspan="3" valign="top"><b>E03</b></td><td rowspan="3" valign="top">Sistema integral de registro y seguimiento animal</td><td valign="top">US11</td><td valign="top">Gestión de jaulas de cuyes</td></tr>
+<tr><td valign="top">US12</td><td valign="top">Registro de información de animales</td></tr>
+<tr><td valign="top">US13</td><td valign="top">Visualización y edición de información de animales</td></tr>
+<tr><td rowspan="2" valign="top"><b>E04</b></td><td rowspan="2" valign="top">Gestión de granja</td><td valign="top">US15</td><td valign="top">Gestión de recursos de la granja</td></tr>
+<tr><td valign="top">US16</td><td valign="top">Gestión de gastos realizados</td></tr>
+<tr><td rowspan="2" valign="top"><b>E05</b></td><td rowspan="2" valign="top">Eficiencia y seguridad de aplicación</td><td valign="top">US17</td><td valign="top">Seguridad de información</td></tr>
+<tr><td valign="top">US18</td><td valign="top">Disponibilidad y confiabilidad</td></tr>
+<tr><td rowspan="3" valign="top"><b>E06</b></td><td rowspan="3" valign="top">Registro, acceso a la aplicación y datos personales</td><td valign="top">US19</td><td valign="top">Registro de un usuario nuevo</td></tr>
+<tr><td valign="top">US20</td><td valign="top">Inicio de sesión</td></tr>
+<tr><td valign="top">US21</td><td valign="top">Recuperación de contraseña</td></tr>
+<tr><td rowspan="6" valign="top"><b>E07</b></td><td rowspan="6" valign="top">Visualización de una Landing Page estática</td><td valign="top">US22</td><td valign="top">Visualización de Navbar y Footer</td></tr>
+<tr><td valign="top">US23</td><td valign="top">Visualización de sección de inicio</td></tr>
+<tr><td valign="top">US24</td><td valign="top">Visualización de sección“Acerca De”</td></tr>
+<tr><td valign="top">US25</td><td valign="top">Visualización de sección “Sobre Nosotros”</td></tr>
+<tr><td valign="top">US26</td><td valign="top">Visualización de sección “Características”</td></tr>
+<tr><td valign="top">US27</td><td valign="top">Visualización de sección “Contacto”</td></tr>
+<tr><td rowspan="3" valign="top"><b>E08</b></td><td rowspan="3" valign="top">Funcionalidades de servicios externos</td><td valign="top">US28</td><td valign="top">Uso de un API para iniciar sesión</td></tr>
+<tr><td valign="top">US29</td><td valign="top">Uso de un API para videollamadas</td></tr>
+<tr><td valign="top">US30</td><td valign="top">Uso de un API para separar fechas</td></tr>
 </table>
+
+
 
 |**Epic / Story ID**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
 | :- | :- | :- | :- | :- |
@@ -1320,7 +1211,7 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |US11|Gestión de jaulas de cuyes|**Como** criador de cuyes **quiero** poder registrar una jaula en la plataforma **para** poder gestionar la información de mis cuyes de manera organizada.|<p>**Escenario 1: Registro de una jaula**</p><p>**Given** que el criador desea registrar una jaula.</p><p>**And** se encuentra en el apartado "Registro".</p><p>**When** haga clic en el botón "Registrar Jaula".</p><p>**And** completa el formulario con la información requerida de la jaula como nombre, tamaño y observaciones.</p><p>**And** hace clic en el botón "Registrar Jaula".</p><p>**Then** el sistema le mostrará un mensaje del registro exitoso de la jaula.</p><p>**Escenario 2: Eliminar jaula**</p><p>**Given** que el criador desea eliminar una jaula.</p><p>**And** se encuentra en una jaula del apartado "Mis Animales".</p><p>**When** haga clic en el botón "Borrar".</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, la jaula se elimina junto a la información de los cuyes asignados a esa jaula.</p>|E03|
 |US12|Registro de información de un animal|**Como** criador de cuyes **quiero** contar con un sistema de registro de animales **para** almacenar información básica sobre cada animal, incluyendo su número de identificación, nombre, raza, género, peso y fecha de nacimiento.|<p>**Escenario 1: Registrar un nuevo animal**</p><p>**Given** el criador desea registrar un cuy en su jaula.</p><p>**And** se encuentra en el apartado de “Registro”.</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And** ingresa la información básica del animal, incluyendo su número de identificación, número de jaula dónde se va a encontrar, raza, género, peso y fecha de nacimiento,</p><p>**And** haga clic “Registrar”</p><p>**Then** el sistema le mostrará una confirmación del registro.</p><p>**Escenario 2: Fallar en el registro de animal**</p><p>**Given** el criador desea registrar un cuy en su jaula.</p><p>**And** se encuentra en el apartado de “Registro”.</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And** intenta ingresar la información del animal pero no completa todos los campos obligatorios para el registro.</p><p>**And** haga clic en “Registrar”.</p><p>**Then** el sistema le mostrará un mensaje de error.</p>|E03|
 |US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** acceder a la información de un animal **para** visualizar o actualizar su información registrada.|<p>**Escenario 1: Buscar y visualizar la información de un animal registrado**</p><p>**Given** el criador tiene varios cuyes registrados en la aplicación y desea editar la información de uno en específico.</p><p>**And** se encuentra en el apartado de “Mis Animales”</p><p>**When** haga clic en "Ver" de una jaula</p><p>**And** seleccione el card de un cuy específico.</p><p>**Then** el sistema le mostrará la información detallada del cuy.</p><p>**Escenario 2: Actualizar información de un animal registrado**</p><p></p><p>**Given** el criador tiene varios cuyes registrados en la aplicación y desea editar la información de uno en específico.</p><p>**And** se encuentra viendo la información detallada de un cuy. </p><p>**When** haga clic en el botón “Editar”.</p><p>**And** realiza cambios en la información del cuy.</p><p>**Then** el sistema actualizará la información detallada del cuy</p>|E03|
-|US14|Separar fechas disponibles para asesoría|**Como** asesor **quiero** poder seleccionar y separar las fechas y horas en las que estoy disponible para ofrecer asesorías **para** que los usuarios interesados puedan ver mis horarios disponibles y agendar una cita en un momento conveniente.|<p>**Escenario 1: Registrar disponibilidad para asesorías**</p><p>**Given** el asesor desea registrar sus fechas y horas disponibles para asesorías.</p><p>**And** está visualizando la página de "Horario disponible</p><p>**When** haga clic en el botón “Agregar”</p><p>**And** complete los datos del nuevo horario disponible que tiene el asesor</p><p>**Then** el sistema actualizará y guardará las fechas y horas seleccionadas como disponibles.</p><p></p><p>**Escenario 2: Cancelar intención de modificar disponibilidad**</p><p>**Given** el asesor se ha equivocado al seleccionar una fecha o intervalo de tiempo para modificar.</p><p>**And** se encuentra visualizando los cambios antes de guardar.</p><p>**When** haga clic en el botón “Cancelar”</p><p>**Then** el sistema lo redireccionará a la vista original de sus fechas y horas disponibles sin aplicar los cambios.</p><p></p>|E01|
+|US14|Separar fechas disponibles para asesoría|**Como** asesor **quiero** poder seleccionar y separar las fechas y horas en las que estoy disponible para ofrecer asesorías **para** que los usuarios interesados puedan ver mis horarios disponibles y agendar una cita en un momento conveniente.|<p>**Escenario 1: Registrar disponibilidad para asesorías**</p><p>**Given** el asesor desea registrar sus fechas y horas disponibles para asesorías.</p><p>**And** está visualizando la página de "Horario disponible"</p><p>**When** haga clic en el botón “Agregar”</p><p>**And** complete los datos del nuevo horario disponible que tiene el asesor</p><p>**Then** el sistema actualizará y guardará las fechas y horas seleccionadas como disponibles.</p><p></p><p>**Escenario 2: Cancelar intención de modificar disponibilidad**</p><p>**Given** el asesor se ha equivocado al seleccionar una fecha o intervalo de tiempo para modificar.</p><p>**And** se encuentra visualizando los cambios antes de guardar.</p><p>**When** haga clic en el botón “Cancelar”</p><p>**Then** el sistema lo redireccionará a la vista original de sus fechas y horas disponibles sin aplicar los cambios.</p><p></p>|E01|
 |US15|Gestión de recursos de la granja|**Como** criador de cuyes **quiero** registrar los recursos de mi granja **para** tener un control sobre los recursos esenciales como alimentos y medicamentos.|<p>**Registrar de nuevo ingreso de recursos en el inventario**</p><p>**Given** eel criador ha recibido el pedido de recursos por parte del proveedor y desea registrar esto en su inventario.</p><p>**And** se encuentra en el apartado de “Registro” de la Sidebar.</p><p>**When** haga clic en el botón “Nuevo Recurso”</p><p>**And** ingresa los detalles de nombre y tipo de recurso, fecha, cantidad y observación.</p><p>**Then** el sistema mostrará una confirmación.</p><p></p><p>**Escenario 2: Ver recursos**</p><p>**Given** el criador desea ver los recursos que posee.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de Recursos”.</p><p>**Then** el sistema le permitirá visualizar sus recursos que incluyen datos como el nombre del recurso, el tipo de recurso (alimento, medicina, cultivo u otro) y la fecha en el que fue registrado este recurso.</p>|E04|
 |US16|Gestión de gastos realizados|**Como** criador de cuyes **quiero** registrar gastos relacionados con mi negocio **para** tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad.|<p>**Escenario 1: Registrar gasto**</p><p>**Given** el criador desea registrar los gastos que ha realizado.</p><p>**And** se encuentra en el apartado de “Registro” de la Sidebar.</p><p>**When** haga clic en el botón “gastos”</p><p>**And** ingrese datos como el precio, tipo de gasto, fecha y demás campos.</p><p>**Then** el sistema registrará correctamente los detalles del gasto.</p><p></p><p>**Escenario 2: Ver gasto registrado**</p><p>**Given** el criador desea ver un gasto ya registrado.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de gastos”.</p><p>**Then** el sistema le permitirá visualizar sus gastos.</p><p>**Escenario 3: Ver gasto registrado**</p><p>**Given** el creador desea ver un recurso de un tipo en específico.</p><p>**And** se encuentra en la sección de “Gestión de Gastos”del apartado de “Mi Granja”</p>p>**When**seleccione el tipo de gasto que desea filtrar (todos, salud, alimento, Mantenimiento de criadero)</p><p>**And**And haga clic en el botón “Filtrar”</p><p>**Then** el sistema le mostrará una lista de todos los recursos que pertenezcan a ese tipo.|E04|
 |US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|<p>**Escenario 1: Seguridad en la conexión web**</p><p>**Given** el usuario desea que la aplicación sea segura para su uso personal.</p><p>**When** ingrese a la aplicación para hacer uso de ella.</p><p>**Then** la aplicación usará conexión segura https para enviar datos.</p>|E05|
