@@ -2548,78 +2548,78 @@ En esta sección, se mostrará lo avanzado en el primer sprint, el cual se basa 
 **URL de video:**
 [Execution Evidence](https://youtu.be/Yi3p53UjKF0)
 
-<img src="img/evidence_landing_page_1.jpg" width="100%"> 
+<img src="img/evidence_landing_page_1.png" width="100%"> 
 
 _Imagen 119. evidencia landing page 1_
 
 
 Navbar: fue implementada para que sea responsive y las secciones pasen a un menú lateral en caso de ser necesario.
 
-<img src="img/evidence_landing_page_2.jpg" width="100%"> 
+<img src="img/evidence_landing_page_2.png" width="100%"> 
 
 _Imagen 120. navbar 1_
 
-<img src="img/evidence_landing_page_3.jpg" width="100%"> 
+<img src="img/evidence_landing_page_3.png" width="100%"> 
 
 _Imagen 121. navbar 2_
 
 Footer: al igual que el navbar, se implementó para acomodarse acorde al tamaño de la ventana.
 
-<img src="img/evidence_landing_page_4.jpg" width="100%"> 
+<img src="img/evidence_landing_page_4.png" width="100%"> 
 
 _Imagen 122. footer 1_
 
-<img src="img/evidence_landing_page_5.jpg" width="100%"> 
+<img src="img/evidence_landing_page_5.png" width="100%"> 
 
 _Imagen 123. footer 2_
 
 Página de inicio:
 
-<img src="img/evidence_landing_page_6.jpg" width="100%"> 
+<img src="img/evidence_landing_page_6.png" width="100%"> 
 
 _Imagen 124. pagina de inicio 1_
 
-<img src="img/evidence_landing_page_7.jpg" width="100%"> 
+<img src="img/evidence_landing_page_7.png" width="100%"> 
 
 _Imagen 125. pagina de inicio 2_
 
 Sección “Acerca De”:
 
-<img src="img/evidence_landing_page_8.jpg" width="100%"> 
+<img src="img/evidence_landing_page_8.png" width="100%"> 
 
 _Imagen 126. seccion "Acerca de" 1_
 
-<img src="img/evidence_landing_page_9.jpg" width="100%"> 
+<img src="img/evidence_landing_page_9.png" width="100%"> 
 
 _Imagen 127. seccion "Acerca de" 2_
 
 Sección “Sobre Nosotros”:
 
-<img src="img/evidence_landing_page_10.jpg" width="100%"> 
+<img src="img/evidence_landing_page_10.png" width="100%"> 
 
 _Imagen 128. seccion "Sobre Nosotros" 1_
 
-<img src="img/evidence_landing_page_11.jpg" width="100%">
+<img src="img/evidence_landing_page_11.png" width="100%">
 
 _Imagen 129. seccion "Sobre Nosotros" 2_
 
 Sección “Características”: 
 
-<img src="img/evidence_landing_page_12.jpg" width="100%"> 
+<img src="img/evidence_landing_page_12.png" width="100%"> 
 
 _Imagen 130. seccion "Caracteristicas" 1_
 
-<img src="img/evidence_landing_page_13.jpg" width="100%"> 
+<img src="img/evidence_landing_page_13.png" width="100%"> 
 
 _Imagen 131. seccion "Caracteristicas" 2_
 
 Sección “Contacto”:
 
-<img src="img/evidence_landing_page_14.jpg" width="100%"> 
+<img src="img/evidence_landing_page_14.png" width="100%"> 
 
 _Imagen 132. seccion "Contacto" 1_
 
-<img src="img/evidence_landing_page_15.jpg" width="100%"> 
+<img src="img/evidence_landing_page_15.png" width="100%"> 
 
 _Imagen 133. seccion "Contacto" 2_
 
