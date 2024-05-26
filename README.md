@@ -1205,7 +1205,7 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 <tr><td valign="top">US21</td><td valign="top">Recuperación de contraseña</td></tr>
 <tr><td rowspan="6" valign="top"><b>E07</b></td><td rowspan="6" valign="top">Visualización de una Landing Page estática</td><td valign="top">US22</td><td valign="top">Visualización de Navbar y Footer</td></tr>
 <tr><td valign="top">US23</td><td valign="top">Visualización de sección de inicio</td></tr>
-<tr><td valign="top">US24</td><td valign="top">Visualización de sección“Acerca De”</td></tr>
+<tr><td valign="top">US24</td><td valign="top">Visualización de sección “Acerca De”</td></tr>
 <tr><td valign="top">US25</td><td valign="top">Visualización de sección “Sobre Nosotros”</td></tr>
 <tr><td valign="top">US26</td><td valign="top">Visualización de sección “Características”</td></tr>
 <tr><td valign="top">US27</td><td valign="top">Visualización de sección “Contacto”</td></tr>
@@ -1274,10 +1274,10 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 | :- | :- | :- | :- | :- |
 |1|US22|Visualización de Navbar y Footer|**Como** potencial usuario **quiero** navegar con facilidad **para** movilizarme a través de la página y conocer sobre la aplicación.|2|
 |2|US23|Visualización de sección de inicio|**Como** potencial usuario **quiero** acceder a una página de inicio **para** conocer la idea principal de la aplicación y ver un diseño agradable.|1|
-|3|US24|Visualización de sección de inicio “Acerca De”|**Como** potencial usuario **quiero** acceder a una página sobre el problema que resuelve **para** conocer el propósito de la aplicación.|2|
-|4|US25|Visualización de sección de inicio “Sobre Nosotros”|**Como** potencial usuario **quiere** acceder a una página sobre la startup **para** conocer el propósito de la empresa detrás de la aplicación.|2|
-|5|US26|Visualización de sección de inicio “Características”|**Como** potencial usuario **quiero** acceder a una página sobre las características **para** conocer las principales funcionalidades de la aplicación.|2|
-|6|US27|Visualización de sección de inicio “Contacto”|**Como** potencial usuario **quiero** acceder a una página de contacto **para** poder contactar con la empresa en caso tenga algún problema, duda o sugerencia.|2|
+|3|US24|Visualización de sección “Acerca De”|**Como** potencial usuario **quiero** acceder a una página sobre el problema que resuelve **para** conocer el propósito de la aplicación.|2|
+|4|US25|Visualización de sección “Sobre Nosotros”|**Como** potencial usuario **quiere** acceder a una página sobre la startup **para** conocer el propósito de la empresa detrás de la aplicación.|2|
+|5|US26|Visualización de sección “Características”|**Como** potencial usuario **quiero** acceder a una página sobre las características **para** conocer las principales funcionalidades de la aplicación.|2|
+|6|US27|Visualización de sección “Contacto”|**Como** potencial usuario **quiero** acceder a una página de contacto **para** poder contactar con la empresa en caso tenga algún problema, duda o sugerencia.|2|
 |7|US01|Visualización del catálogo de asesores|**Como** criador de cuyes **quiero** explorar el catálogo de asesores **para** conocer quiénes me pueden apoyar con asesorías.|5|
 |8|US02|Visualización de información de un asesor|**Como** criador de cuyes **quiero** tener acceso a la información de un asesor **para** tomar una decisión informada antes de separar una cita.|3|
 |9|US03|Visualización de horarios de asesores|**Como** criador de cuyes **quiero** ver los horarios disponibles de los asesores **para** seleccionar un horario que se ajuste a mi agenda.|3|
@@ -1287,13 +1287,13 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |13|US07|Notificación de citas al criador de cuyes|**Como** criador de cuyes **quiero** recibir notificaciones referentes al estado de mis citas **para** mantenerme al tanto de mi solicitud.|3|
 |14|US08|Calificación al asesor luego de una asesoría|**Como** criador de cuyes **quiero** calificar al asesor luego de consulta **para** ayudar a otros criadores a tomar una decisión informada antes de separar una cita.|5|
 |15|US09|Gestión de una publicación|**Como** asesor **quiero** hacer publicaciones **para** tener una mayor visibilidad.|5|
-|16|US10|Visualización de publicaciones de los asesores|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|5|
+|16|US10|Visualización de publicaciones de los asesores|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|3|
 |17|US11|Gestión de jaulas de cuyes|**Como** criador de cuyes **quiero** poder registrar una jaula en la plataforma **para** poder gestionar la información de mis cuyes de manera organizada.|3|
 |18|US12|Registro de información de un animal|**Como** criador de cuyes **quiero** contar con un sistema de registro de animales **para** almacenar información básica sobre cada animal, incluyendo su número de identificación, nombre, raza, género, peso y fecha de nacimiento.|3|
-|19|US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** acceder a la información de un animal **para** visualizar o actualizar su información registrada.|8|
+|19|US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** acceder a la información de un animal **para** visualizar o actualizar su información registrada.|5|
 |20|US14|Separar fechas disponibles para asesoría|**Como** asesor **quiero** poder seleccionar y separar las fechas y horas en las que estoy disponible para ofrecer asesorías **para** que los usuarios interesados puedan ver mis horarios disponibles y agendar una cita en un momento conveniente.|3|
-|21|US15|Gestión de recursos de la granja|**Como** criador de cuyes **quiero** gestionar los recursos de mi granja **para** tener un control sobre los recursos esenciales como alimentos y medicamentos.|8|
-|22|US16|Gestión de gastos realizados|**Como** criador de cuyes **quiero** gestionar los gastos relacionados con mi negocio **para** tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad.|8|
+|21|US15|Gestión de recursos de la granja|**Como** criador de cuyes **quiero** gestionar los recursos de mi granja **para** tener un control sobre los recursos esenciales como alimentos y medicamentos.|5|
+|22|US16|Gestión de gastos realizados|**Como** criador de cuyes **quiero** gestionar los gastos relacionados con mi negocio **para** tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad.|5|
 |23|US28|Uso de un API para iniciar sesión|**Como** desarrollador **quiero** integrar el inicio de sesión utilizando la API de Google **para** facilitar el acceso a la aplicación.|3|
 |24|US29|Uso de un API para videollamadas|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación.|5|
 |25|US30|Uso de un API para separar fechas|**Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus calendarios personales.|5|
@@ -2510,16 +2510,44 @@ El objetivo de este primer sprint es la implementación del Landing Page estáti
 
 _Imagen 118. Sprint Backlog 1 en Trello_
 
-<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
-<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
-<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
-<tr><td rowspan="2" valign="top">US22</td><td rowspan="2" valign="top">Visualización de Navbar y Footer</td><td valign="top">TS01</td><td valign="top">Implementación de Navbar</td><td valign="top">Se implementa el navbar de forma responsive.</td><td valign="top">3</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
-<tr><td valign="top">TS02</td><td valign="top">Implementación de Footer</td><td valign="top">Se implementa el footer de forma responsive.</td><td valign="top">1</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
-<tr><td valign="top">US23</td><td valign="top">Página de inicio</td><td valign="top">TS03</td><td valign="top">Implementación de página de inicio</td><td valign="top">Se implementa la página de inicio de forma responsive y con su archivo css correspondiente.</td><td valign="top">1</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
-<tr><td valign="top">US24</td><td valign="top">Sección “Acerca De”</td><td valign="top">TS04</td><td valign="top">Implementación de sección Acerca De</td><td valign="top">Se implementa la página Acerca De, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td></tr>
-<tr><td valign="top">US25</td><td valign="top">Sección “Sobre Nosotros”</td><td valign="top">TS05</td><td valign="top">Implementación de sección Sobre Nosotros</td><td valign="top">Se implementa la página Sobre Nosotros, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
-<tr><td valign="top">US26</td><td valign="top">Sección “Características”</td><td valign="top">TS06</td><td valign="top">Implementación de sección Características</td><td valign="top">Se implementa la página Características, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Andre Valverde</td><td valign="top">Done</td></tr>
-<tr><td valign="top">US27</td><td valign="top">Sección “Contacto”</td><td valign="top">TS07</td><td valign="top">Implementación de sección Contacto</td><td valign="top">Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
+<table>
+  <tr>
+  <th valign="top">Sprint #</th>
+  <th colspan="7" valign="top">Sprint 1</th>
+</tr>
+<tr>
+  <td colspan="2" valign="top">User Story</td>
+  <td colspan="6" valign="top">Work-Item / Task</td>
+</tr>
+<tr>
+  <td valign="top">Id</td>
+  <td valign="top">Title</td>
+  <td valign="top">Id</td><td valign="top">Title</td>
+  <td valign="top">Description</td>
+  <td valign="top">Estimation</td><td valign="top">Assigned To</td>
+  <td valign="top">Status (To-Do / In-Process / Review / Done)</td>
+</tr>
+<tr>
+  <td rowspan="2" valign="top">US22</td>
+  <td rowspan="2" valign="top">Visualización de Navbar y Footer</td>
+  <td valign="top">TS01</td>
+  <td valign="top">Implementación de Navbar</td>
+  <td valign="top">Se implementa el navbar de forma responsive.</td>
+  <td rowspan="2" valign="top">2</td>
+  <td valign="top">Nadia Lucas</td><td valign="top">Done</td>
+</tr>
+<tr>
+  <td valign="top">TS02</td>
+  <td valign="top">Implementación de Footer</td>
+  <td valign="top">Se implementa el footer de forma responsive.</td>
+  <td valign="top">Nadia Lucas</td>
+  <td valign="top">Done</td>
+</tr>
+<tr><td valign="top">US23</td><td valign="top">Visualización de sección de inicio</td><td valign="top">TS03</td><td valign="top">Implementación de página de inicio</td><td valign="top">Se implementa la página de inicio de forma responsive y con su archivo css correspondiente.</td><td valign="top">1</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US24</td><td valign="top">Visualización de sección “Acerca De”</td><td valign="top">TS04</td><td valign="top">Implementación de sección Acerca De</td><td valign="top">Se implementa la página Acerca De, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US25</td><td valign="top">Visualización de sección “Sobre Nosotros”</td><td valign="top">TS05</td><td valign="top">Implementación de sección Sobre Nosotros</td><td valign="top">Se implementa la página Sobre Nosotros, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US26</td><td valign="top">Visualización de sección “Características”</td><td valign="top">TS06</td><td valign="top">Implementación de sección Características</td><td valign="top">Se implementa la página Características, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Andre Valverde</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US27</td><td valign="top">Visualización de sección “Contacto”</td><td valign="top">TS07</td><td valign="top">Implementación de sección Contacto</td><td valign="top">Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
@@ -2735,46 +2763,46 @@ _Imagen 140. Sprint Backlog 2_
 <table>
     <tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
     <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
-    <tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+    <tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation</td><td valign="top">Assigned To</td><td valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
     <tr>
-      <td valign="top">US01</td><td valign="top">Catálogo de asesores</td><td valign="top">TS01</td><td valign="top">Implementación de búsqueda de asesores</td><td valign="top">Se implementa el componente para la búsqueda de asesores para los criadores.</td><td valign="top">3</td>
+      <td valign="top">US01</td><td valign="top">Visualización de catálogo de asesores</td><td valign="top">TS01</td><td valign="top">Implementación de búsqueda de asesores</td><td valign="top">Se implementa el componente para la búsqueda de asesores para los criadores.</td><td valign="top">5</td>
       <td valign="top">Andre Valverde</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US02</td><td valign="top">Información de un asesor</td><td valign="top">TS02</td><td valign="top">Implementación de vista de información de un asesor</td><td valign="top">Se implementa el componente con la vista de información de un asesor.</td><td valign="top">2</td><td valign="top">Andre Valverde</td>
+      <td valign="top">US02</td><td valign="top">Visualización de información de un asesor</td><td valign="top">TS02</td><td valign="top">Implementación de vista de información de un asesor</td><td valign="top">Se implementa el componente con la vista de información de un asesor.</td><td valign="top">3</td><td valign="top">Andre Valverde</td>
       <td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US03</td><td valign="top">Visualización de horarios de asesores</td><td valign="top">TS03</td><td valign="top">Implementación de vista de horarios</td><td valign="top">Se implementa el componente con la vista de los horarios disponibles del asesor.</td><td valign="top">2</td>
+      <td valign="top">US03</td><td valign="top">Visualización de horarios de asesores</td><td valign="top">TS03</td><td valign="top">Implementación de vista de horarios</td><td valign="top">Se implementa el componente con la vista de los horarios disponibles del asesor.</td><td valign="top">3</td>
       <td valign="top">Andre Valverde</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US04</td><td valign="top">Programación de citas con asesores</td><td valign="top">TS04</td><td valign="top">Implementación de vista para programar cita</td><td valign="top">Se implementa la vista para programar una cita con un asesor.</td><td valign="top">6</td>
+      <td valign="top">US04</td><td valign="top">Programación de citas con asesores</td><td valign="top">TS04</td><td valign="top">Implementación de vista para programar cita</td><td valign="top">Se implementa la vista para programar una cita con un asesor.</td><td valign="top">8</td>
       <td valign="top">Andre Valverde</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US05</td><td valign="top">Visualización de información del criador de cuyes</td><td valign="top">TS05</td><td valign="top">Implementación de detalles de cita</td><td valign="top">Se implementa la página para visualizar los datos del criador previa a la cita.</td><td valign="top">2</td>
+      <td valign="top">US05</td><td valign="top">Visualización de información del criador de cuyes</td><td valign="top">TS05</td><td valign="top">Implementación de detalles de cita</td><td valign="top">Se implementa la página para visualizar los datos del criador previa a la cita.</td><td valign="top">5</td>
       <td valign="top">Salvador Salinas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2">US06</td><td valign="top" rowspan="2">Notificación de citas al asesor</td><td valign="top">TS06</td><td valign="top">Implementación de visualización de notificaciones al asesor</td><td valign="top">Se implementa el componente que muestra la vista de notificaciones para los asesores.</td><td valign="top">2</td>
+      <td valign="top" rowspan="2">US06</td><td valign="top" rowspan="2">Notificación de citas al asesor</td><td valign="top">TS06</td><td valign="top">Implementación de visualización de notificaciones al asesor</td><td valign="top">Se implementa el componente que muestra la vista de notificaciones para los asesores.</td><td valign="top" rowspan="2">3</td>
       <td valign="top">Salvador Salinas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">TS07</td><td valign="top">Implementación de eliminación de notificaciones al asesor</td><td valign="top">Se implementa la función que permite eliminar una notificación.</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td>
+      <td valign="top">TS07</td><td valign="top">Implementación de eliminación de notificaciones al asesor</td><td valign="top">Se implementa la función que permite eliminar una notificación.</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3">US07</td><td valign="top" rowspan="3">Notificación de citas al criador</td><td valign="top">TS08</td><td valign="top">Implementación de visualización de notificaciones al criador</td><td valign="top">Se implementa el componente que muestra la vista de notificaciones para los criadores.</td><td valign="top">2</td>
+      <td valign="top" rowspan="3">US07</td><td valign="top" rowspan="3">Notificación de citas al criador</td><td valign="top">TS08</td><td valign="top">Implementación de visualización de notificaciones al criador</td><td valign="top">Se implementa el componente que muestra la vista de notificaciones para los criadores.</td><td valign="top" rowspan="3">3</td>
       <td valign="top">Nadia Lucas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">TS09</td><td valign="top">Implementación de eliminación de notificaciones al criador</td><td valign="top">Se implementa la función que permite eliminar una notificación.</td><td valign="top">2</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td>
+      <td valign="top">TS09</td><td valign="top">Implementación de eliminación de notificaciones al criador</td><td valign="top">Se implementa la función que permite eliminar una notificación.</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">TS10</td><td valign="top">Implementación de Pantalla de Resultados Vacíos</td><td valign="top">Se implementa un componente que recibe un mensaje como parámetro y permite mostrar una vista cuando no se encuentren datos disponibles.</td><td valign="top">2</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td>
+      <td valign="top">TS10</td><td valign="top">Implementación de Pantalla de Resultados Vacíos</td><td valign="top">Se implementa un componente que recibe un mensaje como parámetro y permite mostrar una vista cuando no se encuentren datos disponibles.</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US08</td><td valign="top">Calificación al asesor luego de una cita</td><td valign="top">TS11</td><td valign="top">Implementación de registro de calificación del asesor</td><td valign="top">Se implementa la funcionalidad en el componente para registrar la calificación del asesor brindada por el criador.</td><td valign="top">1</td>
+      <td valign="top">US08</td><td valign="top">Calificación al asesor luego de una cita</td><td valign="top">TS11</td><td valign="top">Implementación de registro de calificación del asesor</td><td valign="top">Se implementa la funcionalidad en el componente para registrar la calificación del asesor brindada por el criador.</td><td valign="top">5</td>
       <td valign="top">Andre Valverde</td><td valign="top">Done</td>
     </tr>
     <tr>
@@ -2783,7 +2811,7 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS12</td>
       <td valign="top">Implementación de creación de publicaciones</td>
       <td valign="top">Se implementa el componente para crear nuevas publicaciones</td>
-      <td valign="top">2</td>
+      <td valign="top" rowspan="2">2</td>
       <td valign="top">Salvador Salinas</td>
       <td valign="top">Done</td>
     </tr>
@@ -2791,25 +2819,24 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS13</td>
       <td valign="top">Implementación de eliminación de publicaciones</td>
       <td valign="top">Se implementa la función dentro del componente de publicaciones para eliminar una publicación</td>
-      <td valign="top">2</td>
       <td valign="top">Salvador Salinas</td>
       <td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US10</td><td valign="top">Visualización de publicaciones de asesores</td><td valign="top">TS14</td><td valign="top">Implementación de visualización de publicaciones</td><td valign="top">Se implementa el componente para visualizar publicaciones de asesores para el criador.</td><td valign="top">1</td>
+      <td valign="top">US10</td><td valign="top">Visualización de publicaciones de asesores</td><td valign="top">TS14</td><td valign="top">Implementación de visualización de publicaciones</td><td valign="top">Se implementa el componente para visualizar publicaciones de asesores para el criador.</td><td valign="top">3</td>
       <td valign="top">Salvador Salinas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3">US11</td><td valign="top" rowspan="3">Gestión de jaulas de cuyes</td><td valign="top">TS15</td><td valign="top">Implementación de registro de una jaula</td><td valign="top">Se implementa el componente para registrar una nueva jaula de cuyes.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
+      <td valign="top" rowspan="3">US11</td><td valign="top" rowspan="3">Gestión de jaulas de cuyes</td><td valign="top">TS15</td><td valign="top">Implementación de registro de una jaula</td><td valign="top">Se implementa el componente para registrar una nueva jaula de cuyes.</td><td valign="top" rowspan="3">3</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
     </tr>
     <tr>
-        <td valign="top">TS16</td><td valign="top">Implementación de edición de una jaula</td><td valign="top">Se implementa la función que permite editar la información de una jaula.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
+        <td valign="top">TS16</td><td valign="top">Implementación de edición de una jaula</td><td valign="top">Se implementa la función que permite editar la información de una jaula.</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
     </tr>
     <tr>
-        <td valign="top">TS17</td><td valign="top">Implementación de eliminación de una jaula</td><td valign="top">Se implementa la función que permite eliminar una jaula junto a la información de los cuyes que habitan en ella.</td><td valign="top">1</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
+        <td valign="top">TS17</td><td valign="top">Implementación de eliminación de una jaula</td><td valign="top">Se implementa la función que permite eliminar una jaula junto a la información de los cuyes que habitan en ella.</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US12</td><td valign="top">Registro de información de animales</td><td valign="top">TS18</td><td valign="top">Implementación de registro de un cuy</td><td valign="top">Se implementa el componente para registrar un cuy en una jaula existente.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
+      <td valign="top">US12</td><td valign="top">Registro de información de animales</td><td valign="top">TS18</td><td valign="top">Implementación de registro de un cuy</td><td valign="top">Se implementa el componente para registrar un cuy en una jaula existente.</td><td valign="top">3</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
     </tr>
     <tr>
       <td rowspan="2" valign="top">US13</td>
@@ -2817,18 +2844,10 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS19</td>
       <td valign="top">Implementación de vista de información de animales</td>
       <td valign="top">Se implementa el componente para visualizar las jaulas y el componente para visualizar la información de los cuyes.</td>
-      <td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
+      <td valign="top" rowspan="2">5</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">TS20</td><td valign="top">Implementación de edición de información de animales</td><td valign="top">Se implementa la edición dentro de la componente de jaula, así como la edición para la componente de información de un cuy.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
-    </tr>
-    <tr>
-      <td valign="top">US14</td>
-      <td valign="top">Registro de fallecimiento de un cuy</td>
-      <td valign="top">TS21</td><td valign="top">Implementación de cambio de estado de un cuy</td>
-      <td valign="top">Se implementa la función para cambiar el estado a fallecido dentro de la componente de información de cuy.</td>
-      <td valign="top">1</td><td valign="top">Piero Delgado</td>
-      <td valign="top">Done</td>
+      <td valign="top">TS20</td><td valign="top">Implementación de edición de información de animales</td><td valign="top">Se implementa la edición dentro de la componente de jaula, así como la edición para la componente de información de un cuy.</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
     </tr>
     <tr>
       <td rowspan="2" valign="top">US15</td>
@@ -2836,13 +2855,13 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS22</td>
       <td valign="top">Implementación de registro de recurso</td>
       <td valign="top">Se implementa el componente para registrar un recurso para el criador.</td>
-      <td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
+      <td valign="top" rowspan="2">5</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
     </tr>
     <tr>
       <td valign="top">TS23</td>
       <td valign="top">Implementación de vista de recursos</td>
       <td valign="top">Se implementa el componente para la vista de los recursos del criador</td>
-      <td valign="top">2</td><td valign="top">Nadia Lucas</td>
+      <td valign="top">Nadia Lucas</td>
       <td valign="top">Done</td>
     </tr>
     <tr>
@@ -2851,7 +2870,7 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS24</td>
       <td valign="top">Implementación de registro de gasto</td>
       <td valign="top">Se implementa el componente para registrar un gasto para el criador.</td>
-      <td valign="top">1</td>
+      <td valign="top" rowspan="2">5</td>
       <td valign="top">Sebastián Paredes</td>
       <td valign="top">Done</td>
     </tr>
@@ -2859,7 +2878,7 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS25</td>
       <td valign="top">Implementación de vista de gastos</td>
       <td valign="top">Se implementa el componente para la vista de los recursos del criador.</td>
-      <td valign="top">1</td><td valign="top">Nadia Lucas</td>
+      <td valign="top">Nadia Lucas</td>
       <td valign="top">Done</td>
     </tr>
     <tr>
