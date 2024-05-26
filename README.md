@@ -85,8 +85,28 @@ Mayo 2024
         </ul>
       </td>
       <td>
-        Correcciones levantadas.
-        Avance del punto 5.2.2. Sprint 2.
+        <li>Correcciones levantadas.</li>
+        <li>Avance del punto 5.2.2. Sprint 2.</li>
+      </td>
+  </tr>
+    <td><strong>TB2</strong></td>
+      <td>Sabado 8 de Mayo</td>
+      <td>
+        <ul>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Lucas Coronel, Nadia Alessandra</li>
+          <li>Paredes Puente, Sebastián Roberto</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+          <li>Valverde Mozo, Andre Gabriel</li>
+        </ul>
+      </td>
+      <td>
+        <li>Correcciones levantadas.</li>
+        <li>Desarrollo del Sprint 3.</li>
+        <li>Creación del Video About-The-Product.</li>
+        <li>Implementación de entrevistas de validación</li>
+        <li>Desarrollo de evaluación por heurísticas</li>
+        <li>Avance de Conclusiones y Anexos</li>
       </td>
   </tr>
   </tbody>
