@@ -1210,9 +1210,13 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 <tr><td valign="top">US25</td><td valign="top">Visualización de sección “Sobre Nosotros”</td></tr>
 <tr><td valign="top">US26</td><td valign="top">Visualización de sección “Características”</td></tr>
 <tr><td valign="top">US27</td><td valign="top">Visualización de sección “Contacto”</td></tr>
-<tr><td rowspan="3" valign="top"><b>E08</b></td><td rowspan="3" valign="top">Funcionalidades de servicios externos</td><td valign="top">US28</td><td valign="top">Uso de un API para iniciar sesión</td></tr>
+<tr><td rowspan="7" valign="top"><b>E08</b></td><td rowspan="7" valign="top">Funcionalidades con APIs</td><td valign="top">US28</td><td valign="top">Uso de un API para iniciar sesión</td></tr>
 <tr><td valign="top">US29</td><td valign="top">Uso de un API para videollamadas</td></tr>
 <tr><td valign="top">US30</td><td valign="top">Uso de un API para separar fechas</td></tr>
+<tr><td valign="top">US32</td><td valign="top">Uso de nuestra API para gestionar usuarios</td></tr>
+<tr><td valign="top">US33</td><td valign="top">Uso de nuestra API para gestionar publicaciones</td></tr>
+<tr><td valign="top">US34</td><td valign="top">Uso de nuestra API para manejar recursos y gastos</td></tr>
+<tr><td valign="top">US35</td><td valign="top">Uso de nuestra API para manejar la reserva de citas entre asesores y criadores</td></tr>
 </table>
 
 
@@ -1250,7 +1254,10 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |US29|Uso de un API para videollamadas| **Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación | <p>**Escenario 1: Creación de videollamada**</p><p>**Given** el usuario tiene una asesoría pendiente</p><p>**When**seleccione la opción de ingresar a la asesoría</p><p>**Then** el sistema genera el enlace a una videollamada de Google Meet para que el usuario acceda a su asesoría</p> | E08 |
 |US30|Uso de un API para separar fechas| **Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus calendarios personales | <p>**Escenario 1: Sincronización de citas**</p><p>**Given** el usuario ha separado una asesoría</p><p>**When**seleccione la opción de sincronizar citas</p><p>**Then** el sistema utiliza la API del calendario de Google para agregar la cita</p> | E08 |
 |US31|Visualización de calendario| **Como** usuario **quiero** visualizar un calendario **para** ver de forma agradable y ordenada las asesorías programadas que tengo | <p>**Escenario 1: Visualizar Calendario como criador**</p><p>**Given** el criador ha separado una o más asesorías</p><p>**When** ingrese a la sección Calendario del Sidebar</p><p>**Then** se mostrará un calendario que muestra las citas programadas con los asesores en las fechas correspondientes</p><p>**Escenario 2: Visualizar Calendario como asesor**</p><p>**Given** el asesor tiene programada una o más asesorías</p><p>**When** ingrese a la sección Calendario del Sidebar</p><p>**Then** se mostrará un calendario que muestra las citas programadas con los criadores en las fechas correspondientes</p> | E01 |
-
+|US32|Uso de nuestra API para gestionar usuarios| **Como** desarrollador **quiero** integrar un API **para** gestionar la información de los usuarios en la base de datos | <p>**Escenario 1: Escenario**</p><p>**Given** el usuario ha</p> | E08 |
+|US33|Uso de nuestra API para gestionar publicaciones| **Como** desarrollador **quiero** integrar un API **para** gestionar la información de las publicaciones de asesores en la base de datos | <p>**Escenario 1: Escenario**</p><p>**Given** el usuario ha</p> | E08 |
+|US34|Uso de nuestra API para manejar recursos y gastos| **Como** desarrollador **quiero** integrar un API **para** gestionar la información de los recursos y gastos de criadores en la base de datos | <p>**Escenario 1: Escenario**</p><p>**Given** el usuario ha</p> | E08 |
+|US35|Uso de nuestra API para manejar la reserva de citas entre asesores y criadores| **Como** desarrollador **quiero** integrar un API **para** gestionar la información de las citas entre asesores y criadores en la base de datos | <p>**Escenario 1: Escenario**</p><p>**Given** el usuario ha</p> | E08 |
 ## 3.3. Impact Mapping
 **Segmento: Asesor**
 
@@ -1300,11 +1307,15 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |24|US20|Inicio de sesión|**Como** usuario **quiero** acceder a mi cuenta registrada **para** acceder a las funciones de usuario.|3|
 |25|US21|Recuperación de contraseña|**Como** usuario **quiero** poder recuperar mi contraseña **para** acceder a mi cuenta.|5|
 |26|US31|Visualización de calendario|**Como** usuario **quiero** visualizar un calendario **para** ver de forma agradable y ordenada las asesorías programadas que tengo.|3|
-|27|US28|Uso de un API para iniciar sesión|**Como** desarrollador **quiero** integrar el inicio de sesión utilizando la API de Google **para** facilitar el acceso a la aplicación.|3|
-|28|US29|Uso de un API para videollamadas|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación.|5|
-|29|US30|Uso de un API para separar fechas|**Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus calendarios personales.|5|
-|30|US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|5|
-|31|US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|3|
+|27|US32|Uso de nuestra API para gestionar usuarios|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de los usuarios en la base de datos. |5|
+|28|US33|Uso de nuestra API para gestionar publicaciones|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las publicaciones de asesores en la base de datos. |5|
+|29|US34|Uso de nuestra API para manejar recursos y gastos|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de los recursos y gastos de criadores en la base de datos |5|
+|30|US35|Uso de nuestra API para manejar la reserva de citas entre asesores y criadores|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las citas entre asesores y criadores en la base de datos. |5|
+|31|US28|Uso de un API para iniciar sesión|**Como** desarrollador **quiero** integrar el inicio de sesión utilizando la API de Google **para** facilitar el acceso a la aplicación.|3|
+|32|US29|Uso de un API para videollamadas|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación.|5|
+|33|US30|Uso de un API para separar fechas|**Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus calendarios personales.|5|
+|34|US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|5|
+|35|US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|3|
 
 
 
