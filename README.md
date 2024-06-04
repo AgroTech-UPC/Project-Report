@@ -31,7 +31,7 @@ Grupo: 1
 |  Salinas Torres, Salvador Antonio   |    U20221B127    |
 |   Valverde Mozo, Andre Gabriel   |    U202218899    |
 
-Mayo 2024
+Junio 2024
 
 </div>
 
@@ -90,7 +90,7 @@ Mayo 2024
       </td>
   </tr>
     <td><strong>TB2</strong></td>
-      <td>Sabado 8 de Mayo</td>
+      <td>Domingo 9 de Junio</td>
       <td>
         <ul>
           <li>Delgado Corrales, Piero Gonzalo</li>
@@ -102,11 +102,12 @@ Mayo 2024
       </td>
       <td>
         <li>Correcciones levantadas.</li>
-        <li>Desarrollo del Sprint 3.</li>
-        <li>Creación del Video About-The-Product.</li>
-        <li>Implementación de entrevistas de validación</li>
+        <li>Desarrollo del Sprint 3</li>
+        <li>Creación del Video About-The-Product</li>
+        <li>Realización de entrevistas de validación</li>
         <li>Desarrollo de evaluación por heurísticas</li>
         <li>Avance de Conclusiones y Anexos</li>
+        <li>Creación del Video About-The-Team</li>
       </td>
   </tr>
   </tbody>
@@ -131,9 +132,9 @@ Commits en el project report de la TP1:
 
 # **Tabla de Contenido**
 
-- [Registro de Versiones](#registro-de-versiones)
-- [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#Capítulo-I-Introducción)
+- ## [Registro de Versiones](#registro-de-versiones)
+- ## [Student Outcome](#student-outcome-1)
+- ## [Capítulo I: Introducción](#Capítulo-I-Introducción-1)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -145,7 +146,7 @@ Commits en el project report de la TP1:
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis)
+- ## [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis-1)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -160,12 +161,12 @@ Commits en el project report de la TP1:
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification)
+- ## [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification-1)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
-- [Capítulo IV: Product Design](#Capítulo-IV-Product-Design)
+- ## [Capítulo IV: Product Design](#Capítulo-IV-Product-Design-1)
   - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -193,7 +194,7 @@ Commits en el project report de la TP1:
     - [4.7.2. Class Dictionary](#472-class-dictionary)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation-Validation--Deployment)
+- ## [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation-Validation--Deployment-1)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
@@ -232,11 +233,11 @@ Commits en el project report de la TP1:
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
+- ## [Conclusiones](#conclusiones-1)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-- [Video About-the-Team](#video-about-the-team)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+  - [Video About-the-Team](#video-about-the-team)
+- ## [Bibliografía](#bibliografía-1)
+- ## [Anexos](#anexos-1)
 
 
 
@@ -2578,6 +2579,8 @@ _Imagen 118. Sprint Backlog 1 en Trello_
 
 Se realizaron los avances con los commits correspondiente en el repositorio de la siguiente forma.
 
+Repositorio Landing Page: <https://github.com/AgroTech-UPC/Landing-Page>
+
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
 |AgroTech-UPC/Landing-Page|feature/header-footer|ff5467f|feat: Preparing the workspace|02/04/2024|
@@ -2600,6 +2603,8 @@ Se realizaron los avances con los commits correspondiente en el repositorio de l
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
 Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
@@ -2947,6 +2952,10 @@ _Imagen 140. Sprint Backlog 2_
 
 Se realizaron los avances con los commits correspondientes en los repositorios del Landing Page y Frontend Web Applications de la siguiente forma.
 
+Repositorio Landing Page: <https://github.com/AgroTech-UPC/Landing-Page>
+Repositorio Frontend: <https://github.com/AgroTech-UPC/Frontend-Web-Applications>
+
+
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
 |AgroTech-UPC/Landing-Page|feature/about-us|b658932|feat: added develop team and fixed font size|25/04/2024|
@@ -3006,6 +3015,8 @@ Se realizaron los avances con los commits correspondientes en los repositorios d
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
@@ -3137,30 +3148,133 @@ El tercer sprint se planeó a través de una reunión virtual en Google Meet. Pa
 |Sprint 2 Retrospective Summary|Este segundo sprint consistió principalmente en Frontend, aunque faltaron algunas partes a desarrollar y realizar algunas mejoras en las historias de usuario.|
 |**Sprint Goal & User Stories**||
 |Sprint 3 Goal|Desarrollar la parte faltante en Frontend y empezar con el desarrollo de Backend de la aplicación web.|
-|Sprint 3 Velocity|-|
-|Sum of Story Points|-|
+|Sprint 3 Velocity|69|
+|Sum of Story Points|69|
 
 #### 5.2.3.2. Sprint Backlog 3.
 
+El objetivo de este tercer sprint es la implementación de la parte faltante de Frontend y empezar con el Backend de nuestra aplicación web. Igualmente, se trabajó con una tabla en Trello para manejar los Work-Items de forma adecuada.
+<https://trello.com/b/T5DNqXUL/agrotech-sprint-backlog-3>
+
+<img src="img/sprint-backlog-3.png" width="100%">
+
+
 #### 5.2.3.3. Development Evidence for Sprint Review.
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 3. De este modo, se trabajó mayormente en la parte de Frontend y Backend.
+
+Repositorio Frontend: <https://github.com/AgroTech-UPC/Frontend-Web-Applications>
+Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
+Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
+
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
 
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de entrevistas.
+Para esta entrevista, se comparte y detalla al entrevistado lo trabajado en Landing Page y Web Application.
+
+#### Segmento Asesor
+**User Flows:**
+- Inicio de sesión
+  - User Goal: Como usuario quiero acceder a mi cuenta registrada para acceder a las funciones de usuario
+- Registro de usuario
+  - User Goal: Como usuario quiero registrarme para acceder a las funciones de usuario
+- Recuperación de cuenta
+  - User Goal: Como usuario quiero recuperar mi contraseña en caso me olvide para no perder mi cuenta con mi información
+- Vista de clientes
+  - User Goal: Como asesor quiero poder visualizar a mis clientes para poder llevar un registro eficiente
+- Vista y gestión de publicaciones
+  - User Goal: Como asesor quiero poder crear publicaciones para poder promocionar el servicio de asesoramiento para la crianza de cuyes
+- Vista de notificaciones
+  - User Goal: Como asesor quiero recibir notificaciones de citas programadas por los criadores para mantenerme al tanto de mis ofertas laborales
+- Gestión de horarios
+  - User Goal: Como asesor quiero poder seleccionar y separar las fechas y horas en las que estoy disponible para ofrecer asesorías para que los usuarios interesados puedan ver mis horarios disponibles y agendar una cita en un momento conveniente
+- Vista de calendario
+  - User Goal: Como usuario quiero visualizar un calendario para ver de forma agradable y ordenada las asesorías programadas que tengo
+
+**Preguntas sobre Landing Page**
+1. ¿Encuentras útil la información presentada en la landing page?
+2. ¿La información en la sección "Sobre Nosotros" te ayuda a confiar en la plataforma?
+3. ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+4. ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+5. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+6. ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+
+
+**Preguntas sobre Web Application**
+1. ¿Qué opinas de la forma de recibir notificaciones de recordatorios de citas próximas?
+2. ¿Cómo te resulta la funcionalidad de ver la lista de clientes en la plataforma?
+3. ¿Qué tan fácil te parece gestionar y organizar tus próximas citas usando la plataforma?
+4. ¿Crees que la información sobre los criadores que te contactan es suficiente?
+5. ¿Cómo evalúas la facilidad de uso para crear publicaciones en la plataforma?
+6. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+7. ¿Te parece bien recibir una reseña y calificación de los criadores sobre tus servicios para que lo vean otros criadores?
+8. ¿Te parece que la organización de la aplicación web se entiende y comprende fácilmente?
+
+
+#### Segmento Criador de Cuyes
+**User Flows:**
+- Inicio de sesión
+  - User Goal: Como usuario quiero acceder a mi cuenta registrada para acceder a las funciones de usuario
+- Registro de usuario
+  - User Goal: Como usuario quiero registrarme para acceder a las funciones de usuario
+- Recuperación de cuenta
+  - User Goal: Como usuario quiero recuperar mi contraseña en caso me olvide para no perder mi cuenta con mi información
+- Vista y gestión de “Mi Granja”
+  - User Goal: Como criador de cuyes quiero gestionar los recursos de mi granja para tener un control sobre los recursos esenciales como alimentos y medicamentos
+  - User Goal: Como criador de cuyes quiero gestionar los gastos relacionados con mi negocio para tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad
+- Vista y gestión de “Mis Animales”
+  - User Goal: Como criador de cuyes quiero poder registrar una jaula en la plataforma para poder gestionar la información de mis cuyes de manera organizada
+  - User Goal: Como criador de cuyes quiero contar con un sistema de registro de animales para almacenar información básica sobre cada animal, incluyendo su número de identificación, nombre, raza, género, peso y fecha de nacimiento
+- Vista de publicaciones
+  - User Goal: Como criador de cuyes quiero poder ver las publicaciones de la comunidad de asesores para obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones
+- Vista de notificaciones
+  - User Goal: Como criador de cuyes quiero recibir notificaciones referentes al estado de mis citas para mantenerme al tanto de mi solicitud
+- Vista de calendario
+  - User Goal: Como usuario quiero visualizar un calendario para ver de forma agradable y ordenada las asesorías programadas que tengo
+
+**Preguntas sobre Landing Page**
+1. ¿Encuentras útil la información presentada en la landing page?
+2. ¿La información en la sección "Sobre Nosotros" te ayuda a confiar en la plataforma?
+3. ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+4. ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+5. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+6. ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+
+
+**Preguntas sobre Web Application**
+1. ¿Qué opinas de la forma de ver las calificaciones y opiniones de otros criadores sobre un asesor?
+2. ¿Te parece que la funcionalidad para registrar gastos, recursos, cuyes y jaulas es fácil de usar?
+3. ¿Consideras que las funcionalidades actuales para gestionar tus gastos y recursos están organizadas de forma adecuada?
+4. ¿Te parece bien cómo se organiza la información sobre las jaulas y cuyes en la plataforma?
+5. ¿Te resulta fácil utilizar la opción de búsqueda de asesores en la plataforma?
+6. ¿Te parece ordenada la forma en la que puedes revisar tus eventos dentro del calendario de la plataforma?
+7. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+8. ¿Te parece que la organización de la aplicación web se entiende y comprende fácilmente?
+
 
 ### 5.3.2. Registro de entrevistas.
 
+
 ### 5.3.3. Evaluaciones según heurísticas.
+
 
 ## 5.4. Video About-The-Product
 
@@ -3168,13 +3282,11 @@ El tercer sprint se planeó a través de una reunión virtual en Google Meet. Pa
 ## Conclusiones y recomendaciones
 * La estructura realizada del proceso Lean UX ha permitido a nuestra startup AgroTech identificar los segmentos objetivos, competidores y necesidades del mercado, entre otros aspectos clave. Desde la formulación inicial de los problem statements hasta la elaboración de hypothesis statements y la creación del Lean UX canvas, cada paso ha contribuido a mejorar la eficiencia y la agilidad en el desarrollo de la aplicación AgroConnect.
 
-
 * AgroTech ha realizado un análisis exhaustivo de sus competidores, así como entrevistas y actividades de needfinding para comprender las necesidades de sus usuarios. Lo anteriormente desarrollado se realizó en el capítulo II, dónde se realizó dicha investigación y análisis que aportaron con la creación de una solución como lo es AgroConnect, para que satisfaga las necesidades reales de sus usuarios.
-
 
 * Plantear e identificar los requisitos del proyecto al inicial fue crucial, ya que establecieron las bases sólidas sobre las cuales se construirá la aplicación AgroConnect de AgroTech, estas se lograron identificar gracias a los empathy mappings, impact mappings y user personas ayudaron a empatizar y estar en el lugar de nuestro públic objetivo, As-is y To-Be Scenario Mappings que permiten visualizar el proceso en el que realiza una tarea sin y con AgroConnect respectivamente. Además, las user stories proporcionaron una descripción detallada de las interacciones que los usuarios tendrán con la aplicación, lo que es fundamental para brindar una experiencia de usuario satisfactoria. Finalmente, el product backlog estableció la lista priorizada de todas las funcionalidades y características que se implementarán en la aplicación y reducir los esfuerzos en el desarrollo de la aplicación.
 
-# Video About-The-Team
+## Video About-The-Team
 
 
 # Bibliografía
@@ -3184,7 +3296,6 @@ Aguilar, G., Bustamante, J., Bazán, V. y Falcón, N. (2011). Diagnóstico situa
 Guerra, C. (2009). _Manual técnico de crianza de cuyes_. Cedepas. https://www.cedepas.org.pe/sites/default/files/manual_tecnico_de_crianza_de_cuyes.pdf
 
 Instituto Nacional de Innovación Agraria. (23 de enero de 2023). Razas de cuyes del INIA mejoran un 20% la productividad de la crianza familiar y consumo de carne. _El Peruano_. https://www.elperuano.pe/noticia/225260-razas-de-cuyes-del-inia-mejoran-un-20-la-productividad-de-la-crianza-familiar-y-consumo-de-carne
-
 
 Luque, R. (2023). _Meta Tags | Las 7 más importantes en SEO_. SEOcrawl. https://seocrawl.com/meta-tags/
 
