@@ -1222,7 +1222,7 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 
 
 
-|
+
 |**Epic / Story ID**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
 | :- | :- | :- | :- | :- |
 |US01|Visualización del catálogo de asesores|**Como** criador de cuyes **quiero** explorar un catálogo de asesores **para** conocer quiénes me pueden apoyar con asesorías|<p>**Escenario 1: Explorar catálogo de asesores**</p><p>**Given** el criador quiere explorar el catálogo de asesores.</p><p>**And** se encuentra en el apartado de “Asesores”.</p><p>**When** seleccione el botón “Catálogo de asesores”.</p><p>**Then** el sistema le mostrará una lista de todos los asesores disponibles en la aplicación.</p><p></p><p>**Escenario 2: Filtrar búsqueda de asesores**</p><p>**Given** el criador quiere personalizar su búsqueda.</p><p>**And** se encuentra en el apartado de “Asesores”.</p><p>**When** seleccione el botón de filtros.</p><p>**Then** el sistema** le permitirá filtrar el catálogo de asesores por ubicación, experiencia o reputación.</p><p></p><p>**Escenario 3: Ver mis asesores**</p><p>**Given** el criador desea ver los asesores a los que les solicitó un servicio para recibir una mentoría.</p><p>**And** se encuentra en el apartado de “Asesores”.</p><p>**When** haga clic en el botón “Mis Asesores”</p><p>**Then** el sistema le mostrará una lista de todos los asesores a los que ha solicitado una cita.</p>|E01|
@@ -2953,6 +2953,7 @@ _Imagen 140. Sprint Backlog 2_
 Se realizaron los avances con los commits correspondientes en los repositorios del Landing Page y Frontend Web Applications de la siguiente forma.
 
 Repositorio Landing Page: <https://github.com/AgroTech-UPC/Landing-Page>
+
 Repositorio Frontend: <https://github.com/AgroTech-UPC/Frontend-Web-Applications>
 
 
@@ -3164,6 +3165,7 @@ El objetivo de este tercer sprint es la implementación de la parte faltante de 
 A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 3. De este modo, se trabajó mayormente en la parte de Frontend y Backend.
 
 Repositorio Frontend: <https://github.com/AgroTech-UPC/Frontend-Web-Applications>
+
 Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
