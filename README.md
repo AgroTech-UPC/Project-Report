@@ -2411,13 +2411,16 @@ Usuarios de GitHub
 
 *URL de repositorio de Acceptance Tests*: https://github.com/AgroTech-UPC/Acceptance-Tests
 
-Para el desarrollo del trabajo se hará uso de GitFlow, el cual es un modelo de flujo de trabajo para la gestión de control de versiones Git. Está compuesta por ramas y cada una cumple un propósito distinto. Las ramas que utilizamos son: Feature, Develop y Main. 
+Para el desarrollo del trabajo se hará uso de GitFlow, el cual es un modelo de flujo de trabajo para la gestión de control de versiones Git. Está compuesta por ramas y cada una cumple un propósito distinto. Las ramas que utilizamos son: Feature, Develop, Release y Main. 
 
 **Rama Feature**: En esta rama se desarrolla un feature específico, por ejemplo la implementación del registro de un usuario o del inicio de sesión. Las ramas Feature se trabajan y controlan por separado para tener un orden sobre el cual trabajar a partir del Product Backlog. Esto asegura que cualquier problema que surja durante el desarrollo de una característica no afecte al programa en su totalidad.
 
-**Rama Develop**: En esta rama se fusionan las ramas feature desarrolladas. Esto permite verificar que todo funcione correctamente antes de integrarlo en la rama Main para su despliegue oficial.
+**Rama Develop**: En esta rama se fusionan las ramas feature desarrolladas. Esto permite verificar que todo funcione correctamente antes de integrarlo en la rama Release para su despliegue.
 
-**Rama Main**: Esta rama almacena las versiones finales del sprint y se utiliza para desplegar la aplicación web. Se espera que todas las versiones almacenadas aquí sean funcionales y estables para el usuario.
+**Rama Release**: En esta rama se prepara la versión final del sprint. Se realiza una revisión final de la versión para poder hacer el despliegue. Se asegura que todo esté correcto y funcional antes de hacer el despliegue. Al hacer el merge a la rama main, se especifica la versión que se está desplegando, para tener un control sobre las versiones desplegadas.
+
+**Rama Main**: En esta rama se encuentra la versión desplegada más reciente del proyecto. Es la rama principal que cuenta con cada versión desplegada oficialmente.
+
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 En el desarrollo de este trabajo, se utilizará una gran variedad de lenguajes para trabajar en el Landing Page, Web Services y Frontend Web Application. Para ello, se utilizará la siguiente guía de estilos y convenciones.
