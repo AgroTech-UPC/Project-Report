@@ -3506,6 +3506,49 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 |4|Fallo en visualización de horarios de asesores para reserva|3|Inclusive Design: Proporciona experiencias comparables|
 |5|Botones de formularios de registro con diferentes diseños|2|Usability: Consistencia y estándares|
 
+**DESCRIPCIÓN DE PROBLEMAS:**
+**PROBLEMA #1:** Poca legibilidad del título de horarios disponibles en teléfonos móviles
+**Severidad:** 3
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+Problema: Si el asesor está entrando desde un dispositivo móvil y va a la sección de Horarios, se le puede dificultar la lectura del título al estar pegado.
+**Imagen:**
+<img src="img/heuristicas1.png" width="100%">
+**Recomendación:** Aumentar el interlineado del título.
+
+
+**PROBLEMA #2:** Sobreposición del calendario a la barra de navegación
+**Severidad:** 3
+**Heurística violada:** Usability: Usabilidad y control del usuario
+**Problema:** Si se va a la sección de calendario en una pantalla de tamaño mediano o pequeño, el calendario se sobrepone a la barra lateral de navegación.
+**Imagen:**
+<img src="img/heuristicas2.png" width="100%">
+
+**PROBLEMA #3:** Desbordamiento de la información en la visualización de reseñas 
+**Severidad:** 2
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+**Problema:** Si un criador ingresa a la aplicación en un celular y va a revisar la información de un asesor, la información de las reseñas como el mensaje y las estrellas se desborda del recuadro al que está asignado.
+**Imagen:**
+<img src="img/heuristicas3.png" width="100%">
+**Recomendación:** Aumentar el ancho de la caja de reseñas para que incluya todo el texto en pantallas pequeñas.
+
+
+**PROBLEMA #4:** Fallo en visualización de horarios de asesores para reserva
+**Severidad:** 3
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+**Problema:** Si un criador ingresa a la aplicación en un celular y va a reservar una cita, la vista de la reserva no se muestra en su totalidad.
+**Imagen:**
+<img src="img/heuristicas4.png" width="100%">
+**Recomendación:** Adaptar la disposición de los elementos en la vista de reserva de cita para que se visualice correctamente en la pantalla de un teléfono móvil.
+
+
+**PROBLEMA #5:** Botones de formularios de registro con diferentes diseños
+**Severidad:** 3
+**Heurística violada:** Usability: Consistencia y estándares
+**Problema:** Los botones al registrar una nueva jaula, animal, gasto o recurso son diferentes, lo que puede dificultar al criador acostumbrarse a la interfaz.
+**Imagen:**
+<img src="img/heuristicas5.png" width="100%">
+**Recomendación:** Actualizar los botones de los registros para que todos tengan el mismo estilo y tener consistencia entre distintas vistas.
+
 
 ## 5.4. Video About-The-Product
 
