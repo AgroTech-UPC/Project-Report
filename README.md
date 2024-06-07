@@ -3181,7 +3181,86 @@ Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
 
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Para este sprint, hemos implementado una primera versión de la API para nuestro proyecto con la mayoría de endpoints necesarios para su funcionamiento.
+
+Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Services
+
+|Método|Endpoint (https://agroconnectwebservice.azurewebsites.net)|Descripción|
+|--|--|--|
+|GET|/api/v1/users|Se obtiene la lista de usuarios|
+|POST|/api/v1/users|Se publica un nuevo usuario|
+|GET|/api/v1/users/{id}|Se obtiene un usuario por ID|
+|GET|/api/v1/users/{id}/notifications|Se obtiene la lista de notificaciones de un usuario por su ID|
+|GET|/api/v1/breeders|Se obtiene la lista de los criadores|
+|POST|/api/v1/breeders|Se publica un nuevo criador|
+|GET|/api/v1/breeders/{id}|Se obtiene un criador por ID|
+|GET|/api/v1/breeders/{id}/cages|Se obtiene la lista de jaulas de un criador por su ID|
+|GET|/api/v1/breeders/{id}/appointments|Se obtiene la lista de citas para la asesoria de un criador por su ID|
+|GET|/api/v1/breeders/{id}/resources|Se obtiene la lista de recursos de un criador por su ID|
+|GET|/api/v1/breeders/{id}/expenses|Se obtiene la lista de gastos de un criador por su ID|
+|GET|/api/v1/advisors|Se obtiene la lista de los asesores|
+|POST|/api/v1/advisors|Se publica un nuevo asesor|
+|GET|/api/v1/advisors/{id}|Se obtiene un asesor por ID|
+|GET|/api/v1/advisors/{id}/available-dates|Se obtiene la lista de fechas disponibles de un asesor por su ID|
+|GET|/api/v1/advisors/{id}/publications|Se obtiene la lista de publicaciones de un asesor por su ID|
+|GET|/api/v1/advisors/{id}/appointments|Se obtiene la lista de citas de un asesor por su ID|
+|GET|/api/v1/notifications|Se obtiene la lista de las notificaciones|
+|POST|/api/v1/notifications|Se publica una nueva notificacion|
+|GET|/api/v1/notifications/{id}|Se obtiene una notificacion por ID|
+|DELETE|/api/v1/notifications/{id}|Se elimina una notificacion por ID|
+|GET|/api/v1/available-dates|Se obtiene la lista de los horarios disponibles de los asesores|
+|POST|/api/v1/available-dates|Se publica un nuevo horario|
+|GET|/api/v1/available-dates/{id}|Se obtiene un horario por ID|
+|DELETE|/api/v1/available-dates/{id}|Se elimina un horario por ID|
+|GET|/api/v1/publications|Se obtiene la lista de las publicaciones de los asesores|
+|POST|/api/v1/publications|Se publica una nueva publicacion|
+|GET|/api/v1/publications/{id}|Se obtiene una publicacion por ID|
+|DELETE|/api/v1/publications/{id}|Se elimina una publicacion por ID|
+|GET|/api/v1/appointments|Se obtiene la lista de las citas entre asesores y criadores|
+|POST|/api/v1/appointments|Se publica una nueva cita|
+|GET|/api/v1/appointments/{id}|Se obtiene una cita por ID|
+|PUT|/api/v1/appointments/{id}|Se modifica una cita por ID|
+|GET|/api/v1/appointments/{id}/reviews|Se obtienen la reseña de una cita por ID|
+|GET|/api/v1/reviews|Se obtiene la lista de las reseñas|
+|POST|/api/v1/reviews|Se publica una nueva reseña|
+|GET|/api/v1/reviews/{id}|Se obtiene una reseña por ID|
+|GET|/api/v1/resources|Se obtiene la lista de recursos|
+|POST|/api/v1/resources|Se publica un nuevo recurso|
+|GET|/api/v1/resources/{id}|Se obtiene un recurso por ID|
+|PUT|/api/v1/resources/{id}|Se modifica un recurso por ID|
+|DELETE|/api/v1/resources/{id}|Se elimina un recurso por ID|
+|GET|/api/v1/expenses|Se obtiene la lista de gastos|
+|POST|/api/v1/expenses|Se publica un nuevo gasto|
+|GET|/api/v1/expenses/{id}|Se obtiene un gasto por ID|
+|PUT|/api/v1/expenses/{id}|Se modifica un gasto por ID|
+|DELETE|/api/v1/expenses/{id}|Se elimina un gasto por ID|
+|GET|/api/v1/cages|Se obtiene la lista de jaulas|
+|POST|/api/v1/cages|Se publica una nueva jaula|
+|GET|/api/v1/cages/{id}|Se obtiene una jaula por ID|
+|PUT|/api/v1/cages/{id}|Se modifica una jaula por ID|
+|DELETE|/api/v1/cages/{id}|Se elimina una jaula por ID|
+|GET|/api/v1/animals|Se obtiene la lista de animales|
+|POST|/api/v1/animals|Se publica un nuevo animal|
+|GET|/api/v1/animals/{id}|Se obtiene un animal por ID|
+|PUT|/api/v1/animals/{id}|Se modifica un animal por ID|
+|DELETE|/api/v1/animals/{id}|Se elimina un animal por ID|
+
+
+
+
+**EVIDENCIAS**
+
+**Endpoint: https://agroconnectwebservice.azurewebsites.net/api/v1/users**
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Users](img/service-documentation-get-users.png)|
+
+
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
@@ -3352,6 +3431,31 @@ Durante la entrevista, Nayeli Chavez expresó una impresión general positiva so
 **Resumen:** En esta segunda entrevista con Anderson, se le mostró la Landing Page y Web Application. Él nos comenta que le llamó mucho la atención los elementos visuales y organización usada, así como los colores, imágenes y estilos, y que la aplicación se muestra estructurada e intuitiva. Además, menciona que le gustó mucho la vista del calendario, ya que es una vista amigable y ordenada para poder ver las citas programadas.
 
 ### 5.3.3. Evaluaciones según heurísticas.
+**Site o App a Evaluar:**
+AgroConnect
+**Tareas a evaluar:**
+El alcance de esta evaluación incluye la revisión de usabilidad de las siguientes tareas:
+1. Creación de usuario
+2. Inicio de sesión
+3. Gestión de recursos y gastos
+4. Gestión de jaulas y animales
+5. Visualización de catálogo de asesores
+6. Búsqueda de asesores en el catálogo
+7. Reserva de citas
+8. Visualización y creación de reseñas
+9. Visualización de notificaciones
+10. Visualización de calendario
+11. Gestión de publicaciones
+12. Visualización de información de clientes
+13. Gestión de horarios disponibles
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Landing Page
+2. Recuperación de cuenta
+
+**ESCALA DE SEVERIDAD:**
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
 
 
 ## 5.4. Video About-The-Product
