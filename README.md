@@ -3202,8 +3202,148 @@ El objetivo de este tercer sprint es la implementación de la parte faltante de 
 A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 3. De este modo, se trabajó mayormente en la parte de Frontend y Backend.
 
 Repositorio Frontend: <https://github.com/AgroTech-UPC/Frontend-Web-Applications>
-
 Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Frontend-Web-Applications|feature/register|4a987b3|fix: registers location fixed|14/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|f3fed44|feat: Improved the layout of < My Farm > route in breeder view|15/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|11c27d1|feat: create component for publications view|15/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|d36a637|feat: added publication readonly card component|15/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|bed2427|feat: added function to go to advisor profile|15/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|b2d6eff|feat: Update CSS and HTML on Advisors Search|16/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|ad171e2|feat: Update CSS and HTML (Stars Animation)|16/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us02|a6b8e8d|feat: Update CSS and HTML on Advisor About us|16/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us04|189f8b9|feat: Update CSS and HTML on Reserve Appointment|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us04|4bf130c|feat: Update CSS and HTML on Reserve Appointment (Message Confirmation)|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|a3f6ce3|feat: added login card and design|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|6736389|feat: added responsiveness|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|7e6ffd9|feat: added signup page and register component|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|dc7c7d3|feat: added breeder signup and register component|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|a125c49|feat: added advisor signup and register component|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|6fa1bff|feat: added routes for signup pages|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|43cdcc3|feat: added login functionality with local storage|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|cb24c15|feat: added login attempts limit|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us21|6c666b5|feat: added password reset|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|134b3bd|feat: added reset of ids after logout|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us02|e70868a|feat: Update CSS and HTML on Advisor About us (Reviews)|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|690a114|feat: Update CSS and HTML on My Advisors (Search)|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|6e96a7c|feat: Update My Advisors and Search Advisors (Titles)|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us02|b6c031a|feat: Update CSS and HTML on Send Review|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|d18accc|feat: fixed css, validators for password, date|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|56ea1cb|fix: fixed color of title and outline|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us16|e9a445f|feat: Delete expense button added|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us16|855c2e8|feat: Edit expense button added|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|c28c0d8|feat: Added delete resource button|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|b6a63c5|feat: Added edit resource button|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|ddc8d7f|fix: fixed title and css of register user comp|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|64f6571|feat: added function to register breeder|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|16623ff|feat: added function to register advisor|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|1efbe68|feat: linked login and register links|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|ceb3240|feat: added validation for existing user|19/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us30|2beb52f|feat: Install Api FullCalendar|19/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us31|02bccdc|feat: Added Calendar component|19/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us31|63fa024|feat: Added Calendar section in Sidenav|19/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us31|b534742|feat: Added Calendar Section Functionality|19/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|6f54f21|fix: fixed css responsive problems with cage table|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/db-json|4f5858b|feat: added missing breeder\_id to cage register and edition|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|cb55128|fix: removed old register component and routes|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|7197396|fix: fixed paginator in cage table|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|629c5bf|fix: fixed registro showing in sidenav|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/db-json|9d70172|feat: improved db|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|760593e|feat: improved styles from list of cages|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|32b7472|feat: improved styles from edit form of cages|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us13|a18aefa|feat: improved animal list responsiveness|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us13|9b48307|feat: removed functionality related to cuy deceased|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us13|b9b5080|feat: improved styles from animal list and information|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us13|bafc290|fix: no animals message didnt show properly|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|9e9cea2|fix: fixed button css|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|dc1fbb0|refactor: changed component for clients view|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|5984d22|fix: Bug fix in My Advisors|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|b3a32d7|feat: Update CSS (Gray Stars and buttons)|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|ba7aff0|feat: Added “Back Button” in Advisor About Us|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|6b6c669|feat: Added Error view in View Schedules|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|8d17f38|feat: Added Error View in Advisor About Us|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|7c2117a|fix: Fixed bug in View Schedules (Error view)|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|3d5dc16|feat: Added Error View in My Advisors|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|5ec3c52|feat: Update review.component (The status of the appointment changes to Completed and Reviewed)|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|dee6330|feat: Responsive|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|659fb08|feat: added number of cages in client detail|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|47c4e73|fix: fixed css in client cards view|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|fe5bdfd|fix: size card fixed|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|379a339|fix: client detail css fixed|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|3d61eee|feat: local storage advisor id used of clients|24/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|047f532|fix: notifications view for breeder and advisor|24/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|60aa68c|feat: Section Horarios and functionality add and delete added|24/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|dd29d3d|fix: fixed error with available dates and appointments|25/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|8048b6c|feat: added breeder description in client detail|25/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|73408da|fix: title css fixed for advisor view|26/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us31|81cd754|feat: added functionality to show only the correct appointments in calendar|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|54cac32|feat: correct advisor id for new publications and not hard coded|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|bc7400a|feat: added functionality to resource visualization|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us16|c18c1b1|feat: added functionality to expense visualization|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|0974e77|feat: changed back button to use function goBack|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|92502d1|feat: added confirmation message before delete|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|1fd5310|feat: added empty view for missing pages|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us16|3665f9a|style: Added new button to edit expense|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us07|21f4835|style: the colors of the notification card were changed to make it more attractive|29/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us07|7413440|feat: added tab browser icon|29/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us07|7413440|style: fix goBack button z-index|30/05/2024|
+|AgroTech-UPC/Web-Services|main|3dba508|chore: initial commit|30/05/2024|
+|AgroTech-UPC/Web-Services|main|5658b6a|docs: Added readme documentation|30/05/2024|
+|AgroTech-UPC/Web-Services|main|5c4368d|chore: Initial setup completed|30/05/2024|
+|AgroTech-UPC/Web-Services|develop|1efdafa|chore: Created the develop branch|30/05/2024|
+|AgroTech-UPC/Web-Services|feature/us33|655fb8f|feat: added post and get requests for publications|02/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|d3f4f1a|feat: added user bc http requests|02/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|5e4b406|feat(management): added Domain-Driven Design|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|bf1cf1d|feat(management): completed domain layer|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|b24ded4|feat: added endpoint to get notifications by userid|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|26b1986|feat(management): completed all major layers and endpoints in controller|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|e4d2177|fix: fixed an error in the data type of a value object|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|0611a90|fix: fixed an error in the data type of a value object (date)|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|129dced|fix: Status attribute for Appointment changed|04/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|4744460|feat(management): Competed the domain layer for the cages|04/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|613f483|feat(management): Competed all endpoints for the cages|04/06/2024|
+|AgroTech-UPC/Web-Services|feature/us33|0a34aba|feat: added advisor id in publication|04/06/2024|
+|AgroTech-UPC/Web-Services|feature/us33|47befc0|feat: added delete request for publications|04/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|9c0f999|feat: Added Review endpoint to get and post data|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|75a37e1|feat(management): All endpoints of the animal entity have been completed|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us33|9e6bcda|feat: modified name, observations date value objects|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|` `2aa0559|feat: Added AvailableDate entity, TimeAv and DateAv value objects|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|c30065b|feat: Update TimeAv value object|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|efd74be|feat: Update AvailableDate entity|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|4d4e8bb|feat: Added CreateAvailableDateCommand and DeleteAvailableDateCommand|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|03667e8|feat: Update Create and Delete AvailableDateCommand|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|8f1904c|feat: Added GetAll and GetById Queries of AvailableDates|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|1b9c2bb|feat: Update GetAvailableDateByIdQuery|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|238d11b|feat: Added GetAvailableDatesByAdvisorIdQuery|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|534b2e5|feat: Added AvailableDate QueryService and CommandService|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|32702d5|feat: Update AvailableDateCommandService|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|db39f25|feat: Update AvailableDateQueryService|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|f3edd00|feat: Added AvailableDateRepository|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|f8a18cc|feat: Added AvailableDateResource|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|2f2a99b|feat: Added CreateAvailableDateResource|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|0e2cebc|feat: Added AvailableDateResourceFromEntityAssembler|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|a6ee81a|feat: Update CreateAvailableDateCommandFromEntityAssembler|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|e433e73|feat: Added AvailableDateCommandServiceImpl|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|4d9cee8|feat: Added AvailableDateQueryServiceImpl|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|8b09c24|feat: Added AvailableDateController|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|63e8c22|feat: added message when a resource is deleted|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|fccee3c|feat: expense aggregate and value objects added|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|4a94ac1|feat: endpoints for expenses added|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|53e4cf6|feat: Update AdvisorsController (Added AvailableDates path) and fix some bugs|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|6a25580|fix: Errors with POST for start\_time and end\_time are corrected, DateAv is also deleted and date is passed to LocalDate|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|65b2d3b|refactor: renamed cages and available dates controller|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|0bf28e8|feat: added breeder endpoint to get cages|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|9c2dc72|feat: added querys for appointments by advisor or breeder id|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us33|54bca19|feat: added publications by advisorId query|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|fa4f854|feat: added ResourcesByBreederId query|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|f7b70fc|feat: added ExpensesByBreederId query|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|3f8882d|feat: moved endpoint to get animals from cageid to cage|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|c1b2d3e|<p>feat: added endpoint to get appointments by breeder/advisor id</p><p></p><p></p>|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|8b4fefa|feat: added endpoint to get publications by advisor id|06/06/2024|
+|AgroTech-UPC/Web-Services|develop|6df74f3|feat: added remote database connection|06/06/2024|
+
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -3211,9 +3351,12 @@ Se realizaron las pruebas de aceptación para las historias de usuario trabajada
 
 Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
 
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Acceptance-Tests|main||||
+
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
-
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
