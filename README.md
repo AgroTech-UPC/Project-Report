@@ -3471,7 +3471,36 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/resources
 |Parámetros|{resourceId}: Id del recurso|
 |Resultado|![Service Documentation Delete Resource](img/delete-resource.PNG)|
 
+**Expenses Endpoints**
 
+Endpoint: https://web-services-18bk.onrender.com/api/v1/expenses
+
+![Expenses endpoints](img/expenses-endpoints-swagger.PNG)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: name, type, ammount, date, observations y breederId|
+|Resultado|![Service Documentation Post Expense](img/post-expense.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Expenses](img/get-all-expenses.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|{expenseId}: Id del gasto|
+|Resultado|![Service Documentation Get by ExpenseId](img/get-by-id-expense.PNG)|
+
+|Método|PUT|
+|--|--|
+|Parámetros|{expenseId}: Id del gasto|
+|Resultado|![Service Documentation Update Expense](img/put-expense.PNG)|
+
+|Método|DELETE|
+|--|--|
+|Parámetros|{expenseId}: Id del gasto|
+|Resultado|![Service Documentation Delete Expense](img/delete-expense.PNG)|
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Se decidió desplegar el Web Service en Render. Para ello, se tuvo que hacer un archivo target donde están los archivos de salida de compilación y un archivo Docker que contiene la información para que se ejecute el proyecto en Java 22.
