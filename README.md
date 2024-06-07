@@ -1320,12 +1320,12 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |28|US33|Uso de nuestra API para gestionar publicaciones|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las publicaciones de asesores en la base de datos. |5|
 |29|US34|Uso de nuestra API para manejar recursos y gastos|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de los recursos y gastos de criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP. |5|
 |30|US35|Uso de nuestra API para manejar la reserva de citas entre asesores y criadores|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las citas entre asesores y criadores en la base de datos. |5|
-|30|US36|Uso de la API para manejar las jaulas y animales|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las jaulas y los animales de los criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP. |5|
-|31|US28|Uso de un API para iniciar sesión|**Como** desarrollador **quiero** integrar el inicio de sesión utilizando la API de Google **para** facilitar el acceso a la aplicación.|3|
-|32|US29|Uso de un API para videollamadas|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación.|5|
-|33|US30|Uso de un API para separar fechas|**Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus calendarios personales.|5|
-|34|US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|5|
-|35|US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|3|
+|31|US36|Uso de la API para manejar las jaulas y animales|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las jaulas y los animales de los criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP. |5|
+|32|US28|Uso de un API para iniciar sesión|**Como** desarrollador **quiero** integrar el inicio de sesión utilizando la API de Google **para** facilitar el acceso a la aplicación.|3|
+|33|US29|Uso de un API para videollamadas|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación.|5|
+|34|US30|Uso de un API para separar fechas|**Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus calendarios personales.|5|
+|35|US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|5|
+|36|US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|3|
 
 
 
