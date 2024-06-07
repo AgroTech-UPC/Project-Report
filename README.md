@@ -3430,8 +3430,6 @@ Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Servi
 |DELETE|/api/v1/animals/{id}|Se elimina un animal por ID|
 
 
-
-
 **EVIDENCIAS**
 
 **Endpoint: https://agroconnectwebservice.azurewebsites.net/api/v1/users**
@@ -3441,6 +3439,37 @@ Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Servi
 |Parámetros|Ninguno|
 |Resultado|![Service Documentation Get Users](img/service-documentation-get-users.png)|
 
+
+**Resources Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/resources
+
+![Resources endpoints](img/resource-endpoints-swagger.PNG)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: name, type, quantity, date, observations y breederId|
+|Resultado|![Service Documentation Post Resource](img/post-resource.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Resources](img/get-all-resources.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|{resourceId}: Id del recurso|
+|Resultado|![Service Documentation Get by ResourceId](img/get-by-id-resource.PNG)|
+
+|Método|PUT|
+|--|--|
+|Parámetros|{resourceId}: Id del recurso|
+|Resultado|![Service Documentation Update Resource](img/put-resource.PNG)|
+
+|Método|DELETE|
+|--|--|
+|Parámetros|{resourceId}: Id del recurso|
+|Resultado|![Service Documentation Delete Resource](img/delete-resource.PNG)|
 
 
 
