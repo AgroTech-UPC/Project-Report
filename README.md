@@ -3553,7 +3553,7 @@ Para esta entrevista, se comparte y detalla al entrevistado lo trabajado en Land
 
 **Resumen:** En la entrevista, el entrevistado expresó que encontraba útil la información presentada en la Landing Page, especialmente la sección "Sobre Nosotros", lo que le ayudó a confiar en la plataforma. Sin embargo, señaló que la información podría ser más clara y concisa. En cuanto a la Web Application, el entrevistado comentó que algunas funcionalidades, como ver calificaciones y opiniones de otros criadores sobre un asesor, eran útiles. Sin embargo, destacó que el diseño carecía de centrado en ciertos aspectos, lo que dificultaba la navegación y comprensión de la plataforma.
 
-
+-----
 
 **Entrevista N 2 - Asesor:** 
 
@@ -3567,6 +3567,7 @@ Para esta entrevista, se comparte y detalla al entrevistado lo trabajado en Land
 
 **Resumen:** En esta entrevista con Tamara, se le enseñó lo desarrollado en la Landing Page y Web Application. Ella menciona que le gustó mucho la organización, imágenes y colores utilizados, ya que se relacionan muy bien con la temática de la aplicación. Además, cree que es muy fácil de utilizar, así como para ver la lista de los clientes, notificaciones y establecer horarios para ofrecer asesorías.
 
+-----
 
 **Entrevista N 3 - Asesor:**
 
@@ -3578,10 +3579,9 @@ Para esta entrevista, se comparte y detalla al entrevistado lo trabajado en Land
 
 <img src="img/entrevista-validacion3.png" width="100%">
 
-**Resumen:**
+**Resumen:** En una entrevista con Belén, se le mostró el diseño de la Landing Page y la Aplicación Web. Ella comentó que le gustaron mucho las imágenes, ya que le dan un toque especial tanto a la Landing Page como a la Aplicación Web, y los colores empleados también le parecieron adecuados. Sin embargo, hizo algunas observaciones sobre la sección de la Problemática de la landing page, mencionando que el efecto de las tarjetas es un poco confuso para el cliente, ya que no permite ver la información de forma inmediata. A pesar de esto, destacó que la aplicación es muy fácil de usar, especialmente para ver la lista de clientes, recibir notificaciones y crear publicaciones.
 
-En una entrevista con Belén, se le mostró el diseño de la Landing Page y la Aplicación Web. Ella comentó que le gustaron mucho las imágenes, ya que le dan un toque especial tanto a la Landing Page como a la Aplicación Web, y los colores empleados también le parecieron adecuados. Sin embargo, hizo algunas observaciones sobre la sección de la Problemática de la landing page, mencionando que el efecto de las tarjetas es un poco confuso para el cliente, ya que no permite ver la información de forma inmediata. A pesar de esto, destacó que la aplicación es muy fácil de usar, especialmente para ver la lista de clientes, recibir notificaciones y crear publicaciones.
-
+-----
 
 **Entrevista N 4 - Asesor:** 
 
@@ -3595,6 +3595,7 @@ En una entrevista con Belén, se le mostró el diseño de la Landing Page y la A
 
 **Resumen:**
 
+-----
 
 **Entrevista N 5 - Asesor:**
 
@@ -3606,10 +3607,9 @@ En una entrevista con Belén, se le mostró el diseño de la Landing Page y la A
 
 <img src="img/entrevista-validacion5.png" width="100%">
 
-**Resumen:**
+**Resumen:** Romina Arana encuentra la landing page útil, bien organizada, visualmente atractiva y clara en la presentación del producto. La sección "Sobre Nosotros" le genera confianza al mostrar personas reales. La aplicación web le resulta fácil de usar, especialmente para gestionar citas y ver la lista de clientes, aunque sugiere mejorar la diferenciación de estados de citas con colores y añadir un filtro por estado. También recomienda incluir fotos de los criadores para una mejor identificación y mejorar el proceso de registro. Considera esenciales las reseñas y calificaciones para generar confianza y mejorar el servicio.
 
-Romina Arana encuentra la landing page útil, bien organizada, visualmente atractiva y clara en la presentación del producto. La sección "Sobre Nosotros" le genera confianza al mostrar personas reales. La aplicación web le resulta fácil de usar, especialmente para gestionar citas y ver la lista de clientes, aunque sugiere mejorar la diferenciación de estados de citas con colores y añadir un filtro por estado. También recomienda incluir fotos de los criadores para una mejor identificación y mejorar el proceso de registro. Considera esenciales las reseñas y calificaciones para generar confianza y mejorar el servicio.
-
+-----
 
 **Entrevista N 6 - Criador:**
 
@@ -3621,19 +3621,23 @@ Romina Arana encuentra la landing page útil, bien organizada, visualmente atrac
 
 <img src="img/entrevista-validacion6.png" width="100%">
 
-**Resumen:**
+**Resumen:** Durante la entrevista con Alessandra, se presentaron y explicaron tanto la página de inicio como la aplicación web frontend. Ella expresó una opinión favorable sobre el contenido y el diseño de la página de inicio, elogiando el uso efectivo de las imágenes de fondo para transmitir la temática de la start-up. Asimismo, señaló que las funcionalidades de la aplicación web se adaptan a sus necesidades, destacando su facilidad de uso y contribución a una experiencia de usuario positiva.
 
-Durante la entrevista con Alessandra, se presentaron y explicaron tanto la página de inicio como la aplicación web frontend. Ella expresó una opinión favorable sobre el contenido y el diseño de la página de inicio, elogiando el uso efectivo de las imágenes de fondo para transmitir la temática de la start-up. Asimismo, señaló que las funcionalidades de la aplicación web se adaptan a sus necesidades, destacando su facilidad de uso y contribución a una experiencia de usuario positiva.
-
+-----
 
 **Entrevista N 7 - Criador:**
-**Entrevistador:** Nadia Lucas
-**Entrevistado:** Nayeli Chavez
-**Link de la entrevista:** [Entrevista-Validación-7](https://youtu.be/rrRkUssM-VI)
-<img src="img/entrevista-validacion7.png" width="100%">
-**Resumen:** 
-Durante la entrevista, Nayeli Chavez expresó una impresión general positiva sobre la landing page, encontrando información útil, clara y concisa. Apreció especialmente la sección "Sobre Nosotros" por generar confianza en la plataforma. En cuanto a la web application, elogió la facilidad de uso de las funcionalidades, cómo registrar gastos y recursos, y la organización de la información sobre jaulas y cuyes. Sugirió mejoras como mostrar la cantidad de calificaciones de los asesores y agregar filtros de búsqueda. En resumen, destacó la estética atractiva y la facilidad de comprensión de la plataforma, mostrando interés en registrarse cuando esté disponible.
 
+**Entrevistador:** Nadia Lucas
+
+**Entrevistado:** Nayeli Chavez
+
+**Link de la entrevista:** [Entrevista-Validación-7](https://youtu.be/rrRkUssM-VI)
+
+<img src="img/entrevista-validacion7.png" width="100%">
+
+**Resumen:** Durante la entrevista, Nayeli Chavez expresó una impresión general positiva sobre la landing page, encontrando información útil, clara y concisa. Apreció especialmente la sección "Sobre Nosotros" por generar confianza en la plataforma. En cuanto a la web application, elogió la facilidad de uso de las funcionalidades, cómo registrar gastos y recursos, y la organización de la información sobre jaulas y cuyes. Sugirió mejoras como mostrar la cantidad de calificaciones de los asesores y agregar filtros de búsqueda. En resumen, destacó la estética atractiva y la facilidad de comprensión de la plataforma, mostrando interés en registrarse cuando esté disponible.
+
+-----
 
 **Entrevista N 8 - Criador:** 
 
@@ -3647,6 +3651,7 @@ Durante la entrevista, Nayeli Chavez expresó una impresión general positiva so
 
 **Resumen:** En esta entrevista realizada a Daniel Ruiz se le mostró tanto la Landing page como el Frontend Web Application. En primer lugar, él comenta como le impresionó positivamente tanto en el contenido como en diseño de la Landing page resaltando el buen uso de imágenes de fondo y diseño interactivo. Por otro lado, él menciona que las funcionalidades de la aplicación web se adecúan a sus necesidades, son intuitivas y fáciles de usar.
 
+-----
 
 **Entrevista N 9 - Criador:** 
 
@@ -3718,7 +3723,7 @@ Problema: Si el asesor está entrando desde un dispositivo móvil y va a la secc
 
 **Imagen:**
 
-<img src="img/heuristicas1.png" width="100%">
+<img src="img/heuristicas1.png" width="60%">
 
 **Recomendación:** Aumentar el interlineado del título.
 
@@ -3734,7 +3739,7 @@ Problema: Si el asesor está entrando desde un dispositivo móvil y va a la secc
 
 **Imagen:**
 
-<img src="img/heuristicas2.png" width="100%">
+<img src="img/heuristicas2.png" width="70%">
 
 -----
 
@@ -3748,7 +3753,7 @@ Problema: Si el asesor está entrando desde un dispositivo móvil y va a la secc
 
 **Imagen:**
 
-<img src="img/heuristicas3.png" width="100%">
+<img src="img/heuristicas3.png" width="60%">
 
 **Recomendación:** Aumentar el ancho de la caja de reseñas para que incluya todo el texto en pantallas pequeñas.
 
@@ -3764,7 +3769,7 @@ Problema: Si el asesor está entrando desde un dispositivo móvil y va a la secc
 
 **Imagen:**
 
-<img src="img/heuristicas4.png" width="100%">
+<img src="img/heuristicas4.png" width="60%">
 
 **Recomendación:** Adaptar la disposición de los elementos en la vista de reserva de cita para que se visualice correctamente en la pantalla de un teléfono móvil.
 
