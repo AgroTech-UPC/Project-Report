@@ -3551,6 +3551,14 @@ Problema: Si el asesor está entrando desde un dispositivo móvil y va a la secc
 
 
 ## 5.4. Video About-The-Product
+En el vídeo se proporciona información sobre el producto AgroConnect. Se mencionan las diferentes funcionalidades de la aplicación como son la visualización del catálogo de asesores, la creación de publicaciones y la gestión de la granja. Asimismo, se incluye el testimonio positivo de una asesora especializada.
+
+Screenshot del video:
+<img src="img/video-about-the-product.png" width="100%">
+Enlace al vídeo de YouTube: [Video About-The-Product Open Source UPC YouTube](https://youtu.be/hJ9lTM35HBM)
+Enlace al vídeo de Microsoft Stream: [Video About-The-Product Open Source UPC.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/Ef1OVsCD7gtCiQh1hwAzj-QBbFwXUCL1lZbIRNXqGX-XSg?e=BZ03Na)
+Duración del vídeo: 1:27
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones
