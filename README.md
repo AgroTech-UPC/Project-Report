@@ -3204,6 +3204,7 @@ El objetivo de este tercer sprint es la implementación de la parte faltante de 
 A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 3. De este modo, se trabajó mayormente en la parte de Frontend y Backend.
 
 Repositorio Frontend: <https://github.com/AgroTech-UPC/Frontend-Web-Applications>
+
 Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
@@ -3540,85 +3541,139 @@ Para esta entrevista, se comparte y detalla al entrevistado lo trabajado en Land
 
 
 ### 5.3.2. Registro de entrevistas.
+
 **Entrevista N 1 - Asesor:** 
+
 **Entrevistador:** Andre Valverde
+
 **Entrevistado:** Rodrigo Guerra
+
 **Link de la entrevista:** [Entrevista-Validación-1](https://youtu.be/qmgQ-3oI0fQ) 
+
 <img src="img/entrevista-validacion1.png" width="100%">
+
 **Resumen:** En la entrevista, el entrevistado expresó que encontraba útil la información presentada en la Landing Page, especialmente la sección "Sobre Nosotros", lo que le ayudó a confiar en la plataforma. Sin embargo, señaló que la información podría ser más clara y concisa. En cuanto a la Web Application, el entrevistado comentó que algunas funcionalidades, como ver calificaciones y opiniones de otros criadores sobre un asesor, eran útiles. Sin embargo, destacó que el diseño carecía de centrado en ciertos aspectos, lo que dificultaba la navegación y comprensión de la plataforma.
 
+-----
 
 **Entrevista N 2 - Asesor:** 
+
 **Entrevistador:** Salvador Salinas
+
 **Entrevistado:** Tamara García
+
 **Link de la entrevista:** [Entrevista-Validación-2](https://youtu.be/Zg8tn_Wtw6U)
+
 <img src="img/entrevista-validacion2.png" width="100%">
+
 **Resumen:** En esta entrevista con Tamara, se le enseñó lo desarrollado en la Landing Page y Web Application. Ella menciona que le gustó mucho la organización, imágenes y colores utilizados, ya que se relacionan muy bien con la temática de la aplicación. Además, cree que es muy fácil de utilizar, así como para ver la lista de los clientes, notificaciones y establecer horarios para ofrecer asesorías.
 
+-----
 
 **Entrevista N 3 - Asesor:**
-**Entrevistador:** Sebastian Paredes
-**Entrevistado:** Belen Ramos
-**Link de la entrevista:** [Entrevista-Validación-3](https://youtu.be/sDhv8AgRsm8)
-<img src="img/entrevista-validacion3.png" width="100%">
-**Resumen:** 
-En una entrevista con Belén, se le mostró el diseño de la Landing Page y la Aplicación Web. Ella comentó que le gustaron mucho las imágenes, ya que le dan un toque especial tanto a la Landing Page como a la Aplicación Web, y los colores empleados también le parecieron adecuados. Sin embargo, hizo algunas observaciones sobre la sección de la Problemática de la landing page, mencionando que el efecto de las tarjetas es un poco confuso para el cliente, ya que no permite ver la información de forma inmediata. A pesar de esto, destacó que la aplicación es muy fácil de usar, especialmente para ver la lista de clientes, recibir notificaciones y crear publicaciones.
 
+**Entrevistador:** Sebastian Paredes
+
+**Entrevistado:** Belen Ramos
+
+**Link de la entrevista:** [Entrevista-Validación-3](https://youtu.be/sDhv8AgRsm8)
+
+<img src="img/entrevista-validacion3.png" width="100%">
+
+**Resumen:** En una entrevista con Belén, se le mostró el diseño de la Landing Page y la Aplicación Web. Ella comentó que le gustaron mucho las imágenes, ya que le dan un toque especial tanto a la Landing Page como a la Aplicación Web, y los colores empleados también le parecieron adecuados. Sin embargo, hizo algunas observaciones sobre la sección de la Problemática de la landing page, mencionando que el efecto de las tarjetas es un poco confuso para el cliente, ya que no permite ver la información de forma inmediata. A pesar de esto, destacó que la aplicación es muy fácil de usar, especialmente para ver la lista de clientes, recibir notificaciones y crear publicaciones.
+
+-----
 
 **Entrevista N 4 - Asesor:** 
+
 **Entrevistador:** Piero Delgado
+
 **Entrevistado:** Adrian Espinoza
+
 **Link de la entrevista:**
+
 [foto]
+
 **Resumen:**
 
+-----
 
 **Entrevista N 5 - Asesor:**
-**Entrevistador:** Nadia Lucas
-**Entrevistado:** Romina Arana
-**Link de la entrevista:** [Entrevista-Validación-5](https://youtu.be/6a6fM4r2ycQ)
-<img src="img/entrevista-validacion5.png" width="100%">
-**Resumen:**
-Romina Arana encuentra la landing page útil, bien organizada, visualmente atractiva y clara en la presentación del producto. La sección "Sobre Nosotros" le genera confianza al mostrar personas reales. La aplicación web le resulta fácil de usar, especialmente para gestionar citas y ver la lista de clientes, aunque sugiere mejorar la diferenciación de estados de citas con colores y añadir un filtro por estado. También recomienda incluir fotos de los criadores para una mejor identificación y mejorar el proceso de registro. Considera esenciales las reseñas y calificaciones para generar confianza y mejorar el servicio.
 
+**Entrevistador:** Nadia Lucas
+
+**Entrevistado:** Romina Arana
+
+**Link de la entrevista:** [Entrevista-Validación-5](https://youtu.be/6a6fM4r2ycQ)
+
+<img src="img/entrevista-validacion5.png" width="100%">
+
+**Resumen:** Romina Arana encuentra la landing page útil, bien organizada, visualmente atractiva y clara en la presentación del producto. La sección "Sobre Nosotros" le genera confianza al mostrar personas reales. La aplicación web le resulta fácil de usar, especialmente para gestionar citas y ver la lista de clientes, aunque sugiere mejorar la diferenciación de estados de citas con colores y añadir un filtro por estado. También recomienda incluir fotos de los criadores para una mejor identificación y mejorar el proceso de registro. Considera esenciales las reseñas y calificaciones para generar confianza y mejorar el servicio.
+
+-----
 
 **Entrevista N 6 - Criador:**
-**Entrevistador:** Sebastian Paredes
-**Entrevistado:** Alessandra Chaupis
-**Link de la entrevista:** [Entrevista-Validación-6](https://youtu.be/qn3Zc1dMXnc)
-<img src="img/entrevista-validacion6.png" width="100%">
-**Resumen:**
-Durante la entrevista con Alessandra, se presentaron y explicaron tanto la página de inicio como la aplicación web frontend. Ella expresó una opinión favorable sobre el contenido y el diseño de la página de inicio, elogiando el uso efectivo de las imágenes de fondo para transmitir la temática de la start-up. Asimismo, señaló que las funcionalidades de la aplicación web se adaptan a sus necesidades, destacando su facilidad de uso y contribución a una experiencia de usuario positiva.
 
+**Entrevistador:** Sebastian Paredes
+
+**Entrevistado:** Alessandra Chaupis
+
+**Link de la entrevista:** [Entrevista-Validación-6](https://youtu.be/qn3Zc1dMXnc)
+
+<img src="img/entrevista-validacion6.png" width="100%">
+
+**Resumen:** Durante la entrevista con Alessandra, se presentaron y explicaron tanto la página de inicio como la aplicación web frontend. Ella expresó una opinión favorable sobre el contenido y el diseño de la página de inicio, elogiando el uso efectivo de las imágenes de fondo para transmitir la temática de la start-up. Asimismo, señaló que las funcionalidades de la aplicación web se adaptan a sus necesidades, destacando su facilidad de uso y contribución a una experiencia de usuario positiva.
+
+-----
 
 **Entrevista N 7 - Criador:**
-**Entrevistador:** Nadia Lucas
-**Entrevistado:** Nayeli Chavez
-**Link de la entrevista:** [Entrevista-Validación-7](https://youtu.be/rrRkUssM-VI)
-<img src="img/entrevista-validacion7.png" width="100%">
-**Resumen:** 
-Durante la entrevista, Nayeli Chavez expresó una impresión general positiva sobre la landing page, encontrando información útil, clara y concisa. Apreció especialmente la sección "Sobre Nosotros" por generar confianza en la plataforma. En cuanto a la web application, elogió la facilidad de uso de las funcionalidades, cómo registrar gastos y recursos, y la organización de la información sobre jaulas y cuyes. Sugirió mejoras como mostrar la cantidad de calificaciones de los asesores y agregar filtros de búsqueda. En resumen, destacó la estética atractiva y la facilidad de comprensión de la plataforma, mostrando interés en registrarse cuando esté disponible.
 
+**Entrevistador:** Nadia Lucas
+
+**Entrevistado:** Nayeli Chavez
+
+**Link de la entrevista:** [Entrevista-Validación-7](https://youtu.be/rrRkUssM-VI)
+
+<img src="img/entrevista-validacion7.png" width="100%">
+
+**Resumen:** Durante la entrevista, Nayeli Chavez expresó una impresión general positiva sobre la landing page, encontrando información útil, clara y concisa. Apreció especialmente la sección "Sobre Nosotros" por generar confianza en la plataforma. En cuanto a la web application, elogió la facilidad de uso de las funcionalidades, cómo registrar gastos y recursos, y la organización de la información sobre jaulas y cuyes. Sugirió mejoras como mostrar la cantidad de calificaciones de los asesores y agregar filtros de búsqueda. En resumen, destacó la estética atractiva y la facilidad de comprensión de la plataforma, mostrando interés en registrarse cuando esté disponible.
+
+-----
 
 **Entrevista N 8 - Criador:** 
+
 **Entrevistador:** Piero Delgado
+
 **Entrevistado:** Daniel Ruiz
+
 **Link de la entrevista:** [Entrevista-Validación-8](https://youtu.be/EkYptMkrss4)
+
 <img src="img/entrevista-validacion8.png" width="100%">
+
 **Resumen:** En esta entrevista realizada a Daniel Ruiz se le mostró tanto la Landing page como el Frontend Web Application. En primer lugar, él comenta como le impresionó positivamente tanto en el contenido como en diseño de la Landing page resaltando el buen uso de imágenes de fondo y diseño interactivo. Por otro lado, él menciona que las funcionalidades de la aplicación web se adecúan a sus necesidades, son intuitivas y fáciles de usar.
 
+-----
 
 **Entrevista N 9 - Criador:** 
+
 **Entrevistador:** Salvador Salinas
+
 **Entrevistado:** Anderson Morales
+
 **Link de la entrevista:** [Entrevista-Validación-9](https://youtu.be/1SiASSaTnIQ)
+
 <img src="img/entrevista-validacion9.png" width="100%">
+
 **Resumen:** En esta segunda entrevista con Anderson, se le mostró la Landing Page y Web Application. Él nos comenta que le llamó mucho la atención los elementos visuales y organización usada, así como los colores, imágenes y estilos, y que la aplicación se muestra estructurada e intuitiva. Además, menciona que le gustó mucho la vista del calendario, ya que es una vista amigable y ordenada para poder ver las citas programadas.
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
 **Site o App a Evaluar:**
+
 AgroConnect
+
 **Tareas a evaluar:**
+
 El alcance de esta evaluación incluye la revisión de usabilidad de las siguientes tareas:
 1. Creación de usuario
 2. Inicio de sesión
@@ -3643,8 +3698,8 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 |***Nivel***|***Descripción***|
 | :-: | :-: |
 |*1*|*Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.*|
-|*2*|` `*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase*|
-|*3*|` `*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
+|*2*|*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase*|
+|*3*|*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
 |*4*|*Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.*|
 
 **TABLA DE RESUMEN:**
@@ -3658,61 +3713,105 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 |5|Botones de formularios de registro con diferentes diseños|2|Usability: Consistencia y estándares|
 
 **DESCRIPCIÓN DE PROBLEMAS:**
+
 **PROBLEMA #1:** Poca legibilidad del título de horarios disponibles en teléfonos móviles
+
 **Severidad:** 3
+
 **Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+
 Problema: Si el asesor está entrando desde un dispositivo móvil y va a la sección de Horarios, se le puede dificultar la lectura del título al estar pegado.
+
 **Imagen:**
-<img src="img/heuristicas1.png" width="100%">
+
+<img src="img/heuristicas1.png" width="60%">
+
 **Recomendación:** Aumentar el interlineado del título.
 
+-----
 
 **PROBLEMA #2:** Sobreposición del calendario a la barra de navegación
-**Severidad:** 3
-**Heurística violada:** Usability: Usabilidad y control del usuario
-**Problema:** Si se va a la sección de calendario en una pantalla de tamaño mediano o pequeño, el calendario se sobrepone a la barra lateral de navegación.
-**Imagen:**
-<img src="img/heuristicas2.png" width="100%">
 
-**PROBLEMA #3:** Desbordamiento de la información en la visualización de reseñas 
-**Severidad:** 2
-**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
-**Problema:** Si un criador ingresa a la aplicación en un celular y va a revisar la información de un asesor, la información de las reseñas como el mensaje y las estrellas se desborda del recuadro al que está asignado.
+**Severidad:** 3
+
+**Heurística violada:** Usability: Usabilidad y control del usuario
+
+**Problema:** Si se va a la sección de calendario en una pantalla de tamaño mediano o pequeño, el calendario se sobrepone a la barra lateral de navegación.
+
 **Imagen:**
-<img src="img/heuristicas3.png" width="100%">
+
+<img src="img/heuristicas2.png" width="70%">
+
+-----
+
+**PROBLEMA #3:** Desbordamiento de la información en la visualización de reseñas
+
+**Severidad:** 2
+
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+
+**Problema:** Si un criador ingresa a la aplicación en un celular y va a revisar la información de un asesor, la información de las reseñas como el mensaje y las estrellas se desborda del recuadro al que está asignado.
+
+**Imagen:**
+
+<img src="img/heuristicas3.png" width="60%">
+
 **Recomendación:** Aumentar el ancho de la caja de reseñas para que incluya todo el texto en pantallas pequeñas.
 
+-----
 
 **PROBLEMA #4:** Fallo en visualización de horarios de asesores para reserva
+
 **Severidad:** 3
+
 **Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+
 **Problema:** Si un criador ingresa a la aplicación en un celular y va a reservar una cita, la vista de la reserva no se muestra en su totalidad.
+
 **Imagen:**
-<img src="img/heuristicas4.png" width="100%">
+
+<img src="img/heuristicas4.png" width="60%">
+
 **Recomendación:** Adaptar la disposición de los elementos en la vista de reserva de cita para que se visualice correctamente en la pantalla de un teléfono móvil.
 
+-----
 
 **PROBLEMA #5:** Botones de formularios de registro con diferentes diseños
+
 **Severidad:** 3
+
 **Heurística violada:** Usability: Consistencia y estándares
+
 **Problema:** Los botones al registrar una nueva jaula, animal, gasto o recurso son diferentes, lo que puede dificultar al criador acostumbrarse a la interfaz.
+
 **Imagen:**
+
 <img src="img/heuristicas5.png" width="100%">
+
+<img src="img/heuristicas6.png" width="100%">
+
 **Recomendación:** Actualizar los botones de los registros para que todos tengan el mismo estilo y tener consistencia entre distintas vistas.
 
 
 ## 5.4. Video About-The-Product
+
 En el vídeo se proporciona información sobre el producto AgroConnect. Se mencionan las diferentes funcionalidades de la aplicación como son la visualización del catálogo de asesores, la creación de publicaciones y la gestión de la granja. Asimismo, se incluye el testimonio positivo de una asesora especializada.
 
 Screenshot del video:
+
 <img src="img/video-about-the-product.png" width="100%">
-Enlace al vídeo de YouTube: [Video About-The-Product Open Source UPC YouTube](https://youtu.be/hJ9lTM35HBM)
-Enlace al vídeo de Microsoft Stream: [Video About-The-Product Open Source UPC.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/Ef1OVsCD7gtCiQh1hwAzj-QBbFwXUCL1lZbIRNXqGX-XSg?e=BZ03Na)
-Duración del vídeo: 1:27
+
+**Enlace al vídeo de YouTube:** [Video About-The-Product Open Source UPC YouTube](https://youtu.be/hJ9lTM35HBM)
+
+**Enlace al vídeo de Microsoft Stream:** [Video About-The-Product Open Source UPC.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/Ef1OVsCD7gtCiQh1hwAzj-QBbFwXUCL1lZbIRNXqGX-XSg?e=BZ03Na)
+
+**Duración del vídeo:** 1:27
 
 
 # Conclusiones
+
 ## Conclusiones y recomendaciones
+
 * La estructura realizada del proceso Lean UX ha permitido a nuestra startup AgroTech identificar los segmentos objetivos, competidores y necesidades del mercado, entre otros aspectos clave. Desde la formulación inicial de los problem statements hasta la elaboración de hypothesis statements y la creación del Lean UX canvas, cada paso ha contribuido a mejorar la eficiencia y la agilidad en el desarrollo de la aplicación AgroConnect.
 
 * AgroTech ha realizado un análisis exhaustivo de sus competidores, así como entrevistas y actividades de needfinding para comprender las necesidades de sus usuarios. Lo anteriormente desarrollado se realizó en el capítulo II, dónde se realizó dicha investigación y análisis que aportaron con la creación de una solución como lo es AgroConnect, para que satisfaga las necesidades reales de sus usuarios.
