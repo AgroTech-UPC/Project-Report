@@ -3649,13 +3649,13 @@ Para esta entrevista, se comparte y detalla al entrevistado lo trabajado en Land
 
 **Entrevistado:** Adrian Espinoza
 
-**Link de la entrevista:**
+**Link de la entrevista:** [Entrevista-Validación-4](https://youtu.be/078AzxKUxCQ)
 
-[foto]
+<img src="img/entrevista-validacion4.png" width="100%" alt="Imagen de Entrevista de Validacion 4">
 
 **Resumen:**
 
------
+Adrián Espinoza encuentra la landing page como una buena forma de concientizar sobre el problema de la crianza de cuyes y la información proporcionada si le permite conocer más sobre la aplicación y menciona que le da confianza conocer quienes son las personas detrás del aplicativo. Asimismo, menciona que estéticamente la landing es atractiva y los elementos están bien distribuidos. Por otro lado, para la aplicación web que es intuitiva y fácil de manejar. Además, menciona que las funcionalidades cubren sus necesidades y son útiles.
 
 **Entrevista N 5 - Asesor:**
 
