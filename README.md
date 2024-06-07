@@ -1211,13 +1211,14 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 <tr><td valign="top">US25</td><td valign="top">Visualización de sección “Sobre Nosotros”</td></tr>
 <tr><td valign="top">US26</td><td valign="top">Visualización de sección “Características”</td></tr>
 <tr><td valign="top">US27</td><td valign="top">Visualización de sección “Contacto”</td></tr>
-<tr><td rowspan="7" valign="top"><b>E08</b></td><td rowspan="7" valign="top">Funcionalidades con APIs</td><td valign="top">US28</td><td valign="top">Uso de un API para iniciar sesión</td></tr>
+<tr><td rowspan="8" valign="top"><b>E08</b></td><td rowspan="8" valign="top">Funcionalidades con APIs</td><td valign="top">US28</td><td valign="top">Uso de un API para iniciar sesión</td></tr>
 <tr><td valign="top">US29</td><td valign="top">Uso de un API para videollamadas</td></tr>
 <tr><td valign="top">US30</td><td valign="top">Uso de un API para separar fechas</td></tr>
 <tr><td valign="top">US32</td><td valign="top">Uso de nuestra API para gestionar usuarios</td></tr>
 <tr><td valign="top">US33</td><td valign="top">Uso de nuestra API para gestionar publicaciones</td></tr>
 <tr><td valign="top">US34</td><td valign="top">Uso de nuestra API para manejar recursos y gastos</td></tr>
 <tr><td valign="top">US35</td><td valign="top">Uso de nuestra API para manejar la reserva de citas entre asesores y criadores</td></tr>
+<tr><td valign="top">US36</td><td valign="top">Uso de la API para manejar las jaulas y animales</td></tr>
 </table>
 
 
