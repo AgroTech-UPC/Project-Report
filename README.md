@@ -3183,83 +3183,6 @@ Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-Para este sprint, hemos implementado una primera versión de la API para nuestro proyecto con la mayoría de endpoints necesarios para su funcionamiento.
-
-Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Services
-
-|Método|Endpoint (https://agroconnectwebservice.azurewebsites.net)|Descripción|
-|--|--|--|
-|GET|/api/v1/users|Se obtiene la lista de usuarios|
-|POST|/api/v1/users|Se publica un nuevo usuario|
-|GET|/api/v1/users/{id}|Se obtiene un usuario por ID|
-|GET|/api/v1/users/{id}/notifications|Se obtiene la lista de notificaciones de un usuario por su ID|
-|GET|/api/v1/breeders|Se obtiene la lista de los criadores|
-|POST|/api/v1/breeders|Se publica un nuevo criador|
-|GET|/api/v1/breeders/{id}|Se obtiene un criador por ID|
-|GET|/api/v1/breeders/{id}/cages|Se obtiene la lista de jaulas de un criador por su ID|
-|GET|/api/v1/breeders/{id}/appointments|Se obtiene la lista de citas para la asesoria de un criador por su ID|
-|GET|/api/v1/breeders/{id}/resources|Se obtiene la lista de recursos de un criador por su ID|
-|GET|/api/v1/breeders/{id}/expenses|Se obtiene la lista de gastos de un criador por su ID|
-|GET|/api/v1/advisors|Se obtiene la lista de los asesores|
-|POST|/api/v1/advisors|Se publica un nuevo asesor|
-|GET|/api/v1/advisors/{id}|Se obtiene un asesor por ID|
-|GET|/api/v1/advisors/{id}/available-dates|Se obtiene la lista de fechas disponibles de un asesor por su ID|
-|GET|/api/v1/advisors/{id}/publications|Se obtiene la lista de publicaciones de un asesor por su ID|
-|GET|/api/v1/advisors/{id}/appointments|Se obtiene la lista de citas de un asesor por su ID|
-|GET|/api/v1/notifications|Se obtiene la lista de las notificaciones|
-|POST|/api/v1/notifications|Se publica una nueva notificacion|
-|GET|/api/v1/notifications/{id}|Se obtiene una notificacion por ID|
-|DELETE|/api/v1/notifications/{id}|Se elimina una notificacion por ID|
-|GET|/api/v1/available-dates|Se obtiene la lista de los horarios disponibles de los asesores|
-|POST|/api/v1/available-dates|Se publica un nuevo horario|
-|GET|/api/v1/available-dates/{id}|Se obtiene un horario por ID|
-|DELETE|/api/v1/available-dates/{id}|Se elimina un horario por ID|
-|GET|/api/v1/publications|Se obtiene la lista de las publicaciones de los asesores|
-|POST|/api/v1/publications|Se publica una nueva publicacion|
-|GET|/api/v1/publications/{id}|Se obtiene una publicacion por ID|
-|DELETE|/api/v1/publications/{id}|Se elimina una publicacion por ID|
-|GET|/api/v1/appointments|Se obtiene la lista de las citas entre asesores y criadores|
-|POST|/api/v1/appointments|Se publica una nueva cita|
-|GET|/api/v1/appointments/{id}|Se obtiene una cita por ID|
-|PUT|/api/v1/appointments/{id}|Se modifica una cita por ID|
-|GET|/api/v1/appointments/{id}/reviews|Se obtienen la reseña de una cita por ID|
-|GET|/api/v1/reviews|Se obtiene la lista de las reseñas|
-|POST|/api/v1/reviews|Se publica una nueva reseña|
-|GET|/api/v1/reviews/{id}|Se obtiene una reseña por ID|
-|GET|/api/v1/resources|Se obtiene la lista de recursos|
-|POST|/api/v1/resources|Se publica un nuevo recurso|
-|GET|/api/v1/resources/{id}|Se obtiene un recurso por ID|
-|PUT|/api/v1/resources/{id}|Se modifica un recurso por ID|
-|DELETE|/api/v1/resources/{id}|Se elimina un recurso por ID|
-|GET|/api/v1/expenses|Se obtiene la lista de gastos|
-|POST|/api/v1/expenses|Se publica un nuevo gasto|
-|GET|/api/v1/expenses/{id}|Se obtiene un gasto por ID|
-|PUT|/api/v1/expenses/{id}|Se modifica un gasto por ID|
-|DELETE|/api/v1/expenses/{id}|Se elimina un gasto por ID|
-|GET|/api/v1/cages|Se obtiene la lista de jaulas|
-|POST|/api/v1/cages|Se publica una nueva jaula|
-|GET|/api/v1/cages/{id}|Se obtiene una jaula por ID|
-|PUT|/api/v1/cages/{id}|Se modifica una jaula por ID|
-|DELETE|/api/v1/cages/{id}|Se elimina una jaula por ID|
-|GET|/api/v1/animals|Se obtiene la lista de animales|
-|POST|/api/v1/animals|Se publica un nuevo animal|
-|GET|/api/v1/animals/{id}|Se obtiene un animal por ID|
-|PUT|/api/v1/animals/{id}|Se modifica un animal por ID|
-|DELETE|/api/v1/animals/{id}|Se elimina un animal por ID|
-
-
-
-
-**EVIDENCIAS**
-
-**Endpoint: https://agroconnectwebservice.azurewebsites.net/api/v1/users**
-
-|Método|GET|
-|--|--|
-|Parámetros|Ninguno|
-|Resultado|![Service Documentation Get Users](img/service-documentation-get-users.png)|
-
-
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
@@ -3353,7 +3276,80 @@ Para esta entrevista, se comparte y detalla al entrevistado lo trabajado en Land
 
 
 ### 5.3.2. Registro de entrevistas.
+**Entrevista N 1 - Asesor:** 
+**Entrevistador:** Andre Valverde
+**Entrevistado:** Rodrigo Guerra
+**Link de la entrevista:** [Entrevista-Validación-1](https://youtu.be/qmgQ-3oI0fQ) 
+<img src="img/entrevista-validacion1.png" width="100%">
+**Resumen:** En la entrevista, el entrevistado expresó que encontraba útil la información presentada en la Landing Page, especialmente la sección "Sobre Nosotros", lo que le ayudó a confiar en la plataforma. Sin embargo, señaló que la información podría ser más clara y concisa. En cuanto a la Web Application, el entrevistado comentó que algunas funcionalidades, como ver calificaciones y opiniones de otros criadores sobre un asesor, eran útiles. Sin embargo, destacó que el diseño carecía de centrado en ciertos aspectos, lo que dificultaba la navegación y comprensión de la plataforma.
 
+
+**Entrevista N 2 - Asesor:** 
+**Entrevistador:** Salvador Salinas
+**Entrevistado:** Tamara García
+**Link de la entrevista:** [Entrevista-Validación-2](https://youtu.be/Zg8tn_Wtw6U)
+<img src="img/entrevista-validacion2.png" width="100%">
+**Resumen:** En esta entrevista con Tamara, se le enseñó lo desarrollado en la Landing Page y Web Application. Ella menciona que le gustó mucho la organización, imágenes y colores utilizados, ya que se relacionan muy bien con la temática de la aplicación. Además, cree que es muy fácil de utilizar, así como para ver la lista de los clientes, notificaciones y establecer horarios para ofrecer asesorías.
+
+
+**Entrevista N 3 - Asesor:**
+**Entrevistador:** Sebastian Paredes
+**Entrevistado:** Belen Ramos
+**Link de la entrevista:** [Entrevista-Validación-3](https://youtu.be/sDhv8AgRsm8)
+<img src="img/entrevista-validacion3.png" width="100%">
+**Resumen:** 
+En una entrevista con Belén, se le mostró el diseño de la Landing Page y la Aplicación Web. Ella comentó que le gustaron mucho las imágenes, ya que le dan un toque especial tanto a la Landing Page como a la Aplicación Web, y los colores empleados también le parecieron adecuados. Sin embargo, hizo algunas observaciones sobre la sección de la Problemática de la landing page, mencionando que el efecto de las tarjetas es un poco confuso para el cliente, ya que no permite ver la información de forma inmediata. A pesar de esto, destacó que la aplicación es muy fácil de usar, especialmente para ver la lista de clientes, recibir notificaciones y crear publicaciones.
+
+
+**Entrevista N 4 - Asesor:** 
+**Entrevistador:** Piero Delgado
+**Entrevistado:** Adrian Espinoza
+**Link de la entrevista:**
+[foto]
+**Resumen:**
+
+
+**Entrevista N 5 - Asesor:**
+**Entrevistador:** Nadia Lucas
+**Entrevistado:** Romina Arana
+**Link de la entrevista:** [Entrevista-Validación-5](https://youtu.be/6a6fM4r2ycQ)
+<img src="img/entrevista-validacion5.png" width="100%">
+**Resumen:**
+Romina Arana encuentra la landing page útil, bien organizada, visualmente atractiva y clara en la presentación del producto. La sección "Sobre Nosotros" le genera confianza al mostrar personas reales. La aplicación web le resulta fácil de usar, especialmente para gestionar citas y ver la lista de clientes, aunque sugiere mejorar la diferenciación de estados de citas con colores y añadir un filtro por estado. También recomienda incluir fotos de los criadores para una mejor identificación y mejorar el proceso de registro. Considera esenciales las reseñas y calificaciones para generar confianza y mejorar el servicio.
+
+
+**Entrevista N 6 - Criador:**
+**Entrevistador:** Sebastian Paredes
+**Entrevistado:** Alessandra Chaupis
+**Link de la entrevista:** [Entrevista-Validación-6](https://youtu.be/qn3Zc1dMXnc)
+<img src="img/entrevista-validacion6.png" width="100%">
+**Resumen:**
+Durante la entrevista con Alessandra, se presentaron y explicaron tanto la página de inicio como la aplicación web frontend. Ella expresó una opinión favorable sobre el contenido y el diseño de la página de inicio, elogiando el uso efectivo de las imágenes de fondo para transmitir la temática de la start-up. Asimismo, señaló que las funcionalidades de la aplicación web se adaptan a sus necesidades, destacando su facilidad de uso y contribución a una experiencia de usuario positiva.
+
+
+**Entrevista N 7 - Criador:**
+**Entrevistador:** Nadia Lucas
+**Entrevistado:** Nayeli Chavez
+**Link de la entrevista:** [Entrevista-Validación-7](https://youtu.be/rrRkUssM-VI)
+<img src="img/entrevista-validacion7.png" width="100%">
+**Resumen:** 
+Durante la entrevista, Nayeli Chavez expresó una impresión general positiva sobre la landing page, encontrando información útil, clara y concisa. Apreció especialmente la sección "Sobre Nosotros" por generar confianza en la plataforma. En cuanto a la web application, elogió la facilidad de uso de las funcionalidades, cómo registrar gastos y recursos, y la organización de la información sobre jaulas y cuyes. Sugirió mejoras como mostrar la cantidad de calificaciones de los asesores y agregar filtros de búsqueda. En resumen, destacó la estética atractiva y la facilidad de comprensión de la plataforma, mostrando interés en registrarse cuando esté disponible.
+
+
+**Entrevista N 8 - Criador:** 
+**Entrevistador:** Piero Delgado
+**Entrevistado:** Daniel Ruiz
+**Link de la entrevista:** [Entrevista-Validación-8](https://youtu.be/EkYptMkrss4)
+<img src="img/entrevista-validacion8.png" width="100%">
+**Resumen:** En esta entrevista realizada a Daniel Ruiz se le mostró tanto la Landing page como el Frontend Web Application. En primer lugar, él comenta como le impresionó positivamente tanto en el contenido como en diseño de la Landing page resaltando el buen uso de imágenes de fondo y diseño interactivo. Por otro lado, él menciona que las funcionalidades de la aplicación web se adecúan a sus necesidades, son intuitivas y fáciles de usar.
+
+
+**Entrevista N 9 - Criador:** 
+**Entrevistador:** Salvador Salinas
+**Entrevistado:** Anderson Morales
+**Link de la entrevista:** [Entrevista-Validación-9](https://youtu.be/1SiASSaTnIQ)
+<img src="img/entrevista-validacion9.png" width="100%">
+**Resumen:** En esta segunda entrevista con Anderson, se le mostró la Landing Page y Web Application. Él nos comenta que le llamó mucho la atención los elementos visuales y organización usada, así como los colores, imágenes y estilos, y que la aplicación se muestra estructurada e intuitiva. Además, menciona que le gustó mucho la vista del calendario, ya que es una vista amigable y ordenada para poder ver las citas programadas.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
