@@ -3436,7 +3436,7 @@ Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Servi
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/users
 
-![User endpoints](img/user-endpoints-swagger.PNG)
+![User endpoints](img/user-endpoints-swagger.png)
 
 |Método|GET|
 |--|--|
@@ -3446,7 +3446,7 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/users
 |Método|POST|
 |--|--|
 |Parámetros|Body: email, password, fullname, location, birthdate y description|
-|Resultado|![Service Documentation Post User](img/service-documentation-post-user.PNG)|
+|Resultado|![Service Documentation Post User](img/service-documentation-post-user.png)|
 
 |Método|GET {userId}|
 |--|--|
@@ -3503,7 +3503,7 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/breeders
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/advisors
 
-![Advisor endpoints](img/advisor-endpoints-swagger.PNG)
+![Advisor endpoints](img/advisor-endpoints-swagger.png)
 
 |Método|GET|
 |--|--|
@@ -3540,7 +3540,7 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/advisors
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/notifications
 
-![Notification endpoints](img/notification-endpoints-swagger.PNG)
+![Notification endpoints](img/notification-endpoints-swagger.png)
 
 |Método|GET|
 |--|--|
@@ -3555,74 +3555,74 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/notifications
 |Método|POST|
 |--|--|
 |Parámetros|Body: type, text, date, userId |
-|Resultado|![Service Documentation Post Notification](img/service-documentation-post-notification.PNG)|
+|Resultado|![Service Documentation Post Notification](img/service-documentation-post-notification.png)|
 
 |Método|DELETE {notificationId}|
 |--|--|
 |Parámetros|{notificationId}: Id de la notificacion|
-|Resultado|![Service Documentation Delete Notification](img/service-documentation-delete-notification.PNG)|
+|Resultado|![Service Documentation Delete Notification](img/service-documentation-delete-notification.png)|
 
 **Resources Endpoints**
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/resources
 
-![Resources endpoints](img/resource-endpoints-swagger.PNG)
+![Resources endpoints](img/resource-endpoints-swagger.png)
 
 |Método|POST|
 |--|--|
 |Parámetros|Body: name, type, quantity, date, observations y breederId|
-|Resultado|![Service Documentation Post Resource](img/post-resource.PNG)|
+|Resultado|![Service Documentation Post Resource](img/post-resource.png)|
 
 |Método|GET|
 |--|--|
 |Parámetros|Ninguno|
-|Resultado|![Service Documentation Get All Resources](img/get-all-resources.PNG)|
+|Resultado|![Service Documentation Get All Resources](img/get-all-resources.png)|
 
 |Método|GET {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
-|Resultado|![Service Documentation Get by ResourceId](img/get-by-id-resource.PNG)|
+|Resultado|![Service Documentation Get by ResourceId](img/get-by-id-resource.png)|
 
 |Método|PUT {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
-|Resultado|![Service Documentation Update Resource](img/put-resource.PNG)|
+|Resultado|![Service Documentation Update Resource](img/put-resource.png)|
 
 |Método|DELETE {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
-|Resultado|![Service Documentation Delete Resource](img/delete-resource.PNG)|
+|Resultado|![Service Documentation Delete Resource](img/delete-resource.png)|
 
 **Expenses Endpoints**
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/expenses
 
-![Expenses endpoints](img/expenses-endpoints-swagger.PNG)
+![Expenses endpoints](img/expenses-endpoints-swagger.png)
 
 |Método|POST|
 |--|--|
 |Parámetros|Body: name, type, ammount, date, observations y breederId|
-|Resultado|![Service Documentation Post Expense](img/post-expense.PNG)|
+|Resultado|![Service Documentation Post Expense](img/post-expense.png)|
 
 |Método|GET|
 |--|--|
 |Parámetros|Ninguno|
-|Resultado|![Service Documentation Get All Expenses](img/get-all-expenses.PNG)|
+|Resultado|![Service Documentation Get All Expenses](img/get-all-expenses.png)|
 
 |Método|GET {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
-|Resultado|![Service Documentation Get by ExpenseId](img/get-by-id-expense.PNG)|
+|Resultado|![Service Documentation Get by ExpenseId](img/get-by-id-expense.png)|
 
 |Método|PUT {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
-|Resultado|![Service Documentation Update Expense](img/put-expense.PNG)|
+|Resultado|![Service Documentation Update Expense](img/put-expense.png)|
 
 |Método|DELETE {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
-|Resultado|![Service Documentation Delete Expense](img/delete-expense.PNG)|
+|Resultado|![Service Documentation Delete Expense](img/delete-expense.png)|
 
 **Publications Endpoints**
 
