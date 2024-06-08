@@ -3532,12 +3532,17 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/publications
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Se decidió desplegar el Web Service en Render. Para ello, se tuvo que hacer un archivo target donde están los archivos de salida de compilación y un archivo Docker que contiene la información para que se ejecute el proyecto en Java 22.
 <img src="img/software-deployment1.png" width="100%">
+
 Entonces, con los archivos listos se entró a Render.com donde se configuró la creación del proyecto al conectarlo con la rama release del repositorio del Web Service.
 <img src="img/software-deployment2.png" width="100%">
+
 Luego, se empezó con el desplegado al darle a ‘Crear Web Service’.
 <img src="img/software-deployment3.png" width="100%">
+
 Finalmente, comprobamos el correcto funcionamiento del Web Service desplegado al entrar al swagger.
 <img src="img/software-deployment4.png" width="100%">
+
+Enlace de Backend desplegado: https://web-services-18bk.onrender.com/swagger-ui/index.html
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
