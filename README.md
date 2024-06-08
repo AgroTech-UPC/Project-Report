@@ -3369,7 +3369,7 @@ Para este sprint, hemos implementado una primera versión de la API para nuestro
 
 Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Services
 
-|Método|Endpoint (https://agroconnectwebservice.azurewebsites.net)|Descripción|
+|Método|Endpoint|Descripción|
 |--|--|--|
 |GET|/api/v1/users|Se obtiene la lista de usuarios|
 |POST|/api/v1/users|Se publica un nuevo usuario|
@@ -3501,6 +3501,33 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/expenses
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
 |Resultado|![Service Documentation Delete Expense](img/delete-expense.PNG)|
+
+**Publications Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/publications
+
+![Publications endpoints](img/publications-endpoints-swagger.PNG)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: title, description, image, date y advisorId|
+|Resultado|![Service Documentation Post Publication](img/post-publication.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Publications](img/get-all-publications.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|{publicationId}: Id de la publicación|
+|Resultado|![Service Documentation Get by PublicationId](img/get-by-id-publication.PNG)|
+
+|Método|DELETE|
+|--|--|
+|Parámetros|{publicationId}: Id de la publicación|
+|Resultado|![Service Documentation Delete Publication](img/delete-publication.PNG)|
+
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Se decidió desplegar el Web Service en Render. Para ello, se tuvo que hacer un archivo target donde están los archivos de salida de compilación y un archivo Docker que contiene la información para que se ejecute el proyecto en Java 22.
