@@ -3506,7 +3506,7 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/expenses
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/publications
 
-![Publications endpoints](img/publications-endpoints-swagger.PNG)
+![Publications endpoints](img/publications-endpoints-swagger.png)
 
 |Método|POST|
 |--|--|
