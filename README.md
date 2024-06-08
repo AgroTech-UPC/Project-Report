@@ -3566,63 +3566,63 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/notifications
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/resources
 
-![Resources endpoints](img/resource-endpoints-swagger.png)
+![Resources endpoints](img/resource-endpoints-swagger.PNG)
 
 |Método|POST|
 |--|--|
 |Parámetros|Body: name, type, quantity, date, observations y breederId|
-|Resultado|![Service Documentation Post Resource](img/post-resource.png)|
+|Resultado|![Service Documentation Post Resource](img/post-resource.PNG)|
 
 |Método|GET|
 |--|--|
 |Parámetros|Ninguno|
-|Resultado|![Service Documentation Get All Resources](img/get-all-resources.png)|
+|Resultado|![Service Documentation Get All Resources](img/get-all-resources.PNG)|
 
 |Método|GET {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
-|Resultado|![Service Documentation Get by ResourceId](img/get-by-id-resource.png)|
+|Resultado|![Service Documentation Get by ResourceId](img/get-by-id-resource.PNG)|
 
 |Método|PUT {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
-|Resultado|![Service Documentation Update Resource](img/put-resource.png)|
+|Resultado|![Service Documentation Update Resource](img/put-resource.PNG)|
 
 |Método|DELETE {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
-|Resultado|![Service Documentation Delete Resource](img/delete-resource.png)|
+|Resultado|![Service Documentation Delete Resource](img/delete-resource.PNG)|
 
 **Expenses Endpoints**
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/expenses
 
-![Expenses endpoints](img/expenses-endpoints-swagger.png)
+![Expenses endpoints](img/expenses-endpoints-swagger.PNG)
 
 |Método|POST|
 |--|--|
 |Parámetros|Body: name, type, ammount, date, observations y breederId|
-|Resultado|![Service Documentation Post Expense](img/post-expense.png)|
+|Resultado|![Service Documentation Post Expense](img/post-expense.PNG)|
 
 |Método|GET|
 |--|--|
 |Parámetros|Ninguno|
-|Resultado|![Service Documentation Get All Expenses](img/get-all-expenses.png)|
+|Resultado|![Service Documentation Get All Expenses](img/get-all-expenses.PNG)|
 
 |Método|GET {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
-|Resultado|![Service Documentation Get by ExpenseId](img/get-by-id-expense.png)|
+|Resultado|![Service Documentation Get by ExpenseId](img/get-by-id-expense.PNG)|
 
 |Método|PUT {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
-|Resultado|![Service Documentation Update Expense](img/put-expense.png)|
+|Resultado|![Service Documentation Update Expense](img/put-expense.PNG)|
 
 |Método|DELETE {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
-|Resultado|![Service Documentation Delete Expense](img/delete-expense.png)|
+|Resultado|![Service Documentation Delete Expense](img/delete-expense.PNG)|
 
 **Publications Endpoints**
 
