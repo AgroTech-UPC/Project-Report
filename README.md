@@ -264,6 +264,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En esta primera entrega, se desarrolló la idea de negocio. Para lograr esto, en lo personal tuve que realizar entrevista a un criador de cuyes para obtener mayores especificaciones sobre el problema a tratar. Del mismo modo, comunique oralmente las ideas del diseño de la aplicación web y de los diagramas de arquitectura de software mediante el proyecto.</p>
         <p><strong>TP1:</strong></p>
         <p>Para este entregable, se desarrolló el sprint 2 el cual se enfocó en el desarrollo del frontend. Dichos cambios se comunicaron oralmente mediante el video del proyecto. Además, realicé una entrevista a un asesor para tener una mayor información sobre el alcance de nuestro proyecto.</p>
+        <p><strong>TB2:</strong></p>
+        <p>Para esta entrega, se tuvo que validar los productos desarrollados. Para ello, entrevisté a un criador de cuyes y a un asesor para obtener su retroalimentación. Asimismo, comunique los nuevos cambios al proyecto mediante el video de exposición.</p>
         <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se enfocó principalmente en el diseño y desarrollo del producto, destacando el diseño de la landing page, guías de estilo, historias de usuario y la base de datos. Se priorizó que el diseño fuera intuitivo y atractivo para los usuarios, mientras cumplía con los requisitos. Esta labor fue fundamental para garantizar que el producto final satisficiera las necesidades de los usuarios y las demandas del mercado de manera efectiva.</p>
@@ -292,6 +294,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En conclusión, a través de un enfoque meticuloso, nos aseguramos de definir claramente los requisitos del proyecto, crear un diseño robusto y funcional, llevar a cabo un desarrollo cuidadoso y exhaustivo, y realizar pruebas rigurosas para garantizar la calidad y fiabilidad del producto. Parte de este proceso de definición fueron las entrevistas en las cuales nos comunicamos con nuestros segmentos objetivo para definir mejor la problemática y las funcionalidades que ayudarán a solucionarla. Estos hallazgos se vieron reflejados en la exposición del primer avance donde explicamos a detalle todos los aspectos desarrollados durante la primera entrega.</p>
         <p><strong>TP1:</strong></p>
         <p>En resumen, durante esta etapa del proyecto, implementamos las mejoras sugeridas por el profesor, las cuales incluyeron la adición de más historias técnicas y la mejora del diseño de la landing page siguiendo buenas prácticas. Además, todos los integrantes del equipo completaron con éxito todas las actividades asignadas en el segundo sprint. Este progreso se refleja claramente en el tablero de Trello correspondiente al sprint.</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, para esta entrega se comunicó con los segmentos objetivo para obtener retroalimentación de nuestro avance con los productos de software. Asimismo, se desarrollaron los videos About-The-Product y About-The-Team que muestran de una forma creativa como hemos desarrollado nuestra propuesta.</p>
       </td>
     </tr>
     <tr>
@@ -302,6 +306,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Durante esta primera entrega, comunique de forma escrita mis ideas mediante la realización del informe del trabajo en Github con el lenguaje Markdown. Asimismo, mostré los resultados de las entrevistas mediante tablas y gráficos que mostraban con objetividad los hallazgos obtenidos.</p>
         <p><strong>TP1:</strong></p>
         <p>Para esta entrega, comunique de forma escrita las mejoras realizadas a los diagramas de domain driven design y del diseño de la base de datos en el informe del trabajo. Del mismo modo, con los cambios realizados al landing page se pudo expresar de mejor manera nuestras funcionalidades y alcances a los segmentos objetivos.</p>
+        <p><strong>TB2:</strong></p>
+        <p>Para este avance, comunique de forma escrita los cambios a los productos de software que hemos creado y documente las entrevistas que realicé.</p>
         <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se facilitó una comunicación clara y precisa sobre el diseño y desarrollo del producto a través de diferentes áreas, incluyendo el diseño de las guías de estilo, las historias de usuario y el diseño de la base de datos. Esta comunicación efectiva fue esencial para mantener informados a todos los miembros del equipo, independientemente de su nivel de experiencia técnica, y promovió una colaboración exitosa.</p>
@@ -331,6 +337,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En conclusión, para esta primera entrega nos comunicamos de forma escrita mediante nuestro informe en el cual desarrollamos nuestra idea de negocio utilizando convenciones para facilitar la comprensión del proceso. Asimismo, la comunicación directa entre los miembros del equipo fue clave para la resolución de problemas y planificación de plazos para alcanzar los objetivos planteados.</p>
         <p><strong>TP1:</strong></p>
         <p>En resumen, para esta entrega se enfatizó en mejorar mediante el feedback proporcionado por el profesor y un autoanálisis. Por lo tanto, nos comunicamos de forma escrita en el informe del proyecto, buscando mejorar tanto el formato como el contenido para mostrar nuestras ideas de manera más objetiva.</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, para esta entrega nos comunicamos de forma escrita mediante la documentación de nuestros avances en los productos de software y validaciones de dichos productos como con la evaluación de heurísticas.</p>
       </td>
     </tr>
   </tbody>
