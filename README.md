@@ -3663,6 +3663,35 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/publications
 |Parámetros|{publicationId}: Id de la publicación|
 |Resultado|![Service Documentation Delete Publication](img/delete-publication.png)|
 
+**Appointments Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/appointments
+
+![Appointments endpoints](img/appointments-endpoints-swagger.png)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: breederId, advisorId, date y status|
+|Resultado|![Service Documentation Post Appointment](img/post-appointment.png)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Appointments](img/get-all-appointments.png)|
+
+|Método|GET {appointmentId}|
+|--|--|
+|Parámetros|{appointmentId}: Id del appointment|
+|Resultado|![Service Documentation Get by AppointmentId](img/get-by-id-appointment.png)|
+
+|Método|PUT|
+|--|--|
+|Parámetros|{appointmentId}: Id del appointment|
+|Resultado|![Service Documentation Update Appointment](img/put-appointment.png)|
+
+
+
+
 **Cages Endpoints**
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/cages
