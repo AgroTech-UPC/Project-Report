@@ -4113,6 +4113,17 @@ Screenshot del video:
 
 ## Video About-The-Team
 
+En el video About-The-Team cada miembro de la Startup ha mencionado cuales han sido sus roles en el desarrollo de este trabajo, que objetivos han alcanzado y como han desarrollado el Student Outcome a lo largo del proyecto.
+
+Screenshot del video: 
+
+![Imagen de Video About-The-Team](img/VideoAbout-The-Team.png)
+
+**Enlace al vídeo de YouTube:** [Video About-the-Team Youtube](https://youtu.be/Fbaa3aUjwbM)
+
+**Enlace al vídeo de Microsoft Stream:** [Video About-The-Team Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/ESc3Cl-aC29Jjx7C62HlACAB2WcFdE5CjFFBwOL6-Y2jaQ)
+
+**Duración del vídeo:** 8:01
 
 # Bibliografía
 
