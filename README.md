@@ -2105,21 +2105,25 @@ _Imagen 112. Diagrama de componentes - Cita_
 ### 4.7.1 Class Diagrams
 
 **User BC Class Diagram**
+
 <img src="img/class_diagram_user.png" width="100%">
 
 _Imagen 113. Diagrama de Clases User Bounded Context_
 
 **Management BC Class Diagram**
+
 <img src="img/class_diagram_management.png" width="100%">
 
 _Imagen 114. Diagrama de Clases Management Bounded Context_
 
 **Appointment BC Class Diagram**
+
 <img src="img/class_diagram_appointment.png" width="70%">
 
 _Imagen 115. Diagrama de Clases Apointment Bounded Context_
 
 **Publication BC Class Diagram**
+
 <img src="img/class_diagram_publication.png" width="70%">
 
 _Imagen 116. Diagrama de Clases Publication Bounded Context_
