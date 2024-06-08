@@ -3511,22 +3511,22 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/publications
 |Método|POST|
 |--|--|
 |Parámetros|Body: title, description, image, date y advisorId|
-|Resultado|![Service Documentation Post Publication](img/post-publication.PNG)|
+|Resultado|![Service Documentation Post Publication](img/post-publication.png)|
 
 |Método|GET|
 |--|--|
 |Parámetros|Ninguno|
-|Resultado|![Service Documentation Get All Publications](img/get-all-publications.PNG)|
+|Resultado|![Service Documentation Get All Publications](img/get-all-publications.png)|
 
 |Método|GET|
 |--|--|
 |Parámetros|{publicationId}: Id de la publicación|
-|Resultado|![Service Documentation Get by PublicationId](img/get-by-id-publication.PNG)|
+|Resultado|![Service Documentation Get by PublicationId](img/get-by-id-publication.png)|
 
 |Método|DELETE|
 |--|--|
 |Parámetros|{publicationId}: Id de la publicación|
-|Resultado|![Service Documentation Delete Publication](img/delete-publication.PNG)|
+|Resultado|![Service Documentation Delete Publication](img/delete-publication.png)|
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
