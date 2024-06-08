@@ -3442,7 +3442,7 @@ Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Servi
 
 **Resources Endpoints**
 
-Endpoint: https://web-services-18bk.onrender.com/api/v1/resources
+Url: https://web-services-18bk.onrender.com/api/v1/resources
 
 ![Resources endpoints](img/resource-endpoints-swagger.PNG)
 
@@ -3473,7 +3473,7 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/resources
 
 **Expenses Endpoints**
 
-Endpoint: https://web-services-18bk.onrender.com/api/v1/expenses
+Url: https://web-services-18bk.onrender.com/api/v1/expenses
 
 ![Expenses endpoints](img/expenses-endpoints-swagger.PNG)
 
@@ -3501,6 +3501,74 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/expenses
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
 |Resultado|![Service Documentation Delete Expense](img/delete-expense.PNG)|
+
+**Cages Endpoints**
+
+Url: https://web-services-18bk.onrender.com/api/v1/cages
+
+![Cages Endpoints](img/cages-endpoints-swagger.PNG)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: name, type, ammount, date, observations y breederId|
+|Resultado|![Service Documentation Post Cage](img/post-cage.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Cages](img/get-all-cages.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|{cageId}: Id de la jaula|
+|Resultado|![Service Documentation Get by cageId](img/get-by-id-cage.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|{cageId}: Id de la jaula|
+|Resultado|![Service Documentation Get All animals by cageId](img/get-all-animals-by-cageId.PNG)|
+
+|Método|PUT|
+|--|--|
+|Parámetros|{cageId}: Id de la jaula|
+|Resultado|![Service Documentation Update Cage](img/put-cage.PNG)|
+
+|Método|DELETE|
+|--|--|
+|Parámetros|{cageId}: Id de la jaula|
+|Resultado|![Service Documentation Delete Cage](img/delete-cage.PNG)|
+
+**Animals Endpoints**
+
+Url: https://web-services-18bk.onrender.com/api/v1/animals
+
+![Animals Endpoints](img/animal-endpoints-swagger.PNG)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: name, breed, gender, birthdate, weight, isSick, observations, cageId|
+|Resultado|![Service Documentation Post Animal](img/post-animal.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Animals](img/get-all-animals.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|{animalId}: Id de la animal|
+|Resultado|![Service Documentation Get by animalId](img/get-by-id-animal.PNG)|
+
+|Método|PUT|
+|--|--|
+|Parámetros|{animalId}: Id de la animal|
+|Resultado|![Service Documentation Update Animal](img/put-animal.PNG)|
+
+|Método|DELETE|
+|--|--|
+|Parámetros|{animalId}: Id de la animal|
+|Resultado|![Service Documentation Delete Animal](img/delete-animal.PNG)|
+
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Se decidió desplegar el Web Service en Render. Para ello, se tuvo que hacer un archivo target donde están los archivos de salida de compilación y un archivo Docker que contiene la información para que se ejecute el proyecto en Java 22.
