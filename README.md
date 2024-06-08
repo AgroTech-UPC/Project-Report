@@ -2104,243 +2104,249 @@ _Imagen 112. Diagrama de componentes - Cita_
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1 Class Diagrams
 
-<img src="img/class_diagram_appointment.png">
+**User BC Class Diagram**
+<img src="img/class_diagram_user.png" width="100%">
 
-_Imagen 113. Diagrama de Clases Apointment Bounded Context_
+_Imagen 113. Diagrama de Clases User Bounded Context_
 
-<img src="img/class_diagram_management.png">
+**Management BC Class Diagram**
+<img src="img/class_diagram_management.png" width="100%">
 
 _Imagen 114. Diagrama de Clases Management Bounded Context_
 
-<img src="img/class_diagram_publication.png">
+**Appointment BC Class Diagram**
+<img src="img/class_diagram_appointment.png" width="70%">
 
-_Imagen 115. Diagrama de Clases Publication Bounded Context_
+_Imagen 115. Diagrama de Clases Apointment Bounded Context_
 
-<img src="img/class_diagram_user.png">
+**Publication BC Class Diagram**
+<img src="img/class_diagram_publication.png" width="70%">
 
-_Imagen 116. Diagrama de Clases User Bounded Context_
-
+_Imagen 116. Diagrama de Clases Publication Bounded Context_
 
 
 ### 4.7.2. Class Dictionary.
 
-**User Bounded Context**
+#### User Bounded Context
 
-|User|
-| - |
-|Es la interfaz que representa a un usuario general dentro de la aplicación. Tiene relación de asociación con User Factory.|
+**User (Aggregate)**
+La clase User contiene toda la información de un usuario registrado dentro de la aplicación.
 
-|Advisor|
-| - |
-|Es la clase que representa un asesor dentro de la aplicación. Es una clase hija de User, por lo que tiene relación de herencia con User.|
+**Atributos:**
+- id: int - Identificador único del usuario
+- fullname: Fullname - Nombre completo del usuario
+- emailAddress: EmailAddress - Correo electrónico del usuario
+- password: Password - Contraseña del usuario
+- location: Location - Ubicación del usuario
+- birthDate: BirthDate - Fecha de nacimiento del usuario
+- description: Description - Descripción del usuario
 
-|Breeder|
-| - |
-|Es la clase que representa un criador dentro de la aplicación. Es una clase hija de User, por lo que tiene relación de herencia con User.|
+**Métodos:**
+- getUser(): Devuelve los detalles del usuario.
+- updateUser(): Actualiza los detalles del usuario.
 
-|UserFactory||
-| - | :- |
-|Es la clase que se encarga de la creación de los usuarios, es clase hija de UserManager. Tiene relación de asociación con User y relación de herencia con UserManager.||
-|createUser()|Método que implementa la creación de un nuevo objeto.|
+-----
 
-|UserManager||
-| - | :- |
-|Es la clase que se encarga de la gestión de los usuarios. Tiene relación de herencia con UserFactory.||
-|createUser()|Método que implementa la creación de un nuevo objeto User.|
-|getUser()|Método que obtiene información de un usuario específico.|
-|updateUser()|Método que permite actualizar los atributos de un usuario específico.|
-|deleteUser()|Método que permite eliminar a un usuario específico.|
+**Breeder (Entity)**
+La clase Breeder representa a un criador dentro de la aplicación y tiene una relación de dependencia con User.
 
-|AdvisorFactory||
-| - | :- |
-|Es la clase que se encarga de la creación de los usuarios de tipo Advisor. Es clase hija de UserFactory. Tiene relación de herencia con UserManager.||
-|createUser()|Método que implementa la creación de un nuevo objeto Advisor.|
+**Atributos:**
+- id: int - Identificador único del criador
+- userId: int - Identificador del usuario
 
-|BreederFactory||
-| - | :- |
-|Es la clase que se encarga de la creación de los usuarios de tipo Breeder. Es clase hija de UserFactory. Tiene relación de herencia con UserManager.||
-|createUser()|Método que implementa la creación de un nuevo objeto Breeder.|
+**Métodos:**
+- getBreeder(): Devuelve los detalles del criador.
 
-**Management Bounded Context**
+-----
 
-|Breeder|
-| - |
-|Es la clase que representa un criador dentro de la aplicación y tiene una relación de asociación con la clase Farm.|
+**Advisor (Entity)**
+La clase Advisor representa a un asesor dentro de la aplicación y tiene una relación de dependencia con User.
 
-|Farm|
-| - |
-|Es la clase que representa la colección de recursos, gastos y animales del criador. Por lo que, tiene una relación de agregación con dichas clases.|
+**Atributos:**
+- id: int - Identificador único del asesor
+- occupation: string - Ocupación del asesor
+- experience: int - Años de experiencia del asesor
+- photo: string - Foto del asesor
+- rating: int - Calificación del asesor
+- userId: int - Identificador del usuario
 
-|Cage||
-| - | :- |
-|Es la clase que representa las jaulas donde están los cuyes. Entonces, tiene una relación de composición con Animal. Además, actúa como Director en el patrón Builder para registrar un animal porque este invoca al Builder.||
-|getAnimals()|Método para obtener el conjunto de cuyes de la jaula.|
-|registerAnimal()|Método para registrar un cuy usando el patrón Builder.|
+-----
 
-|Animal|
-| - |
-|Es la clase que representa a los cuyes que crían los criadores.|
+**AvailableDate (Entity)**
+La clase AvailableDate representa las fechas disponibles de un asesor para programar citas.
 
-|Builder||
-| - | :- |
-|Es la clase que define los métodos para crear un Animal por parte y declara los pasos para crear un objeto Animal. ||
-|setName()|Método para ponerle el nombre a un cuy.|
-|setBreed()|Método para señalar la raza de un cuy.|
-|setGender()|Método para indicar el género de un cuy.|
-|setBirthDate()|Método para señalar la fecha de nacimiento de un cuy.|
-|setStatus()|Método para indicar el estado de un cuy.|
-|setCage()|Método para indicar la jaula donde habita un cuy.|
-|setWeight()|Método para señalar el peso de un cuy.|
-|setObservation()|Método para indicar observaciones adicionales de un cuy.|
+**Atributos:**
+- id: int - Identificador único de la fecha disponible
+- date: LocalDate - Fecha disponible
+- startTime: LocalTime - Hora de inicio
+- endTime: LocalTime - Hora de fin
+- status: boolean - Estado de la fecha disponible
+- advisorId: int - Identificador del asesor
 
-|AnimalBuilder||
-| - | :- |
-|Es una implementación específica del Builder que permite crear a un animal.||
-|setName()|Método para ponerle el nombre a un cuy.|
-|setBreed()|Método para señalar la raza de un cuy.|
-|setGender()|Método para indicar el género de un cuy.|
-|setBirthDate()|Método para señalar la fecha de nacimiento de un cuy.|
-|setStatus()|Método para indicar el estado de un cuy.|
-|setCage()|Método para indicar la jaula donde habita un cuy.|
-|setWeight()|Método para señalar el peso de un cuy.|
-|setObservation()|Método para indicar observaciones adicionales de un cuy.|
-|getAnimal()|Método para obtener el objeto Animal.|
+**Métodos:**
+- getAvailableDate(): Devuelve los detalles de la fecha disponible.
+- getStatus(): Devuelve el estado de la fecha disponible.
 
-|Expense|
-| - |
-|Es una interfaz que representa un gasto del criador.|
+-----
 
-|FoodExpense|
-| - |
-|Es una implementación de un gasto específicamente un gasto de comida para cuyes del criador.|
+#### Management Bounded Context
 
+**Cage (Aggregate)**
+La clase Cage contiene toda la información de una jaula de cuyes.
 
-|HealthExpense|
-| - |
-|Es una implementación de un gasto específicamente un gasto realizado para mantener la salud de los cuyes del criador.|
+**Atributos:**
+- id: int - Identificador único de la jaula
+- name: Name - Nombre de la jaula
+- size: Size - Tamaño de la jaula
+- observations: Observations - Observaciones de la jaula
+- breederId: int - Identificador del criador
 
-|MaintenanceExpense|
-| - |
-|Es una implementación de un gasto específicamente un gasto realizado para mantener el galpón del criador, pueden ser productos de limpieza, nuevas jaulas, etc.|
+**Métodos:**
+- getCage(): Devuelve los detalles de la jaula.
+- updateCage(): Actualiza los detalles de la jaula.
 
-|ExpenseFactory||
-| - | :- |
-|Es la clase que define la creación de gastos. ||
-|createExpense()|Método para la creación de un nuevo gasto.|
+-----
 
-|FoodExpenseFactory||
-| - | :- |
-|Es la clase que define la creación de gastos sobre comida. ||
-|createExpense()|Método que sobreescribe la creación de un nuevo gasto para que sea un gasto de comida.|
+**Animal (Entity)**
+La clase Animal representa a un cuy dentro de una jaula.
 
-|HealthExpenseFactory||
-| - | :- |
-|Es la clase que define la creación de gastos sobre salud de los cuyes. ||
-|createExpense()|Método que sobreescribe la creación de un nuevo gasto para que sea un gasto relacionado con la salud de los cuyes.|
+**Atributos:**
+- id: int - Identificador único del cuy
+- name: Name - Nombre del cuy
+- breed: Breed - Raza del cuy
+- gender: Gender - Género del cuy
+- birthDate: BirthDate - Fecha de nacimiento del cuy
+- weight: Weight - Peso del cuy
+- isSick: isSick - Estado de salud del cuy
+- observations: Observations - Observaciones del cuy
+- cageId: int - Identificador de la jaula
 
-|MaintenanceExpenseFactory||
-| - | :- |
-|Es la clase que define la creación de gastos sobre mantenimiento del galpón. ||
-|createExpense()|Método que sobreescribe la creación de un nuevo gasto para que sea un gasto relacionado con el mantenimiento del galpón.|
+**Métodos:**
+- getAnimal(): Devuelve los detalles del cuy.
+- updateAnimal(): Actualiza los detalles del cuy.
 
-|Resource|
-| - |
-|Es una interfaz que representa un recurso que el criador posee.|
+-----
 
+**Resource (Aggregate)**
+La clase Resource contiene toda la información de un recurso utilizado en la granja.
 
-|FoodResource|
-| - |
-|Es una implementación de un recurso, en este caso el recurso sería comida para cuyes.|
+**Atributos:**
+- id: int - Identificador único del recurso
+- name: Name - Nombre del recurso
+- resourceType: ResourceType - Tipo de recurso
+- quantity: Quantity - Cantidad del recurso
+- date: DateOfCreation - Fecha de creación del recurso
+- observations: Observations - Observaciones del recurso
+- breederId: int - Identificador del criador
 
-|MedicineResource|
-| - |
-|Es una implementación de un recurso, en este caso el recurso sería medicina para cuyes.|
+**Métodos:**
+- getResource(): Devuelve los detalles del recurso.
+- updateResource(): Actualiza los detalles del recurso.
 
-|EquipmentResource|
-| - |
-|Es una implementación de un recurso, en este caso el recurso sería equipamiento necesario para el mantenimiento del galpón puede ser por ejemplo nuevas jaulas.|
+-----
 
-|ResourceFactory||
-| - | :- |
-|Es la clase que define la creación de recursos. ||
-|createResource()|Método para la creación de un nuevo recurso.|
+**Expense (Aggregate)**
+La clase Expense contiene toda la información de un gasto realizado por un criador.
 
-|FoodResourceFactory||
-| - | :- |
-|Es la clase que define la creación de recursos de comida. ||
-|createResource()|Método que sobreescribe la creación de un nuevo recurso para que sea un recurso de tipo comida.|
+**Atributos:**
+- id: int - Identificador único del gasto
+- name: Name - Nombre del gasto
+- expenseType: ExpenseType - Tipo de gasto
+- amount: Amount - Monto del gasto
+- date: DateOfCreation - Fecha de creación del gasto
+- observations: Observations - Observaciones del gasto
+- breederId: int - Identificador del criador
 
-|MedicineResourceFactory||
-| - | :- |
-|Es la clase que define la creación de recurso sobre medicina para los cuyes. ||
-|createResource()|Método que sobreescribe la creación de un nuevo recurso para que sea un recurso relacionado con medicina para cuyes.|
+**Métodos:**
+- getExpense(): Devuelve los detalles del gasto.
+- updateExpense(): Actualiza los detalles del gasto.
 
-|EquipmentResourceFactory||
-| - | :- |
-|Es la clase que define la creación de gastos de equipamiento. ||
-|createResource()|Método que sobreescribe la creación de un nuevo recurso para que sea un gasto relacionado con equipamiento como nuevas jaulas.|
+-----
 
-**Appointment Bounded Context**
+#### Appointment Bounded Context
 
-|Breeder||
-| - | :- |
-|Es la clase que representa un criador dentro de la aplicación. Es la clase que representa un asesor dentro de la aplicación. Implementa la interfaz “Observer” y definen su propio método ‘update()’ para recibir notificaciones.||
-|update()|Cuando la fecha de la cita se acerca o cambia, la clase Appointment puede invocar el método update() en “Breeder”. Por ejemplo, si la fecha actual es igual a la fecha de la cita menos un día, el Appointment podría notificar al “Breeder” de dicho cambio; o también, cuando ya es la fecha de la cita.|
+**Appointment (Aggregate)**
+La clase Appointment contiene toda la información de una cita programada entre un criador y un asesor.
 
-|Advicer||
-| - | :- |
-|Es la clase que representa un asesor dentro de la aplicación. Implementa la interfaz “Observer” y definen su propio método ‘update()’ para recibir notificaciones.||
-|update()|Cuando la fecha de la cita se acerca o cambia, la clase Appointment puede invocar el método update() en “Advicer”. Por ejemplo, si la fecha actual es igual a la fecha de la cita menos un día, el Appointment podría notificar al “Advicer” de dicho cambio; o también, cuando ya es la fecha de la cita.|
+**Atributos:**
+- id: int - Identificador único de la cita
+- date: DateAppointment - Fecha de la cita
+- status: Status - Estado de la cita
+- breederId: int - Identificador del criador
+- advisorId: int - Identificador del asesor
 
-|Appointment||
-| - | :- |
-|Es la clase que representa una cita entre el asesor y el criador de cuyes.||
-|getDate()|Método que obtiene la fecha de la cita y luego compararla con la fecha actual para determinar si se debe enviar una notificación.|
-|setDate()|Se utiliza para establecer la fecha inicial de la cita|
+**Métodos:**
+- getAppointment(): Devuelve los detalles de la cita.
+- updateAppointment(): Actualiza los detalles de la cita.
 
-|Observer||
-| - | :- |
-|La interfaz Observer establece un acuerdo para los objetos interesados en recibir avisos sobre modificaciones en un objeto que puede ser observado.||
-|update()|Método que se llama cuando la fecha del “Appointment” cambia y/o ya es la fecha de la cita necesita notificar a sus observadores.|
+-----
 
+**DateAppointment (ValueObject)**
+La clase DateAppointment representa la fecha de una cita programada.
 
-Publication Bounded Context
+**Atributos:**
+- date: Date - Fecha de la cita
 
-|Advisor||
-| - | :- |
-|Es la clase que representa un asesor dentro de la aplicación en el contexto de sus publicaciones||
-|createPublication()|Método que crea una publicación.|
-|updatePublication()|Método que actualiza la información de una publicación|
-|deletePublication()|Método para eliminar una publicación|
+**Métodos:**
+- getDateAppointment(): Devuelve la fecha de la cita.
+- setDateAppointment(): Establece la fecha de la cita.
 
-|Publications|
-| - |
-|Es una interfaz que representa las publicaciones de un asesor|
+-----
 
-|Publication||
-| - | :- |
-|Es la clase que representa una publicación hecha por un asesor||
-|title|Título de la publicación|
-|description|Descripción de la publicación|
-|photo|Imagen que va en la publicación|
-|getTitle()|Método que obtiene el título de la publicación|
-|getDescription()|Método que obtiene la descripción de la publicación|
-|getPhoto()|Método que obtiene la imagen de la publicación|
-|Publication(PublicationAdvisorBuilder)|Método constructor utilizado para construir instancias de “Publication” utilizando los valores configurados en el “PublicationAdvisorBuilder”|
+**Status (ValueObject)**
+La Enum Status representa el estado de una cita programada.
 
+**Atributos:**
+- PENDIENTE: Estado de la cita pendiente
+- TERMINADO: Estado de la cita terminada
 
-|PublicationAdvisorBuilder||
-| - | :- |
-|Es la clase que facilita la construcción paso a paso de objetos “Publication”||
-|title|Título de la publicación|
-|description|Descripción de la publicación|
-|photo|Imagen que va en la publicación|
-|setTitle()|Método que establece el título de la publicación|
-|setDescription()|Método que establece la descripción de la publicación|
-|getPhoto()|Método que establece la imagen de la publicación|
-|build()|Método responsable de finalizar el proceso de construcción del objeto “Publication” y devuelve la instancia completa del mismo|
+-----
 
+**Review (Entity)**
+La clase Review representa la reseña de un asesor realizada por un criador.
 
+**Atributos:**
+- id: int - Identificador único de la reseña
+- comment: string - Comentario de la reseña
+- rating: int - Calificación de la reseña
+- appointmentId: int - Identificador de la cita
+
+**Métodos:**
+- getReview(): Devuelve los detalles de la reseña.
+
+-----
+
+#### Publication Bounded Context
+
+**Publication (Aggregate)**
+La clase Publication contiene toda la información de una publicación realizada por un asesor.
+
+**Atributos:**
+- id: int - Identificador único de la publicación
+- publicationContent: PublicationContent - Contenido de la publicación
+- date: Date - Fecha de la publicación
+- advisorId: int - Identificador del asesor
+
+**Métodos:**
+- getPublication(): Devuelve los detalles de la publicación.
+
+-----
+
+**PublicationContent (ValueObject)**
+La clase PublicationContent representa el contenido de una publicación.
+
+**Atributos:**
+- title: string - Título de la publicación
+- description: string - Descripción de la publicación
+- image: string - Imagen de la publicación
+
+**Métodos:**
+- getTitle(): Devuelve el título de la publicación.
+- setTitle(): Establece el título de la publicación.
+- getDescription(): Devuelve la descripción de la publicación.
+- setDescription(): Establece la descripción de la publicación.
+- getImage(): Devuelve la imagen de la publicación.
+- setImage(): Establece la imagen de la publicación.
 
 
 ## 4.8 Database Design
