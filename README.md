@@ -3432,13 +3432,135 @@ Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Servi
 
 **EVIDENCIAS**
 
-**Endpoint: https://agroconnectwebservice.azurewebsites.net/api/v1/users**
+**User Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/users
+
+![User endpoints](img/user-endpoints-swagger.PNG)
 
 |Método|GET|
 |--|--|
 |Parámetros|Ninguno|
 |Resultado|![Service Documentation Get Users](img/service-documentation-get-users.png)|
 
+|Método|POST|
+|--|--|
+|Parámetros|Body: email, password, fullname, location, birthdate y description|
+|Resultado|![Service Documentation Post User](img/service-documentation-post-user.PNG)|
+
+|Método|GET {userId}|
+|--|--|
+|Parámetros|{userId}: Id del usuario|
+|Resultado|![Service Documentation Get User by Id](img/service-documentation-get-user-id.png)|
+
+|Método|GET {userId}/notifications|
+|--|--|
+|Parámetros|{userId}: Id del usuario|
+|Resultado|![Service Documentation Get Notifications by Id](img/service-documentation-get-user-notifications.png)|
+
+**Breeder Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/breeders
+
+![Breeder endpoints](img/breeder-endpoints-swagger.png)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Breeders](img/service-documentation-get-breeders.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: userId|
+|Resultado|![Service Documentation Post Breeder](img/service-documentation-post-breeder.png)|
+
+|Método|GET {breederId}|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Breeder by Id](img/service-documentation-get-breeder-id.png)|
+
+|Método|GET {breederId}/resources|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Resources by Id](img/service-documentation-get-breeder-resources.png)|
+
+|Método|GET {breederId}/expenses|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Expenses by Id](img/service-documentation-get-breeder-expenses.png)|
+
+|Método|GET {breederId}/cages|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Cages by Id](img/service-documentation-get-breeder-cages.png)|
+
+|Método|GET {breederId}/appointments|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Appointments by Id](img/service-documentation-get-breeder-appointments.png)|
+
+**Advisor Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/advisors
+
+![Advisor endpoints](img/advisor-endpoints-swagger.PNG)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Advisors](img/service-documentation-get-advisors.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: occupation, experience, photo, rating, userId|
+|Resultado|![Service Documentation Post Advisor](img/service-documentation-post-advisor.png)|
+
+|Método|GET {advisorId}|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Advisor by Id](img/service-documentation-get-advisor-id.png)|
+
+|Método|GET {advisorId}/publications|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Publications by Id](img/service-documentation-get-advisor-publications.png)|
+
+|Método|GET {advisorId}/available-dates|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Available Dates by Id](img/service-documentation-get-advisor-available-dates.png)|
+
+|Método|GET {advisorId}/appointments|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Appointments by Id](img/service-documentation-get-advisor-appointments.png)|
+
+
+**Notification Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/notifications
+
+![Notification endpoints](img/notification-endpoints-swagger.PNG)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Notifications](img/service-documentation-get-notifications.png)|
+
+|Método|GET {notificationId}|
+|--|--|
+|Parámetros|{notificationId}: Id de la notificacion|
+|Resultado|![Service Documentation Get Notification by Id](img/service-documentation-get-notification-id.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: type, text, date, userId |
+|Resultado|![Service Documentation Post Notification](img/service-documentation-post-notification.PNG)|
+
+|Método|DELETE {notificationId}|
+|--|--|
+|Parámetros|{notificationId}: Id de la notificacion|
+|Resultado|![Service Documentation Delete Notification](img/service-documentation-delete-notification.PNG)|
 
 **Resources Endpoints**
 
@@ -3456,17 +3578,17 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/resources
 |Parámetros|Ninguno|
 |Resultado|![Service Documentation Get All Resources](img/get-all-resources.PNG)|
 
-|Método|GET|
+|Método|GET {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
 |Resultado|![Service Documentation Get by ResourceId](img/get-by-id-resource.PNG)|
 
-|Método|PUT|
+|Método|PUT {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
 |Resultado|![Service Documentation Update Resource](img/put-resource.PNG)|
 
-|Método|DELETE|
+|Método|DELETE {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
 |Resultado|![Service Documentation Delete Resource](img/delete-resource.PNG)|
@@ -3487,17 +3609,17 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/expenses
 |Parámetros|Ninguno|
 |Resultado|![Service Documentation Get All Expenses](img/get-all-expenses.PNG)|
 
-|Método|GET|
+|Método|GET {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
 |Resultado|![Service Documentation Get by ExpenseId](img/get-by-id-expense.PNG)|
 
-|Método|PUT|
+|Método|PUT {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
 |Resultado|![Service Documentation Update Expense](img/put-expense.PNG)|
 
-|Método|DELETE|
+|Método|DELETE {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
 |Resultado|![Service Documentation Delete Expense](img/delete-expense.PNG)|
@@ -3518,12 +3640,12 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/publications
 |Parámetros|Ninguno|
 |Resultado|![Service Documentation Get All Publications](img/get-all-publications.png)|
 
-|Método|GET|
+|Método|GET {publicationId}|
 |--|--|
 |Parámetros|{publicationId}: Id de la publicación|
 |Resultado|![Service Documentation Get by PublicationId](img/get-by-id-publication.png)|
 
-|Método|DELETE|
+|Método|DELETE {publicationId}|
 |--|--|
 |Parámetros|{publicationId}: Id de la publicación|
 |Resultado|![Service Documentation Delete Publication](img/delete-publication.png)|
