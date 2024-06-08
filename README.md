@@ -3392,6 +3392,13 @@ Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
+En esta sección, se detallará lo avanzado en el tercer sprint, el cual incluye el despliegue del servicio web en Swagger y la implementación de la aplicación web frontend de AgroConnect utilizando los servicios de los endpoints, así como un nuevo rediseño estético en la parte del Frontend.
+
+**URL de video:**
+[Execution Evidence](https://youtu.be/ueAYE7vl_MI)
+
+<img src="img/execution_evidence_tb3.png" width="100%"> 
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
