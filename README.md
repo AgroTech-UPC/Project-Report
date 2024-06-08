@@ -1235,7 +1235,7 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |US07|Notificación de citas al criador|**Como** criador de cuyes **quiero** recibir notificaciones referentes al estado de mis citas **para** mantenerme al tanto de las asesorías que he solicitado.|<p>**Escenario 1: Ver notificaciones de cita programadas con los asesores**</p><p>**Given** el criador desea ver sus notificaciones de citas programadas.</p><p>**When** se encuentre en el apartado de “Notificaciones”</p><p>**Then** el sistema le mostrará un mensaje que describe brevemente la solicitud.</p><p></p><p>**Scenario 2: Aceptar notificación de cita programada con el asesor**</p><p>**Given** que el criador decide cerrar la notificación para liberar espacio y permitir la visualización de otras notificaciones.</p><p>**And** se encuentra en la sección de "Notificaciones" del sistema.</p><p>**When** haga clic en el botón "Aceptar" dentro de la notificación correspondiente a la cita programada con el asesor.</p><p>**Then** el sistema eliminará la notificación de la lista de notificaciones.</p><p></p>|E01|
 |US08|Calificación del asesor luego de una cita|**Como** criador de cuyes **quiero** calificar al asesor luego de la consulta **para** ayudar a otros criadores a tomar una decisión informada antes de separar una cita.|<p>**Escenario 1: Calificar al asesor**</p><p>**Given** el criador desea hacer un feedback referente al servicio del asesor.</p><p>**And** se encuentra en la vista de calificación del servicio.</p><p>**When** haga clic en el botón “Calificar Servicio”</p><p>**Then** el sistema le permitirá asignarle un número de estrellas y reseñar el servicio del asesor.</p><p></p><p>**Escenario 2: Omitir Calificación**</p><p>**Given** el criador no desea dar feedback al asesor referente al servicio.</p><p>**And** se encuentra en la vista de calificación del servicio.</p><p>**When** haga clic en el botón “Omitir calificación”</p><p>**Then** el sistema le permitirá omitir la reseña.</p>|E01|
 |US09|Gestión de publicaciones de asesores|**Como** asesor **quiero** hacer publicaciones referentes a mis trabajos **para** que los criadores tengan más confianza en mí.|<p>**Escenario 1: Crear una nueva publicación**</p><p>**Given** el asesor desea crear una publicación.</p><p>**And** está en el apartado de "Mis Publicaciones".</p><p>**When** hace clic en el botón "Crear Publicación" de la Sidebar.</p><p>**Then** se le redirige a un formulario donde puede ingresar el contenido de su nueva publicación.</p><p>**And** después de completar el contenido, hace clic en el botón "Publicar".</p><p>**Then** el sistema le mostrará un mensaje de confirmación.</p><p></p><p>**Escenario 2: Editar una publicación existente**</p><p>**Given** el asesor desea editar una publicación existente.</p><p>**And** está en el apartado de "Mis Publicaciones" de la Sidebar.</p><p>**And** tiene una publicación previamente creada.</p><p>**When** selecciona la opción de editar en la publicación que desea modificar.</p><p>**Then** se le redirige al formulario de edición donde puede modificar el contenido de la publicación.</p><p>**And** después de realizar los cambios deseados, hace clic en el botón "Guardar Cambios".</p><p>**Then** el sistema le mostrará un mensaje de confirmación y los cambios se reflejan en la publicación actualizada.</p><p></p><p>**Escenario 3: Eliminar una publicación existente**</p><p>**Given** el asesor desea eliminar una publicación existente.</p><p>**And** está en el apartado de "Mis Publicaciones" de la Sidebar.</p><p>**And** tiene una publicación previamente creada.</p><p>**When** selecciona la opción de eliminar en la publicación que desea borrar.</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, la publicación se elimina de su perfil y ya no está disponible para los criadores.</p>|E02|
-|US10|Visualización de publicaciones de los asesores|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|<p>**Escenario 1: Visualizar publicaciones de asesores**</p><p>**Given** el criador desea ver las publicaciones de la comunidad</p><p>**When** haga clic en el botón “Publicaciones” de la Sidebar.</p><p>**Then** el sistema le mostrará una lista de las últimas publicaciones de la comunidad de asesores.</p><p></p><p>**Escenario 2: Filtrar publicaciones de asesores por fecha**</p><p>**Given** el criador desea ver las publicaciones de la comunidad de un tiempo en específico como “esta semana”, “este mes” o ingresar una fecha en específico.</p><p>**And** se encuentra visualizando las publicaciones.</p><p>**When** haga clic en el ícono de filtro.</p><p>**Then** el sistema le permitirá filtrar las publicaciones por el parámetro elegido.</p>|E02|
+|US10|Visualización de publicaciones de los asesores|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|<p>**Escenario 1: Visualizar publicaciones de asesores**</p><p>**Given** el criador desea ver las publicaciones de la comunidad</p><p>**When** haga clic en el botón “Publicaciones” de la Sidebar.</p><p>**Then** el sistema le mostrará una lista de las últimas publicaciones de la comunidad de asesores.</p>|E02|
 |US11|Gestión de jaulas de cuyes|**Como** criador de cuyes **quiero** poder registrar una jaula en la plataforma **para** poder almacenar y gestionar mis cuyes de manera efectiva, garantizando su seguridad y bienestar.|<p>**Escenario 1: Registro exitoso de la jaula**</p><p>**Given** que el criador desea registrar su galón.</p><p>**And** se encuentra en el apartado "Mis Animales".</p><p>**When** haga clic en el botón "Registrar Jaula".</p><p>**And** completa el formulario con la información requerida de la jaula.</p><p>**And** hace clic en el botón "Registrar".</p><p>**Then** el sistema le mostrará un mensaje del registro exitoso de la jaula.</p><p></p><p>**Escenario 2: Eliminar jaula**</p><p>**Given** que el criador desea eliminar su galón.</p><p>**And** se encuentra en el apartado "Mis Animales".</p><p>**When** haga clic en el botón "Borrar" de la jaula deseada.</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, la jaula se elimina.</p>|E03|
 |US12|Registro de información de animales|**Como** criador de cuyes **quiero** contar con un sistema de registro de animales **para** almacenar información básica sobre cada animal, incluyendo su número de identificación, nombre, raza, género, peso y fecha de nacimiento.|<p>**Escenario 1: Registrar un nuevo animal**</p><p>**Given** el criador desea registrar un cuy en su galpón.</p><p>**And** se encuentra en la jaula deseada</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And** ingresa la información básica del animal, incluyendo su número de identificación, número de galpón, raza, género y fecha de nacimiento.</p><p>**And** haga clic “Registrar”</p><p>**Then** el sistema le mostrará una confirmación del registro.</p><p></p><p>**Escenario 2: Fallar en el registro de animal**</p><p>**Given** el criador desea registrar un cuy en su galpón.</p><p>**And** se encuentra en la jaula deseada</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And i**ntenta ingresar la información del animal pero deja en blanco algunos campos obligatorios para el registro**.**</p><p>**And** haga clic “Registrar”.</p><p>**Then** el sistema le mostrará un mensaje de error.</p>|E03|
 |US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** acceder a la información de un animal **para** visualizar o actualizar su información registrada.|<p>**Escenario 1: Visualizar la información de un animal registrado**</p><p>**Given** el criador tiene varios cuyes registrados en la aplicación y desea visualizar la información de uno en específico.</p><p>**And** se encuentra en el apartado de “Mis Animales”</p><p>**When** haga clic en “Ver” de una jaula</p><p>**And** seleccione el card de un cuy  específico.</p><p>**Then** el sistema le mostrará la información detallada del cuy.</p><p></p><p>**Escenario 2: Actualizar información de un animal registrado**</p><p></p><p>**Given** el criador tiene varios cuyes registrados en la aplicación y desea editar la información de uno en específico.</p><p>**And** se encuentra viendo la información detallada de un cuy </p><p>**When** haga clic en “Editar”</p><p>**And** realiza cambios en la información del cuy.</p><p>**Then** el sistema actualizará la información detallada del cuy.</p><p></p>|E03|
@@ -1244,7 +1244,7 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |US16|Gestión de gastos realizados|**Como** criador de cuyes **quiero** registrar gastos relacionados con mi negocio **para** tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad.|<p>**Escenario 1: Registrar gasto**</p><p>**Given** el criador desea registrar los gastos que ha realizado.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**And** ingresa a la sección de “Gestión de Gastos”del apartado de “Mi Granja”.</p><p>**When** haga clic en el botón “Nuevo Gasto”</p><p>**And** ingrese datos como el precio, tipo de gasto, fecha y demás campos.</p><p>**Then** el sistema registrará correctamente los detalles del gasto.</p><p></p><p>**Escenario 2: Ver gasto registrado**</p><p>**Given** el criador desea ver un gasto ya registrado.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de gastos”</p><p>**Then** el sistema le permitirá visualizar sus gastos.</p><p></p><p>**Escenario 3: Filtrar gasto**</p><p>**Given** el criador desea ver un recurso de un tipo en específico.</p><p>**And** se encuentra en la sección de “Gestión de Gastos”del apartado de “Mi Granja”.</p><p>**When** seleccione el tipo de gasto que desea filtrar (todos, salud, alimento, Mantenimiento de criadero)</p><p>**And** haga clic en el botón “Filtrar”</p><p>**Then** el sistema le mostrará una lista de todos los recursos que pertenezcan a ese tipo.</p><p></p><p>**Escenario 3: Editar gasto**</p><p></p><p>**Escenario 4: Eliminar gasto**</p>|E04|
 |US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|<p>**Escenario 1: Seguridad en la conexión web**</p><p>**Given** el usuario desea que la aplicación sea segura para su uso personal.</p><p>**When** ingrese a la aplicación para hacer uso de ella.</p><p>**Then** la aplicación usará conexión segura https para enviar datos.</p>|E05|
 |US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|<p>**Escenario 1: Acceso a la aplicación en todo momento**</p><p>**Given** el usuario desea usar la aplicación en cualquier instante.</p><p>**When** ingrese a la aplicación.</p><p>**Then** la aplicación se encuentra disponible y funcional.</p><p></p><p>**Escenario 2: Acceso a la aplicación sin interrupciones**</p><p>**Given** el usuario desea usar la aplicación en cualquier instante.</p><p>**When** ingresa a la aplicación.</p><p>**Then** la aplicación carga rápidamente y controla el tráfico para que la experiencia sea fluida.</p>|E05|
-|US19|Registro de un usuario nuevo|**Como** usuario **quiero** registrarme **para** acceder a las funciones de usuario.|<p>**Escenario 1: Registro de cuenta por formulario**</p><p>**Given** el usuario desea registrarse en la aplicación.</p><p>**And** se encuentra en el apartado de “Registrarse”.</p><p>**When** complete el formulario de registro con su información personal.</p><p>**And** seleccione su rol en la aplicación entre “Criador” o “Asesor”</p><p>**And** los datos** sean correctos según las validaciones establecidas.</p><p>**Then** la cuenta se creará.</p><p></p><p>**Escenario 2: Registro incorrecto de cuenta**</p><p>**Given** el criador/asesor se encuentra en el apartado de “Registrarse”.</p><p>**When** ingrese la información solicitada de manera errónea.</p><p>**Then** la cuenta no se creará.</p><p>**And** recibirá un mensaje indicando el error.</p>|E06|
+|US19|Registro de un usuario nuevo|**Como** usuario **quiero** registrarme **para** acceder a las funciones de usuario.|<p>**Escenario 1: Registro de cuenta por formulario**</p><p>**Given** el usuario desea registrarse en la aplicación.</p><p>**And** se encuentra en el apartado de “Registrarse”.</p><p>**When** complete el formulario de registro con su información personal.</p><p>**And** seleccione su rol en la aplicación entre “Criador” o “Asesor”</p><p>**And** los datos** sean correctos según las validaciones establecidas.</p><p>**Then** la cuenta se creará.</p><p></p><p>**Escenario 2: Registro incorrecto de cuenta**</p><p>**Given** el usuario se encuentra en el apartado de “Registrarse”.</p><p>**When** ingrese los datos solicitados de manera errónea.</p><p>**Then** la cuenta no se creará.</p><p>**And** recibirá un mensaje indicando el error.</p>|E06|
 |US20|Inicio de sesión|**Como** usuario **quiero** acceder a mi cuenta registrada **para** acceder a las funciones de usuario.|<p>**Escenario 1: Inicio de sesión exitoso**</p><p>**Given** el usuario desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Iniciar Sesión”.</p><p>**When** introduzca sus credenciales correctamente.</p><p>**Then** será redireccionado a su vista de usuario.</p><p></p><p>**Escenario 2: Inicio de sesión fallido**</p><p>**Given** el usuario desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Iniciar Sesión”.</p><p>**When** introduzca sus credenciales incorrectamente.</p><p>**Then** no se le permitirá acceso a su cuenta.</p><p>**And** recibirá un mensaje indicando el error.</p><p></p><p>**Escenario 3: Bloqueo de sesión por exceso de intentos**</p><p>**Given** el usuario desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Iniciar sesión”.</p><p>**When** introduzca sus credenciales incorrectamente.</p><p>**And** siga errando hasta alcanzar el número máximo de intentos permitidos (tres intentos).</p><p>**Then** recibirá un mensaje que le informe que ha excedido el número de intentos permitidos.</p><p>**And** su cuenta será bloqueada temporalmente.</p>|E06|
 |US21|Recuperación de contraseña|**Como** usuario **quiero** poder recuperar mi contraseña **para** acceder a mi cuenta.|<p>**Escenario 1: Recuperación de contraseña**</p><p>**Given** el usuario olvidó su contraseña</p><p>**When** se dirija a la sección de “Inicio de sesión”</p><p>**And** seleccione “olvidé mi contraseña”</p><p>**And** coloque su correo vinculado a la cuenta.</p><p></p><p>**Then** se le enviará un correo para que cambie su contraseña.</p>|E06|
 |US22|Visualización de Navbar y Footer|**Como** potencial usuario **quiero** navegar con facilidad **para** movilizarme a través de la página y conocer sobre la aplicación.|<p>**Escenario 1: Visualización de Navbar y Footer**</p><p>**Given** el usuario desea conocer sobre la aplicación.</p><p>**When** ingresa al Landing Page,</p><p>**Then** se mostrará el Navbar y Footer que permitirá al usuario navegar con facilidad.</p>|E07|
@@ -3369,7 +3369,7 @@ Para este sprint, hemos implementado una primera versión de la API para nuestro
 
 Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Services
 
-|Método|Endpoint (https://agroconnectwebservice.azurewebsites.net)|Descripción|
+|Método|Endpoint|Descripción|
 |--|--|--|
 |GET|/api/v1/users|Se obtiene la lista de usuarios|
 |POST|/api/v1/users|Se publica un nuevo usuario|
@@ -3432,17 +3432,139 @@ Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Servi
 
 **EVIDENCIAS**
 
-**Endpoint: https://agroconnectwebservice.azurewebsites.net/api/v1/users**
+**User Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/users
+
+![User endpoints](img/user-endpoints-swagger.png)
 
 |Método|GET|
 |--|--|
 |Parámetros|Ninguno|
 |Resultado|![Service Documentation Get Users](img/service-documentation-get-users.png)|
 
+|Método|POST|
+|--|--|
+|Parámetros|Body: email, password, fullname, location, birthdate y description|
+|Resultado|![Service Documentation Post User](img/service-documentation-post-user.png)|
+
+|Método|GET {userId}|
+|--|--|
+|Parámetros|{userId}: Id del usuario|
+|Resultado|![Service Documentation Get User by Id](img/service-documentation-get-user-id.png)|
+
+|Método|GET {userId}/notifications|
+|--|--|
+|Parámetros|{userId}: Id del usuario|
+|Resultado|![Service Documentation Get Notifications by Id](img/service-documentation-get-user-notifications.png)|
+
+**Breeder Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/breeders
+
+![Breeder endpoints](img/breeder-endpoints-swagger.png)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Breeders](img/service-documentation-get-breeders.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: userId|
+|Resultado|![Service Documentation Post Breeder](img/service-documentation-post-breeder.png)|
+
+|Método|GET {breederId}|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Breeder by Id](img/service-documentation-get-breeder-id.png)|
+
+|Método|GET {breederId}/resources|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Resources by Id](img/service-documentation-get-breeder-resources.png)|
+
+|Método|GET {breederId}/expenses|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Expenses by Id](img/service-documentation-get-breeder-expenses.png)|
+
+|Método|GET {breederId}/cages|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Cages by Id](img/service-documentation-get-breeder-cages.png)|
+
+|Método|GET {breederId}/appointments|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Appointments by Id](img/service-documentation-get-breeder-appointments.png)|
+
+**Advisor Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/advisors
+
+![Advisor endpoints](img/advisor-endpoints-swagger.png)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Advisors](img/service-documentation-get-advisors.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: occupation, experience, photo, rating, userId|
+|Resultado|![Service Documentation Post Advisor](img/service-documentation-post-advisor.png)|
+
+|Método|GET {advisorId}|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Advisor by Id](img/service-documentation-get-advisor-id.png)|
+
+|Método|GET {advisorId}/publications|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Publications by Id](img/service-documentation-get-advisor-publications.png)|
+
+|Método|GET {advisorId}/available-dates|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Available Dates by Id](img/service-documentation-get-advisor-available-dates.png)|
+
+|Método|GET {advisorId}/appointments|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Appointments by Id](img/service-documentation-get-advisor-appointments.png)|
+
+
+**Notification Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/notifications
+
+![Notification endpoints](img/notification-endpoints-swagger.png)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Notifications](img/service-documentation-get-notifications.png)|
+
+|Método|GET {notificationId}|
+|--|--|
+|Parámetros|{notificationId}: Id de la notificacion|
+|Resultado|![Service Documentation Get Notification by Id](img/service-documentation-get-notification-id.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: type, text, date, userId |
+|Resultado|![Service Documentation Post Notification](img/service-documentation-post-notification.png)|
+
+|Método|DELETE {notificationId}|
+|--|--|
+|Parámetros|{notificationId}: Id de la notificacion|
+|Resultado|![Service Documentation Delete Notification](img/service-documentation-delete-notification.png)|
 
 **Resources Endpoints**
 
-Url: https://web-services-18bk.onrender.com/api/v1/resources
+Endpoint: https://web-services-18bk.onrender.com/api/v1/resources
 
 ![Resources endpoints](img/resource-endpoints-swagger.PNG)
 
@@ -3456,24 +3578,24 @@ Url: https://web-services-18bk.onrender.com/api/v1/resources
 |Parámetros|Ninguno|
 |Resultado|![Service Documentation Get All Resources](img/get-all-resources.PNG)|
 
-|Método|GET|
+|Método|GET {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
 |Resultado|![Service Documentation Get by ResourceId](img/get-by-id-resource.PNG)|
 
-|Método|PUT|
+|Método|PUT {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
 |Resultado|![Service Documentation Update Resource](img/put-resource.PNG)|
 
-|Método|DELETE|
+|Método|DELETE {resourceId}|
 |--|--|
 |Parámetros|{resourceId}: Id del recurso|
 |Resultado|![Service Documentation Delete Resource](img/delete-resource.PNG)|
 
 **Expenses Endpoints**
 
-Url: https://web-services-18bk.onrender.com/api/v1/expenses
+Endpoint: https://web-services-18bk.onrender.com/api/v1/expenses
 
 ![Expenses endpoints](img/expenses-endpoints-swagger.PNG)
 
@@ -3487,24 +3609,51 @@ Url: https://web-services-18bk.onrender.com/api/v1/expenses
 |Parámetros|Ninguno|
 |Resultado|![Service Documentation Get All Expenses](img/get-all-expenses.PNG)|
 
-|Método|GET|
+|Método|GET {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
 |Resultado|![Service Documentation Get by ExpenseId](img/get-by-id-expense.PNG)|
 
-|Método|PUT|
+|Método|PUT {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
 |Resultado|![Service Documentation Update Expense](img/put-expense.PNG)|
 
-|Método|DELETE|
+|Método|DELETE {expenseId}|
 |--|--|
 |Parámetros|{expenseId}: Id del gasto|
 |Resultado|![Service Documentation Delete Expense](img/delete-expense.PNG)|
 
+
+**Publications Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/publications
+
+![Publications endpoints](img/publications-endpoints-swagger.png)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: title, description, image, date y advisorId|
+|Resultado|![Service Documentation Post Publication](img/post-publication.png)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Publications](img/get-all-publications.png)|
+
+|Método|GET {publicationId}|
+|--|--|
+|Parámetros|{publicationId}: Id de la publicación|
+|Resultado|![Service Documentation Get by PublicationId](img/get-by-id-publication.png)|
+
+|Método|DELETE {publicationId}|
+|--|--|
+|Parámetros|{publicationId}: Id de la publicación|
+|Resultado|![Service Documentation Delete Publication](img/delete-publication.png)|
+
 **Cages Endpoints**
 
-Url: https://web-services-18bk.onrender.com/api/v1/cages
+Endpoint: https://web-services-18bk.onrender.com/api/v1/cages
 
 ![Cages Endpoints](img/cages-endpoints-swagger.PNG)
 
@@ -3540,7 +3689,7 @@ Url: https://web-services-18bk.onrender.com/api/v1/cages
 
 **Animals Endpoints**
 
-Url: https://web-services-18bk.onrender.com/api/v1/animals
+Endpoint: https://web-services-18bk.onrender.com/api/v1/animals
 
 ![Animals Endpoints](img/animal-endpoints-swagger.PNG)
 
@@ -3573,12 +3722,17 @@ Url: https://web-services-18bk.onrender.com/api/v1/animals
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Se decidió desplegar el Web Service en Render. Para ello, se tuvo que hacer un archivo target donde están los archivos de salida de compilación y un archivo Docker que contiene la información para que se ejecute el proyecto en Java 22.
 <img src="img/software-deployment1.png" width="100%">
+
 Entonces, con los archivos listos se entró a Render.com donde se configuró la creación del proyecto al conectarlo con la rama release del repositorio del Web Service.
 <img src="img/software-deployment2.png" width="100%">
+
 Luego, se empezó con el desplegado al darle a ‘Crear Web Service’.
 <img src="img/software-deployment3.png" width="100%">
+
 Finalmente, comprobamos el correcto funcionamiento del Web Service desplegado al entrar al swagger.
 <img src="img/software-deployment4.png" width="100%">
+
+Enlace de Backend desplegado: https://web-services-18bk.onrender.com/swagger-ui/index.html
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
@@ -3717,13 +3871,13 @@ Para esta entrevista, se comparte y detalla al entrevistado lo trabajado en Land
 
 **Entrevistado:** Adrian Espinoza
 
-**Link de la entrevista:**
+**Link de la entrevista:** [Entrevista-Validación-4](https://youtu.be/078AzxKUxCQ)
 
-[foto]
+<img src="img/entrevista-validacion4.png" width="100%" alt="Imagen de Entrevista de Validacion 4">
 
 **Resumen:**
 
------
+Adrián Espinoza encuentra la landing page como una buena forma de concientizar sobre el problema de la crianza de cuyes y la información proporcionada si le permite conocer más sobre la aplicación y menciona que le da confianza conocer quienes son las personas detrás del aplicativo. Asimismo, menciona que estéticamente la landing es atractiva y los elementos están bien distribuidos. Por otro lado, para la aplicación web que es intuitiva y fácil de manejar. Además, menciona que las funcionalidades cubren sus necesidades y son útiles.
 
 **Entrevista N 5 - Asesor:**
 
