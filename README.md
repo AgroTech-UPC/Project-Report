@@ -292,6 +292,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En la fase inicial, investigamos a fondo las necesidades de nuestros usuarios mediante entrevistas directas. Esto facilitó el progreso del trabajo en equipo al ofrecer recomendaciones y aclarar dudas. Luego, nos centramos en el diseño y desarrollo del producto, priorizando un diseño intuitivo y atractivo que cumpliera con los requisitos establecidos y satisficiera las demandas del mercado.</p>
         <p><strong>TP1:</strong></p>
         <p>En el segundo sprint, nos enfocamos en profundizar nuestro conocimiento de Angular y completar tareas clave para mejorar el front-end de nuestra aplicación. Paralelamente, ajustamos el diseño de la página principal y consideramos comentarios del profesor para una mejor comprensión del mercado y las preferencias de nuestros usuarios.</p>
+        <p><strong>TB2:</strong></p>
+        <p>En esta entrega nos enfocamos en el Sprint 3, centrándonos en el desarrollo del backend y su integración con el frontend. Implementamos funcionalidades clave para el procesamiento de datos y la gestión de usuarios, y mejoramos la interfaz de usuario para una experiencia más intuitiva. Esta sincronización entre backend y frontend garantiza una aplicación más robusta y eficiente, acercándonos a nuestros objetivos del proyecto.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
@@ -338,7 +340,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Al inicio del proyecto, me concentré en comunicar mis ideas y avances a través del informe escrito. Este informe fue esencial para transmitir claramente los detalles del diseño y desarrollo del producto, asegurando que todos los miembros del equipo estuvieran al tanto de nuestros progresos y facilitando una colaboración efectiva. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso, garantizando un registro completo y accesible para todos los involucrados en el proyecto.</p>
         <p><strong>TP1:</strong></p>
         <p>En este avance parcial, nos enfocamos en mejorar la redacción de user stories, subsanar comentarios del profesor, y desarrollar el Frontend de la aplicación web utilizando Angular y una API fake en JSON. Buscamos también entender mejor las necesidades de nuestros usuarios potenciales, asegurando una buena experiencia de usuario y mejorando la calidad del trabajo anterior.</p>
-        <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
+        <p><strong>TB2:</strong></p>
+        <p>En este avance, me comuniqué con mi grupo de trabajo para coordinar los cambios e implementaciones relacionados con el backend. Implemente los endpoints necesarios y realice la documentación correspondiente, mostrando evidencia de su funcionamiento. Además, integramos el frontend y el backend para proporcionar el máximo valor a nuestros usuarios.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
