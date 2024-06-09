@@ -3777,6 +3777,33 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/animals
 |Parámetros|{animalId}: Id de la animal|
 |Resultado|![Service Documentation Delete Animal](img/delete-animal.PNG)|
 
+**AvailableDates Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/available-dates
+
+![AvailableDate Endpoints](img/availableDates-endpoints-swagger.PNG)
+
+
+**Reviews Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/reviews
+
+![Review Endpoints](img/review-endpoints-swagger.PNG)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Reviews](img/get-all-reviews.PNG)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: appointmentID, comment, rating|
+|Resultado|![Service Documentation Post Review](img/post-review.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|{reviewId}: Id del review|
+|Resultado|![Service Documentation Get By reviewId](img/get-by-id-review.PNG)|
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Se decidió desplegar el Web Service en Render. Para ello, se tuvo que hacer un archivo target donde están los archivos de salida de compilación y un archivo Docker que contiene la información para que se ejecute el proyecto en Java 22.
