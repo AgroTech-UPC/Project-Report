@@ -31,7 +31,7 @@ Grupo: 1
 |  Salinas Torres, Salvador Antonio   |    U20221B127    |
 |   Valverde Mozo, Andre Gabriel   |    U202218899    |
 
-Mayo 2024
+Junio 2024
 
 </div>
 
@@ -85,8 +85,29 @@ Mayo 2024
         </ul>
       </td>
       <td>
-        Correcciones levantadas.
-        Avance del punto 5.2.2. Sprint 2.
+        <li>Correcciones levantadas.</li>
+        <li>Avance del punto 5.2.2. Sprint 2.</li>
+      </td>
+  </tr>
+    <td><strong>TB2</strong></td>
+      <td>Domingo 9 de Junio</td>
+      <td>
+        <ul>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Lucas Coronel, Nadia Alessandra</li>
+          <li>Paredes Puente, Sebastián Roberto</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+          <li>Valverde Mozo, Andre Gabriel</li>
+        </ul>
+      </td>
+      <td>
+        <li>Correcciones levantadas.</li>
+        <li>Desarrollo del Sprint 3</li>
+        <li>Creación del Video About-The-Product</li>
+        <li>Realización de entrevistas de validación</li>
+        <li>Desarrollo de evaluación por heurísticas</li>
+        <li>Avance de Conclusiones y Anexos</li>
+        <li>Creación del Video About-The-Team</li>
       </td>
   </tr>
   </tbody>
@@ -111,9 +132,9 @@ Commits en el project report de la TP1:
 
 # **Tabla de Contenido**
 
-- [Registro de Versiones](#registro-de-versiones)
-- [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#Capítulo-I-Introducción)
+- ## [Registro de Versiones](#registro-de-versiones)
+- ## [Student Outcome](#student-outcome-1)
+- ## [Capítulo I: Introducción](#Capítulo-I-Introducción-1)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -125,7 +146,7 @@ Commits en el project report de la TP1:
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis)
+- ## [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis-1)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -140,12 +161,12 @@ Commits en el project report de la TP1:
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification)
+- ## [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification-1)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
-- [Capítulo IV: Product Design](#Capítulo-IV-Product-Design)
+- ## [Capítulo IV: Product Design](#Capítulo-IV-Product-Design-1)
   - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -173,7 +194,7 @@ Commits en el project report de la TP1:
     - [4.7.2. Class Dictionary](#472-class-dictionary)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation-Validation--Deployment)
+- ## [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation-Validation--Deployment-1)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
@@ -198,16 +219,25 @@ Commits en el project report de la TP1:
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
+- ## [Conclusiones](#conclusiones-1)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-- [Video About-the-Team](#video-about-the-team)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+  - [Video About-the-Team](#video-about-the-team)
+- ## [Bibliografía](#bibliografía-1)
+- ## [Anexos](#anexos-1)
 
 
 
@@ -234,32 +264,44 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En esta primera entrega, se desarrolló la idea de negocio. Para lograr esto, en lo personal tuve que realizar entrevista a un criador de cuyes para obtener mayores especificaciones sobre el problema a tratar. Del mismo modo, comunique oralmente las ideas del diseño de la aplicación web y de los diagramas de arquitectura de software mediante el proyecto.</p>
         <p><strong>TP1:</strong></p>
         <p>Para este entregable, se desarrolló el sprint 2 el cual se enfocó en el desarrollo del frontend. Dichos cambios se comunicaron oralmente mediante el video del proyecto. Además, realicé una entrevista a un asesor para tener una mayor información sobre el alcance de nuestro proyecto.</p>
+        <p><strong>TB2:</strong></p>
+        <p>Para esta entrega, se tuvo que validar los productos desarrollados. Para ello, entrevisté a un criador de cuyes y a un asesor para obtener su retroalimentación. Asimismo, comunique los nuevos cambios al proyecto mediante el video de exposición.</p>
         <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se enfocó principalmente en el diseño y desarrollo del producto, destacando el diseño de la landing page, guías de estilo, historias de usuario y la base de datos. Se priorizó que el diseño fuera intuitivo y atractivo para los usuarios, mientras cumplía con los requisitos. Esta labor fue fundamental para garantizar que el producto final satisficiera las necesidades de los usuarios y las demandas del mercado de manera efectiva.</p>
         <p><strong>TP1:</strong></p>
         <p>Durante este entregable, nuestro enfoque se centró en mejorar el diseño de la página de inicio (landing page) del proyecto. Con el objetivo de garantizar la eficacia y la coherencia visual, se implementaron cambios significativos que se alinean con las mejores prácticas de diseño web. Además, se completó con éxito las tareas asignadas durante el segundo sprint del proyecto. Estas incluyeron el desarrollo del front-end, la implementación de la API y la integración exitosa del front-end con el backend.</p>
+        <p><strong>TB2:</strong></p>
+        <p>Durante este entregable, se realizaron mejoras en el frontend de la aplicación web y se trabajó en el bounded context de management en el backend, lo que permite gestionar la información de recursos, gastos, jaulas y animales. Además, se llevó a cabo la integración correspondiente con el frontend.También se realizaron entrevistas de validación con ambos segmentos, de las cuales se obtuvieron valiosas sugerencias que serán consideradas en el próximo sprint.</p>
         <p><strong>Paredes Puente, Sebastián Roberto</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se puso especial énfasis en el diseño y desarrollo del producto, concentrándose en la sección “Acerca de” de la landing page, user stories, user personas y scenario mapping. Esta labor fue esencial para asegurar que el producto final cumpliera efectivamente con las necesidades de los usuarios, al delimitar las user stories, y las exigencias del mercado. Además, se llevó a cabo una investigación inicial para conocer opiniones de algunos expertos en el tema, por ello se realizó entrevistas con personas clave de nuestros segmentos objetivo, lo que facilitó el trabajo en equipo y el avance del proyecto.</p>
         <p><strong>TP1:</strong></p>
         <p>Durante este entregable, nuestro enfoque se centró en mejorar el diseño de la landing page del proyecto, implementando ciertas mejoras como adicionar información y hacer que se vea visualmente más estético y llamativo. Además, se completaron con éxito las tareas asignadas durante el segundo sprint, que incluyeron el desarrollo del front-end y la implementación de la API. Para comunicar estos cambios, se realizaron un total de 9 entrevistas a nuestros segmentos objetivos, para obtener más información sobre el alcance del proyecto en una próxima entrega.</p>
+        <p><strong>TB2:</strong></p>
+        <p>En esta entrega, se validaron los productos desarrollados y se llevó a cabo el Sprint 3 del proyecto. Realizamos avances en el Frontend y Backend, y llevé a cabo entrevistas de validación con un criador de cuyes y un asesor para obtener sus opiniones. Durante estas entrevistas, expliqué el trabajo realizado en la aplicación y obtuvimos valiosa retroalimentación de nuestros segmentos objetivo para seguir mejorando. </p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong></p>
         <p>En este primer avance, primero identificamos la problemática y realizamos la investigación necesaria para identificar los requisitos que nuestra aplicación final abarca. Para ello, realizamos entrevistas de forma oral con personas de nuestros segmentos objetivo para conocer sus principales necesidades y ponernos un poco mejor en su perspectiva. Gracias a estas, es que el desarrollo del trabajo fue fluido, ya que luego en grupo nos reunimos y fuimos avanzando, realizando recomendaciones y resolviendo dudas sobre nuestros objetivos como startup.</p>
         <p><strong>TP1:</strong></p>
         <p>Para este avance nos enfocamos en mejorar un poco más la investigación del mercado a partir de los comentarios brindados por el profesor. De este modo, realicé una entrevista más para obtener una perspectiva más a tomar en cuenta en el segmento objetivo. Igualmente, realizamos mejoras en el Landing Page, para lo cual realizamos una videoconferencia para conversar en grupo y compartir ideas sobre los siguientes pasos.</p>
+        <p><strong>TB2:</strong></p>
+        <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto. Para ello, realizamos los avances correspondientes en Frontend y Backend. Asimismo, realicé entrevistas de validación, en el cual expliqué lo que se trabajó en la aplicación, y pudimos obtener una buena retroalimentación de nuestros segmentos objetivo para seguir mejorando.</p>
         <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
         <p><strong>TB1:</strong></p>
         <p>En la fase inicial, investigamos a fondo las necesidades de nuestros usuarios mediante entrevistas directas. Esto facilitó el progreso del trabajo en equipo al ofrecer recomendaciones y aclarar dudas. Luego, nos centramos en el diseño y desarrollo del producto, priorizando un diseño intuitivo y atractivo que cumpliera con los requisitos establecidos y satisficiera las demandas del mercado.</p>
         <p><strong>TP1:</strong></p>
         <p>En el segundo sprint, nos enfocamos en profundizar nuestro conocimiento de Angular y completar tareas clave para mejorar el front-end de nuestra aplicación. Paralelamente, ajustamos el diseño de la página principal y consideramos comentarios del profesor para una mejor comprensión del mercado y las preferencias de nuestros usuarios.</p>
+        <p><strong>TB2:</strong></p>
+        <p>En esta entrega nos enfocamos en el Sprint 3, centrándonos en el desarrollo del backend y su integración con el frontend. Implementamos funcionalidades clave para el procesamiento de datos y la gestión de usuarios, y mejoramos la interfaz de usuario para una experiencia más intuitiva. Esta sincronización entre backend y frontend garantiza una aplicación más robusta y eficiente, acercándonos a nuestros objetivos del proyecto.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
         <p>En conclusión, a través de un enfoque meticuloso, nos aseguramos de definir claramente los requisitos del proyecto, crear un diseño robusto y funcional, llevar a cabo un desarrollo cuidadoso y exhaustivo, y realizar pruebas rigurosas para garantizar la calidad y fiabilidad del producto. Parte de este proceso de definición fueron las entrevistas en las cuales nos comunicamos con nuestros segmentos objetivo para definir mejor la problemática y las funcionalidades que ayudarán a solucionarla. Estos hallazgos se vieron reflejados en la exposición del primer avance donde explicamos a detalle todos los aspectos desarrollados durante la primera entrega.</p>
         <p><strong>TP1:</strong></p>
         <p>En resumen, durante esta etapa del proyecto, implementamos las mejoras sugeridas por el profesor, las cuales incluyeron la adición de más historias técnicas y la mejora del diseño de la landing page siguiendo buenas prácticas. Además, todos los integrantes del equipo completaron con éxito todas las actividades asignadas en el segundo sprint. Este progreso se refleja claramente en el tablero de Trello correspondiente al sprint.</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, para esta entrega se comunicó con los segmentos objetivo para obtener retroalimentación de nuestro avance con los productos de software. Asimismo, se desarrollaron los videos About-The-Product y About-The-Team que muestran de una forma creativa como hemos desarrollado nuestra propuesta.</p>
       </td>
     </tr>
     <tr>
@@ -270,33 +312,44 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Durante esta primera entrega, comunique de forma escrita mis ideas mediante la realización del informe del trabajo en Github con el lenguaje Markdown. Asimismo, mostré los resultados de las entrevistas mediante tablas y gráficos que mostraban con objetividad los hallazgos obtenidos.</p>
         <p><strong>TP1:</strong></p>
         <p>Para esta entrega, comunique de forma escrita las mejoras realizadas a los diagramas de domain driven design y del diseño de la base de datos en el informe del trabajo. Del mismo modo, con los cambios realizados al landing page se pudo expresar de mejor manera nuestras funcionalidades y alcances a los segmentos objetivos.</p>
+        <p><strong>TB2:</strong></p>
+        <p>Para este avance, comunique de forma escrita los cambios a los productos de software que hemos creado y documente las entrevistas que realicé.</p>
         <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se facilitó una comunicación clara y precisa sobre el diseño y desarrollo del producto a través de diferentes áreas, incluyendo el diseño de las guías de estilo, las historias de usuario y el diseño de la base de datos. Esta comunicación efectiva fue esencial para mantener informados a todos los miembros del equipo, independientemente de su nivel de experiencia técnica, y promovió una colaboración exitosa.</p>
         <p><strong>TP1:</strong></p>
         <p>En este entregable, se enfocó en mejorar el diseño de la landing page,  lo cual implicó la revisión de la estructura y el contenido para optimizar la experiencia del usuario. Asimismo, se brindó apoyo en la gestión y organización del proyecto a través de la plataforma Trello, contribuyendo a la creación y actualización de tableros, asignación de tareas y seguimiento del progreso del equipo. Además, se culminó con éxito las tareas del segundo sprint, estas incluyen colaborar en el desarrollo del front-end, la implementación de la API y la integración del front-end con el backend.</p>
+        <p><strong>TB2:</strong></p>
+        <p>En este entregable, se documentó el backend utilizando Swagger, desarrollado con Spring Boot, para gestionar los endpoints del bounded context de Management. Además, se realizaron entrevistas de validación del producto con los segmentos objetivos, donde se documentaron los principales hallazgos y sugerencias. Estos resultados fueron comunicados de manera clara y objetiva, adaptándose a un público de diferentes especialidades y niveles jerárquicos, garantizando así una comprensión uniforme y una base sólida para el próximo sprint.</p>
         <p><strong>Paredes Puente, Sebastián Roberto</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Me concentré en comunicar mis ideas y avances a través de un informe escrito, lo cual resultó fundamental para transmitir claramente los detalles del diseño y desarrollo del producto. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso utilizando lenguaje Markdown, asegurando así un informe completo y fácil de entender.</p>
         <p><strong>TP1:</strong></p>
         <p>Durante el desarrollo para esta entrega, se puso énfasis en abordar los puntos a mejorar en el feedback del trabajo anterior, como lo fueron el mejorar la redacción de algunas user stories, a su vez, agregar más user stories técnicas. Además, se desarrolló el Frontend de la aplicación web mediante el uso de Angular como framework y una API fake en formato JSON para simular la gestión de datos, la cuál se estuvo probando para su correcto funcionamiento.</p>
+        <p><strong>TB2:</strong></p>
+        <p>Para este avance, comuniqué de manera escrita los cambios realizados en los productos de software y documenté las entrevistas realizadas. Además para esta entrega, se avanzó con el Backend y se llevó a cabo la documentación correspondiente, mostrando evidencia del funcionamiento de los endpoints implementados. Asimismo, se integraron el Frontend y el Backend para proporcionar el máximo valor a nuestros usuarios.</p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Durante el desarrollo de este primer sprint, realice la documentación de forma escrita con todos los puntos requeridos a lo largo del proyecto. Así como establecer las convenciones de estilo y configuración de sistema de software, los cuales son importantes ya que de estos es que se basará el desarrollo del proyecto hasta su fin.</p>
         <p><strong>TP1:</strong></p>
         <p>Este avance parcial se enfocó principalmente en subsanar los comentarios brindados por el profesor así como en la redacción de las historias de usuario, y en la realización del Frontend de la aplicación web utilizando como framework Angular y fake API en json para simular la gestión de datos.</p>
+        <p><strong>TB2:</strong></p>
+        <p>Para la tercera entrega, al haber desarrollado en su mayoría gran parte del Backend, se hizo la documentación respectiva de esta y mostrar la evidencia del funcionamiento de los endpoints trabajados. Además, se hizo la conexión de Frontend y Backend, para entregar el máximo valor a nuestros usuarios.</p>
         <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Al inicio del proyecto, me concentré en comunicar mis ideas y avances a través del informe escrito. Este informe fue esencial para transmitir claramente los detalles del diseño y desarrollo del producto, asegurando que todos los miembros del equipo estuvieran al tanto de nuestros progresos y facilitando una colaboración efectiva. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso, garantizando un registro completo y accesible para todos los involucrados en el proyecto.</p>
         <p><strong>TP1:</strong></p>
         <p>En este avance parcial, nos enfocamos en mejorar la redacción de user stories, subsanar comentarios del profesor, y desarrollar el Frontend de la aplicación web utilizando Angular y una API fake en JSON. Buscamos también entender mejor las necesidades de nuestros usuarios potenciales, asegurando una buena experiencia de usuario y mejorando la calidad del trabajo anterior.</p>
-        <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
+        <p><strong>TB2:</strong></p>
+        <p>En este avance, me comuniqué con mi grupo de trabajo para coordinar los cambios e implementaciones relacionados con el backend. Implemente los endpoints necesarios y realice la documentación correspondiente, mostrando evidencia de su funcionamiento. Además, integramos el frontend y el backend para proporcionar el máximo valor a nuestros usuarios.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
         <p>En conclusión, para esta primera entrega nos comunicamos de forma escrita mediante nuestro informe en el cual desarrollamos nuestra idea de negocio utilizando convenciones para facilitar la comprensión del proceso. Asimismo, la comunicación directa entre los miembros del equipo fue clave para la resolución de problemas y planificación de plazos para alcanzar los objetivos planteados.</p>
         <p><strong>TP1:</strong></p>
         <p>En resumen, para esta entrega se enfatizó en mejorar mediante el feedback proporcionado por el profesor y un autoanálisis. Por lo tanto, nos comunicamos de forma escrita en el informe del proyecto, buscando mejorar tanto el formato como el contenido para mostrar nuestras ideas de manera más objetiva.</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, para esta entrega nos comunicamos de forma escrita mediante la documentación de nuestros avances en los productos de software y validaciones de dichos productos como con la evaluación de heurísticas.</p>
       </td>
     </tr>
   </tbody>
@@ -1152,182 +1205,90 @@ En esta sección, se definirán términos utilizados a lo largo del proyecto par
 
 Se identificaron las siguientes épicas que se componen de las historias de usuario.
 
-<table>
-    <tr>
-        <th valign="top"><b>Epic ID</b></th>
-        <th valign="top"><b>Epic</b></th>
-        <th valign="top"><b>User story ID</b></th>
-        <th valign="top"><b>User stories</b></th>
-    </tr>
-    <tr>
-        <td rowspan="8" valign="top"><b>E01</b></td>
-        <td rowspan="8" valign="top">Sistema de búsqueda y programación de citas con asesores y calificaciones</td>
-        <td valign="top">US01</td>
-        <td valign="top">Catálogo de asesores</td>
-    </tr>
-    <tr>
-        <td valign="top">US02</td>
-        <td valign="top">Información de un asesor</td>
-    </tr>
-    <tr>
-        <td valign="top">US03</td>
-        <td valign="top">Visualización de horarios de asesores</td>
-    </tr>
-    <tr>
-        <td valign="top">US04</td>
-        <td valign="top">Programación de citas con asesores</td>
-    </tr>
-    <tr>
-        <td valign="top">US05</td>
-        <td valign="top">Visualización de información del criador de cuyes</td>
-    </tr>
-    <tr>
-        <td valign="top">US06</td>
-        <td valign="top">Notificación de citas al asesor</td>
-    </tr>
-    <tr>
-        <td valign="top">US07</td>
-        <td valign="top">Notificación de citas al criador</td>
-    </tr>
-    <tr>
-        <td valign="top">US08</td>
-        <td valign="top">Calificación al asesor luego de una cita</td>
-    </tr>
-    <tr>
-        <td rowspan="2" valign="top"><b>E02</b></td>
-        <td rowspan="2" valign="top">Publicaciones de los asesores</td>
-        <td valign="top">US09</td>
-        <td valign="top">Gestión de una publicación</td>
-    </tr>
-    <tr>
-        <td valign="top">US10</td>
-        <td valign="top">Visualización de publicaciones de asesores</td>
-    </tr>
-    <tr>
-        <td rowspan="4" valign="top"><b>E03</b></td>
-        <td rowspan="4" valign="top">Sistema integral de registro y seguimiento animal</td>
-        <td valign="top">US11</td>
-        <td valign="top">Gestión de jaulas de cuyes</td>
-    </tr>
-    <tr>
-        <td valign="top">US12</td>
-        <td valign="top">Registro de información de animales</td>
-    </tr>
-    <tr>
-        <td valign="top">US13</td>
-        <td valign="top">Visualización y edición de información de animales</td>
-    </tr>
-    <tr>
-        <td valign="top">US14</td>
-        <td valign="top">Registro de fallecimiento de un cuy</td>
-    </tr>
-    <tr>
-        <td rowspan="2" valign="top"><b>E04</b></td>
-        <td rowspan="2" valign="top">Gestión de granja</td>
-        <td valign="top">US15</td>
-        <td valign="top">Gestión de recursos de la granja</td>
-    </tr>
-    <tr>
-        <td valign="top">US16</td>
-        <td valign="top">Gestión de gastos realizados</td>
-    </tr>
-    <tr>
-        <td rowspan="2" valign="top"><b>E05</b></td>
-        <td rowspan="2" valign="top">Eficiencia y seguridad de aplicación</td>
-        <td valign="top">US17</td>
-        <td valign="top">Seguridad de información</td>
-    </tr>
-    <tr>
-        <td valign="top">US18</td>
-        <td valign="top">Disponibilidad y confiabilidad</td>
-    </tr>
-    <tr>
-        <td rowspan="3" valign="top"><b>E06</b></td>
-        <td rowspan="3" valign="top">Registro, acceso a la aplicación y datos personales</td>
-        <td valign="top">US19</td>
-        <td valign="top">Registro de un usuario nuevo</td>
-    </tr>
-    <tr>
-        <td valign="top">US20</td>
-        <td valign="top">Inicio de sesión</td>
-    </tr>
-    <tr>
-        <td valign="top">US21</td>
-        <td valign="top">Recuperación de contraseña</td>
-    </tr>
-    <tr>
-        <td rowspan="6" valign="top"><b>E07</b></td>
-        <td rowspan="6" valign="top">Visualización de una Landing Page estática</td>
-        <td valign="top">US22</td>
-        <td valign="top">Visualización de Navbar y Footer</td>
-    </tr>
-    <tr>
-        <td valign="top">US23</td>
-        <td valign="top">Visualización de la sección de inicio</td>
-    </tr>
-    <tr>
-        <td valign="top">US24</td>
-        <td valign="top">Visualización de la sección “Acerca De”</td>
-    </tr>
-    <tr>
-        <td valign="top">US25</td>
-        <td valign="top">Visualización de la sección “Sobre Nosotros”</td>
-    </tr>
-    <tr>
-        <td valign="top">US26</td>
-        <td valign="top">Visualización de la sección “Características”</td>
-    </tr>
-    <tr>
-        <td valign="top">US27</td>
-        <td valign="top">Visualización de la sección “Contacto”</td>
-    </tr>
-    <tr>
-      <td rowspan ="4" valign="top"><b>E08</b></td>
-      <td rowspan ="4" valign="top">Funcionalidades de servicios externos</td>
-      <td>US28</td>
-      <td>Uso de un API para iniciar sesión</td>
-    </tr>
-    <tr>
-      <td valign="top">US29</td>
-      <td valign="top">Uso de un API para videollamadas</td>
-    </tr>
-      <td valign="top">US30</td>
-      <td valign="top">Uso de un API para separar fechas</td>
-    </tr>
+<table><tr><th valign="top"><b>Epic ID</b></th><th valign="top"><b>Epic</b></th><th valign="top"><b>User story ID</b></th><th valign="top"><b>User stories</b></th></tr>
+<tr><td rowspan="10" valign="top"><b>E01</b></td><td rowspan="10" valign="top">Sistema de búsqueda y programación de citas con asesores y calificaciones</td><td valign="top">US01</td><td valign="top">Visualización del catálogo de asesores</td></tr>
+<tr><td valign="top">US02</td><td valign="top">Visualización de información de un asesor</td></tr>
+<tr><td valign="top">US03</td><td valign="top">Visualización de horarios de asesores</td></tr>
+<tr><td valign="top">US04</td><td valign="top">Programación de citas con asesores</td></tr>
+<tr><td valign="top">US05</td><td valign="top">Visualización de información del criador de cuyes</td></tr>
+<tr><td valign="top">US06</td><td valign="top">Notificación de citas al asesor</td></tr>
+<tr><td valign="top">US07</td><td valign="top">Notificación de citas al criador</td></tr>
+<tr><td valign="top">US08</td><td valign="top">Calificación al asesor luego de una cita</td></tr>
+<tr><td valign="top">US14</td><td valign="top">Separación de fechas disponibles para asesoría</td></tr>
+<tr><td valign="top">US31</td><td valign="top">Visualización de calendario</td></tr>
+<tr><td rowspan="2" valign="top"><b>E02</b></td><td rowspan="2" valign="top">Publicaciones en la aplicación</td><td valign="top">US09</td><td valign="top">Gestión de publicaciones de asesores</td></tr>
+<tr><td valign="top">US10</td><td valign="top">Visualización de publicaciones de asesores</td></tr>
+<tr><td rowspan="3" valign="top"><b>E03</b></td><td rowspan="3" valign="top">Sistema integral de registro y seguimiento animal</td><td valign="top">US11</td><td valign="top">Gestión de jaulas de cuyes</td></tr>
+<tr><td valign="top">US12</td><td valign="top">Registro de información de animales</td></tr>
+<tr><td valign="top">US13</td><td valign="top">Visualización y edición de información de animales</td></tr>
+<tr><td rowspan="2" valign="top"><b>E04</b></td><td rowspan="2" valign="top">Gestión de granja</td><td valign="top">US15</td><td valign="top">Gestión de recursos de la granja</td></tr>
+<tr><td valign="top">US16</td><td valign="top">Gestión de gastos realizados</td></tr>
+<tr><td rowspan="2" valign="top"><b>E05</b></td><td rowspan="2" valign="top">Eficiencia y seguridad de aplicación</td><td valign="top">US17</td><td valign="top">Seguridad de información</td></tr>
+<tr><td valign="top">US18</td><td valign="top">Disponibilidad y confiabilidad</td></tr>
+<tr><td rowspan="3" valign="top"><b>E06</b></td><td rowspan="3" valign="top">Registro, acceso a la aplicación y datos personales</td><td valign="top">US19</td><td valign="top">Registro de un usuario nuevo</td></tr>
+<tr><td valign="top">US20</td><td valign="top">Inicio de sesión</td></tr>
+<tr><td valign="top">US21</td><td valign="top">Recuperación de contraseña</td></tr>
+<tr><td rowspan="6" valign="top"><b>E07</b></td><td rowspan="6" valign="top">Visualización de una Landing Page estática</td><td valign="top">US22</td><td valign="top">Visualización de Navbar y Footer</td></tr>
+<tr><td valign="top">US23</td><td valign="top">Visualización de sección de inicio</td></tr>
+<tr><td valign="top">US24</td><td valign="top">Visualización de sección “Acerca De”</td></tr>
+<tr><td valign="top">US25</td><td valign="top">Visualización de sección “Sobre Nosotros”</td></tr>
+<tr><td valign="top">US26</td><td valign="top">Visualización de sección “Características”</td></tr>
+<tr><td valign="top">US27</td><td valign="top">Visualización de sección “Contacto”</td></tr>
+<tr><td rowspan="8" valign="top"><b>E08</b></td><td rowspan="8" valign="top">Funcionalidades con APIs</td><td valign="top">US28</td><td valign="top">Uso de un API para iniciar sesión</td></tr>
+<tr><td valign="top">US29</td><td valign="top">Uso de un API para videollamadas</td></tr>
+<tr><td valign="top">US30</td><td valign="top">Uso de un API para separar fechas</td></tr>
+<tr><td valign="top">US32</td><td valign="top">Uso de nuestra API para gestionar usuarios</td></tr>
+<tr><td valign="top">US33</td><td valign="top">Uso de nuestra API para gestionar publicaciones</td></tr>
+<tr><td valign="top">US34</td><td valign="top">Uso de nuestra API para manejar recursos y gastos</td></tr>
+<tr><td valign="top">US35</td><td valign="top">Uso de nuestra API para manejar la reserva de citas entre asesores y criadores</td></tr>
+<tr><td valign="top">US36</td><td valign="top">Uso de la API para manejar las jaulas y animales</td></tr>
 </table>
+
+
+
 
 |**Epic / Story ID**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
 | :- | :- | :- | :- | :- |
-|US01|Catálogo de asesores|**Como** criador de cuyes **quiero** explorar el catálogo de asesores **para** conocer quiénes me pueden apoyar con asesorías.|<p>**Escenario 1: Explorar el catálogo de asesores**</p><p>**Given** el criador quiere explorar asesores.</p><p>**And** se encuentra en el apartado de “Asesores”.</p><p>**When** seleccione el botón “Catálogo de asesores”.</p><p>**Then** el sistema le mostrará una lista de todos los asesores disponibles en la aplicación.</p><p></p><p>**Escenario 2: Filtrar búsqueda de asesores**</p><p>**Given** el criador quiere filtrar su búsqueda.</p><p>**And** se encuentra en el apartado "Asesores".</p><p>**When** seleccione el botón de filtros.</p><p>**Then** el sistema le permitirá filtrar asesores por ubicación, experiencia o reputación.</p><p></p><p>**Escenario 3: Ver mis asesores**</p><p>**Given** el criador desea ver los asesores a los que les solicitó un servicio para recibir una mentoría.</p><p>**And** se encuentra en el apartado de “Asesores”.</p><p>**When** haga clic en el botón “Mis Asesores”</p><p>**Then** el sistema le mostrará una lista de todos los asesores a los que ha solicitado una cita.</p><p></p>|E01|
-|US02|Información de un asesor|**Como** criador de cuyes **quiero** tener acceso a la información de un asesor **para** tomar una decisión informada antes de separar una cita|<p>**Escenario 1: Ver información de un asesor** </p><p>**Given** el criador quiere ver información de un asesor.</p><p>**And se** encuentra en el apartado de “Asesores”.</p><p>**When** seleccione al cuadro de un asesor.</p><p>**Then** el sistema le mostrará la información del asesor como nombre, experiencia, calificación y reseñas.</p><p>**Escenario 2: Fallar al visualizar la información del asesor**</p><p>**Given** el criador quiere ver información de un asesor.</p><p>**And se** encuentra en el apartado de “Asesores”</p><p>**When** seleccione a un asesor.</p><p>**And** se encuentre con un error al cargar la información.</p><p>**Then** el sistema le mostrará un mensaje de error de carga.</p>|E01|
-|US03|Visualización de horarios de asesores|**Como** criador de cuyes **quiero** ver los horarios disponibles de los asesores **para** seleccionar un horario que se ajuste a mi agenda|<p>**Escenario 1: Visualizar horarios disponibles**</p><p>**Given** el criador desea visualizar los horarios disponibles de un asesor elegido.</p><p>**And** se encuentra viendo la información del perfil de un asesor.</p><p>**When** haga clic en el botón “Reservar Cita”</p><p>**Then** el sistema le mostrará una interfaz con los horarios disponibles del asesor</p><p></p><p>**Escenario 2: Fallar al intentar visualizar horarios.**</p><p>**Given** el criador desea visualizar los horarios disponibles de un asesor elegido.</p><p>**And** se encuentra viendo la información del perfil de un asesor.</p><p>**When** haga clic en el botón “Reservar Cita”</p><p>**And** el asesor no tenga horarios disponibles</p><p>**Then** el sistema le mostrará un mensaje de error “El asesor no tiene horarios disponibles”.</p>|E01|
-|US04|Programación de citas con asesores|**Como** criador de cuyes **quiero** programar una cita con un asesor **para** recibir orientación personalizada|<p>**Escenario 1: Programar una cita**</p><p>**Given** el criador desea programar una cita.</p><p>**And** se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor.</p><p>**When** seleccione un horario disponible</p><p>**And** complete los campos solicitados.</p><p>**And** haga clic en el botón “Reservar Cita”</p><p>**Then** el sistema le mostrará un mensaje de confirmación.</p><p>**Escenario 2: Fallar al programar una cita**</p><p>**Given** el criador desea programar una cita.</p><p>**And** se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor.</p><p>**When** seleccione un horario disponible</p><p>**And** se encuentra un error técnico o de conexión que impide completar la programación.</p><p>**Then** el sistema le mostrará un mensaje de error sugiriendo contactar con soporte.</p>|E01|
-|US05|Visualización de información del criador de cuyes|**Como** asesor **quiero** tener tener información de la granja del criador de cuyes **para** planificar los temas de la asesoría.|<p>**Escenario 1: Ver información del criador**</p><p>**Given** el asesor desea ver información del criador de cuyes con el que tendrá una asesoría.</p><p>**And** se encuentra en la sección de “Mis Citas”.</p><p>**And** observa que tiene una cita programada con un criador.</p><p>**When** haga clic en la card de la cita.</p><p>**Then** el sistema le permitirá ver información de la granja del criador como número de jaulas y número de cuyes</p><p>**And** mostrará información del criador como nombre, edad y localización.</p><p>**Escenario 2: Fallar al acceder a la información del criador**</p><p>**Given** el asesor desea ver información del criador de cuyes con el que tendrá una asesoría</p><p>**And** se encuentra en la sección de “Mis Citas”.</p><p>**And** observa que tiene una cita programada con un criador</p><p>**When** haga clic en la card de la cita.</p><p>**And** se encuentre con un error al cargar la información</p><p>**Then** el sistema le mostrará un mensaje de error indicando que hubo un error de carga.</p>|E01|
-|US06|Notificación de citas al asesor|**Como** asesor, **quiero** recibir notificaciones de citas programadas por los criadores **para** mantenerme al tanto de mis ofertas laborales.|<p>**Escenario 1: Ver notificaciones de cita programadas por criadores**</p><p>**Given** el asesor desea ver sus notificaciones de citas programadas.</p><p>**When** se encuentre en el apartado de “Notificaciones”</p><p>**Then** el sistema le mostrará un mensaje que describe brevemente la solicitud.</p><p></p><p>**Scenario 2: Aceptar notificación de cita programada con el criador**</p><p>**Given** que el asesor decide cerrar la notificación para liberar espacio y permitir la visualización de otras notificaciones.</p><p>**And** se encuentra en la sección de "Notificaciones" del sistema.</p><p>**When** haga clic en el botón "Aceptar" dentro de la notificación correspondiente a la cita programada con el criador.</p><p>**Then**  el sistema eliminará la notificación de la lista.</p>|E03|
-|US07|Notificación de citas al criador de cuyes|**Como** criador de cuyes **quiero** recibir notificaciones referentes al estado de mis citas **para** mantenerme al tanto de mi solicitud.|<p>**Escenario 1: Ver notificaciones de cita programadas con los asesores**</p><p>**Given** el criador desea ver sus notificaciones de citas programadas.</p><p>**When** se encuentre en el apartado de “Notificaciones”.</p><p>**Then** el sistema le mostrará un mensaje que describe brevemente la solicitud.</p><p></p><p>**Escenario 2: Aceptar notificación de cita programada con el asesor**</p><p>**Given** que el criador decide cerrar la notificación para liberar espacio y permitir la visualización de otras notificaciones.</p><p>**And** se encuentra en la sección de "Notificaciones" del sistema.</p><p>**When** haga clic en el botón "Aceptar" dentro de la notificación correspondiente a la cita programada con el asesor.</p><p>**Then** el sistema eliminará la notificación de la lista de notificaciones.</p>|EO1|
-|US08|Calificación al asesor luego de una asesoría|**Como** criador de cuyes **quiero** calificar al asesor luego de una consulta **para** ayudar a otros criadores a tomar una decisión informada antes de separar una cita.|<p>**Escenario 1: Calificar al asesor**</p><p>**Given** el criador desea hacer un feedback referente al servicio del asesor.</p><p>**And** se encuentra en la vista de calificación del servicio.</p><p>**When** haga clic en el botón “Calificar Servicio”</p><p>**Then** el sistema le permitirá asignarle un número de estrellas y reseñar el servicio del asesor.</p><p>**Escenario 2: Omitir Calificación**</p><p>**Given** el criador no desea dar feedback al asesor referente al servicio.</p><p>**And** se encuentra en la vista de calificación del servicio.</p><p>**When** haga clic en el botón “Omitir calificación”</p><p>**Then** el sistema le permitirá omitir la reseña.</p>|E01|
-|US09|Gestión de una publicación|**Como** asesor **quiero** hacer publicaciones **para** tener un mayor alcance hacia los criadores dentro de la aplicación.|<p>**Escenario 1: Crear una nueva publicación**</p><p>**Given** el asesor desea crear una publicación.</p><p>**And** está en el apartado de "Mis Publicaciones".</p><p>**When** hace clic en el botón "Crear Publicación".</p><p>**Then** se le redirige a un formulario donde puede ingresar el contenido de su nueva publicación.</p><p>**And** después de completar el contenido, hace clic en el botón "Publicar".</p><p>**Then** el sistema le mostrará un mensaje de confirmación.</p><p></p><p>**Escenario 2: Eliminar una publicación existente**</p><p>**Given** el asesor desea eliminar una publicación existente.</p><p>**And** está en el apartado de "Mis Publicaciones" de la Sidebar.</p><p>**And** tiene una publicación previamente creada.</p><p>**When** selecciona la opción de eliminar en la publicación que desea borrar.</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, la publicación se elimina de su perfil y ya no está disponible para los criadores.</p>|E02|
-|US10|Visualización de publicaciones de los asesores|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|<p>**Escenario 1: Visualizar publicaciones de asesores**</p><p>**Given** el criador desea ver las publicaciones de la comunidad</p><p>**When** haga clic en el botón “Publicaciones” de la Sidebar.</p><p>**Then** el sistema le mostrará una lista de las últimas publicaciones de la comunidad de asesores.</p><p></p><p>**Escenario 2: Filtrar publicaciones de asesores por fecha**</p><p>**Given** el criador desea ver las publicaciones de la comunidad de un tiempo en específico como “esta semana”, “este mes” o ingresar una fecha en específico.</p><p>**And** se encuentra visualizando las publicaciones.</p><p>**When** haga clic en el ícono de filtro.</p><p>**Then** el sistema le permitirá filtrar las publicaciones por el parámetro elegido.</p>|E02|
-|US11|Gestión de jaulas de cuyes|**Como** criador de cuyes **quiero** poder registrar una jaula en la plataforma **para** poder gestionar la información de mis cuyes de manera organizada.|<p>**Escenario 1: Registro de una jaula**</p><p>**Given** que el criador desea registrar una jaula.</p><p>**And** se encuentra en el apartado "Registro".</p><p>**When** haga clic en el botón "Registrar Jaula".</p><p>**And** completa el formulario con la información requerida de la jaula como nombre, tamaño y observaciones.</p><p>**And** hace clic en el botón "Registrar Jaula".</p><p>**Then** el sistema le mostrará un mensaje del registro exitoso de la jaula.</p><p>**Escenario 2: Eliminar jaula**</p><p>**Given** que el criador desea eliminar una jaula.</p><p>**And** se encuentra en una jaula del apartado "Mis Animales".</p><p>**When** haga clic en el botón "Borrar".</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, la jaula se elimina junto a la información de los cuyes asignados a esa jaula.</p>|E03|
-|US12|Registro de información de un animal|**Como** criador de cuyes **quiero** contar con un sistema de registro de animales **para** almacenar información básica sobre cada animal, incluyendo su número de identificación, nombre, raza, género, peso y fecha de nacimiento.|<p>**Escenario 1: Registrar un nuevo animal**</p><p>**Given** el criador desea registrar un cuy en su jaula.</p><p>**And** se encuentra en el apartado de “Registro”.</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And** ingresa la información básica del animal, incluyendo su número de identificación, número de jaula dónde se va a encontrar, raza, género, peso y fecha de nacimiento,</p><p>**And** haga clic “Registrar”</p><p>**Then** el sistema le mostrará una confirmación del registro.</p><p>**Escenario 2: Fallar en el registro de animal**</p><p>**Given** el criador desea registrar un cuy en su jaula.</p><p>**And** se encuentra en el apartado de “Registro”.</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And** intenta ingresar la información del animal pero no completa todos los campos obligatorios para el registro.</p><p>**And** haga clic en “Registrar”.</p><p>**Then** el sistema le mostrará un mensaje de error.</p>|E03|
-|US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** acceder a la información de un animal **para** visualizar o actualizar su información registrada.|<p>**Escenario 1: Buscar y visualizar la información de un animal registrado**</p><p>**Given** el criador tiene varios cuyes registrados en la aplicación y desea editar la información de uno en específico.</p><p>**And** se encuentra en el apartado de “Mis Animales”</p><p>**When** haga clic en "Ver" de una jaula</p><p>**And** seleccione el card de un cuy específico.</p><p>**Then** el sistema le mostrará la información detallada del cuy.</p><p>**Escenario 2: Actualizar información de un animal registrado**</p><p></p><p>**Given** el criador tiene varios cuyes registrados en la aplicación y desea editar la información de uno en específico.</p><p>**And** se encuentra viendo la información detallada de un cuy. </p><p>**When** haga clic en el botón “Editar”.</p><p>**And** realiza cambios en la información del cuy.</p><p>**Then** el sistema actualizará la información detallada del cuy</p>|E03|
-|US14|Registrar fallecimiento de un cuy|**Como** criador de cuyes **quiero** poder registrar el fallecimiento de un cuy en mi granja **para** tener información actualizada.|<p>**Escenario 1: Registrar fallecimiento de cuy**</p><p>**Given** el criador desea registrar el fallecimiento de un cuy.</p><p>**And**  está visualizando la información de un cuy en el apartado de “Mis Animales”</p><p>**When** haga clic en el botón “Editar”</p><p>**And**  haga clic en el botón “Marcar como fallecido”</p><p>**Then** el sistema le pedirá un confirmación para actualizar el estado del cuy.</p><p></p><p>**Escenario 2: Cancelar intención de marcar fallecimiento a cuy**</p><p>**Given** el criador se ha equivocado de animal para marcar como fallecido.</p><p>**And**  se encuentra visualizando la confirmación.</p><p>**When** haga clic en el botón “Cancelar”</p><p>**Then** el sistema cancelará el cambio de estado del cuy.</p><p></p>|E03|
-|US15|Gestión de recursos de la granja|**Como** criador de cuyes **quiero** registrar los recursos de mi granja **para** tener un control sobre los recursos esenciales como alimentos y medicamentos.|<p>**Registrar de nuevo ingreso de recursos en el inventario**</p><p>**Given** eel criador ha recibido el pedido de recursos por parte del proveedor y desea registrar esto en su inventario.</p><p>**And** se encuentra en el apartado de “Registro” de la Sidebar.</p><p>**When** haga clic en el botón “Nuevo Recurso”</p><p>**And** ingresa los detalles de nombre y tipo de recurso, fecha, cantidad y observación.</p><p>**Then** el sistema mostrará una confirmación.</p><p></p><p>**Escenario 2: Ver recursos**</p><p>**Given** el criador desea ver los recursos que posee.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de Recursos”.</p><p>**Then** el sistema le permitirá visualizar sus recursos que incluyen datos como el nombre del recurso, el tipo de recurso (alimento, medicina, cultivo u otro) y la fecha en el que fue registrado este recurso.</p>|E04|
-|US16|Gestión de gastos realizados|**Como** criador de cuyes **quiero** registrar gastos relacionados con mi negocio **para** tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad.|<p>**Escenario 1: Registrar gasto**</p><p>**Given** el criador desea registrar los gastos que ha realizado.</p><p>**And** se encuentra en el apartado de “Registro” de la Sidebar.</p><p>**When** haga clic en el botón “gastos”</p><p>**And** ingrese datos como el precio, tipo de gasto, fecha y demás campos.</p><p>**Then** el sistema registrará correctamente los detalles del gasto.</p><p></p><p>**Escenario 2: Ver gasto registrado**</p><p>**Given** el criador desea ver un gasto ya registrado.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de gastos”.</p><p>**Then** el sistema le permitirá visualizar sus gastos.</p><p>**Escenario 3: Ver gasto registrado**</p><p>**Given** el creador desea ver un recurso de un tipo en específico.</p><p>**And** se encuentra en la sección de “Gestión de Gastos”del apartado de “Mi Granja”</p>p>**When**seleccione el tipo de gasto que desea filtrar (todos, salud, alimento, Mantenimiento de criadero)</p><p>**And**And haga clic en el botón “Filtrar”</p><p>**Then** el sistema le mostrará una lista de todos los recursos que pertenezcan a ese tipo.|E04|
+|US01|Visualización del catálogo de asesores|**Como** criador de cuyes **quiero** explorar un catálogo de asesores **para** conocer quiénes me pueden apoyar con asesorías|<p>**Escenario 1: Explorar catálogo de asesores**</p><p>**Given** el criador quiere explorar el catálogo de asesores.</p><p>**And** se encuentra en el apartado de “Asesores”.</p><p>**When** seleccione el botón “Catálogo de asesores”.</p><p>**Then** el sistema le mostrará una lista de todos los asesores disponibles en la aplicación.</p><p></p><p>**Escenario 2: Filtrar búsqueda de asesores**</p><p>**Given** el criador quiere personalizar su búsqueda.</p><p>**And** se encuentra en el apartado de “Asesores”.</p><p>**When** seleccione el botón de filtros.</p><p>**Then** el sistema** le permitirá filtrar el catálogo de asesores por ubicación, experiencia o reputación.</p><p></p><p>**Escenario 3: Ver mis asesores**</p><p>**Given** el criador desea ver los asesores a los que les solicitó un servicio para recibir una mentoría.</p><p>**And** se encuentra en el apartado de “Asesores”.</p><p>**When** haga clic en el botón “Mis Asesores”</p><p>**Then** el sistema le mostrará una lista de todos los asesores a los que ha solicitado una cita.</p>|E01|
+|US02|Visualización de información de un asesor|**Como** criador de cuyes **quiero** ver la información de un asesor **para** tomar una decisión informada antes de separar una cita|<p>**Escenario 1: Ver información de un asesor** </p><p>**Given** el criador quiere ver información de un asesor.</p><p>**And se** encuentra en el apartado de “Asesores”.</p><p>**When** seleccione al cuadro de un asesor.</p><p>**Then** el sistema le mostrará la información del asesor como nombre, experiencia, calificación y reseñas.</p><p></p><p>**Escenario 2: Fallar al visualizar la información del asesor**</p><p>**Given** el criador quiere ver información relevante del asesor.</p><p>**And se** encuentra en el apartado de “Asesores”</p><p>**When** seleccione al cuadro de un asesor.</p><p>**And** se encuentre con un error al cargar la información.</p><p>**Then** el sistema le mostrará un mensaje de error de carga.</p>|E01|
+|US03|Visualización de horarios de asesores|**Como** criador de cuyes **quiero** ver los horarios disponibles de los asesores **para** seleccionar un horario que se ajuste a mi agenda.|<p>**Escenario 1: Visualizar horarios disponibles**</p><p>**Given** el criador desea visualizar los horarios disponibles de un asesor elegido.</p><p>**And** se encuentra viendo la información del perfil de un asesor.</p><p>**When** haga clic en el botón “Reservar Cita”</p><p>**Then** el sistema le mostrará una interfaz con los horarios disponibles del asesor</p><p></p><p>**Escenario 2: Fallar al intentar visualizar horarios.**</p><p>**Given** el criador desea visualizar los horarios disponibles del asesor elegido.</p><p>**And** se encuentra viendo la información del perfil de un asesor.</p><p>**When** haga clic en el botón “Reservar Cita”</p><p>**And** el asesor no tenga horarios disponibles</p><p>**Then** el sistema le mostrará un mensaje de error “El asesor no tiene horarios disponibles”.</p>|E01|
+|US04|Programación de citas con asesores|**Como** criador de cuyes **quiero** programar una cita con un asesor **para** recibir orientación personalizada sobre la crianza de cuyes|<p>**Escenario 1: Programar cita**</p><p>**Given** el criador desea programar una cita.</p><p>**And** se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor.</p><p>**When** seleccione un horario disponible</p><p>**And** complete los campos solicitados.</p><p>**And** haga clic en el botón “Reservar Cita”</p><p>**Then** el sistema le mostrará un mensaje de confirmación.</p><p></p><p>**Escenario 2: Fallar al programar cita**</p><p>**Given** el criador desea programar una cita.</p><p>**And** se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor.</p><p>**When** seleccione un horario disponible</p><p>**And** se encuentra un error técnico o de conexión que impide completar la programación.</p><p>**Then** el sistema le mostrará un mensaje de error sugiriendo contactar con soporte.</p>|E01|
+|US05|Visualización de información del criador de cuyes|**Como** asesor **quiero** tener información de la granja del criador de cuyes **para** planificar los temas de la asesoría|<p>**Escenario 1: Ver información del criador**</p><p>**Given** el asesor desea ver información del criador de cuyes con el que tendrá una asesoría</p><p>**And** se encuentra en la sección de “Mis Citas” .</p><p>**And** observa que tiene una cita programada con un criador.</p><p>**When** haga clic en la card de la cita.</p><p>**Then** el sistema le permitirá ver información de la granja del criador como número de jaulas y número de cuyes, como también información del criador como nombre, edad y localización.</p><p></p><p>**Escenario 2: Fallar al acceder a la información del criador**</p><p>**Given** el asesor desea ver información del criador de cuyes con el que tendrá una asesoría</p><p>**And** se encuentra en la sección de “Mis Citas” .</p><p>**And** observa que tiene una cita programada con un criador.</p><p>**When** haga clic en la card de la cita.</p><p>**And** se encuentre con un error al cargar la información.</p><p>**Then** el sistema le mostrará un mensaje de error indicando que hubo un error de carga.</p>|E01|
+|US06|Notificación de citas al asesor|**Como** asesor**, quiero** recibir notificaciones de citas programadas por los criadores **para** mantenerme al tanto de mis ofertas laborales.|<p>**Escenario 1: Ver notificaciones de cita programadas por criadores**</p><p>**Given** el asesor desea ver sus notificaciones de citas programadas.</p><p>**When** se encuentre en el apartado de “Notificaciones”</p><p>**Then** el sistema le mostrará un mensaje que describe brevemente la solicitud.</p><p></p><p>**Scenario 2: Aceptar notificación de cita programada con el criador**</p><p>**Given** que el asesor decide cerrar la notificación para liberar espacio y permitir la visualización de otras notificaciones.</p><p>**And** se encuentra en la sección de "Notificaciones" del sistema.</p><p>**When** haga clic en el botón "Aceptar" dentro de la notificación correspondiente a la cita programada con el criador.</p><p>**Then** el sistema eliminará la notificación de la lista.</p>|E03|
+|US07|Notificación de citas al criador|**Como** criador de cuyes **quiero** recibir notificaciones referentes al estado de mis citas **para** mantenerme al tanto de las asesorías que he solicitado.|<p>**Escenario 1: Ver notificaciones de cita programadas con los asesores**</p><p>**Given** el criador desea ver sus notificaciones de citas programadas.</p><p>**When** se encuentre en el apartado de “Notificaciones”</p><p>**Then** el sistema le mostrará un mensaje que describe brevemente la solicitud.</p><p></p><p>**Scenario 2: Aceptar notificación de cita programada con el asesor**</p><p>**Given** que el criador decide cerrar la notificación para liberar espacio y permitir la visualización de otras notificaciones.</p><p>**And** se encuentra en la sección de "Notificaciones" del sistema.</p><p>**When** haga clic en el botón "Aceptar" dentro de la notificación correspondiente a la cita programada con el asesor.</p><p>**Then** el sistema eliminará la notificación de la lista de notificaciones.</p><p></p>|E01|
+|US08|Calificación del asesor luego de una cita|**Como** criador de cuyes **quiero** calificar al asesor luego de la consulta **para** ayudar a otros criadores a tomar una decisión informada antes de separar una cita.|<p>**Escenario 1: Calificar al asesor**</p><p>**Given** el criador desea hacer un feedback referente al servicio del asesor.</p><p>**And** se encuentra en la vista de calificación del servicio.</p><p>**When** haga clic en el botón “Calificar Servicio”</p><p>**Then** el sistema le permitirá asignarle un número de estrellas y reseñar el servicio del asesor.</p><p></p><p>**Escenario 2: Omitir Calificación**</p><p>**Given** el criador no desea dar feedback al asesor referente al servicio.</p><p>**And** se encuentra en la vista de calificación del servicio.</p><p>**When** haga clic en el botón “Omitir calificación”</p><p>**Then** el sistema le permitirá omitir la reseña.</p>|E01|
+|US09|Gestión de publicaciones de asesores|**Como** asesor **quiero** hacer publicaciones referentes a mis trabajos **para** que los criadores tengan más confianza en mí.|<p>**Escenario 1: Crear una nueva publicación**</p><p>**Given** el asesor desea crear una publicación.</p><p>**And** está en el apartado de "Mis Publicaciones".</p><p>**When** hace clic en el botón "Crear Publicación" de la Sidebar.</p><p>**Then** se le redirige a un formulario donde puede ingresar el contenido de su nueva publicación.</p><p>**And** después de completar el contenido, hace clic en el botón "Publicar".</p><p>**Then** el sistema le mostrará un mensaje de confirmación.</p><p></p><p>**Escenario 2: Editar una publicación existente**</p><p>**Given** el asesor desea editar una publicación existente.</p><p>**And** está en el apartado de "Mis Publicaciones" de la Sidebar.</p><p>**And** tiene una publicación previamente creada.</p><p>**When** selecciona la opción de editar en la publicación que desea modificar.</p><p>**Then** se le redirige al formulario de edición donde puede modificar el contenido de la publicación.</p><p>**And** después de realizar los cambios deseados, hace clic en el botón "Guardar Cambios".</p><p>**Then** el sistema le mostrará un mensaje de confirmación y los cambios se reflejan en la publicación actualizada.</p><p></p><p>**Escenario 3: Eliminar una publicación existente**</p><p>**Given** el asesor desea eliminar una publicación existente.</p><p>**And** está en el apartado de "Mis Publicaciones" de la Sidebar.</p><p>**And** tiene una publicación previamente creada.</p><p>**When** selecciona la opción de eliminar en la publicación que desea borrar.</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, la publicación se elimina de su perfil y ya no está disponible para los criadores.</p>|E02|
+|US10|Visualización de publicaciones de los asesores|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|<p>**Escenario 1: Visualizar publicaciones de asesores**</p><p>**Given** el criador desea ver las publicaciones de la comunidad</p><p>**When** haga clic en el botón “Publicaciones” de la Sidebar.</p><p>**Then** el sistema le mostrará una lista de las últimas publicaciones de la comunidad de asesores.</p>|E02|
+|US11|Gestión de jaulas de cuyes|**Como** criador de cuyes **quiero** poder registrar una jaula en la plataforma **para** poder almacenar y gestionar mis cuyes de manera efectiva, garantizando su seguridad y bienestar.|<p>**Escenario 1: Registro exitoso de la jaula**</p><p>**Given** que el criador desea registrar su galón.</p><p>**And** se encuentra en el apartado "Mis Animales".</p><p>**When** haga clic en el botón "Registrar Jaula".</p><p>**And** completa el formulario con la información requerida de la jaula.</p><p>**And** hace clic en el botón "Registrar".</p><p>**Then** el sistema le mostrará un mensaje del registro exitoso de la jaula.</p><p></p><p>**Escenario 2: Eliminar jaula**</p><p>**Given** que el criador desea eliminar su galón.</p><p>**And** se encuentra en el apartado "Mis Animales".</p><p>**When** haga clic en el botón "Borrar" de la jaula deseada.</p><p>**Then** el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.</p><p>**And** después de confirmar, la jaula se elimina.</p>|E03|
+|US12|Registro de información de animales|**Como** criador de cuyes **quiero** contar con un sistema de registro de animales **para** almacenar información básica sobre cada animal, incluyendo su número de identificación, nombre, raza, género, peso y fecha de nacimiento.|<p>**Escenario 1: Registrar un nuevo animal**</p><p>**Given** el criador desea registrar un cuy en su galpón.</p><p>**And** se encuentra en la jaula deseada</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And** ingresa la información básica del animal, incluyendo su número de identificación, número de galpón, raza, género y fecha de nacimiento.</p><p>**And** haga clic “Registrar”</p><p>**Then** el sistema le mostrará una confirmación del registro.</p><p></p><p>**Escenario 2: Fallar en el registro de animal**</p><p>**Given** el criador desea registrar un cuy en su galpón.</p><p>**And** se encuentra en la jaula deseada</p><p>**When** haga clic en el botón ”Nuevo cuy”</p><p>**And i**ntenta ingresar la información del animal pero deja en blanco algunos campos obligatorios para el registro**.**</p><p>**And** haga clic “Registrar”.</p><p>**Then** el sistema le mostrará un mensaje de error.</p>|E03|
+|US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** acceder a la información de un animal **para** visualizar o actualizar su información registrada.|<p>**Escenario 1: Visualizar la información de un animal registrado**</p><p>**Given** el criador tiene varios cuyes registrados en la aplicación y desea visualizar la información de uno en específico.</p><p>**And** se encuentra en el apartado de “Mis Animales”</p><p>**When** haga clic en “Ver” de una jaula</p><p>**And** seleccione el card de un cuy  específico.</p><p>**Then** el sistema le mostrará la información detallada del cuy.</p><p></p><p>**Escenario 2: Actualizar información de un animal registrado**</p><p></p><p>**Given** el criador tiene varios cuyes registrados en la aplicación y desea editar la información de uno en específico.</p><p>**And** se encuentra viendo la información detallada de un cuy </p><p>**When** haga clic en “Editar”</p><p>**And** realiza cambios en la información del cuy.</p><p>**Then** el sistema actualizará la información detallada del cuy.</p><p></p>|E03|
+|US14|Separación de fechas disponibles para asesoría|**Como** asesor, **quiero** poder seleccionar y separar las fechas y horas en las que estoy disponible para ofrecer asesorías **para** que los usuarios interesados puedan ver mis horarios disponibles y agendar una cita en un momento conveniente.|<p>**Escenario 1: Registrar disponibilidad para asesorías**</p><p>**Given** el asesor desea registrar sus fechas y horas disponibles para asesorías.</p><p>**And**  está visualizando la página de "Horario disponible"</p><p>**When** haga clic en el botón “Registrar nueva fecha”</p><p>**And**  complete los datos del nuevo horario disponible que tiene el asesor</p><p>**Then** el sistema actualizará y guardará las fechas y horas seleccionadas como disponibles.</p><p></p><p>**Escenario 2: Cancelar intención de modificar disponibilidad**</p><p>**Given** el asesor se ha equivocado al seleccionar una fecha o intervalo de tiempo para modificar.</p><p>**And**  se encuentra visualizando los cambios antes de guardar.</p><p>**When** haga clic en el botón “Cancelar”</p><p>**Then** el sistema lo redireccionará a la vista original de sus fechas y horas disponibles sin aplicar los cambios.</p><p></p>|E01|
+|US15|Gestión de recursos de la granja|**Como** criador de cuyes **quiero** registrar el inventario de mi granja **para** tener un control sobre los recursos esenciales como alimentos y medicamentos.|<p>**Escenario 1: Registrar de nuevo ingreso de recursos en el inventario**</p><p>**Given** el criador ha recibido el pedido de recursos por parte del proveedor y desea registrar esto en su inventario.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**And** ingresa a la sección de “Gestión de Recursos” del apartado de “Mi Granja”.</p><p>**When** haga clic en el botón “Nuevo Recurso”</p><p>**And** ingresa los detalles de nombre y tipo de recurso, fecha, cantidad y observación.</p><p>**Then** el sistema mostrará una confirmación.</p><p></p><p>**Escenario 2: Ver recursos**</p><p>**Given** el criador desea ver los recursos que posee.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de Recursos”.</p><p>**Then** el sistema le permitirá visualizar sus recursos que incluyen datos como el nombre del recurso, el tipo de recurso (alimento, medicina, cultivo u otro) y la fecha en el que fue registrado este recurso.</p><p></p><p>**Escenario 2: Filtrar recursos**</p><p>**Given** el creador desea ver un recurso de un tipo en específico.</p><p>**And** se encuentra en la sección de “Gestión de Recursos”del apartado de “Mi Granja”.</p><p>**When** seleccione el tipo de recurso que sea filtrar (todos, alimento, medicina, cultivo)</p><p>**And** haga clic en el botón “Filtrar”</p><p>**Then** el sistema le mostrará una lista de todos los recursos que pertenezcan a ese tipo.</p><p></p><p>**Escenario 3: Editar recurso**</p><p></p><p>**Escenario 4: Eliminar recurso**</p>|E04|
+|US16|Gestión de gastos realizados|**Como** criador de cuyes **quiero** registrar gastos relacionados con mi negocio **para** tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad.|<p>**Escenario 1: Registrar gasto**</p><p>**Given** el criador desea registrar los gastos que ha realizado.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**And** ingresa a la sección de “Gestión de Gastos”del apartado de “Mi Granja”.</p><p>**When** haga clic en el botón “Nuevo Gasto”</p><p>**And** ingrese datos como el precio, tipo de gasto, fecha y demás campos.</p><p>**Then** el sistema registrará correctamente los detalles del gasto.</p><p></p><p>**Escenario 2: Ver gasto registrado**</p><p>**Given** el criador desea ver un gasto ya registrado.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de gastos”</p><p>**Then** el sistema le permitirá visualizar sus gastos.</p><p></p><p>**Escenario 3: Filtrar gasto**</p><p>**Given** el criador desea ver un recurso de un tipo en específico.</p><p>**And** se encuentra en la sección de “Gestión de Gastos”del apartado de “Mi Granja”.</p><p>**When** seleccione el tipo de gasto que desea filtrar (todos, salud, alimento, Mantenimiento de criadero)</p><p>**And** haga clic en el botón “Filtrar”</p><p>**Then** el sistema le mostrará una lista de todos los recursos que pertenezcan a ese tipo.</p><p></p><p>**Escenario 3: Editar gasto**</p><p></p><p>**Escenario 4: Eliminar gasto**</p>|E04|
 |US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|<p>**Escenario 1: Seguridad en la conexión web**</p><p>**Given** el usuario desea que la aplicación sea segura para su uso personal.</p><p>**When** ingrese a la aplicación para hacer uso de ella.</p><p>**Then** la aplicación usará conexión segura https para enviar datos.</p>|E05|
 |US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|<p>**Escenario 1: Acceso a la aplicación en todo momento**</p><p>**Given** el usuario desea usar la aplicación en cualquier instante.</p><p>**When** ingrese a la aplicación.</p><p>**Then** la aplicación se encuentra disponible y funcional.</p><p></p><p>**Escenario 2: Acceso a la aplicación sin interrupciones**</p><p>**Given** el usuario desea usar la aplicación en cualquier instante.</p><p>**When** ingresa a la aplicación.</p><p>**Then** la aplicación carga rápidamente y controla el tráfico para que la experiencia sea fluida.</p>|E05|
-|US19|Registro de un usuario nuevo|**Como** usuario **quiero** registrarme **para** acceder a las funciones de usuario.|<p>**Escenario 1: Registro de cuenta por formulario**</p><p>**Given** el usuario desea registrarse en la aplicación.</p><p>**And** se encuentra en el apartado de “Registrarse”.</p><p>**When** complete el formulario de registro con su información personal.</p><p>**And** seleccione su rol en la aplicación entre “Criador” o “Asesor”</p><p>**And** los datos** sean correctos según las validaciones establecidas.</p><p>**Then** la cuenta se creará.</p><p></p><p>**Escenario 2: Registro incorrecto de cuenta**</p><p>**Given** el criador/asesor se encuentra en el apartado de “Registrarse”.</p><p>**When** ingrese la información solicitada de manera errónea.</p><p>**Then** la cuenta no se creará.</p><p>**And** recibirá un mensaje indicando el error.</p>|E06|
-|US20|Inicio de sesión|**Como** usuario **quiero** acceder a mi cuenta registrada **para** acceder a las funciones de usuario.|<p>**Escenario 1: Inicio de sesión exitoso**</p><p>**Given** el criador/asesor desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Acceder”.</p><p>**When** introduzca sus credenciales correctamente.</p><p>**Then** recibirá un mensaje de bienvenida.</p><p>**And** será redireccionado a su vista de usuario.</p><p></p><p>**Escenario 2: Inicio de sesión fallido**</p><p>**Given** el criador/asesor desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Acceder”.</p><p>**When** introduzca sus credenciales incorrectamente.</p><p>**Then** no se le permitirá acceso a su cuenta.</p><p>**And** recibirá un mensaje indicando el error.</p><p></p><p>**Escenario 3: Bloqueo de sesión por exceso de intentos**</p><p>**Given** el criador/asesor desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Acceder”.</p><p>**When** introduzca sus credenciales incorrectamente.</p><p>**And** siga errando hasta alcanzar el número máximo de intentos permitidos (tres intentos).</p><p>**Then** recibirá un mensaje que le informe que ha excedido el número de intentos permitidos.</p><p>**And** su cuenta será bloqueada temporalmente.</p><p>**And** se le pedirá actualizar contraseña.</p>|E06|
-|US21|Recuperación de contraseña|**Como** usuario **quiero** poder recuperar mi contraseña **para** acceder a mi cuenta.|<p>**Escenario 1: Recuperación de contraseña**</p><p>**Given** el usuario olvidó su contraseña</p><p>**When** se dirija a la sección de “Inicio de sesión”</p><p>**And** seleccione “olvidé mi contraseña”</p><p>**And** coloque su correo vinculado a la cuenta.</p>><p>**Then** se le enviará un correo para que cambie su contraseña.</p>|E06|
+|US19|Registro de un usuario nuevo|**Como** usuario **quiero** registrarme **para** acceder a las funciones de usuario.|<p>**Escenario 1: Registro de cuenta por formulario**</p><p>**Given** el usuario desea registrarse en la aplicación.</p><p>**And** se encuentra en el apartado de “Registrarse”.</p><p>**When** complete el formulario de registro con su información personal.</p><p>**And** seleccione su rol en la aplicación entre “Criador” o “Asesor”</p><p>**And** los datos** sean correctos según las validaciones establecidas.</p><p>**Then** la cuenta se creará.</p><p></p><p>**Escenario 2: Registro incorrecto de cuenta**</p><p>**Given** el usuario se encuentra en el apartado de “Registrarse”.</p><p>**When** ingrese los datos solicitados de manera errónea.</p><p>**Then** la cuenta no se creará.</p><p>**And** recibirá un mensaje indicando el error.</p>|E06|
+|US20|Inicio de sesión|**Como** usuario **quiero** acceder a mi cuenta registrada **para** acceder a las funciones de usuario.|<p>**Escenario 1: Inicio de sesión exitoso**</p><p>**Given** el usuario desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Iniciar Sesión”.</p><p>**When** introduzca sus credenciales correctamente.</p><p>**Then** será redireccionado a su vista de usuario.</p><p></p><p>**Escenario 2: Inicio de sesión fallido**</p><p>**Given** el usuario desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Iniciar Sesión”.</p><p>**When** introduzca sus credenciales incorrectamente.</p><p>**Then** no se le permitirá acceso a su cuenta.</p><p>**And** recibirá un mensaje indicando el error.</p><p></p><p>**Escenario 3: Bloqueo de sesión por exceso de intentos**</p><p>**Given** el usuario desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Iniciar sesión”.</p><p>**When** introduzca sus credenciales incorrectamente.</p><p>**And** siga errando hasta alcanzar el número máximo de intentos permitidos (tres intentos).</p><p>**Then** recibirá un mensaje que le informe que ha excedido el número de intentos permitidos.</p><p>**And** su cuenta será bloqueada temporalmente.</p>|E06|
+|US21|Recuperación de contraseña|**Como** usuario **quiero** poder recuperar mi contraseña **para** acceder a mi cuenta.|<p>**Escenario 1: Recuperación de contraseña**</p><p>**Given** el usuario olvidó su contraseña</p><p>**When** se dirija a la sección de “Inicio de sesión”</p><p>**And** seleccione “olvidé mi contraseña”</p><p>**And** coloque su correo vinculado a la cuenta.</p><p></p><p>**Then** se le enviará un correo para que cambie su contraseña.</p>|E06|
 |US22|Visualización de Navbar y Footer|**Como** potencial usuario **quiero** navegar con facilidad **para** movilizarme a través de la página y conocer sobre la aplicación.|<p>**Escenario 1: Visualización de Navbar y Footer**</p><p>**Given** el usuario desea conocer sobre la aplicación.</p><p>**When** ingresa al Landing Page,</p><p>**Then** se mostrará el Navbar y Footer que permitirá al usuario navegar con facilidad.</p>|E07|
 |US23|Visualización de sección de inicio|**Como** potencial usuario **quiero** acceder a una página de inicio **para** conocer la idea principal de la aplicación y ver un diseño agradable.|<p>**Escenario 1: Visualización de página de inicio**</p><p>**Given** el usuario desea conocer sobre la aplicación.</p><p>**When** ingresa al Landing Page.</p><p>**Then** se mostrará la página inicial sencilla que da a entender la idea principal.</p>|E07|
 |US24|Visualización de sección “Acerca De”|**Como** potencial usuario **quiero** acceder a una página sobre el problema que resuelve **para** conocer el propósito de la aplicación.|<p>**Escenario 1: Visualización de página Acerca De**</p><p>**Given** el usuario desea conocer sobre el problema que resuelve la aplicación</p><p>**When** ingresa al Landing Page</p><p>**And** ingresa a la sección Acerca De</p><p>**Then** se mostrará la página Acerca De, en la que se detalla la problemática que resolverá la aplicación.</p>|E07|
 |US25|Visualización de sección “Sobre Nosotros”|**Como** potencial usuario **quiero** acceder a una página sobre la startup **para** conocer el propósito de la empresa detrás de la aplicación.|<p>**Escenario 1: Visualización de página Sobre Nosotros**</p><p>**Given** el usuario desea conocer sobre la empresa detrás de la aplicación.</p><p>**When** ingresa al Landing Page</p><p>**And** ingresa a la sección Sobre Nosotros</p><p>**Then** se mostrará la página Sobre Nosotros, en la que detalla información sobre la startup, su misión y visión.</p>|E07|
 |US26|Visualización de sección “Características”|**Como** potencial usuario **quiero** acceder a una página sobre las características **para** conocer las principales funcionalidades de la aplicación.|<p>**Escenario 1: Visualización de página Características**</p><p>**Given** el usuario desea conocer sobre las características de la aplicación</p><p>**When** ingresa al Landing Page</p><p>**And** ingresa a la sección Características</p><p>**Then** se mostrará la página Características en la que detalla información sobre las funcionalidades principales que ofrece la aplicación.</p>|E07|
 |US27|Visualización de sección “Contacto”|**Como** potencial usuario **quiero** acceder a una página de contacto **para** poder contactar con la empresa en caso tenga algún problema, duda o sugerencia.|<p>**Escenario 1: Visualización de página Contacto**</p><p>**Given** el usuario desea contactar con el área de soporte de la empresa</p><p>**When** ingresa al Landing Page</p><p>**And** ingresa a la sección Contacto</p><p>**Then** se mostrará la página Contacto, en la que se muestra los medios de contacto que puede usar el usuario para hacer consultas.</p>|E07|
-|US28|Uso de un API para iniciar sesión| **Como** desarrollador **quiero** integrar el inicio de sesión utilizando la API de Google **para** facilitar el acceso a la aplicación | <p>**Escenario 1: Inicio de sesión con cuenta de Google**</p><p>**Given** el usuario quiere acceder a la aplicación</p><p>**When**seleccione ingreso por cuenta de Google</p><p>**Then** el sistema verificará las credenciales de su cuenta de Google para permitir su acceso</p> | E08 |
-|US29|Uso de un API para videollamadas| **Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación | <p>**Escenario 1: Creación de videollamada**</p><p>**Given** el usuario tiene una asesoría pendiente</p><p>**When**seleccione la opción de ingresar a la asesoría</p><p>**Then** el sistema genera el enlace a una videollamada de Google Meet para que el usuario acceda a su asesoría</p> | E08 |
-|US30|Uso de un API para separar fechas| **Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus calendarios personales | <p>**Escenario 1: Sincronización de citas**</p><p>**Given** el usuario ha separado una asesoría</p><p>**When**seleccione la opción de sincronizar citas</p><p>**Then** el sistema utiliza la API del calendario de Google para agregar la cita</p> | E08 |
+|US28|Uso de un API para iniciar sesión	|**Como** desarrollador **quiero** integrar el inicio de sesión utilizando la API de Google **para** facilitar el acceso a la aplicación|<p>**Escenario 1: Inicio de sesión con cuenta de Google**</p><p>**Given** el usuario quiere acceder a la aplicación</p><p>**When** seleccione ingreso por cuenta de Google</p><p>**Then** el sistema verificará las credenciales de su cuenta de Google para permitir su acceso</p>|E08|
+|US29|Uso de un API para videollamadas	|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación**	|<p>**Escenario 1: Creación de videollamada**</p><p>**Given** el usuario tiene una asesoría pendiente</p><p>**When** seleccione la opción de ingresar a la asesoría</p><p>**Then** el sistema genera el enlace a una videollamada de Google Meet para que el usuario acceda a su asesoría</p><p></p>|E08|
+|US30|Uso de un API para separar fechas	|**Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus** calendarios personales|<p>**Escenario 1: Sincronización de citas**</p><p>**Given** el usuario ha separado una asesoría</p><p>**When** seleccione la opción de sincronizar citas</p><p>**Then** el sistema utiliza la API del calendario de Google para agregar la cita</p><p></p>|E08|
+|US31|Visualización de calendario|**Como** usuario **quiero** visualizar un calendario **para** ver de forma agradable y ordenada las asesorías programadas que tengo.|<p>**Escenario 1: Visualizar calendario como criador**</p><p>**Given** el criador ha separado una o más asesorías</p><p>**When** ingrese a la sección Calendario del Sidebar</p><p>**Then** se mostrará un calendario que muestra las citas programadas con los asesores en las fechas correspondientes</p><p></p><p>**Escenario 2: Visualizar calendario como asesor**</p><p>**Given** el asesor tiene programada una o más asesorías</p><p>**When** ingrese a la sección Calendario del Sidebar</p><p>**Then** se mostrará un calendario que muestra las citas programadas con los criadores en las fechas correspondientes</p>|E01|
+|US32|Uso de nuestra API para gestionar usuarios|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de los usuarios en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.|<p>**Escenario 1: Integrar un API para manejar las solicitudes HTTP de los usuarios y notificaciones**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST o PUT con los datos solicitados del usuario o notificación a la API.</p><p>**Then** La API responde con un código de estado correspondiente (200 OK o 201 Created)</p><p>**And** se realiza la operación solicitada.</p><p>**Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de usuarios y notificaciones**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados del usuario o notificación a la API</p><p>**And** ocurre un error.</p><p>**Then** la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).</p><p>**And** el sistema proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.</p>|E08|
+|US33|Uso de nuestra API para gestionar publicaciones|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las publicaciones de asesores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.|<p>**Escenario 1: Integrar un API para manejar las solicitudes HTTP de las publicaciones**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST o DELETE con los datos solicitados de la publicación a la API.</p><p>**Then** La API responde con un código de estado correspondiente (200 OK o 201 Created) y se realiza la operación solicitada.</p><p>**Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de publicaciones**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST o DELETE con los datos solicitados de la publicación a la API y ocurre un error.</p><p>**Then** la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).</p><p>**And** el sistema captura el error y proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.</p>|E08|
+|US34|Uso de nuestra API para manejar recursos y gastos|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de los recursos y gastos de los criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.|<p>**Escenario 1: Integrar un API para manejar las solicitudes HTTP de los recursos o gastos**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados del recurso o gasto a la API.</p><p>**Then** La API responde con un código de estado correspondiente (200 OK o 201 Created)  y se realiza la operación solicitada.</p><p>**Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de recursos o gastos**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados del recurso o gasto a la API y ocurre un error.</p><p>**Then** la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).</p><p>**And** el sistema captura el error y proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.</p>|E08|
+|US35|Uso de nuestra API para manejar la reserva de citas entre asesores y criadores|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las citas entre asesores y criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.|<p>**Escenario 1: Integrar un API para manejar las solicitudes HTTP de las citas y horarios disponibles de asesores**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de una cita entre un asesor y un criador a la API.</p><p>**Then** La API responde con un código de estado correspondiente (200 OK o 201 Created)  y se realiza la operación solicitada.</p><p>**Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de citas y horarios disponibles de asesores**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de de una cita entre un asesor y un criador a la API y ocurre un error.</p><p>**Then** la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).</p><p>**And** el sistema captura el error y proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.</p>|E08|
+|US36|Uso de nuestra API para manejar las jaulas y animales|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las jaulas y los animales de los criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.|<p>**Escenario 1: Integrar un API para manejar las solicitudes HTTP de las jaulas o animales**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de la jaula o animal a la API.</p><p>**Then** La API responde con un código de estado correspondiente (200 OK o 201 Created)  y se realiza la operación solicitada.</p><p>**Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de jaulas o animales**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de la jaula o animal a la API y ocurre un error.</p><p>**Then** la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).</p><p>**And** el sistema captura el error y proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.</p>|E08|
+
+
+
+
 
 ## 3.3. Impact Mapping
 **Segmento: Asesor**
@@ -1354,34 +1315,40 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 | :- | :- | :- | :- | :- |
 |1|US22|Visualización de Navbar y Footer|**Como** potencial usuario **quiero** navegar con facilidad **para** movilizarme a través de la página y conocer sobre la aplicación.|2|
 |2|US23|Visualización de sección de inicio|**Como** potencial usuario **quiero** acceder a una página de inicio **para** conocer la idea principal de la aplicación y ver un diseño agradable.|1|
-|3|US24|Visualización de sección de inicio “Acerca De”|**Como** potencial usuario **quiero** acceder a una página sobre el problema que resuelve **para** conocer el propósito de la aplicación.|2|
-|4|US25|Visualización de sección de inicio “Sobre Nosotros”|**Como** potencial usuario **quiere** acceder a una página sobre la startup **para** conocer el propósito de la empresa detrás de la aplicación.|2|
-|5|US26|Visualización de sección de inicio “Características”|**Como** potencial usuario **quiero** acceder a una página sobre las características **para** conocer las principales funcionalidades de la aplicación.|2|
-|6|US27|Visualización de sección de inicio “Contacto”|**Como** potencial usuario **quiero** acceder a una página de contacto **para** poder contactar con la empresa en caso tenga algún problema, duda o sugerencia.|2|
-|7|US01|Catálogo de asesores|**Como** criador de cuyes **quiero** explorar el catálogo de asesores **para** conocer quiénes me pueden apoyar con asesorías.|5|
-|8|US02|Información de un asesor|**Como** criador de cuyes **quiero** tener acceso a la información de un asesor **para** tomar una decisión informada antes de separar una cita.|3|
+|3|US24|Visualización de sección “Acerca De”|**Como** potencial usuario **quiero** acceder a una página sobre el problema que resuelve **para** conocer el propósito de la aplicación.|2|
+|4|US25|Visualización de sección “Sobre Nosotros”|**Como** potencial usuario **quiere** acceder a una página sobre la startup **para** conocer el propósito de la empresa detrás de la aplicación.|2|
+|5|US26|Visualización de sección “Características”|**Como** potencial usuario **quiero** acceder a una página sobre las características **para** conocer las principales funcionalidades de la aplicación.|2|
+|6|US27|Visualización de sección “Contacto”|**Como** potencial usuario **quiero** acceder a una página de contacto **para** poder contactar con la empresa en caso tenga algún problema, duda o sugerencia.|2|
+|7|US01|Visualización del catálogo de asesores|**Como** criador de cuyes **quiero** explorar el catálogo de asesores **para** conocer quiénes me pueden apoyar con asesorías.|5|
+|8|US02|Visualización de información de un asesor|**Como** criador de cuyes **quiero** tener acceso a la información de un asesor **para** tomar una decisión informada antes de separar una cita.|3|
 |9|US03|Visualización de horarios de asesores|**Como** criador de cuyes **quiero** ver los horarios disponibles de los asesores **para** seleccionar un horario que se ajuste a mi agenda.|3|
 |10|US04|Programación de citas con asesores|**Como** criador de cuyes **quiero** poder programar una cita con un asesor **para** recibir orientación personalizada|8|
 |11|US05|Visualización de información del criador de cuyes|**Como** asesor **quiero** tener tener información de la granja del criador de cuyes **para** planificar los temas de la asesoría.|5|
 |12|US06|Notificación de citas al asesor|**Como** asesor, **quiero** recibir notificaciones de citas programadas por los criadores **para** mantenerme al tanto de mis ofertas laborales.|3|
-|13|US07|Notificación de citas al criador de cuyes|**Como** criador de cuyes **quiero** recibir notificaciones referentes al estado de mis citas **para** mantenerme al tanto de mi solicitud.|3|
-|14|US08|Calificación al asesor luego de una asesoría|**Como** criador de cuyes **quiero** calificar al asesor luego de consulta **para** ayudar a otros criadores a tomar una decisión informada antes de separar una cita.|5|
-|15|US09|Gestión de una publicación|**Como** asesor **quiero** hacer publicaciones **para** tener una mayor visibilidad.|5|
-|16|US10|Visualización de publicaciones de los asesores|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|5|
+|13|US07|Notificación de citas al criador|**Como** criador de cuyes **quiero** recibir notificaciones referentes al estado de mis citas **para** mantenerme al tanto de mi solicitud.|3|
+|14|US08|Calificación al asesor luego de una cita|**Como** criador de cuyes **quiero** calificar al asesor luego de consulta **para** ayudar a otros criadores a tomar una decisión informada antes de separar una cita.|5|
+|15|US09|Gestión de publicaciones de asesores|**Como** asesor **quiero** hacer publicaciones **para** tener una mayor visibilidad.|5|
+|16|US10|Visualización de publicaciones de los asesores|**Como** criador de cuyes **quiero** poder ver las publicaciones de la comunidad de asesores **para** obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.|3|
 |17|US11|Gestión de jaulas de cuyes|**Como** criador de cuyes **quiero** poder registrar una jaula en la plataforma **para** poder gestionar la información de mis cuyes de manera organizada.|3|
 |18|US12|Registro de información de un animal|**Como** criador de cuyes **quiero** contar con un sistema de registro de animales **para** almacenar información básica sobre cada animal, incluyendo su número de identificación, nombre, raza, género, peso y fecha de nacimiento.|3|
-|19|US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** acceder a la información de un animal **para** visualizar o actualizar su información registrada.|8|
-|20|US14|Registro de fallecimiento de un cuy|**Como** criador de cuyes **quiero** poder registrar el fallecimiento de un cuy en mi granja **para** tener información actualizada.|2|
-|21|US15|Gestión de recursos de la granja|**Como** criador de cuyes **quiero** gestionar los recursos de mi granja **para** tener un control sobre los recursos esenciales como alimentos y medicamentos.|8|
-|22|US16|Gestión de gastos realizados|**Como** criador de cuyes **quiero** gestionar los gastos relacionados con mi negocio **para** tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad.|8|
-|23|US28|Uso de un API para iniciar sesión|**Como** desarrollador **quiero** integrar el inicio de sesión utilizando la API de Google **para** facilitar el acceso a la aplicación.|3|
-|24|US29|Uso de un API para videollamadas|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación.|5|
-|25|US30|Uso de un API para separar fechas|**Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus calendarios personales.|5|
-|26|US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|5|
-|27|US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|3|
-|28|US19|Registro de un usuario nuevo|**Como** usuario **quiero** registrarme **para** acceder a las funciones de usuario.|3|
-|29|US20|Inicio de sesión|**Como** usuario **quiero** acceder a mi cuenta registrada **para** acceder a las funciones de usuario.|3|
-|30|US21|Recuperación de contraseña|**Como** usuario **quiero** poder recuperar mi contraseña **para** acceder a mi cuenta.|5|
+|19|US13|Visualización y edición de información de animales|**Como** criador de cuyes **quiero** acceder a la información de un animal **para** visualizar o actualizar su información registrada.|5|
+|20|US14|Separación de fechas disponibles para asesoría|**Como** asesor **quiero** poder seleccionar y separar las fechas y horas en las que estoy disponible para ofrecer asesorías **para** que los usuarios interesados puedan ver mis horarios disponibles y agendar una cita en un momento conveniente.|3|
+|21|US15|Gestión de recursos de la granja|**Como** criador de cuyes **quiero** gestionar los recursos de mi granja **para** tener un control sobre los recursos esenciales como alimentos y medicamentos.|5|
+|22|US16|Gestión de gastos realizados|**Como** criador de cuyes **quiero** gestionar los gastos relacionados con mi negocio **para** tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad.|5|
+|23|US19|Registro de un usuario nuevo|**Como** usuario **quiero** registrarme **para** acceder a las funciones de usuario.|3|
+|24|US20|Inicio de sesión|**Como** usuario **quiero** acceder a mi cuenta registrada **para** acceder a las funciones de usuario.|3|
+|25|US21|Recuperación de contraseña|**Como** usuario **quiero** poder recuperar mi contraseña **para** acceder a mi cuenta.|5|
+|26|US31|Visualización de calendario|**Como** usuario **quiero** visualizar un calendario **para** ver de forma agradable y ordenada las asesorías programadas que tengo.|3|
+|27|US32|Uso de nuestra API para gestionar usuarios|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de los usuarios en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP. |5|
+|28|US33|Uso de nuestra API para gestionar publicaciones|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las publicaciones de asesores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP. |5|
+|29|US34|Uso de nuestra API para manejar recursos y gastos|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de los recursos y gastos de criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP. |5|
+|30|US35|Uso de nuestra API para manejar la reserva de citas entre asesores y criadores|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las citas entre asesores y criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP. |5|
+|31|US36|Uso de la API para manejar las jaulas y animales|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las jaulas y los animales de los criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP. |5|
+|32|US28|Uso de un API para iniciar sesión|**Como** desarrollador **quiero** integrar el inicio de sesión utilizando la API de Google **para** facilitar el acceso a la aplicación.|3|
+|33|US29|Uso de un API para videollamadas|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación.|5|
+|34|US30|Uso de un API para separar fechas|**Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus calendarios personales.|5|
+|35|US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|5|
+|36|US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|3|
 
 
 
@@ -1561,7 +1528,7 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
   </tr>
   <tr>
       <th>Calendar - Calendario</th>
-      <td>Se implementará un botón que permitirá visualizar un calendario con las tareas, eventos y actividades registradas.</td>
+      <td>Se implementará un botón que permitirá visualizar un calendario con las citas registradas.</td>
   </tr>
   <tr>
       <th>Registry - Registro</th>
@@ -1598,6 +1565,10 @@ En el proyecto AgroConnect se eligió implementar un sistema de etiquetado breve
   <tr>
       <th>Notifications - Notificaciones</th>
       <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo y recordatorios de citas pendientes.</td>
+  </tr>
+    <tr>
+      <th>Calendar - Calendario</th>
+      <td>Se implementará un botón que permitirá visualizar un calendario con las citas registradas.</td>
   </tr>
   <tr>
       <th>Logout</th>
@@ -2144,243 +2115,253 @@ _Imagen 112. Diagrama de componentes - Cita_
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1 Class Diagrams
 
-<img src="img/class_diagram_appointment.png">
+**User BC Class Diagram**
 
-_Imagen 113. Diagrama de Clases Apointment Bounded Context_
+<img src="img/class_diagram_user.png" width="100%">
 
-<img src="img/class_diagram_management.png">
+_Imagen 113. Diagrama de Clases User Bounded Context_
+
+**Management BC Class Diagram**
+
+<img src="img/class_diagram_management.png" width="100%">
 
 _Imagen 114. Diagrama de Clases Management Bounded Context_
 
-<img src="img/class_diagram_publication.png">
+**Appointment BC Class Diagram**
 
-_Imagen 115. Diagrama de Clases Publication Bounded Context_
+<img src="img/class_diagram_appointment.png" width="70%">
 
-<img src="img/class_diagram_user.png">
+_Imagen 115. Diagrama de Clases Apointment Bounded Context_
 
-_Imagen 116. Diagrama de Clases User Bounded Context_
+**Publication BC Class Diagram**
 
+<img src="img/class_diagram_publication.png" width="70%">
+
+_Imagen 116. Diagrama de Clases Publication Bounded Context_
 
 
 ### 4.7.2. Class Dictionary.
 
-**User Bounded Context**
+#### User Bounded Context
 
-|User|
-| - |
-|Es la interfaz que representa a un usuario general dentro de la aplicación. Tiene relación de asociación con User Factory.|
+**User (Aggregate)**
+La clase User contiene toda la información de un usuario registrado dentro de la aplicación.
 
-|Advisor|
-| - |
-|Es la clase que representa un asesor dentro de la aplicación. Es una clase hija de User, por lo que tiene relación de herencia con User.|
+**Atributos:**
+- id: int - Identificador único del usuario
+- fullname: Fullname - Nombre completo del usuario
+- emailAddress: EmailAddress - Correo electrónico del usuario
+- password: Password - Contraseña del usuario
+- location: Location - Ubicación del usuario
+- birthDate: BirthDate - Fecha de nacimiento del usuario
+- description: Description - Descripción del usuario
 
-|Breeder|
-| - |
-|Es la clase que representa un criador dentro de la aplicación. Es una clase hija de User, por lo que tiene relación de herencia con User.|
+**Métodos:**
+- getUser(): Devuelve los detalles del usuario.
+- updateUser(): Actualiza los detalles del usuario.
 
-|UserFactory||
-| - | :- |
-|Es la clase que se encarga de la creación de los usuarios, es clase hija de UserManager. Tiene relación de asociación con User y relación de herencia con UserManager.||
-|createUser()|Método que implementa la creación de un nuevo objeto.|
+-----
 
-|UserManager||
-| - | :- |
-|Es la clase que se encarga de la gestión de los usuarios. Tiene relación de herencia con UserFactory.||
-|createUser()|Método que implementa la creación de un nuevo objeto User.|
-|getUser()|Método que obtiene información de un usuario específico.|
-|updateUser()|Método que permite actualizar los atributos de un usuario específico.|
-|deleteUser()|Método que permite eliminar a un usuario específico.|
+**Breeder (Entity)**
+La clase Breeder representa a un criador dentro de la aplicación y tiene una relación de dependencia con User.
 
-|AdvisorFactory||
-| - | :- |
-|Es la clase que se encarga de la creación de los usuarios de tipo Advisor. Es clase hija de UserFactory. Tiene relación de herencia con UserManager.||
-|createUser()|Método que implementa la creación de un nuevo objeto Advisor.|
+**Atributos:**
+- id: int - Identificador único del criador
+- userId: int - Identificador del usuario
 
-|BreederFactory||
-| - | :- |
-|Es la clase que se encarga de la creación de los usuarios de tipo Breeder. Es clase hija de UserFactory. Tiene relación de herencia con UserManager.||
-|createUser()|Método que implementa la creación de un nuevo objeto Breeder.|
+**Métodos:**
+- getBreeder(): Devuelve los detalles del criador.
 
-**Management Bounded Context**
+-----
 
-|Breeder|
-| - |
-|Es la clase que representa un criador dentro de la aplicación y tiene una relación de asociación con la clase Farm.|
+**Advisor (Entity)**
+La clase Advisor representa a un asesor dentro de la aplicación y tiene una relación de dependencia con User.
 
-|Farm|
-| - |
-|Es la clase que representa la colección de recursos, gastos y animales del criador. Por lo que, tiene una relación de agregación con dichas clases.|
+**Atributos:**
+- id: int - Identificador único del asesor
+- occupation: string - Ocupación del asesor
+- experience: int - Años de experiencia del asesor
+- photo: string - Foto del asesor
+- rating: int - Calificación del asesor
+- userId: int - Identificador del usuario
 
-|Cage||
-| - | :- |
-|Es la clase que representa las jaulas donde están los cuyes. Entonces, tiene una relación de composición con Animal. Además, actúa como Director en el patrón Builder para registrar un animal porque este invoca al Builder.||
-|getAnimals()|Método para obtener el conjunto de cuyes de la jaula.|
-|registerAnimal()|Método para registrar un cuy usando el patrón Builder.|
+-----
 
-|Animal|
-| - |
-|Es la clase que representa a los cuyes que crían los criadores.|
+**AvailableDate (Entity)**
+La clase AvailableDate representa las fechas disponibles de un asesor para programar citas.
 
-|Builder||
-| - | :- |
-|Es la clase que define los métodos para crear un Animal por parte y declara los pasos para crear un objeto Animal. ||
-|setName()|Método para ponerle el nombre a un cuy.|
-|setBreed()|Método para señalar la raza de un cuy.|
-|setGender()|Método para indicar el género de un cuy.|
-|setBirthDate()|Método para señalar la fecha de nacimiento de un cuy.|
-|setStatus()|Método para indicar el estado de un cuy.|
-|setCage()|Método para indicar la jaula donde habita un cuy.|
-|setWeight()|Método para señalar el peso de un cuy.|
-|setObservation()|Método para indicar observaciones adicionales de un cuy.|
+**Atributos:**
+- id: int - Identificador único de la fecha disponible
+- date: LocalDate - Fecha disponible
+- startTime: LocalTime - Hora de inicio
+- endTime: LocalTime - Hora de fin
+- status: boolean - Estado de la fecha disponible
+- advisorId: int - Identificador del asesor
 
-|AnimalBuilder||
-| - | :- |
-|Es una implementación específica del Builder que permite crear a un animal.||
-|setName()|Método para ponerle el nombre a un cuy.|
-|setBreed()|Método para señalar la raza de un cuy.|
-|setGender()|Método para indicar el género de un cuy.|
-|setBirthDate()|Método para señalar la fecha de nacimiento de un cuy.|
-|setStatus()|Método para indicar el estado de un cuy.|
-|setCage()|Método para indicar la jaula donde habita un cuy.|
-|setWeight()|Método para señalar el peso de un cuy.|
-|setObservation()|Método para indicar observaciones adicionales de un cuy.|
-|getAnimal()|Método para obtener el objeto Animal.|
+**Métodos:**
+- getAvailableDate(): Devuelve los detalles de la fecha disponible.
+- getStatus(): Devuelve el estado de la fecha disponible.
 
-|Expense|
-| - |
-|Es una interfaz que representa un gasto del criador.|
+-----
 
-|FoodExpense|
-| - |
-|Es una implementación de un gasto específicamente un gasto de comida para cuyes del criador.|
+#### Management Bounded Context
 
+**Cage (Aggregate)**
+La clase Cage contiene toda la información de una jaula de cuyes.
 
-|HealthExpense|
-| - |
-|Es una implementación de un gasto específicamente un gasto realizado para mantener la salud de los cuyes del criador.|
+**Atributos:**
+- id: int - Identificador único de la jaula
+- name: Name - Nombre de la jaula
+- size: Size - Tamaño de la jaula
+- observations: Observations - Observaciones de la jaula
+- breederId: int - Identificador del criador
 
-|MaintenanceExpense|
-| - |
-|Es una implementación de un gasto específicamente un gasto realizado para mantener el galpón del criador, pueden ser productos de limpieza, nuevas jaulas, etc.|
+**Métodos:**
+- getCage(): Devuelve los detalles de la jaula.
+- updateCage(): Actualiza los detalles de la jaula.
 
-|ExpenseFactory||
-| - | :- |
-|Es la clase que define la creación de gastos. ||
-|createExpense()|Método para la creación de un nuevo gasto.|
+-----
 
-|FoodExpenseFactory||
-| - | :- |
-|Es la clase que define la creación de gastos sobre comida. ||
-|createExpense()|Método que sobreescribe la creación de un nuevo gasto para que sea un gasto de comida.|
+**Animal (Entity)**
+La clase Animal representa a un cuy dentro de una jaula.
 
-|HealthExpenseFactory||
-| - | :- |
-|Es la clase que define la creación de gastos sobre salud de los cuyes. ||
-|createExpense()|Método que sobreescribe la creación de un nuevo gasto para que sea un gasto relacionado con la salud de los cuyes.|
+**Atributos:**
+- id: int - Identificador único del cuy
+- name: Name - Nombre del cuy
+- breed: Breed - Raza del cuy
+- gender: Gender - Género del cuy
+- birthDate: BirthDate - Fecha de nacimiento del cuy
+- weight: Weight - Peso del cuy
+- isSick: isSick - Estado de salud del cuy
+- observations: Observations - Observaciones del cuy
+- cageId: int - Identificador de la jaula
 
-|MaintenanceExpenseFactory||
-| - | :- |
-|Es la clase que define la creación de gastos sobre mantenimiento del galpón. ||
-|createExpense()|Método que sobreescribe la creación de un nuevo gasto para que sea un gasto relacionado con el mantenimiento del galpón.|
+**Métodos:**
+- getAnimal(): Devuelve los detalles del cuy.
+- updateAnimal(): Actualiza los detalles del cuy.
 
-|Resource|
-| - |
-|Es una interfaz que representa un recurso que el criador posee.|
+-----
 
+**Resource (Aggregate)**
+La clase Resource contiene toda la información de un recurso utilizado en la granja.
 
-|FoodResource|
-| - |
-|Es una implementación de un recurso, en este caso el recurso sería comida para cuyes.|
+**Atributos:**
+- id: int - Identificador único del recurso
+- name: Name - Nombre del recurso
+- resourceType: ResourceType - Tipo de recurso
+- quantity: Quantity - Cantidad del recurso
+- date: DateOfCreation - Fecha de creación del recurso
+- observations: Observations - Observaciones del recurso
+- breederId: int - Identificador del criador
 
-|MedicineResource|
-| - |
-|Es una implementación de un recurso, en este caso el recurso sería medicina para cuyes.|
+**Métodos:**
+- getResource(): Devuelve los detalles del recurso.
+- updateResource(): Actualiza los detalles del recurso.
 
-|EquipmentResource|
-| - |
-|Es una implementación de un recurso, en este caso el recurso sería equipamiento necesario para el mantenimiento del galpón puede ser por ejemplo nuevas jaulas.|
+-----
 
-|ResourceFactory||
-| - | :- |
-|Es la clase que define la creación de recursos. ||
-|createResource()|Método para la creación de un nuevo recurso.|
+**Expense (Aggregate)**
+La clase Expense contiene toda la información de un gasto realizado por un criador.
 
-|FoodResourceFactory||
-| - | :- |
-|Es la clase que define la creación de recursos de comida. ||
-|createResource()|Método que sobreescribe la creación de un nuevo recurso para que sea un recurso de tipo comida.|
+**Atributos:**
+- id: int - Identificador único del gasto
+- name: Name - Nombre del gasto
+- expenseType: ExpenseType - Tipo de gasto
+- amount: Amount - Monto del gasto
+- date: DateOfCreation - Fecha de creación del gasto
+- observations: Observations - Observaciones del gasto
+- breederId: int - Identificador del criador
 
-|MedicineResourceFactory||
-| - | :- |
-|Es la clase que define la creación de recurso sobre medicina para los cuyes. ||
-|createResource()|Método que sobreescribe la creación de un nuevo recurso para que sea un recurso relacionado con medicina para cuyes.|
+**Métodos:**
+- getExpense(): Devuelve los detalles del gasto.
+- updateExpense(): Actualiza los detalles del gasto.
 
-|EquipmentResourceFactory||
-| - | :- |
-|Es la clase que define la creación de gastos de equipamiento. ||
-|createResource()|Método que sobreescribe la creación de un nuevo recurso para que sea un gasto relacionado con equipamiento como nuevas jaulas.|
+-----
 
-**Appointment Bounded Context**
+#### Appointment Bounded Context
 
-|Breeder||
-| - | :- |
-|Es la clase que representa un criador dentro de la aplicación. Es la clase que representa un asesor dentro de la aplicación. Implementa la interfaz “Observer” y definen su propio método ‘update()’ para recibir notificaciones.||
-|update()|Cuando la fecha de la cita se acerca o cambia, la clase Appointment puede invocar el método update() en “Breeder”. Por ejemplo, si la fecha actual es igual a la fecha de la cita menos un día, el Appointment podría notificar al “Breeder” de dicho cambio; o también, cuando ya es la fecha de la cita.|
+**Appointment (Aggregate)**
+La clase Appointment contiene toda la información de una cita programada entre un criador y un asesor.
 
-|Advicer||
-| - | :- |
-|Es la clase que representa un asesor dentro de la aplicación. Implementa la interfaz “Observer” y definen su propio método ‘update()’ para recibir notificaciones.||
-|update()|Cuando la fecha de la cita se acerca o cambia, la clase Appointment puede invocar el método update() en “Advicer”. Por ejemplo, si la fecha actual es igual a la fecha de la cita menos un día, el Appointment podría notificar al “Advicer” de dicho cambio; o también, cuando ya es la fecha de la cita.|
+**Atributos:**
+- id: int - Identificador único de la cita
+- date: DateAppointment - Fecha de la cita
+- status: Status - Estado de la cita
+- breederId: int - Identificador del criador
+- advisorId: int - Identificador del asesor
 
-|Appointment||
-| - | :- |
-|Es la clase que representa una cita entre el asesor y el criador de cuyes.||
-|getDate()|Método que obtiene la fecha de la cita y luego compararla con la fecha actual para determinar si se debe enviar una notificación.|
-|setDate()|Se utiliza para establecer la fecha inicial de la cita|
+**Métodos:**
+- getAppointment(): Devuelve los detalles de la cita.
+- updateAppointment(): Actualiza los detalles de la cita.
 
-|Observer||
-| - | :- |
-|La interfaz Observer establece un acuerdo para los objetos interesados en recibir avisos sobre modificaciones en un objeto que puede ser observado.||
-|update()|Método que se llama cuando la fecha del “Appointment” cambia y/o ya es la fecha de la cita necesita notificar a sus observadores.|
+-----
 
+**DateAppointment (ValueObject)**
+La clase DateAppointment representa la fecha de una cita programada.
 
-Publication Bounded Context
+**Atributos:**
+- date: Date - Fecha de la cita
 
-|Advisor||
-| - | :- |
-|Es la clase que representa un asesor dentro de la aplicación en el contexto de sus publicaciones||
-|createPublication()|Método que crea una publicación.|
-|updatePublication()|Método que actualiza la información de una publicación|
-|deletePublication()|Método para eliminar una publicación|
+**Métodos:**
+- getDateAppointment(): Devuelve la fecha de la cita.
+- setDateAppointment(): Establece la fecha de la cita.
 
-|Publications|
-| - |
-|Es una interfaz que representa las publicaciones de un asesor|
+-----
 
-|Publication||
-| - | :- |
-|Es la clase que representa una publicación hecha por un asesor||
-|title|Título de la publicación|
-|description|Descripción de la publicación|
-|photo|Imagen que va en la publicación|
-|getTitle()|Método que obtiene el título de la publicación|
-|getDescription()|Método que obtiene la descripción de la publicación|
-|getPhoto()|Método que obtiene la imagen de la publicación|
-|Publication(PublicationAdvisorBuilder)|Método constructor utilizado para construir instancias de “Publication” utilizando los valores configurados en el “PublicationAdvisorBuilder”|
+**Status (ValueObject)**
+La Enum Status representa el estado de una cita programada.
 
+**Atributos:**
+- PENDIENTE: Estado de la cita pendiente
+- TERMINADO: Estado de la cita terminada
 
-|PublicationAdvisorBuilder||
-| - | :- |
-|Es la clase que facilita la construcción paso a paso de objetos “Publication”||
-|title|Título de la publicación|
-|description|Descripción de la publicación|
-|photo|Imagen que va en la publicación|
-|setTitle()|Método que establece el título de la publicación|
-|setDescription()|Método que establece la descripción de la publicación|
-|getPhoto()|Método que establece la imagen de la publicación|
-|build()|Método responsable de finalizar el proceso de construcción del objeto “Publication” y devuelve la instancia completa del mismo|
+-----
 
+**Review (Entity)**
+La clase Review representa la reseña de un asesor realizada por un criador.
 
+**Atributos:**
+- id: int - Identificador único de la reseña
+- comment: string - Comentario de la reseña
+- rating: int - Calificación de la reseña
+- appointmentId: int - Identificador de la cita
+
+**Métodos:**
+- getReview(): Devuelve los detalles de la reseña.
+
+-----
+
+#### Publication Bounded Context
+
+**Publication (Aggregate)**
+La clase Publication contiene toda la información de una publicación realizada por un asesor.
+
+**Atributos:**
+- id: int - Identificador único de la publicación
+- publicationContent: PublicationContent - Contenido de la publicación
+- date: Date - Fecha de la publicación
+- advisorId: int - Identificador del asesor
+
+**Métodos:**
+- getPublication(): Devuelve los detalles de la publicación.
+
+-----
+
+**PublicationContent (ValueObject)**
+La clase PublicationContent representa el contenido de una publicación.
+
+**Atributos:**
+- title: string - Título de la publicación
+- description: string - Descripción de la publicación
+- image: string - Imagen de la publicación
+
+**Métodos:**
+- getTitle(): Devuelve el título de la publicación.
+- setTitle(): Establece el título de la publicación.
+- getDescription(): Devuelve la descripción de la publicación.
+- setDescription(): Establece la descripción de la publicación.
+- getImage(): Devuelve la imagen de la publicación.
+- setImage(): Establece la imagen de la publicación.
 
 
 ## 4.8 Database Design
@@ -2466,13 +2447,16 @@ Usuarios de GitHub
 
 *URL de repositorio de Acceptance Tests*: https://github.com/AgroTech-UPC/Acceptance-Tests
 
-Para el desarrollo del trabajo se hará uso de GitFlow, el cual es un modelo de flujo de trabajo para la gestión de control de versiones Git. Está compuesta por ramas y cada una cumple un propósito distinto. Las ramas que utilizamos son: Feature, Develop y Main. 
+Para el desarrollo del trabajo se hará uso de GitFlow, el cual es un modelo de flujo de trabajo para la gestión de control de versiones Git. Está compuesta por ramas y cada una cumple un propósito distinto. Las ramas que utilizamos son: Feature, Develop, Release y Main. 
 
 **Rama Feature**: En esta rama se desarrolla un feature específico, por ejemplo la implementación del registro de un usuario o del inicio de sesión. Las ramas Feature se trabajan y controlan por separado para tener un orden sobre el cual trabajar a partir del Product Backlog. Esto asegura que cualquier problema que surja durante el desarrollo de una característica no afecte al programa en su totalidad.
 
-**Rama Develop**: En esta rama se fusionan las ramas feature desarrolladas. Esto permite verificar que todo funcione correctamente antes de integrarlo en la rama Main para su despliegue oficial.
+**Rama Develop**: En esta rama se fusionan las ramas feature desarrolladas. Esto permite verificar que todo funcione correctamente antes de integrarlo en la rama Release para su despliegue.
 
-**Rama Main**: Esta rama almacena las versiones finales del sprint y se utiliza para desplegar la aplicación web. Se espera que todas las versiones almacenadas aquí sean funcionales y estables para el usuario.
+**Rama Release**: En esta rama se prepara la versión final del sprint. Se realiza una revisión final de la versión para poder hacer el despliegue. Se asegura que todo esté correcto y funcional antes de hacer el despliegue. Al hacer el merge a la rama main, se especifica la versión que se está desplegando, para tener un control sobre las versiones desplegadas.
+
+**Rama Main**: En esta rama se encuentra la versión desplegada más reciente del proyecto. Es la rama principal que cuenta con cada versión desplegada oficialmente.
+
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 En el desarrollo de este trabajo, se utilizará una gran variedad de lenguajes para trabajar en el Landing Page, Web Services y Frontend Web Application. Para ello, se utilizará la siguiente guía de estilos y convenciones.
@@ -2590,21 +2574,51 @@ El objetivo de este primer sprint es la implementación del Landing Page estáti
 
 _Imagen 118. Sprint Backlog 1 en Trello_
 
-<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
-<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
-<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
-<tr><td rowspan="2" valign="top">US22</td><td rowspan="2" valign="top">Visualización de Navbar y Footer</td><td valign="top">TS01</td><td valign="top">Implementación de Navbar</td><td valign="top">Se implementa el navbar de forma responsive.</td><td valign="top">3</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
-<tr><td valign="top">TS02</td><td valign="top">Implementación de Footer</td><td valign="top">Se implementa el footer de forma responsive.</td><td valign="top">1</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
-<tr><td valign="top">US23</td><td valign="top">Página de inicio</td><td valign="top">TS03</td><td valign="top">Implementación de página de inicio</td><td valign="top">Se implementa la página de inicio de forma responsive y con su archivo css correspondiente.</td><td valign="top">1</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
-<tr><td valign="top">US24</td><td valign="top">Sección “Acerca De”</td><td valign="top">TS04</td><td valign="top">Implementación de sección Acerca De</td><td valign="top">Se implementa la página Acerca De, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td></tr>
-<tr><td valign="top">US25</td><td valign="top">Sección “Sobre Nosotros”</td><td valign="top">TS05</td><td valign="top">Implementación de sección Sobre Nosotros</td><td valign="top">Se implementa la página Sobre Nosotros, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
-<tr><td valign="top">US26</td><td valign="top">Sección “Características”</td><td valign="top">TS06</td><td valign="top">Implementación de sección Características</td><td valign="top">Se implementa la página Características, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Andre Valverde</td><td valign="top">Done</td></tr>
-<tr><td valign="top">US27</td><td valign="top">Sección “Contacto”</td><td valign="top">TS07</td><td valign="top">Implementación de sección Contacto</td><td valign="top">Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
+<table>
+  <tr>
+  <th valign="top">Sprint #</th>
+  <th colspan="7" valign="top">Sprint 1</th>
+</tr>
+<tr>
+  <td colspan="2" valign="top">User Story</td>
+  <td colspan="6" valign="top">Work-Item / Task</td>
+</tr>
+<tr>
+  <td valign="top">Id</td>
+  <td valign="top">Title</td>
+  <td valign="top">Id</td><td valign="top">Title</td>
+  <td valign="top">Description</td>
+  <td valign="top">Estimation</td><td valign="top">Assigned To</td>
+  <td valign="top">Status (To-Do / In-Process / Review / Done)</td>
+</tr>
+<tr>
+  <td rowspan="2" valign="top">US22</td>
+  <td rowspan="2" valign="top">Visualización de Navbar y Footer</td>
+  <td valign="top">TS01</td>
+  <td valign="top">Implementación de Navbar</td>
+  <td valign="top">Se implementa el navbar de forma responsive.</td>
+  <td rowspan="2" valign="top">2</td>
+  <td valign="top">Nadia Lucas</td><td valign="top">Done</td>
+</tr>
+<tr>
+  <td valign="top">TS02</td>
+  <td valign="top">Implementación de Footer</td>
+  <td valign="top">Se implementa el footer de forma responsive.</td>
+  <td valign="top">Nadia Lucas</td>
+  <td valign="top">Done</td>
+</tr>
+<tr><td valign="top">US23</td><td valign="top">Visualización de sección de inicio</td><td valign="top">TS03</td><td valign="top">Implementación de página de inicio</td><td valign="top">Se implementa la página de inicio de forma responsive y con su archivo css correspondiente.</td><td valign="top">1</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US24</td><td valign="top">Visualización de sección “Acerca De”</td><td valign="top">TS04</td><td valign="top">Implementación de sección Acerca De</td><td valign="top">Se implementa la página Acerca De, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US25</td><td valign="top">Visualización de sección “Sobre Nosotros”</td><td valign="top">TS05</td><td valign="top">Implementación de sección Sobre Nosotros</td><td valign="top">Se implementa la página Sobre Nosotros, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US26</td><td valign="top">Visualización de sección “Características”</td><td valign="top">TS06</td><td valign="top">Implementación de sección Características</td><td valign="top">Se implementa la página Características, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Andre Valverde</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US27</td><td valign="top">Visualización de sección “Contacto”</td><td valign="top">TS07</td><td valign="top">Implementación de sección Contacto</td><td valign="top">Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
 Se realizaron los avances con los commits correspondiente en el repositorio de la siguiente forma.
+
+Repositorio Landing Page: <https://github.com/AgroTech-UPC/Landing-Page>
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
@@ -2629,6 +2643,8 @@ Se realizaron los avances con los commits correspondiente en el repositorio de l
 
 Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
 
+Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
+
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
 |AgroTech-UPC/Acceptance-Tests|main|57f2c58|feat: added feature file for US29|05/04/2024|
@@ -2645,80 +2661,81 @@ Se realizaron las pruebas de aceptación para las historias de usuario trabajada
 
 En esta sección, se mostrará lo avanzado en el primer sprint, el cual se basa en la implementación del Landing Page estático. Para ello, se realizó el siguiente video con la explicación y las capturas que evidencia la página web.
 
-**URL de video:** <https://youtu.be/Yi3p53UjKF0>
+**URL de video:**
+[Execution Evidence](https://youtu.be/Yi3p53UjKF0)
 
-<img src="img/evidence_landing_page_1.jpg" width="100%"> 
+<img src="img/evidence_landing_page_1.png" width="100%"> 
 
 _Imagen 119. evidencia landing page 1_
 
 
 Navbar: fue implementada para que sea responsive y las secciones pasen a un menú lateral en caso de ser necesario.
 
-<img src="img/evidence_landing_page_2.jpg" width="100%"> 
+<img src="img/evidence_landing_page_2.png" width="100%"> 
 
 _Imagen 120. navbar 1_
 
-<img src="img/evidence_landing_page_3.jpg" width="100%"> 
+<img src="img/evidence_landing_page_3.png" width="100%"> 
 
 _Imagen 121. navbar 2_
 
 Footer: al igual que el navbar, se implementó para acomodarse acorde al tamaño de la ventana.
 
-<img src="img/evidence_landing_page_4.jpg" width="100%"> 
+<img src="img/evidence_landing_page_4.png" width="100%"> 
 
 _Imagen 122. footer 1_
 
-<img src="img/evidence_landing_page_5.jpg" width="100%"> 
+<img src="img/evidence_landing_page_5.png" width="100%"> 
 
 _Imagen 123. footer 2_
 
 Página de inicio:
 
-<img src="img/evidence_landing_page_6.jpg" width="100%"> 
+<img src="img/evidence_landing_page_6.png" width="100%"> 
 
 _Imagen 124. pagina de inicio 1_
 
-<img src="img/evidence_landing_page_7.jpg" width="100%"> 
+<img src="img/evidence_landing_page_7.png" width="100%"> 
 
 _Imagen 125. pagina de inicio 2_
 
 Sección “Acerca De”:
 
-<img src="img/evidence_landing_page_8.jpg" width="100%"> 
+<img src="img/evidence_landing_page_8.png" width="100%"> 
 
 _Imagen 126. seccion "Acerca de" 1_
 
-<img src="img/evidence_landing_page_9.jpg" width="100%"> 
+<img src="img/evidence_landing_page_9.png" width="100%"> 
 
 _Imagen 127. seccion "Acerca de" 2_
 
 Sección “Sobre Nosotros”:
 
-<img src="img/evidence_landing_page_10.jpg" width="100%"> 
+<img src="img/evidence_landing_page_10.png" width="100%"> 
 
 _Imagen 128. seccion "Sobre Nosotros" 1_
 
-<img src="img/evidence_landing_page_11.jpg" width="100%">
+<img src="img/evidence_landing_page_11.png" width="100%">
 
 _Imagen 129. seccion "Sobre Nosotros" 2_
 
 Sección “Características”: 
 
-<img src="img/evidence_landing_page_12.jpg" width="100%"> 
+<img src="img/evidence_landing_page_12.png" width="100%"> 
 
 _Imagen 130. seccion "Caracteristicas" 1_
 
-<img src="img/evidence_landing_page_13.jpg" width="100%"> 
+<img src="img/evidence_landing_page_13.png" width="100%"> 
 
 _Imagen 131. seccion "Caracteristicas" 2_
 
 Sección “Contacto”:
 
-<img src="img/evidence_landing_page_14.jpg" width="100%"> 
+<img src="img/evidence_landing_page_14.png" width="100%"> 
 
 _Imagen 132. seccion "Contacto" 1_
 
-<img src="img/evidence_landing_page_15.jpg" width="100%"> 
+<img src="img/evidence_landing_page_15.png" width="100%"> 
 
 _Imagen 133. seccion "Contacto" 2_
 
@@ -2814,46 +2831,46 @@ _Imagen 140. Sprint Backlog 2_
 <table>
     <tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
     <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
-    <tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+    <tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation</td><td valign="top">Assigned To</td><td valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
     <tr>
-      <td valign="top">US01</td><td valign="top">Catálogo de asesores</td><td valign="top">TS01</td><td valign="top">Implementación de búsqueda de asesores</td><td valign="top">Se implementa el componente para la búsqueda de asesores para los criadores.</td><td valign="top">3</td>
+      <td valign="top">US01</td><td valign="top">Visualización de catálogo de asesores</td><td valign="top">TS01</td><td valign="top">Implementación de búsqueda de asesores</td><td valign="top">Se implementa el componente para la búsqueda de asesores para los criadores.</td><td valign="top">5</td>
       <td valign="top">Andre Valverde</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US02</td><td valign="top">Información de un asesor</td><td valign="top">TS02</td><td valign="top">Implementación de vista de información de un asesor</td><td valign="top">Se implementa el componente con la vista de información de un asesor.</td><td valign="top">2</td><td valign="top">Andre Valverde</td>
+      <td valign="top">US02</td><td valign="top">Visualización de información de un asesor</td><td valign="top">TS02</td><td valign="top">Implementación de vista de información de un asesor</td><td valign="top">Se implementa el componente con la vista de información de un asesor.</td><td valign="top">3</td><td valign="top">Andre Valverde</td>
       <td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US03</td><td valign="top">Visualización de horarios de asesores</td><td valign="top">TS03</td><td valign="top">Implementación de vista de horarios</td><td valign="top">Se implementa el componente con la vista de los horarios disponibles del asesor.</td><td valign="top">2</td>
+      <td valign="top">US03</td><td valign="top">Visualización de horarios de asesores</td><td valign="top">TS03</td><td valign="top">Implementación de vista de horarios</td><td valign="top">Se implementa el componente con la vista de los horarios disponibles del asesor.</td><td valign="top">3</td>
       <td valign="top">Andre Valverde</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US04</td><td valign="top">Programación de citas con asesores</td><td valign="top">TS04</td><td valign="top">Implementación de vista para programar cita</td><td valign="top">Se implementa la vista para programar una cita con un asesor.</td><td valign="top">6</td>
+      <td valign="top">US04</td><td valign="top">Programación de citas con asesores</td><td valign="top">TS04</td><td valign="top">Implementación de vista para programar cita</td><td valign="top">Se implementa la vista para programar una cita con un asesor.</td><td valign="top">8</td>
       <td valign="top">Andre Valverde</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US05</td><td valign="top">Visualización de información del criador de cuyes</td><td valign="top">TS05</td><td valign="top">Implementación de detalles de cita</td><td valign="top">Se implementa la página para visualizar los datos del criador previa a la cita.</td><td valign="top">2</td>
+      <td valign="top">US05</td><td valign="top">Visualización de información del criador de cuyes</td><td valign="top">TS05</td><td valign="top">Implementación de detalles de cita</td><td valign="top">Se implementa la página para visualizar los datos del criador previa a la cita.</td><td valign="top">5</td>
       <td valign="top">Salvador Salinas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2">US06</td><td valign="top" rowspan="2">Notificación de citas al asesor</td><td valign="top">TS06</td><td valign="top">Implementación de visualización de notificaciones al asesor</td><td valign="top">Se implementa el componente que muestra la vista de notificaciones para los asesores.</td><td valign="top">2</td>
+      <td valign="top" rowspan="2">US06</td><td valign="top" rowspan="2">Notificación de citas al asesor</td><td valign="top">TS06</td><td valign="top">Implementación de visualización de notificaciones al asesor</td><td valign="top">Se implementa el componente que muestra la vista de notificaciones para los asesores.</td><td valign="top" rowspan="2">3</td>
       <td valign="top">Salvador Salinas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">TS07</td><td valign="top">Implementación de eliminación de notificaciones al asesor</td><td valign="top">Se implementa la función que permite eliminar una notificación.</td><td valign="top">2</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td>
+      <td valign="top">TS07</td><td valign="top">Implementación de eliminación de notificaciones al asesor</td><td valign="top">Se implementa la función que permite eliminar una notificación.</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3">US07</td><td valign="top" rowspan="3">Notificación de citas al criador</td><td valign="top">TS08</td><td valign="top">Implementación de visualización de notificaciones al criador</td><td valign="top">Se implementa el componente que muestra la vista de notificaciones para los criadores.</td><td valign="top">2</td>
+      <td valign="top" rowspan="3">US07</td><td valign="top" rowspan="3">Notificación de citas al criador</td><td valign="top">TS08</td><td valign="top">Implementación de visualización de notificaciones al criador</td><td valign="top">Se implementa el componente que muestra la vista de notificaciones para los criadores.</td><td valign="top" rowspan="3">3</td>
       <td valign="top">Nadia Lucas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">TS09</td><td valign="top">Implementación de eliminación de notificaciones al criador</td><td valign="top">Se implementa la función que permite eliminar una notificación.</td><td valign="top">2</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td>
+      <td valign="top">TS09</td><td valign="top">Implementación de eliminación de notificaciones al criador</td><td valign="top">Se implementa la función que permite eliminar una notificación.</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">TS10</td><td valign="top">Implementación de Pantalla de Resultados Vacíos</td><td valign="top">Se implementa un componente que recibe un mensaje como parámetro y permite mostrar una vista cuando no se encuentren datos disponibles.</td><td valign="top">2</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td>
+      <td valign="top">TS10</td><td valign="top">Implementación de Pantalla de Resultados Vacíos</td><td valign="top">Se implementa un componente que recibe un mensaje como parámetro y permite mostrar una vista cuando no se encuentren datos disponibles.</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US08</td><td valign="top">Calificación al asesor luego de una cita</td><td valign="top">TS11</td><td valign="top">Implementación de registro de calificación del asesor</td><td valign="top">Se implementa la funcionalidad en el componente para registrar la calificación del asesor brindada por el criador.</td><td valign="top">1</td>
+      <td valign="top">US08</td><td valign="top">Calificación al asesor luego de una cita</td><td valign="top">TS11</td><td valign="top">Implementación de registro de calificación del asesor</td><td valign="top">Se implementa la funcionalidad en el componente para registrar la calificación del asesor brindada por el criador.</td><td valign="top">5</td>
       <td valign="top">Andre Valverde</td><td valign="top">Done</td>
     </tr>
     <tr>
@@ -2862,7 +2879,7 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS12</td>
       <td valign="top">Implementación de creación de publicaciones</td>
       <td valign="top">Se implementa el componente para crear nuevas publicaciones</td>
-      <td valign="top">2</td>
+      <td valign="top" rowspan="2">2</td>
       <td valign="top">Salvador Salinas</td>
       <td valign="top">Done</td>
     </tr>
@@ -2870,25 +2887,24 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS13</td>
       <td valign="top">Implementación de eliminación de publicaciones</td>
       <td valign="top">Se implementa la función dentro del componente de publicaciones para eliminar una publicación</td>
-      <td valign="top">2</td>
       <td valign="top">Salvador Salinas</td>
       <td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US10</td><td valign="top">Visualización de publicaciones de asesores</td><td valign="top">TS14</td><td valign="top">Implementación de visualización de publicaciones</td><td valign="top">Se implementa el componente para visualizar publicaciones de asesores para el criador.</td><td valign="top">1</td>
+      <td valign="top">US10</td><td valign="top">Visualización de publicaciones de asesores</td><td valign="top">TS14</td><td valign="top">Implementación de visualización de publicaciones</td><td valign="top">Se implementa el componente para visualizar publicaciones de asesores para el criador.</td><td valign="top">3</td>
       <td valign="top">Salvador Salinas</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3">US11</td><td valign="top" rowspan="3">Gestión de jaulas de cuyes</td><td valign="top">TS15</td><td valign="top">Implementación de registro de una jaula</td><td valign="top">Se implementa el componente para registrar una nueva jaula de cuyes.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
+      <td valign="top" rowspan="3">US11</td><td valign="top" rowspan="3">Gestión de jaulas de cuyes</td><td valign="top">TS15</td><td valign="top">Implementación de registro de una jaula</td><td valign="top">Se implementa el componente para registrar una nueva jaula de cuyes.</td><td valign="top" rowspan="3">3</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
     </tr>
     <tr>
-        <td valign="top">TS16</td><td valign="top">Implementación de edición de una jaula</td><td valign="top">Se implementa la función que permite editar la información de una jaula.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
+        <td valign="top">TS16</td><td valign="top">Implementación de edición de una jaula</td><td valign="top">Se implementa la función que permite editar la información de una jaula.</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
     </tr>
     <tr>
-        <td valign="top">TS17</td><td valign="top">Implementación de eliminación de una jaula</td><td valign="top">Se implementa la función que permite eliminar una jaula junto a la información de los cuyes que habitan en ella.</td><td valign="top">1</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
+        <td valign="top">TS17</td><td valign="top">Implementación de eliminación de una jaula</td><td valign="top">Se implementa la función que permite eliminar una jaula junto a la información de los cuyes que habitan en ella.</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">US12</td><td valign="top">Registro de información de animales</td><td valign="top">TS18</td><td valign="top">Implementación de registro de un cuy</td><td valign="top">Se implementa el componente para registrar un cuy en una jaula existente.</td><td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
+      <td valign="top">US12</td><td valign="top">Registro de información de animales</td><td valign="top">TS18</td><td valign="top">Implementación de registro de un cuy</td><td valign="top">Se implementa el componente para registrar un cuy en una jaula existente.</td><td valign="top">3</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
     </tr>
     <tr>
       <td rowspan="2" valign="top">US13</td>
@@ -2896,18 +2912,10 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS19</td>
       <td valign="top">Implementación de vista de información de animales</td>
       <td valign="top">Se implementa el componente para visualizar las jaulas y el componente para visualizar la información de los cuyes.</td>
-      <td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
+      <td valign="top" rowspan="2">5</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
     </tr>
     <tr>
-      <td valign="top">TS20</td><td valign="top">Implementación de edición de información de animales</td><td valign="top">Se implementa la edición dentro de la componente de jaula, así como la edición para la componente de información de un cuy.</td><td valign="top">2</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
-    </tr>
-    <tr>
-      <td valign="top">US14</td>
-      <td valign="top">Registro de fallecimiento de un cuy</td>
-      <td valign="top">TS21</td><td valign="top">Implementación de cambio de estado de un cuy</td>
-      <td valign="top">Se implementa la función para cambiar el estado a fallecido dentro de la componente de información de cuy.</td>
-      <td valign="top">1</td><td valign="top">Piero Delgado</td>
-      <td valign="top">Done</td>
+      <td valign="top">TS20</td><td valign="top">Implementación de edición de información de animales</td><td valign="top">Se implementa la edición dentro de la componente de jaula, así como la edición para la componente de información de un cuy.</td><td valign="top">Piero Delgado</td><td valign="top">Done</td>
     </tr>
     <tr>
       <td rowspan="2" valign="top">US15</td>
@@ -2915,13 +2923,13 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS22</td>
       <td valign="top">Implementación de registro de recurso</td>
       <td valign="top">Se implementa el componente para registrar un recurso para el criador.</td>
-      <td valign="top">2</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
+      <td valign="top" rowspan="2">5</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td>
     </tr>
     <tr>
       <td valign="top">TS23</td>
       <td valign="top">Implementación de vista de recursos</td>
       <td valign="top">Se implementa el componente para la vista de los recursos del criador</td>
-      <td valign="top">2</td><td valign="top">Nadia Lucas</td>
+      <td valign="top">Nadia Lucas</td>
       <td valign="top">Done</td>
     </tr>
     <tr>
@@ -2930,7 +2938,7 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS24</td>
       <td valign="top">Implementación de registro de gasto</td>
       <td valign="top">Se implementa el componente para registrar un gasto para el criador.</td>
-      <td valign="top">1</td>
+      <td valign="top" rowspan="2">5</td>
       <td valign="top">Sebastián Paredes</td>
       <td valign="top">Done</td>
     </tr>
@@ -2938,7 +2946,7 @@ _Imagen 140. Sprint Backlog 2_
       <td valign="top">TS25</td>
       <td valign="top">Implementación de vista de gastos</td>
       <td valign="top">Se implementa el componente para la vista de los recursos del criador.</td>
-      <td valign="top">1</td><td valign="top">Nadia Lucas</td>
+      <td valign="top">Nadia Lucas</td>
       <td valign="top">Done</td>
     </tr>
     <tr>
@@ -2982,6 +2990,11 @@ _Imagen 140. Sprint Backlog 2_
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
 Se realizaron los avances con los commits correspondientes en los repositorios del Landing Page y Frontend Web Applications de la siguiente forma.
+
+Repositorio Landing Page: <https://github.com/AgroTech-UPC/Landing-Page>
+
+Repositorio Frontend: <https://github.com/AgroTech-UPC/Frontend-Web-Applications>
+
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
@@ -3043,6 +3056,8 @@ Se realizaron los avances con los commits correspondientes en los repositorios d
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
 
+Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
+
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
 |AgroTech-UPC/Acceptance-Tests|main|b046326|feat: added acceptance test for US13|01/05/2024|
@@ -3085,8 +3100,8 @@ En este apartado también se añadieron las fotos del equipo de desarrollo.
 
 Se implementó todas las historias de usuario en el sprint backlog, a excepción de la primera que tiene que ver con el Landing Page, para el primer release del Frontend de nuestra aplicación web. Para ello, se grabó el siguiente video de explicación en el cual se muestran todos los procesos alcanzados.
 
-URL DEL VIDEO:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b127_upc_edu_pe/EYY0ErnjEsFBiUZXlO60wHQBnqjOJRxM13gjVWm8Gpbbzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Hd2T2Y
+URL de video:
+[Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b127_upc_edu_pe/EYY0ErnjEsFBiUZXlO60wHQBnqjOJRxM13gjVWm8Gpbbzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Hd2T2Y)
 <img src="img/front-web-evidence.png">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
@@ -3154,17 +3169,1194 @@ Para la elaboración del Frontend, nos repartimos las tareas entre cada miembro,
 
 <img src="img/team-collaboration-4.png" width="100%">
 
+### 5.2.3. Sprint 3.
+
+#### 5.2.3.1. Sprint Planning 3.
+
+El tercer sprint se planeó a través de una reunión virtual en Google Meet. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+
+|**Sprint #**|Sprint 3|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-05-14|
+|Time|09: 00 PM|
+|Location|Virtual (Google Meet)|
+|Prepared by|Delgado Corrales, Piero Gonzalo|
+|Attendees (to planning meeting)|<p>Delgado Corrales, Piero Gonzalo</p><p>Lucas Coronel, Nadia Alessandra</p><p>Paredes Puente, Sebastián Roberto</p><p>Salinas Torres, Salvador Antonio</p><p>Valverde Mozo, Andre Gabriel</p>|
+|Sprint 2 Review Summary|En el sprint 2, se realizó la implementación y deployment del Frontend de la aplicación web.|
+|Sprint 2 Retrospective Summary|Este segundo sprint consistió principalmente en Frontend, aunque faltaron algunas partes a desarrollar y realizar algunas mejoras en las historias de usuario.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|Desarrollar la parte faltante en Frontend y empezar con el desarrollo de Backend de la aplicación web.|
+|Sprint 3 Velocity|69|
+|Sum of Story Points|69|
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+El objetivo de este tercer sprint es la implementación de la parte faltante de Frontend y empezar con el Backend de nuestra aplicación web. Igualmente, se trabajó con una tabla en Trello para manejar los Work-Items de forma adecuada.
+<https://trello.com/b/T5DNqXUL/agrotech-sprint-backlog-3>
+<img src="img/sprint-backlog-3.png" width="100%">
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 3</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation </td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td colspan="1" valign="top">US02</td><td colspan="1" valign="top">Visualización de información de un asesor</td><td colspan="1" valign="top">TS01</td><td colspan="1" valign="top">Mejorar estilos en la página de información del asesor</td><td colspan="1" valign="top">Mejorar los estilos CSS en la página de información del asesor.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Andre Valverde</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US04</td><td colspan="1" valign="top">Programación de citas con asesores</td><td colspan="1" valign="top">TS02</td><td colspan="1" valign="top">Mejorar estilos en mensaje de confirmación de cita</td><td colspan="1" valign="top">Mejorar los estilos CSS en el mensaje de confirmación de cita reservada para el criador.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Andre Valverde</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US05</td><td colspan="1" valign="top">Visualización de información del criador de cuyes</td><td colspan="1" valign="top">TS03</td><td colspan="1" valign="top">Mejorar estilo para la visualización de los clientes del asesor</td><td colspan="1" valign="top">Mejorar los estilos CSS para la vista de clientes (criadores) para la vista del asesor.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US10</td><td colspan="1" rowspan="2" valign="top">Visualización de publicaciones de asesores</td><td colspan="1" valign="top">TS04</td><td colspan="1" valign="top">Implementación de página para visualizar publicaciones</td><td colspan="1" valign="top">Implementar la página para que los criadores puedan visualizar las publicaciones de asesores.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS05</td><td colspan="1" valign="top">Agregar botón para ir al perfil del asesor</td><td colspan="1" valign="top">Agregar un botón debajo de la publicación que redireccione al perfil del asesor.</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US11</td><td colspan="1" valign="top">Gestión de jaula de cuyes</td><td colspan="1" valign="top">TS06</td><td colspan="1" valign="top">Reubicación de opción de registro de jaulas</td><td colspan="1" valign="top">Se mueve la opción de registro de jaulas dentro del componente de la vista Mi Granja</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Sebastián Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US13</td><td colspan="1" valign="top">Visualización y edición de información de animales</td><td colspan="1" valign="top">TS07</td><td colspan="1" valign="top">Mejorar estilos en la página de la vista de edición de animales</td><td colspan="1" valign="top">Mejorar los estilos CSS en la página de visualización y edición de animales.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US14</td><td colspan="1" valign="top">Separar fechas disponibles para asesoría</td><td colspan="1" valign="top">TS08</td><td colspan="1" valign="top">Implementación de componente para colocar fechas disponibles de asesoría</td><td colspan="1" valign="top">Implementar la componente para que el asesor pueda agregar sus horarios disponibles para ofrecer asesorías.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Sebastián Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">US15</td><td colspan="1" rowspan="3" valign="top">Gestión de recursos</td><td colspan="1" valign="top">TS09</td><td colspan="1" valign="top">Agregar Botón de Edición e Implementar Apartado Aislado de Edición</td><td colspan="1" valign="top">Agregar un botón de edición a cada recurso e implementar una interfaz aislada que se active al hacer clic en el botón de edición, donde los usuarios puedan realizar cambios y guardarlos.</td><td colspan="1" rowspan="3" valign="top">5</td><td colspan="1" valign="top">Nadia Lucas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS10</td><td colspan="1" valign="top">Agregar botón de eliminación de recurso</td><td colspan="1" valign="top">Agregar un botón de eliminación a cada recurso, permitiendo a los usuarios eliminar recursos individualmente.</td><td colspan="1" valign="top">Nadia Lucas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS11</td><td colspan="1" valign="top">Mejorar el diseño de la ruta “Mi Granja” en la vista del criador</td><td colspan="1" valign="top">Realizar mejoras en el maquetado del HTML y los estilos de la vista principal para mejorar la experiencia del usuario.</td><td colspan="1" valign="top">Nadia Lucas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">US16</td><td colspan="1" rowspan="4" valign="top">Gestión de gastos</td><td colspan="1" rowspan="2" valign="top">TS12</td><td colspan="1" rowspan="2" valign="top">Mejorar el diseño de la ruta “Mi Granja” en la vista del criador</td><td colspan="1" rowspan="2" valign="top">Realizar mejoras en el maquetado del HTML y los estilos de la vista principal para mejorar la experiencia del usuario.</td><td colspan="1" rowspan="4" valign="top">5</td><td colspan="1" rowspan="2" valign="top">Nadia Lucas</td><td colspan="1" rowspan="2" valign="top">Done</td></tr>
+<tr></tr>
+<tr><td colspan="1" valign="top">TS13</td><td colspan="1" valign="top">Agregar Botón de Edición e Implementar Apartado Aislado de Edición</td><td colspan="1" valign="top">Agregar un botón de edición a cada gasto e implementar una interfaz aislada que se active al hacer clic en el botón de edición, donde los usuarios puedan realizar cambios y guardarlos.</td><td colspan="1" valign="top">Nadia Lucas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS14</td><td colspan="1" valign="top">Agregar botón de eliminación de gasto</td><td colspan="1" valign="top">Agregar un botón de eliminación a cada gasto, permitiendo a los usuarios eliminar gastos individualmente.</td><td colspan="1" valign="top">Nadia Lucas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US19</td><td colspan="1" rowspan="2" valign="top">Registro de un usuario nuevo</td><td colspan="1" valign="top">TS15</td><td colspan="1" valign="top">Implementación de componente para registrar un criador</td><td colspan="1" valign="top">Implementar el componente para registrar a un criador nuevo dentro de la aplicación.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS16</td><td colspan="1" valign="top">Implementación de componente para registrar un asesor</td><td colspan="1" valign="top">Implementar el componente para registrar un asesor nuevo dentro de la aplicación.</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US20</td><td colspan="1" valign="top">Inicio de sesión</td><td colspan="1" valign="top">TS17</td><td colspan="1" valign="top">Implementación de página para iniciar sesión</td><td colspan="1" valign="top">Implementar la página para iniciar sesión dentro de la aplicación, validando los datos ingresados.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US21</td><td colspan="1" valign="top">Recuperación de contraseña</td><td colspan="1" valign="top">TS18</td><td colspan="1" valign="top">Implementación de página para recuperar contraseña</td><td colspan="1" valign="top">Implementar la página para recuperar la contraseña en caso el usuario la olvide.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US31</td><td colspan="1" valign="top">Visualización de calendario</td><td colspan="1" valign="top">TS19</td><td colspan="1" valign="top">Implementación de página para visualizar el calendario</td><td colspan="1" valign="top">Implementar la página que muestra el calendario con las citas programadas para el usuario.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Andre Valverde</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US32</td><td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar usuarios</td><td colspan="1" valign="top">TS20</td><td colspan="1" valign="top">Implementación de protocolos HTTP para usuarios</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para los usuarios (criadores y asesores) dentro de nuestra API.</td><td colspan="1" rowspan="2" valign="top">5</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS21</td><td colspan="1" valign="top">Implementación de protocolos HTTP para notificaciones</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las notificaciones dentro de nuestra API.</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US33</td><td colspan="1" valign="top">Uso de nuestra API para gestionar publicaciones</td><td colspan="1" valign="top">TS22</td><td colspan="1" valign="top">Implementación de protocolos HTTP para publicaciones</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las publicaciones dentro de nuestra API.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US34</td><td colspan="1" rowspan="2" valign="top">Uso de nuestra API para manejar recursos y gastos</td><td colspan="1" valign="top">TS23</td><td colspan="1" valign="top">Implementación de protocolos HTTP para recursos</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para los recursos dentro de nuestra API.</td><td colspan="1" rowspan="2" valign="top">5</td><td colspan="1" valign="top">Nadia Lucas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS24</td><td colspan="1" valign="top">Implementación de protocolos HTTP para gastos</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para los gastos dentro de nuestra API.</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">US35</td><td colspan="1" rowspan="3" valign="top">Uso de nuestra API para manejar la reserva de citas entre asesores y criadores</td><td colspan="1" valign="top">TS25</td><td colspan="1" valign="top">Implementación de protocolos HTTP para citas</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las citas de asesorías dentro de nuestra API.</td><td colspan="1" rowspan="3" valign="top">5</td><td colspan="1" valign="top">Sebastián Paredes, Andre Valverde</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS26</td><td colspan="1" valign="top">Implementación de protocolos HTTP para horarios disponibles</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para los horarios disponibles de los asesores dentro de nuestra API.</td><td colspan="1" valign="top">Sebastián Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS27</td><td colspan="1" valign="top">Implementación de protocolos HTTP para reseñas</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las reseñas sobre los asesores dentro de nuestra API.</td><td colspan="1" valign="top">Andre Valverde</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US36</td><td colspan="1" rowspan="2" valign="top">Uso de la API para manejar el registro de jaulas y animales </td><td colspan="1" valign="top">TS28</td><td colspan="1" valign="top">Implementación de protocolos HTTP para jaulas</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las jaulas dentro de nuestra API.</td><td colspan="1" rowspan="2" valign="top">5</td><td colspan="1" valign="top">Nadia Lucas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS29</td><td colspan="1" valign="top">Implementación de protocolos HTTP para animales</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para los animales dentro de nuestra API.</td><td colspan="1" valign="top">Nadia Lucas</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 3. De este modo, se trabajó mayormente en la parte de Frontend y Backend.
+
+Repositorio Frontend: <https://github.com/AgroTech-UPC/Frontend-Web-Applications>
+
+Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Frontend-Web-Applications|feature/register|4a987b3|fix: registers location fixed|14/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|f3fed44|feat: Improved the layout of < My Farm > route in breeder view|15/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|11c27d1|feat: create component for publications view|15/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|d36a637|feat: added publication readonly card component|15/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|bed2427|feat: added function to go to advisor profile|15/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|b2d6eff|feat: Update CSS and HTML on Advisors Search|16/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|ad171e2|feat: Update CSS and HTML (Stars Animation)|16/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us02|a6b8e8d|feat: Update CSS and HTML on Advisor About us|16/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us04|189f8b9|feat: Update CSS and HTML on Reserve Appointment|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us04|4bf130c|feat: Update CSS and HTML on Reserve Appointment (Message Confirmation)|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|a3f6ce3|feat: added login card and design|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|6736389|feat: added responsiveness|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|7e6ffd9|feat: added signup page and register component|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|dc7c7d3|feat: added breeder signup and register component|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|a125c49|feat: added advisor signup and register component|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|6fa1bff|feat: added routes for signup pages|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|43cdcc3|feat: added login functionality with local storage|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|cb24c15|feat: added login attempts limit|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us21|6c666b5|feat: added password reset|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|134b3bd|feat: added reset of ids after logout|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us02|e70868a|feat: Update CSS and HTML on Advisor About us (Reviews)|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|690a114|feat: Update CSS and HTML on My Advisors (Search)|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|6e96a7c|feat: Update My Advisors and Search Advisors (Titles)|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us02|b6c031a|feat: Update CSS and HTML on Send Review|17/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|d18accc|feat: fixed css, validators for password, date|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|56ea1cb|fix: fixed color of title and outline|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us16|e9a445f|feat: Delete expense button added|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us16|855c2e8|feat: Edit expense button added|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|c28c0d8|feat: Added delete resource button|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|b6a63c5|feat: Added edit resource button|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|ddc8d7f|fix: fixed title and css of register user comp|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|64f6571|feat: added function to register breeder|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|16623ff|feat: added function to register advisor|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|1efbe68|feat: linked login and register links|18/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us19|ceb3240|feat: added validation for existing user|19/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us30|2beb52f|feat: Install Api FullCalendar|19/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us31|02bccdc|feat: Added Calendar component|19/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us31|63fa024|feat: Added Calendar section in Sidenav|19/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us31|b534742|feat: Added Calendar Section Functionality|19/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|6f54f21|fix: fixed css responsive problems with cage table|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/db-json|4f5858b|feat: added missing breeder\_id to cage register and edition|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|cb55128|fix: removed old register component and routes|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|7197396|fix: fixed paginator in cage table|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|629c5bf|fix: fixed registro showing in sidenav|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/db-json|9d70172|feat: improved db|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|760593e|feat: improved styles from list of cages|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|32b7472|feat: improved styles from edit form of cages|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us13|a18aefa|feat: improved animal list responsiveness|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us13|9b48307|feat: removed functionality related to cuy deceased|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us13|b9b5080|feat: improved styles from animal list and information|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us13|bafc290|fix: no animals message didnt show properly|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|9e9cea2|fix: fixed button css|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|dc1fbb0|refactor: changed component for clients view|22/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|5984d22|fix: Bug fix in My Advisors|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|b3a32d7|feat: Update CSS (Gray Stars and buttons)|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|ba7aff0|feat: Added “Back Button” in Advisor About Us|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|6b6c669|feat: Added Error view in View Schedules|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|8d17f38|feat: Added Error View in Advisor About Us|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|7c2117a|fix: Fixed bug in View Schedules (Error view)|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|3d5dc16|feat: Added Error View in My Advisors|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|5ec3c52|feat: Update review.component (The status of the appointment changes to Completed and Reviewed)|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us01|dee6330|feat: Responsive|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|659fb08|feat: added number of cages in client detail|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|47c4e73|fix: fixed css in client cards view|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|fe5bdfd|fix: size card fixed|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|379a339|fix: client detail css fixed|23/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|3d61eee|feat: local storage advisor id used of clients|24/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|047f532|fix: notifications view for breeder and advisor|24/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|60aa68c|feat: Section Horarios and functionality add and delete added|24/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|dd29d3d|fix: fixed error with available dates and appointments|25/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|8048b6c|feat: added breeder description in client detail|25/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|73408da|fix: title css fixed for advisor view|26/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us31|81cd754|feat: added functionality to show only the correct appointments in calendar|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|54cac32|feat: correct advisor id for new publications and not hard coded|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|bc7400a|feat: added functionality to resource visualization|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us16|c18c1b1|feat: added functionality to expense visualization|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|0974e77|feat: changed back button to use function goBack|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|92502d1|feat: added confirmation message before delete|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us10|1fd5310|feat: added empty view for missing pages|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us16|3665f9a|style: Added new button to edit expense|28/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us07|21f4835|style: the colors of the notification card were changed to make it more attractive|29/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us07|7413440|feat: added tab browser icon|29/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us07|7413440|style: fix goBack button z-index|30/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|60aa68c|style: fix goBack button z-index|03/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|27d4d23|<p>style: improved design of heuristics evaluation problems</p><p></p>|04/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|43cdcc3|<p>style: improved design of heuristics evaluation problems</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|feec7eb|<p>feat: updated baseURL to deployed web service and updated base service</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|82c1938|<p>feat: changed user bc models to cammelCase</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|ee876e8|<p>fix: renamed endpoint for available dates</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|feec7eb|<p>Merge pull request[ #56](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/56) from AgroTech-UPC/feature/us20</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us06|b3cc86a|<p>Merge pull request[ #56](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/56) from AgroTech-UPC/feature/us20</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us06|1283a4c|<p>feat: updated notifications to use new web service</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|1283a4c|<p>Merge pull request[ #57](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/57) from AgroTech-UPC/feature/us06</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us09|640c012 |<p>Merge pull request[ #57](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/57) from AgroTech-UPC/feature/us06</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us09|640c012|<p>feat: update publication model and method to obtain publications</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|27d4d23|<p>Merge pull request[ #58](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/58) from AgroTech-UPC/feature/us09</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|48e70b8|<p><h2>feat: changed response type from delete method to text</h2></p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|27f0474|<p>feat: us14 functionality added for list and delete of available date …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|760593e|<p>feat: Register of available dates to backend added</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|78f74ba|<p>Merge pull request[ #59](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/59) from AgroTech-UPC/feature/us14</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|78f74ba|<p>Merge pull request[ #59](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/59) from AgroTech-UPC/feature/us14</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|bd17bfd|<p>Merge branch 'develop' of[ https://github.com/AgroTech-UPC/Frontend-We…](https://github.com/AgroTech-UPC/Frontend-Web-Applications)</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|78f74ba|<p>feat: updated animal and cage functionality to work with deployed bac…</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|bd17bfd|<p>Merge branch 'develop' into feature/us11</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|ddc1217|<p>Merge pull request[ #60](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/60) from AgroTech-UPC/feature/us11</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|0974e77|<p>feat: the expenses API was integrated with my <<My farm>> section</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|73408da|<p>Merge pull request[ #62](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/62) from AgroTech-UPC/develop</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|fa21234|<p>feat: the expenses API was integrated with my <<My farm>> section</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|6723462|<p>Merge branch 'develop' into feature/us15</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|03be269|<p>feat: update appointments functionality to work with backend</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|9b0d031|<p>Merge pull request[ #63](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/63) from AgroTech-UPC/feature/us15</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|7a0c9d5|<p>Merge pull request[ #64](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/64) from AgroTech-UPC/feature/us05</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|dc0b352|<p>fix: CamelCase in AvailableDates (This prevented checking that the ti…</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|4e933e3|<p>feat: Update Availability Schedule (Added restrictions with the date)</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|a9f68f2|<p>fix: A resource or expense was marked as registered without the date,…</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|e46d16a|<p>fix: Fixed status (It was not placed as a boolean, that is, true and …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|1d40ede|<p>fix: Fixed date format in create new appointment</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|2d4f4f3|<p>fix: Fixed put AvailableDate</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|854773c|<p>fix: Fixed enum Terminado -> TERMINADO</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|d859bf0|<p>feat: A restriction was added and it is that if an appointment has a …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|aae903b|<p>fix: In My Advisors only a maximum of 3 appointments with an advisor …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|release|5a61ca8|<p>fix: In My Advisors only a maximum of 3 appointments with an advisor …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|release|b3d43f4 |<p>feat: added deployment configurations</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|main|67de36a|Merge pull request[ #65](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/65) from AgroTech-UPC/release|08/06/2024|
+|AgroTech-UPC/Web-Services|main|3dba508|chore: initial commit|30/05/2024|
+|AgroTech-UPC/Web-Services|main|5658b6a|docs: Added readme documentation|30/05/2024|
+|AgroTech-UPC/Web-Services|main|5c4368d|chore: Initial setup completed|30/05/2024|
+|AgroTech-UPC/Web-Services|develop|1efdafa|chore: Created the develop branch|30/05/2024|
+|AgroTech-UPC/Web-Services|feature/us33|655fb8f|feat: added post and get requests for publications|02/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|d3f4f1a|feat: added user bc http requests|02/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|5e4b406|feat(management): added Domain-Driven Design|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|bf1cf1d|feat(management): completed domain layer|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|b24ded4|feat: added endpoint to get notifications by userid|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|26b1986|feat(management): completed all major layers and endpoints in controller|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|e4d2177|fix: fixed an error in the data type of a value object|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|0611a90|fix: fixed an error in the data type of a value object (date)|03/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|129dced|fix: Status attribute for Appointment changed|04/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|4744460|feat(management): Competed the domain layer for the cages|04/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|613f483|feat(management): Competed all endpoints for the cages|04/06/2024|
+|AgroTech-UPC/Web-Services|feature/us33|0a34aba|feat: added advisor id in publication|04/06/2024|
+|AgroTech-UPC/Web-Services|feature/us33|47befc0|feat: added delete request for publications|04/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|9c0f999|feat: Added Review endpoint to get and post data|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|75a37e1|feat(management): All endpoints of the animal entity have been completed|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us33|9e6bcda|feat: modified name, observations date value objects|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|` `2aa0559|feat: Added AvailableDate entity, TimeAv and DateAv value objects|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|c30065b|feat: Update TimeAv value object|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|efd74be|feat: Update AvailableDate entity|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|4d4e8bb|feat: Added CreateAvailableDateCommand and DeleteAvailableDateCommand|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|03667e8|feat: Update Create and Delete AvailableDateCommand|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|8f1904c|feat: Added GetAll and GetById Queries of AvailableDates|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|1b9c2bb|feat: Update GetAvailableDateByIdQuery|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|238d11b|feat: Added GetAvailableDatesByAdvisorIdQuery|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|534b2e5|feat: Added AvailableDate QueryService and CommandService|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|32702d5|feat: Update AvailableDateCommandService|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|db39f25|feat: Update AvailableDateQueryService|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|f3edd00|feat: Added AvailableDateRepository|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|f8a18cc|feat: Added AvailableDateResource|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|2f2a99b|feat: Added CreateAvailableDateResource|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|0e2cebc|feat: Added AvailableDateResourceFromEntityAssembler|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|a6ee81a|feat: Update CreateAvailableDateCommandFromEntityAssembler|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|e433e73|feat: Added AvailableDateCommandServiceImpl|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|4d9cee8|feat: Added AvailableDateQueryServiceImpl|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|8b09c24|feat: Added AvailableDateController|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|63e8c22|feat: added message when a resource is deleted|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|fccee3c|feat: expense aggregate and value objects added|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|4a94ac1|feat: endpoints for expenses added|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|53e4cf6|feat: Update AdvisorsController (Added AvailableDates path) and fix some bugs|05/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|6a25580|fix: Errors with POST for start\_time and end\_time are corrected, DateAv is also deleted and date is passed to LocalDate|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|65b2d3b|refactor: renamed cages and available dates controller|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|0bf28e8|feat: added breeder endpoint to get cages|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|9c2dc72|feat: added querys for appointments by advisor or breeder id|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us33|54bca19|feat: added publications by advisorId query|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|fa4f854|feat: added ResourcesByBreederId query|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us34|f7b70fc|feat: added ExpensesByBreederId query|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|3f8882d|feat: moved endpoint to get animals from cageid to cage|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|c1b2d3e|<p>feat: added endpoint to get appointments by breeder/advisor id</p><p></p>|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|8b4fefa|feat: added endpoint to get publications by advisor id|06/06/2024|
+|AgroTech-UPC/Web-Services|develop|6df74f3|feat: added remote database connection|06/06/2024|
+|AgroTech-UPC/Web-Services|release|4cf5a35 |<p>feat: dockerfile for deployment</p><p></p>|06/06/2024|
+|AgroTech-UPC/Web-Services|release|bd51e26 |<p>feat: added target folder for deployment</p><p></p>|06/06/2024|
+|AgroTech-UPC/Web-Services|release|1277395 |<p>feat: added CORS policies to controllers</p><p></p>|07/06/2024|
+|AgroTech-UPC/Web-Services|release|bceb9cb |<p>docs: Updated readme</p><p></p>|07/06/2024|
+|AgroTech-UPC/Web-Services|release|85e5546 |<p>feat: Added endpoint Put on AvailableDate</p><p></p>|08/06/2024|
+|AgroTech-UPC/Web-Services|release|2d2d52c |<p>feat: updated target for deployment</p><p></p>|08/06/2024|
+|AgroTech-UPC/Web-Services|release|bf1dbd5 |<p>Merge branch 'release' of[ https://github.com/AgroTech-UPC/Web-Services](https://github.com/AgroTech-UPC/Web-Services) …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Web-Services|release|e2edd5a |<p>feat: updated target for deployment</p><p></p>|08/06/2024|
+|AgroTech-UPC/Web-Services|main|5c4368d|<p>release v1.0.0</p><p></p>|08/06/2024|
+
+
+
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Acceptance-Tests|main|57f2c58 |<p>feat: added feature file for US29</p><p></p>|05/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|1b94680 |<p>feat: added feature file for US28</p><p></p>|05/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|f652d64 |<p>Update US28.feature</p><p></p>|05/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|9027b2b |Fix: fix typing error|05/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|329c774 |feat: added acceptance test for US31|05/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|24c738a |<p>feat: added acceptance test for US30</p><p></p>|06/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|802f736 |<p>feat: added acceptance test for US26</p><p></p>|07/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|29d85ed |<p>feat: added acceptance test for US27</p><p></p>|07/04/2024|
+|AgroTech-UPC/Acceptance-Tests|main|96a50bc |<p>refactor: updated file and user story number</p><p></p>|01/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|964877f |<p>feat: added acceptance test for US14</p><p></p>|01/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|f0f62bd |<p>fix: fixed landing page user stories</p><p></p>|02/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|c8e984d |<p>feat: added acceptance test for US06</p><p></p>|02/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|950fb0b |<p>feat: added acceptance test for US08, US09</p><p></p>|02/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|718cd68 |feat: added acceptance test for US11, US12, US15|02/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|209c8d5 |<p>feat: Updated features 06 and 15, and added features 07 and 16.</p><p></p>|03/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|a16a719 |<p>feat: Added User Stories: 01, 02, 03, 04, 05</p><p></p>|03/05/2024|
+|AgroTech-UPC/Acceptance-Tests|main|539dfb3 |<p>fix: update user stories titles</p><p></p>|07/06/2024|
+|AgroTech-UPC/Acceptance-Tests|main|c2dd4d7 |<p>feat: added US20 and US32 acceptance tests</p><p></p>|07/06/2024|
+|AgroTech-UPC/Acceptance-Tests|main|e5f996d |<p>feat: added US34 acceptance test (resource or expense management)</p><p></p>|07/06/2024|
+|AgroTech-UPC/Acceptance-Tests|main|8e2034f |<p>feat: added US36 acceptance test (cages or animals management)</p><p></p>|07/06/2024|
+|AgroTech-UPC/Acceptance-Tests|main|ce1bead |<p>docs: Added readme documentation</p><p></p>|07/06/2024|
+|AgroTech-UPC/Acceptance-Tests|main|46f0678 |<p>feat: US14 and US35 acceptance tests added</p><p></p>|07/06/2024|
+|AgroTech-UPC/Acceptance-Tests|main|9bc0b37 |<p>feat: add tests for us10,19,33 + modify us09,14</p><p></p>|07/06/2024|
+|AgroTech-UPC/Acceptance-Tests|main|822a5e4 |<p>feat: Added US31 and US21</p><p></p>|08/06/2024|
+
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+En esta sección, se detallará lo avanzado en el tercer sprint, el cual incluye el despliegue del servicio web en Swagger y la implementación de la aplicación web frontend de AgroConnect utilizando los servicios de los endpoints, así como un nuevo rediseño estético en la parte del Frontend.
+
+**URL de video:**
+[Execution Evidence](https://youtu.be/ueAYE7vl_MI)
+
+<img src="img/execution_evidence_tb3.png" width="100%"> 
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Para este sprint, hemos implementado una primera versión de la API para nuestro proyecto con la mayoría de endpoints necesarios para su funcionamiento.
+
+Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Services
+
+|Método|Endpoint|Descripción|
+|--|--|--|
+|GET|/api/v1/users|Se obtiene la lista de usuarios|
+|POST|/api/v1/users|Se publica un nuevo usuario|
+|GET|/api/v1/users/{id}|Se obtiene un usuario por ID|
+|GET|/api/v1/users/{id}/notifications|Se obtiene la lista de notificaciones de un usuario por su ID|
+|GET|/api/v1/breeders|Se obtiene la lista de los criadores|
+|POST|/api/v1/breeders|Se publica un nuevo criador|
+|GET|/api/v1/breeders/{id}|Se obtiene un criador por ID|
+|GET|/api/v1/breeders/{id}/cages|Se obtiene la lista de jaulas de un criador por su ID|
+|GET|/api/v1/breeders/{id}/appointments|Se obtiene la lista de citas para la asesoria de un criador por su ID|
+|GET|/api/v1/breeders/{id}/resources|Se obtiene la lista de recursos de un criador por su ID|
+|GET|/api/v1/breeders/{id}/expenses|Se obtiene la lista de gastos de un criador por su ID|
+|GET|/api/v1/advisors|Se obtiene la lista de los asesores|
+|POST|/api/v1/advisors|Se publica un nuevo asesor|
+|GET|/api/v1/advisors/{id}|Se obtiene un asesor por ID|
+|GET|/api/v1/advisors/{id}/available-dates|Se obtiene la lista de fechas disponibles de un asesor por su ID|
+|GET|/api/v1/advisors/{id}/publications|Se obtiene la lista de publicaciones de un asesor por su ID|
+|GET|/api/v1/advisors/{id}/appointments|Se obtiene la lista de citas de un asesor por su ID|
+|GET|/api/v1/notifications|Se obtiene la lista de las notificaciones|
+|POST|/api/v1/notifications|Se publica una nueva notificacion|
+|GET|/api/v1/notifications/{id}|Se obtiene una notificacion por ID|
+|DELETE|/api/v1/notifications/{id}|Se elimina una notificacion por ID|
+|GET|/api/v1/available-dates|Se obtiene la lista de los horarios disponibles de los asesores|
+|POST|/api/v1/available-dates|Se publica un nuevo horario|
+|GET|/api/v1/available-dates/{id}|Se obtiene un horario por ID|
+|DELETE|/api/v1/available-dates/{id}|Se elimina un horario por ID|
+|GET|/api/v1/publications|Se obtiene la lista de las publicaciones de los asesores|
+|POST|/api/v1/publications|Se publica una nueva publicacion|
+|GET|/api/v1/publications/{id}|Se obtiene una publicacion por ID|
+|DELETE|/api/v1/publications/{id}|Se elimina una publicacion por ID|
+|GET|/api/v1/appointments|Se obtiene la lista de las citas entre asesores y criadores|
+|POST|/api/v1/appointments|Se publica una nueva cita|
+|GET|/api/v1/appointments/{id}|Se obtiene una cita por ID|
+|PUT|/api/v1/appointments/{id}|Se modifica una cita por ID|
+|GET|/api/v1/appointments/{id}/reviews|Se obtienen la reseña de una cita por ID|
+|GET|/api/v1/reviews|Se obtiene la lista de las reseñas|
+|POST|/api/v1/reviews|Se publica una nueva reseña|
+|GET|/api/v1/reviews/{id}|Se obtiene una reseña por ID|
+|GET|/api/v1/resources|Se obtiene la lista de recursos|
+|POST|/api/v1/resources|Se publica un nuevo recurso|
+|GET|/api/v1/resources/{id}|Se obtiene un recurso por ID|
+|PUT|/api/v1/resources/{id}|Se modifica un recurso por ID|
+|DELETE|/api/v1/resources/{id}|Se elimina un recurso por ID|
+|GET|/api/v1/expenses|Se obtiene la lista de gastos|
+|POST|/api/v1/expenses|Se publica un nuevo gasto|
+|GET|/api/v1/expenses/{id}|Se obtiene un gasto por ID|
+|PUT|/api/v1/expenses/{id}|Se modifica un gasto por ID|
+|DELETE|/api/v1/expenses/{id}|Se elimina un gasto por ID|
+|GET|/api/v1/cages|Se obtiene la lista de jaulas|
+|POST|/api/v1/cages|Se publica una nueva jaula|
+|GET|/api/v1/cages/{id}|Se obtiene una jaula por ID|
+|PUT|/api/v1/cages/{id}|Se modifica una jaula por ID|
+|DELETE|/api/v1/cages/{id}|Se elimina una jaula por ID|
+|GET|/api/v1/animals|Se obtiene la lista de animales|
+|POST|/api/v1/animals|Se publica un nuevo animal|
+|GET|/api/v1/animals/{id}|Se obtiene un animal por ID|
+|PUT|/api/v1/animals/{id}|Se modifica un animal por ID|
+|DELETE|/api/v1/animals/{id}|Se elimina un animal por ID|
+
+
+**EVIDENCIAS**
+
+**User Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/users
+
+![User endpoints](img/user-endpoints-swagger.png)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Users](img/service-documentation-get-users.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: email, password, fullname, location, birthdate y description|
+|Resultado|![Service Documentation Post User](img/service-documentation-post-user.png)|
+
+|Método|GET {userId}|
+|--|--|
+|Parámetros|{userId}: Id del usuario|
+|Resultado|![Service Documentation Get User by Id](img/service-documentation-get-user-id.png)|
+
+|Método|GET {userId}/notifications|
+|--|--|
+|Parámetros|{userId}: Id del usuario|
+|Resultado|![Service Documentation Get Notifications by Id](img/service-documentation-get-user-notifications.png)|
+
+**Breeder Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/breeders
+
+![Breeder endpoints](img/breeder-endpoints-swagger.png)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Breeders](img/service-documentation-get-breeders.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: userId|
+|Resultado|![Service Documentation Post Breeder](img/service-documentation-post-breeder.png)|
+
+|Método|GET {breederId}|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Breeder by Id](img/service-documentation-get-breeder-id.png)|
+
+|Método|GET {breederId}/resources|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Resources by Id](img/service-documentation-get-breeder-resources.png)|
+
+|Método|GET {breederId}/expenses|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Expenses by Id](img/service-documentation-get-breeder-expenses.png)|
+
+|Método|GET {breederId}/cages|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Cages by Id](img/service-documentation-get-breeder-cages.png)|
+
+|Método|GET {breederId}/appointments|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Appointments by Id](img/service-documentation-get-breeder-appointments.png)|
+
+**Advisor Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/advisors
+
+![Advisor endpoints](img/advisor-endpoints-swagger.png)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Advisors](img/service-documentation-get-advisors.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: occupation, experience, photo, rating, userId|
+|Resultado|![Service Documentation Post Advisor](img/service-documentation-post-advisor.png)|
+
+|Método|GET {advisorId}|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Advisor by Id](img/service-documentation-get-advisor-id.png)|
+
+|Método|GET {advisorId}/publications|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Publications by Id](img/service-documentation-get-advisor-publications.png)|
+
+|Método|GET {advisorId}/available-dates|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Available Dates by Id](img/service-documentation-get-advisor-available-dates.png)|
+
+|Método|GET {advisorId}/appointments|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Appointments by Id](img/service-documentation-get-advisor-appointments.png)|
+
+
+**Notification Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/notifications
+
+![Notification endpoints](img/notification-endpoints-swagger.png)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Notifications](img/service-documentation-get-notifications.png)|
+
+|Método|GET {notificationId}|
+|--|--|
+|Parámetros|{notificationId}: Id de la notificacion|
+|Resultado|![Service Documentation Get Notification by Id](img/service-documentation-get-notification-id.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: type, text, date, userId |
+|Resultado|![Service Documentation Post Notification](img/service-documentation-post-notification.png)|
+
+|Método|DELETE {notificationId}|
+|--|--|
+|Parámetros|{notificationId}: Id de la notificacion|
+|Resultado|![Service Documentation Delete Notification](img/service-documentation-delete-notification.png)|
+
+**Resources Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/resources
+
+![Resources endpoints](img/resource-endpoints-swagger.PNG)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: name, type, quantity, date, observations y breederId|
+|Resultado|![Service Documentation Post Resource](img/post-resource.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Resources](img/get-all-resources.PNG)|
+
+|Método|GET {resourceId}|
+|--|--|
+|Parámetros|{resourceId}: Id del recurso|
+|Resultado|![Service Documentation Get by ResourceId](img/get-by-id-resource.PNG)|
+
+|Método|PUT {resourceId}|
+|--|--|
+|Parámetros|{resourceId}: Id del recurso|
+|Resultado|![Service Documentation Update Resource](img/put-resource.PNG)|
+
+|Método|DELETE {resourceId}|
+|--|--|
+|Parámetros|{resourceId}: Id del recurso|
+|Resultado|![Service Documentation Delete Resource](img/delete-resource.PNG)|
+
+**Expenses Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/expenses
+
+![Expenses endpoints](img/expenses-endpoints-swagger.PNG)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: name, type, ammount, date, observations y breederId|
+|Resultado|![Service Documentation Post Expense](img/post-expense.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Expenses](img/get-all-expenses.PNG)|
+
+|Método|GET {expenseId}|
+|--|--|
+|Parámetros|{expenseId}: Id del gasto|
+|Resultado|![Service Documentation Get by ExpenseId](img/get-by-id-expense.PNG)|
+
+|Método|PUT {expenseId}|
+|--|--|
+|Parámetros|{expenseId}: Id del gasto|
+|Resultado|![Service Documentation Update Expense](img/put-expense.PNG)|
+
+|Método|DELETE {expenseId}|
+|--|--|
+|Parámetros|{expenseId}: Id del gasto|
+|Resultado|![Service Documentation Delete Expense](img/delete-expense.PNG)|
+
+
+**Publications Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/publications
+
+![Publications endpoints](img/publications-endpoints-swagger.png)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: title, description, image, date y advisorId|
+|Resultado|![Service Documentation Post Publication](img/post-publication.png)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Publications](img/get-all-publications.png)|
+
+|Método|GET {publicationId}|
+|--|--|
+|Parámetros|{publicationId}: Id de la publicación|
+|Resultado|![Service Documentation Get by PublicationId](img/get-by-id-publication.png)|
+
+|Método|DELETE {publicationId}|
+|--|--|
+|Parámetros|{publicationId}: Id de la publicación|
+|Resultado|![Service Documentation Delete Publication](img/delete-publication.png)|
+
+**Appointments Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/appointments
+
+![Appointments endpoints](img/appointments-endpoints-swagger.png)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: breederId, advisorId, date y status|
+|Resultado|![Service Documentation Post Appointment](img/post-appointment.png)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Appointments](img/get-all-appointments.png)|
+
+|Método|GET {appointmentId}|
+|--|--|
+|Parámetros|{appointmentId}: Id del appointment|
+|Resultado|![Service Documentation Get by AppointmentId](img/get-by-id-appointment.png)|
+
+|Método|PUT|
+|--|--|
+|Parámetros|{appointmentId}: Id del appointment|
+|Resultado|![Service Documentation Update Appointment](img/put-appointment.png)|
+
+
+
+
+**Cages Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/cages
+
+![Cages Endpoints](img/cages-endpoints-swagger.PNG)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: name, type, ammount, date, observations y breederId|
+|Resultado|![Service Documentation Post Cage](img/post-cage.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Cages](img/get-all-cages.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|{cageId}: Id de la jaula|
+|Resultado|![Service Documentation Get by cageId](img/get-by-id-cage.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|{cageId}: Id de la jaula|
+|Resultado|![Service Documentation Get All animals by cageId](img/get-all-animals-by-cageId.PNG)|
+
+|Método|PUT|
+|--|--|
+|Parámetros|{cageId}: Id de la jaula|
+|Resultado|![Service Documentation Update Cage](img/put-cage.PNG)|
+
+|Método|DELETE|
+|--|--|
+|Parámetros|{cageId}: Id de la jaula|
+|Resultado|![Service Documentation Delete Cage](img/delete-cage.PNG)|
+
+**Animals Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/animals
+
+![Animals Endpoints](img/animal-endpoints-swagger.PNG)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: name, breed, gender, birthdate, weight, isSick, observations, cageId|
+|Resultado|![Service Documentation Post Animal](img/post-animal.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Animals](img/get-all-animals.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|{animalId}: Id de la animal|
+|Resultado|![Service Documentation Get by animalId](img/get-by-id-animal.PNG)|
+
+|Método|PUT|
+|--|--|
+|Parámetros|{animalId}: Id de la animal|
+|Resultado|![Service Documentation Update Animal](img/put-animal.PNG)|
+
+|Método|DELETE|
+|--|--|
+|Parámetros|{animalId}: Id de la animal|
+|Resultado|![Service Documentation Delete Animal](img/delete-animal.PNG)|
+
+**AvailableDates Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/available-dates
+
+![AvailableDate Endpoints](img/availabledates-endpoints-swagger.png)
+
+|Método|GET|
+|--|--|
+|Parámetros|{availableDateId}: Id del AvailableDate|
+|Resultado|![Service Documentation Get By availableDateId](img/get-by-id-availableDate.png)|
+
+|Método|PUT|
+|--|--|
+|Parámetros|{availableDateId}: Id del AvailableDate|
+|Resultado|![Service Documentation Put AvailableDate](img/put-availableDate.png)|
+
+|Método|DELETE|
+|--|--|
+|Parámetros|{availableDateId}: Id del AvailableDate|
+|Resultado|![Service Documentation Delete AvailableDate](img/delete-availableDate.png)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All AvailableDates](img/get-all-availableDates.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: advisorId, date(YYYY-MM-DD), startime(hour, minute, second), endtime(hour, minute,second), status|
+|Resultado|![Service Documentation Post AvailableDate](img/post-availableDate.png)|
+
+
+
+**Reviews Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/reviews
+
+![Review Endpoints](img/review-endpoints-swagger.png)
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All Reviews](img/get-all-reviews.png)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: appointmentID, comment, rating|
+|Resultado|![Service Documentation Post Review](img/post-review.png)|
+
+|Método|GET|
+|--|--|
+|Parámetros|{reviewId}: Id del review|
+|Resultado|![Service Documentation Get By reviewId](img/get-by-id-review.png)|
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Se decidió desplegar el Web Service en Render. Para ello, se tuvo que hacer un archivo target donde están los archivos de salida de compilación y un archivo Docker que contiene la información para que se ejecute el proyecto en Java 22.
+<img src="img/software-deployment1.png" width="100%">
+
+Entonces, con los archivos listos se entró a Render.com donde se configuró la creación del proyecto al conectarlo con la rama release del repositorio del Web Service.
+<img src="img/software-deployment2.png" width="100%">
+
+Luego, se empezó con el desplegado al darle a ‘Crear Web Service’.
+<img src="img/software-deployment3.png" width="100%">
+
+Finalmente, comprobamos el correcto funcionamiento del Web Service desplegado al entrar al swagger.
+<img src="img/software-deployment4.png" width="100%">
+
+Enlace de Backend desplegado: https://web-services-18bk.onrender.com/swagger-ui/index.html
+
+Por otro lado, también se desplegó el Frontend Web Applications con la conexión al Web Service y las mejoras realizadas en este Sprint. Para ello, primero se volvió a ejecutar el comando npm run build.
+
+![Frontend Deployment - Sprint 3](img/sprint3-deployment1.png)
+
+Se actualizaron los paquetes relacionados con firebase utilizando npm install firebase-tools.
+
+![Frontend Deployment - Sprint 3](img/sprint3-deployment2.png)
+
+Se comprobó que se esté logueado en firebase para el despliegue y se empezó con el despliegue utilizando firebase init hosting.
+
+![Frontend Deployment - Sprint 3](img/sprint3-deployment3.png)
+
+Luego, se modificó el archivo firebase.json para que se desplieguen los archivos correctos.
+
+![Frontend Deployment - Sprint 3](img/sprint3-deployment4.png)
+
+Para terminar con el despliegue luego de tener el proyecto con Firebase se utiliza el comando firebase deploy --only hosting
+
+![Frontend Deployment - Sprint 3](img/sprint3-deployment5.png)
+
+Ahora, la integración es visible en nuestra aplicación web ya desplegada.
+
+<img src="img/aplicacion-web-desplegada.png" width="100%">
+Enlace de Frontend desplegado: https://agroconnect-demo.web.app/login 
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Para la elaboración del backend, donde se realizaron 5 historias de usuario pertenecientes a la épica 8, distribuimos las tareas entre los miembros del equipo. Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asignadas. Posteriormente, realizamos los "merge" con la rama "develop", hicimos el "release" y finalmente integramos los cambios en la rama "main". Para asegurar la calidad y funcionalidad del código, realizamos reuniones virtuales a través de Google Meet. Durante estas sesiones, revisamos juntos los avances y los "merge" realizados, verificando que todo funcionara de acuerdo a lo esperado.
+
+<img src="img/network-graph-sprint3-back2.PNG" width="100%">
+
+<img src="img/branches-sprint3-back.PNG" width="100%">
+
+<img src="img/collab-sprint-3-back.PNG" width="100%">
+
+Para la elaboración del frontend, realizamos mejoras significativas. Implementamos un nuevo formato para las ramas, siguiendo la convención "feature/US{número de historia de usuario}", y también integramos la API de AgroConnect. Estas mejoras facilitaron la organización y la colaboración en el proyecto, asegurando una mayor coherencia en el desarrollo del frontend.
+
+<img src="img/network-graph-sprint3-front1.PNG" width="100%">
+
+<img src="img/network-graph-sprint3-front.PNG" width="100%">
+
+<img src="img/branches-sprint3-front.PNG" width="100%">
+
+<img src="img/collab-sprint-3-front.PNG" width="100%">
+
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de entrevistas.
+Para esta entrevista, se comparte y detalla al entrevistado lo trabajado en Landing Page y Web Application.
+
+#### Segmento Asesor
+**User Flows:**
+- Inicio de sesión
+  - User Goal: Como usuario quiero acceder a mi cuenta registrada para acceder a las funciones de usuario
+- Registro de usuario
+  - User Goal: Como usuario quiero registrarme para acceder a las funciones de usuario
+- Recuperación de cuenta
+  - User Goal: Como usuario quiero recuperar mi contraseña en caso me olvide para no perder mi cuenta con mi información
+- Vista de clientes
+  - User Goal: Como asesor quiero poder visualizar a mis clientes para poder llevar un registro eficiente
+- Vista y gestión de publicaciones
+  - User Goal: Como asesor quiero poder crear publicaciones para poder promocionar el servicio de asesoramiento para la crianza de cuyes
+- Vista de notificaciones
+  - User Goal: Como asesor quiero recibir notificaciones de citas programadas por los criadores para mantenerme al tanto de mis ofertas laborales
+- Gestión de horarios
+  - User Goal: Como asesor quiero poder seleccionar y separar las fechas y horas en las que estoy disponible para ofrecer asesorías para que los usuarios interesados puedan ver mis horarios disponibles y agendar una cita en un momento conveniente
+- Vista de calendario
+  - User Goal: Como usuario quiero visualizar un calendario para ver de forma agradable y ordenada las asesorías programadas que tengo
+
+**Preguntas sobre Landing Page**
+1. ¿Encuentras útil la información presentada en la landing page?
+2. ¿La información en la sección "Sobre Nosotros" te ayuda a confiar en la plataforma?
+3. ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+4. ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+5. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+6. ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+
+
+**Preguntas sobre Web Application**
+1. ¿Qué opinas de la forma de recibir notificaciones de recordatorios de citas próximas?
+2. ¿Cómo te resulta la funcionalidad de ver la lista de clientes en la plataforma?
+3. ¿Qué tan fácil te parece gestionar y organizar tus próximas citas usando la plataforma?
+4. ¿Crees que la información sobre los criadores que te contactan es suficiente?
+5. ¿Cómo evalúas la facilidad de uso para crear publicaciones en la plataforma?
+6. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+7. ¿Te parece bien recibir una reseña y calificación de los criadores sobre tus servicios para que lo vean otros criadores?
+8. ¿Te parece que la organización de la aplicación web se entiende y comprende fácilmente?
+
+
+#### Segmento Criador de Cuyes
+**User Flows:**
+- Inicio de sesión
+  - User Goal: Como usuario quiero acceder a mi cuenta registrada para acceder a las funciones de usuario
+- Registro de usuario
+  - User Goal: Como usuario quiero registrarme para acceder a las funciones de usuario
+- Recuperación de cuenta
+  - User Goal: Como usuario quiero recuperar mi contraseña en caso me olvide para no perder mi cuenta con mi información
+- Vista y gestión de “Mi Granja”
+  - User Goal: Como criador de cuyes quiero gestionar los recursos de mi granja para tener un control sobre los recursos esenciales como alimentos y medicamentos
+  - User Goal: Como criador de cuyes quiero gestionar los gastos relacionados con mi negocio para tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad
+- Vista y gestión de “Mis Animales”
+  - User Goal: Como criador de cuyes quiero poder registrar una jaula en la plataforma para poder gestionar la información de mis cuyes de manera organizada
+  - User Goal: Como criador de cuyes quiero contar con un sistema de registro de animales para almacenar información básica sobre cada animal, incluyendo su número de identificación, nombre, raza, género, peso y fecha de nacimiento
+- Vista de publicaciones
+  - User Goal: Como criador de cuyes quiero poder ver las publicaciones de la comunidad de asesores para obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones
+- Vista de notificaciones
+  - User Goal: Como criador de cuyes quiero recibir notificaciones referentes al estado de mis citas para mantenerme al tanto de mi solicitud
+- Vista de calendario
+  - User Goal: Como usuario quiero visualizar un calendario para ver de forma agradable y ordenada las asesorías programadas que tengo
+
+**Preguntas sobre Landing Page**
+1. ¿Encuentras útil la información presentada en la landing page?
+2. ¿La información en la sección "Sobre Nosotros" te ayuda a confiar en la plataforma?
+3. ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+4. ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+5. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+6. ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+
+
+**Preguntas sobre Web Application**
+1. ¿Qué opinas de la forma de ver las calificaciones y opiniones de otros criadores sobre un asesor?
+2. ¿Te parece que la funcionalidad para registrar gastos, recursos, cuyes y jaulas es fácil de usar?
+3. ¿Consideras que las funcionalidades actuales para gestionar tus gastos y recursos están organizadas de forma adecuada?
+4. ¿Te parece bien cómo se organiza la información sobre las jaulas y cuyes en la plataforma?
+5. ¿Te resulta fácil utilizar la opción de búsqueda de asesores en la plataforma?
+6. ¿Te parece ordenada la forma en la que puedes revisar tus eventos dentro del calendario de la plataforma?
+7. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+8. ¿Te parece que la organización de la aplicación web se entiende y comprende fácilmente?
+
+
+### 5.3.2. Registro de entrevistas.
+
+**Entrevista N 1 - Asesor:** 
+
+**Entrevistador:** Andre Valverde
+
+**Entrevistado:** Rodrigo Guerra
+
+**Link de la entrevista:** [Entrevista-Validación-1](https://youtu.be/qmgQ-3oI0fQ) 
+
+<img src="img/entrevista-validacion1.png" width="100%">
+
+**Resumen:** En la entrevista, el entrevistado expresó que encontraba útil la información presentada en la Landing Page, especialmente la sección "Sobre Nosotros", lo que le ayudó a confiar en la plataforma. Sin embargo, señaló que la información podría ser más clara y concisa. En cuanto a la Web Application, el entrevistado comentó que algunas funcionalidades, como ver calificaciones y opiniones de otros criadores sobre un asesor, eran útiles. Sin embargo, destacó que el diseño carecía de centrado en ciertos aspectos, lo que dificultaba la navegación y comprensión de la plataforma.
+
+-----
+
+**Entrevista N 2 - Asesor:** 
+
+**Entrevistador:** Salvador Salinas
+
+**Entrevistado:** Tamara García
+
+**Link de la entrevista:** [Entrevista-Validación-2](https://youtu.be/Zg8tn_Wtw6U)
+
+<img src="img/entrevista-validacion2.png" width="100%">
+
+**Resumen:** En esta entrevista con Tamara, se le enseñó lo desarrollado en la Landing Page y Web Application. Ella menciona que le gustó mucho la organización, imágenes y colores utilizados, ya que se relacionan muy bien con la temática de la aplicación. Además, cree que es muy fácil de utilizar, así como para ver la lista de los clientes, notificaciones y establecer horarios para ofrecer asesorías.
+
+-----
+
+**Entrevista N 3 - Asesor:**
+
+**Entrevistador:** Sebastian Paredes
+
+**Entrevistado:** Belen Ramos
+
+**Link de la entrevista:** [Entrevista-Validación-3](https://youtu.be/sDhv8AgRsm8)
+
+<img src="img/entrevista-validacion3.png" width="100%">
+
+**Resumen:** En una entrevista con Belén, se le mostró el diseño de la Landing Page y la Aplicación Web. Ella comentó que le gustaron mucho las imágenes, ya que le dan un toque especial tanto a la Landing Page como a la Aplicación Web, y los colores empleados también le parecieron adecuados. Sin embargo, hizo algunas observaciones sobre la sección de la Problemática de la landing page, mencionando que el efecto de las tarjetas es un poco confuso para el cliente, ya que no permite ver la información de forma inmediata. A pesar de esto, destacó que la aplicación es muy fácil de usar, especialmente para ver la lista de clientes, recibir notificaciones y crear publicaciones.
+
+-----
+
+**Entrevista N 4 - Asesor:** 
+
+**Entrevistador:** Piero Delgado
+
+**Entrevistado:** Adrian Espinoza
+
+**Link de la entrevista:** [Entrevista-Validación-4](https://youtu.be/078AzxKUxCQ)
+
+<img src="img/entrevista-validacion4.png" width="100%" alt="Imagen de Entrevista de Validacion 4">
+
+**Resumen:**
+
+Adrián Espinoza encuentra la landing page como una buena forma de concientizar sobre el problema de la crianza de cuyes y la información proporcionada si le permite conocer más sobre la aplicación y menciona que le da confianza conocer quienes son las personas detrás del aplicativo. Asimismo, menciona que estéticamente la landing es atractiva y los elementos están bien distribuidos. Por otro lado, para la aplicación web que es intuitiva y fácil de manejar. Además, menciona que las funcionalidades cubren sus necesidades y son útiles.
+
+**Entrevista N 5 - Asesor:**
+
+**Entrevistador:** Nadia Lucas
+
+**Entrevistado:** Romina Arana
+
+**Link de la entrevista:** [Entrevista-Validación-5](https://youtu.be/6a6fM4r2ycQ)
+
+<img src="img/entrevista-validacion5.png" width="100%">
+
+**Resumen:** Romina Arana encuentra la landing page útil, bien organizada, visualmente atractiva y clara en la presentación del producto. La sección "Sobre Nosotros" le genera confianza al mostrar personas reales. La aplicación web le resulta fácil de usar, especialmente para gestionar citas y ver la lista de clientes, aunque sugiere mejorar la diferenciación de estados de citas con colores y añadir un filtro por estado. También recomienda incluir fotos de los criadores para una mejor identificación y mejorar el proceso de registro. Considera esenciales las reseñas y calificaciones para generar confianza y mejorar el servicio.
+
+-----
+
+**Entrevista N 6 - Criador:**
+
+**Entrevistador:** Sebastian Paredes
+
+**Entrevistado:** Alessandra Chaupis
+
+**Link de la entrevista:** [Entrevista-Validación-6](https://youtu.be/qn3Zc1dMXnc)
+
+<img src="img/entrevista-validacion6.png" width="100%">
+
+**Resumen:** Durante la entrevista con Alessandra, se presentaron y explicaron tanto la página de inicio como la aplicación web frontend. Ella expresó una opinión favorable sobre el contenido y el diseño de la página de inicio, elogiando el uso efectivo de las imágenes de fondo para transmitir la temática de la start-up. Asimismo, señaló que las funcionalidades de la aplicación web se adaptan a sus necesidades, destacando su facilidad de uso y contribución a una experiencia de usuario positiva.
+
+-----
+
+**Entrevista N 7 - Criador:**
+
+**Entrevistador:** Nadia Lucas
+
+**Entrevistado:** Nayeli Chavez
+
+**Link de la entrevista:** [Entrevista-Validación-7](https://youtu.be/rrRkUssM-VI)
+
+<img src="img/entrevista-validacion7.png" width="100%">
+
+**Resumen:** Durante la entrevista, Nayeli Chavez expresó una impresión general positiva sobre la landing page, encontrando información útil, clara y concisa. Apreció especialmente la sección "Sobre Nosotros" por generar confianza en la plataforma. En cuanto a la web application, elogió la facilidad de uso de las funcionalidades, cómo registrar gastos y recursos, y la organización de la información sobre jaulas y cuyes. Sugirió mejoras como mostrar la cantidad de calificaciones de los asesores y agregar filtros de búsqueda. En resumen, destacó la estética atractiva y la facilidad de comprensión de la plataforma, mostrando interés en registrarse cuando esté disponible.
+
+-----
+
+**Entrevista N 8 - Criador:** 
+
+**Entrevistador:** Piero Delgado
+
+**Entrevistado:** Daniel Ruiz
+
+**Link de la entrevista:** [Entrevista-Validación-8](https://youtu.be/EkYptMkrss4)
+
+<img src="img/entrevista-validacion8.png" width="100%">
+
+**Resumen:** En esta entrevista realizada a Daniel Ruiz se le mostró tanto la Landing page como el Frontend Web Application. En primer lugar, él comenta como le impresionó positivamente tanto en el contenido como en diseño de la Landing page resaltando el buen uso de imágenes de fondo y diseño interactivo. Por otro lado, él menciona que las funcionalidades de la aplicación web se adecúan a sus necesidades, son intuitivas y fáciles de usar.
+
+-----
+
+**Entrevista N 9 - Criador:** 
+
+**Entrevistador:** Salvador Salinas
+
+**Entrevistado:** Anderson Morales
+
+**Link de la entrevista:** [Entrevista-Validación-9](https://youtu.be/1SiASSaTnIQ)
+
+<img src="img/entrevista-validacion9.png" width="100%">
+
+**Resumen:** En esta segunda entrevista con Anderson, se le mostró la Landing Page y Web Application. Él nos comenta que le llamó mucho la atención los elementos visuales y organización usada, así como los colores, imágenes y estilos, y que la aplicación se muestra estructurada e intuitiva. Además, menciona que le gustó mucho la vista del calendario, ya que es una vista amigable y ordenada para poder ver las citas programadas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+**Site o App a Evaluar:**
+
+AgroConnect
+
+**Tareas a evaluar:**
+
+El alcance de esta evaluación incluye la revisión de usabilidad de las siguientes tareas:
+1. Creación de usuario
+2. Inicio de sesión
+3. Gestión de recursos y gastos
+4. Gestión de jaulas y animales
+5. Visualización de catálogo de asesores
+6. Búsqueda de asesores en el catálogo
+7. Reserva de citas
+8. Visualización y creación de reseñas
+9. Visualización de notificaciones
+10. Visualización de calendario
+11. Gestión de publicaciones
+12. Visualización de información de clientes
+13. Gestión de horarios disponibles
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Landing Page
+2. Recuperación de cuenta
+
+**ESCALA DE SEVERIDAD:**
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+|***Nivel***|***Descripción***|
+| :-: | :-: |
+|*1*|*Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.*|
+|*2*|*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase*|
+|*3*|*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
+|*4*|*Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.*|
+
+**TABLA DE RESUMEN:**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/principio violada(o)**|
+| :- | :- | :- | :- |
+|1|Poca legibilidad del título de horarios disponibles en teléfonos móviles|2|Inclusive Design: Proporciona experiencias comparables|
+|2|Sobreposición del calendario a la barra de navegación|3|Usability: Usabilidad y control del usuario|
+|3|Desbordamiento de la información en la visualización de reseñas |2|Inclusive Design: Proporciona experiencias comparables|
+|4|Fallo en visualización de horarios de asesores para reserva|3|Inclusive Design: Proporciona experiencias comparables|
+|5|Botones de formularios de registro con diferentes diseños|2|Usability: Consistencia y estándares|
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** Poca legibilidad del título de horarios disponibles en teléfonos móviles
+
+**Severidad:** 3
+
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+
+Problema: Si el asesor está entrando desde un dispositivo móvil y va a la sección de Horarios, se le puede dificultar la lectura del título al estar pegado.
+
+**Imagen:**
+
+<img src="img/heuristicas1.png" width="60%">
+
+**Recomendación:** Aumentar el interlineado del título.
+
+-----
+
+**PROBLEMA #2:** Sobreposición del calendario a la barra de navegación
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Usabilidad y control del usuario
+
+**Problema:** Si se va a la sección de calendario en una pantalla de tamaño mediano o pequeño, el calendario se sobrepone a la barra lateral de navegación.
+
+**Imagen:**
+
+<img src="img/heuristicas2.png" width="70%">
+
+-----
+
+**PROBLEMA #3:** Desbordamiento de la información en la visualización de reseñas
+
+**Severidad:** 2
+
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+
+**Problema:** Si un criador ingresa a la aplicación en un celular y va a revisar la información de un asesor, la información de las reseñas como el mensaje y las estrellas se desborda del recuadro al que está asignado.
+
+**Imagen:**
+
+<img src="img/heuristicas3.png" width="60%">
+
+**Recomendación:** Aumentar el ancho de la caja de reseñas para que incluya todo el texto en pantallas pequeñas.
+
+-----
+
+**PROBLEMA #4:** Fallo en visualización de horarios de asesores para reserva
+
+**Severidad:** 3
+
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+
+**Problema:** Si un criador ingresa a la aplicación en un celular y va a reservar una cita, la vista de la reserva no se muestra en su totalidad.
+
+**Imagen:**
+
+<img src="img/heuristicas4.png" width="60%">
+
+**Recomendación:** Adaptar la disposición de los elementos en la vista de reserva de cita para que se visualice correctamente en la pantalla de un teléfono móvil.
+
+-----
+
+**PROBLEMA #5:** Botones de formularios de registro con diferentes diseños
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Consistencia y estándares
+
+**Problema:** Los botones al registrar una nueva jaula, animal, gasto o recurso son diferentes, lo que puede dificultar al criador acostumbrarse a la interfaz.
+
+**Imagen:**
+
+<img src="img/heuristicas5.png" width="100%">
+
+<img src="img/heuristicas6.png" width="100%">
+
+**Recomendación:** Actualizar los botones de los registros para que todos tengan el mismo estilo y tener consistencia entre distintas vistas.
+
+
+## 5.4. Video About-The-Product
+
+En el vídeo se proporciona información sobre el producto AgroConnect. Se mencionan las diferentes funcionalidades de la aplicación como son la visualización del catálogo de asesores, la creación de publicaciones y la gestión de la granja. Asimismo, se incluye el testimonio positivo de una asesora especializada.
+
+Screenshot del video:
+
+<img src="img/video-about-the-product.png" width="100%">
+
+**Enlace al vídeo de YouTube:** [Video About-The-Product Open Source UPC YouTube](https://youtu.be/hJ9lTM35HBM)
+
+**Enlace al vídeo de Microsoft Stream:** [Video About-The-Product Open Source UPC.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/Ef1OVsCD7gtCiQh1hwAzj-QBbFwXUCL1lZbIRNXqGX-XSg?e=BZ03Na)
+
+**Duración del vídeo:** 1:27
+
 
 # Conclusiones
-## Conclusiones y recomendaciones
-* La estructura realizada del proceso Lean UX ha permitido a nuestra startup AgroTech identificar los segmentos objetivos, competidores y necesidades del mercado, entre otros aspectos clave. Desde la formulación inicial de los problem statements hasta la elaboración de hypothesis statements y la creación del Lean UX canvas, cada paso ha contribuido a mejorar la eficiencia y la agilidad en el desarrollo de la aplicación AgroConnect.
 
+## Conclusiones y recomendaciones
+
+* La estructura realizada del proceso Lean UX ha permitido a nuestra startup AgroTech identificar los segmentos objetivos, competidores y necesidades del mercado, entre otros aspectos clave. Desde la formulación inicial de los problem statements hasta la elaboración de hypothesis statements y la creación del Lean UX canvas, cada paso ha contribuido a mejorar la eficiencia y la agilidad en el desarrollo de la aplicación AgroConnect.
 
 * AgroTech ha realizado un análisis exhaustivo de sus competidores, así como entrevistas y actividades de needfinding para comprender las necesidades de sus usuarios. Lo anteriormente desarrollado se realizó en el capítulo II, dónde se realizó dicha investigación y análisis que aportaron con la creación de una solución como lo es AgroConnect, para que satisfaga las necesidades reales de sus usuarios.
 
-
 * Plantear e identificar los requisitos del proyecto al inicial fue crucial, ya que establecieron las bases sólidas sobre las cuales se construirá la aplicación AgroConnect de AgroTech, estas se lograron identificar gracias a los empathy mappings, impact mappings y user personas ayudaron a empatizar y estar en el lugar de nuestro públic objetivo, As-is y To-Be Scenario Mappings que permiten visualizar el proceso en el que realiza una tarea sin y con AgroConnect respectivamente. Además, las user stories proporcionaron una descripción detallada de las interacciones que los usuarios tendrán con la aplicación, lo que es fundamental para brindar una experiencia de usuario satisfactoria. Finalmente, el product backlog estableció la lista priorizada de todas las funcionalidades y características que se implementarán en la aplicación y reducir los esfuerzos en el desarrollo de la aplicación.
 
+* Al desarrollar el backend con Spring Boot y alinear los bounded contexts utilizando la arquitectura DDD, conseguimos establecer una estructura sólida y modularizada. La exhaustiva documentación en Swagger nos sirvió como una guía clara para comprender y trabajar con cada componente, lo que no solo optimiza la organización y mantenimiento del código, sino que también promueve la colaboración entre equipos y facilita la escalabilidad del proyecto a medida que avanza. Por otro lado, las entrevistas de validación del producto brindaron una visión completa de cómo perciben y qué necesitan los usuarios. Aunque se reconocieron aspectos positivos como la utilidad de la Landing Page y la facilidad de uso de la Web Application, también se identificaron áreas de mejora en términos de claridad de la información, diseño y navegación. Estos insights proporcionan una base sólida para implementar ajustes significativos y perfeccionar la experiencia del usuario en futuras iteraciones del producto, garantizando así una mayor satisfacción y usabilidad.
+
+## Video About-The-Team
+
+En el video About-The-Team cada miembro de la Startup ha mencionado cuales han sido sus roles en el desarrollo de este trabajo, que objetivos han alcanzado y como han desarrollado el Student Outcome a lo largo del proyecto.
+
+Screenshot del video: 
+
+![Imagen de Video About-The-Team](img/VideoAbout-The-Team.png)
+
+**Enlace al vídeo de YouTube:** [Video About-the-Team Youtube](https://youtu.be/Fbaa3aUjwbM)
+
+**Enlace al vídeo de Microsoft Stream:** [Video About-The-Team Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/ESc3Cl-aC29Jjx7C62HlACAB2WcFdE5CjFFBwOL6-Y2jaQ)
+
+**Duración del vídeo:** 8:01
 
 # Bibliografía
 
@@ -3173,7 +4365,6 @@ Aguilar, G., Bustamante, J., Bazán, V. y Falcón, N. (2011). Diagnóstico situa
 Guerra, C. (2009). _Manual técnico de crianza de cuyes_. Cedepas. https://www.cedepas.org.pe/sites/default/files/manual_tecnico_de_crianza_de_cuyes.pdf
 
 Instituto Nacional de Innovación Agraria. (23 de enero de 2023). Razas de cuyes del INIA mejoran un 20% la productividad de la crianza familiar y consumo de carne. _El Peruano_. https://www.elperuano.pe/noticia/225260-razas-de-cuyes-del-inia-mejoran-un-20-la-productividad-de-la-crianza-familiar-y-consumo-de-carne
-
 
 Luque, R. (2023). _Meta Tags | Las 7 más importantes en SEO_. SEOcrawl. https://seocrawl.com/meta-tags/
 
@@ -3208,6 +4399,7 @@ Exposición del TB1: [upc-pre-202401-si729-wx52-agrotech-expo-tb1.mp4](https://u
 
 Exposición del TP: [upc-pre-202401-si729-wx52-agrotech-expo-tp1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/EcuWnAtFFa5Aseqn8_glQZwBhxi1acBsSWeR7ko-zFCT3g?e=yVgPhv)
 
+Exposición del TB2: [upc-pre-202401-si729-wx52-agrotech-expo-tb2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/ES9uwdm_9EVLuGhG0Eq8vr4BtDQAMua3VUAgJa6rG9_aDg?e=lp8w4q)
 
 ## Anexo N°5: Prototipo de la aplicación web
 Enlace del prototipo en figma: [https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548](https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548)
