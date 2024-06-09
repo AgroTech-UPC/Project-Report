@@ -3449,22 +3449,6 @@ Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
-|AgroTech-UPC/Acceptance-Tests|main|57f2c58 |<p>feat: added feature file for US29</p><p></p>|05/04/2024|
-|AgroTech-UPC/Acceptance-Tests|main|1b94680 |<p>feat: added feature file for US28</p><p></p>|05/04/2024|
-|AgroTech-UPC/Acceptance-Tests|main|f652d64 |<p>Update US28.feature</p><p></p>|05/04/2024|
-|AgroTech-UPC/Acceptance-Tests|main|9027b2b |Fix: fix typing error|05/04/2024|
-|AgroTech-UPC/Acceptance-Tests|main|329c774 |feat: added acceptance test for US31|05/04/2024|
-|AgroTech-UPC/Acceptance-Tests|main|24c738a |<p>feat: added acceptance test for US30</p><p></p>|06/04/2024|
-|AgroTech-UPC/Acceptance-Tests|main|802f736 |<p>feat: added acceptance test for US26</p><p></p>|07/04/2024|
-|AgroTech-UPC/Acceptance-Tests|main|29d85ed |<p>feat: added acceptance test for US27</p><p></p>|07/04/2024|
-|AgroTech-UPC/Acceptance-Tests|main|96a50bc |<p>refactor: updated file and user story number</p><p></p>|01/05/2024|
-|AgroTech-UPC/Acceptance-Tests|main|964877f |<p>feat: added acceptance test for US14</p><p></p>|01/05/2024|
-|AgroTech-UPC/Acceptance-Tests|main|f0f62bd |<p>fix: fixed landing page user stories</p><p></p>|02/05/2024|
-|AgroTech-UPC/Acceptance-Tests|main|c8e984d |<p>feat: added acceptance test for US06</p><p></p>|02/05/2024|
-|AgroTech-UPC/Acceptance-Tests|main|950fb0b |<p>feat: added acceptance test for US08, US09</p><p></p>|02/05/2024|
-|AgroTech-UPC/Acceptance-Tests|main|718cd68 |feat: added acceptance test for US11, US12, US15|02/05/2024|
-|AgroTech-UPC/Acceptance-Tests|main|209c8d5 |<p>feat: Updated features 06 and 15, and added features 07 and 16.</p><p></p>|03/05/2024|
-|AgroTech-UPC/Acceptance-Tests|main|a16a719 |<p>feat: Added User Stories: 01, 02, 03, 04, 05</p><p></p>|03/05/2024|
 |AgroTech-UPC/Acceptance-Tests|main|539dfb3 |<p>fix: update user stories titles</p><p></p>|07/06/2024|
 |AgroTech-UPC/Acceptance-Tests|main|c2dd4d7 |<p>feat: added US20 and US32 acceptance tests</p><p></p>|07/06/2024|
 |AgroTech-UPC/Acceptance-Tests|main|e5f996d |<p>feat: added US34 acceptance test (resource or expense management)</p><p></p>|07/06/2024|
