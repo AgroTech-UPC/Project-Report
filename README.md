@@ -130,6 +130,12 @@ Commits en el project report de la TP1:
 <img src="img/commits-tp1-1.png">
 <img src="img/commits-tp1-2.png">
 
+Commits en el project report de la TB2:
+
+<img src="img/commits-tb2-1.png">
+<img src="img/commits-tb2-2.png">
+<img src="img/commits-tb2-3.png">
+
 # **Tabla de Contenido**
 
 - ## [Registro de Versiones](#registro-de-versiones)
