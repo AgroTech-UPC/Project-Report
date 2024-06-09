@@ -3933,6 +3933,26 @@ Finalmente, comprobamos el correcto funcionamiento del Web Service desplegado al
 
 Enlace de Backend desplegado: https://web-services-18bk.onrender.com/swagger-ui/index.html
 
+Por otro lado, también se desplegó el Frontend Web Applications con la conexión al Web Service y las mejoras realizadas en este Sprint. Para ello, primero se volvió a ejecutar el comando npm run build.
+
+![Frontend Deployment - Sprint 3](img/sprint3-deployment1.png)
+
+Se actualizaron los paquetes relacionados con firebase utilizando npm install firebase-tools.
+
+![Frontend Deployment - Sprint 3](img/sprint3-deployment2.png)
+
+Se comprobó que se esté logueado en firebase para el despliegue y se empezó con el despliegue utilizando firebase init hosting.
+
+![Frontend Deployment - Sprint 3](img/sprint3-deployment3.png)
+
+Luego, se modificó el archivo firebase.json para que se desplieguen los archivos correctos.
+
+![Frontend Deployment - Sprint 3](img/sprint3-deployment4.png)
+
+Para terminar con el despliegue luego de tener el proyecto con Firebase se utiliza el comando firebase deploy --only hosting
+
+![Frontend Deployment - Sprint 3](img/sprint3-deployment5.png)
+
 Ahora, la integración es visible en nuestra aplicación web ya desplegada.
 
 <img src="img/aplicacion-web-desplegada.png" width="100%">
@@ -4379,6 +4399,7 @@ Exposición del TB1: [upc-pre-202401-si729-wx52-agrotech-expo-tb1.mp4](https://u
 
 Exposición del TP: [upc-pre-202401-si729-wx52-agrotech-expo-tp1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/EcuWnAtFFa5Aseqn8_glQZwBhxi1acBsSWeR7ko-zFCT3g?e=yVgPhv)
 
+Exposición del TB2: [upc-pre-202401-si729-wx52-agrotech-expo-tb2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/ES9uwdm_9EVLuGhG0Eq8vr4BtDQAMua3VUAgJa6rG9_aDg?e=lp8w4q)
 
 ## Anexo N°5: Prototipo de la aplicación web
 Enlace del prototipo en figma: [https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548](https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548)
