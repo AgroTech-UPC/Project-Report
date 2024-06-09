@@ -3791,32 +3791,32 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/animals
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/available-dates
 
-![AvailableDate Endpoints](img/availableDates-endpoints-swagger.PNG)
+![AvailableDate Endpoints](img/availableDates-endpoints-swagger.png)
 
 |Método|GET|
 |--|--|
 |Parámetros|{availableDateId}: Id del AvailableDate|
-|Resultado|![Service Documentation Get By availableDateId](img/get-by-id-availableDate.PNG)|
+|Resultado|![Service Documentation Get By availableDateId](img/get-by-id-availableDate.png)|
 
 |Método|PUT|
 |--|--|
 |Parámetros|{availableDateId}: Id del AvailableDate|
-|Resultado|![Service Documentation Put AvailableDate](img/put-availableDate.PNG)|
+|Resultado|![Service Documentation Put AvailableDate](img/put-availableDate.png)|
 
 |Método|DELETE|
 |--|--|
 |Parámetros|{availableDateId}: Id del AvailableDate|
-|Resultado|![Service Documentation Delete AvailableDate](img/delete-availableDate.PNG)|
+|Resultado|![Service Documentation Delete AvailableDate](img/delete-availableDate.png)|
 
 |Método|GET|
 |--|--|
 |Parámetros|Ninguno|
-|Resultado|![Service Documentation Get All AvailableDates](img/get-all-availableDates.PNG)|
+|Resultado|![Service Documentation Get All AvailableDates](img/get-all-availableDates.png)|
 
 |Método|POST|
 |--|--|
 |Parámetros|Body: advisorId, date(YYYY-MM-DD), startime(hour, minute, second), endtime(hour, minute,second), status|
-|Resultado|![Service Documentation Post AvailableDate](img/post-availableDate.PNG)|
+|Resultado|![Service Documentation Post AvailableDate](img/post-availableDate.png)|
 
 
 
@@ -3824,22 +3824,22 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/available-dates
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/reviews
 
-![Review Endpoints](img/review-endpoints-swagger.PNG)
+![Review Endpoints](img/review-endpoints-swagger.png)
 
 |Método|GET|
 |--|--|
 |Parámetros|Ninguno|
-|Resultado|![Service Documentation Get All Reviews](img/get-all-reviews.PNG)|
+|Resultado|![Service Documentation Get All Reviews](img/get-all-reviews.png)|
 
 |Método|POST|
 |--|--|
 |Parámetros|Body: appointmentID, comment, rating|
-|Resultado|![Service Documentation Post Review](img/post-review.PNG)|
+|Resultado|![Service Documentation Post Review](img/post-review.png)|
 
 |Método|GET|
 |--|--|
 |Parámetros|{reviewId}: Id del review|
-|Resultado|![Service Documentation Get By reviewId](img/get-by-id-review.PNG)|
+|Resultado|![Service Documentation Get By reviewId](img/get-by-id-review.png)|
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Se decidió desplegar el Web Service en Render. Para ello, se tuvo que hacer un archivo target donde están los archivos de salida de compilación y un archivo Docker que contiene la información para que se ejecute el proyecto en Java 22.
