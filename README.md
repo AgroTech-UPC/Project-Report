@@ -3933,7 +3933,31 @@ Finalmente, comprobamos el correcto funcionamiento del Web Service desplegado al
 
 Enlace de Backend desplegado: https://web-services-18bk.onrender.com/swagger-ui/index.html
 
+Ahora, la integración es visible en nuestra aplicación web ya desplegada.
+
+<img src="img/aplicacion-web-desplegada.png" width="100%">
+Enlace de Frontend desplegado: https://agroconnect-demo.web.app/login 
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Para la elaboración del backend, donde se realizaron 5 historias de usuario pertenecientes a la épica 8, distribuimos las tareas entre los miembros del equipo. Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asignadas. Posteriormente, realizamos los "merge" con la rama "develop", hicimos el "release" y finalmente integramos los cambios en la rama "main". Para asegurar la calidad y funcionalidad del código, realizamos reuniones virtuales a través de Google Meet. Durante estas sesiones, revisamos juntos los avances y los "merge" realizados, verificando que todo funcionara de acuerdo a lo esperado.
+
+<img src="img/network-graph-sprint3-back2.PNG" width="100%">
+
+<img src="img/branches-sprint3-back.PNG" width="100%">
+
+<img src="img/collab-sprint-3-back.PNG" width="100%">
+
+Para la elaboración del frontend, realizamos mejoras significativas. Implementamos un nuevo formato para las ramas, siguiendo la convención "feature/US{número de historia de usuario}", y también integramos la API de AgroConnect. Estas mejoras facilitaron la organización y la colaboración en el proyecto, asegurando una mayor coherencia en el desarrollo del frontend.
+
+<img src="img/network-graph-sprint3-front1.PNG" width="100%">
+
+<img src="img/network-graph-sprint3-front.PNG" width="100%">
+
+<img src="img/branches-sprint3-front.PNG" width="100%">
+
+<img src="img/collab-sprint-3-front.PNG" width="100%">
+
 
 ## 5.3. Validation Interviews.
 
