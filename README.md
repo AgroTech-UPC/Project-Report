@@ -3790,6 +3790,32 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/available-dates
 
 ![AvailableDate Endpoints](img/availableDates-endpoints-swagger.PNG)
 
+|Método|GET|
+|--|--|
+|Parámetros|{availableDateId}: Id del AvailableDate|
+|Resultado|![Service Documentation Get By availableDateId](img/get-by-id-availableDate.PNG)|
+
+|Método|PUT|
+|--|--|
+|Parámetros|{availableDateId}: Id del AvailableDate|
+|Resultado|![Service Documentation Put AvailableDate](img/put-availableDate.PNG)|
+
+|Método|DELETE|
+|--|--|
+|Parámetros|{availableDateId}: Id del AvailableDate|
+|Resultado|![Service Documentation Delete AvailableDate](img/delete-availableDate.PNG)|
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get All AvailableDates](img/get-all-availableDates.PNG)|
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: advisorId, date(YYYY-MM-DD), startime(hour, minute, second), endtime(hour, minute,second), status|
+|Resultado|![Service Documentation Post AvailableDate](img/post-availableDate.PNG)|
+
+
 
 **Reviews Endpoints**
 
