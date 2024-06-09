@@ -3326,6 +3326,47 @@ Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 |AgroTech-UPC/Frontend-Web-Applications|feature/us07|21f4835|style: the colors of the notification card were changed to make it more attractive|29/05/2024|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us07|7413440|feat: added tab browser icon|29/05/2024|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us07|7413440|style: fix goBack button z-index|30/05/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|60aa68c|style: fix goBack button z-index|03/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|27d4d23|<p>style: improved design of heuristics evaluation problems</p><p></p>|04/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|43cdcc3|<p>style: improved design of heuristics evaluation problems</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|feec7eb|<p>feat: updated baseURL to deployed web service and updated base service</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|82c1938|<p>feat: changed user bc models to cammelCase</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us20|ee876e8|<p>fix: renamed endpoint for available dates</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|feec7eb|<p>Merge pull request[ #56](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/56) from AgroTech-UPC/feature/us20</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us06|b3cc86a|<p>Merge pull request[ #56](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/56) from AgroTech-UPC/feature/us20</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us06|1283a4c|<p>feat: updated notifications to use new web service</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|1283a4c|<p>Merge pull request[ #57](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/57) from AgroTech-UPC/feature/us06</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us09|640c012 |<p>Merge pull request[ #57](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/57) from AgroTech-UPC/feature/us06</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us09|640c012|<p>feat: update publication model and method to obtain publications</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|27d4d23|<p>Merge pull request[ #58](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/58) from AgroTech-UPC/feature/us09</p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|48e70b8|<p><h2>feat: changed response type from delete method to text</h2></p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|27f0474|<p>feat: us14 functionality added for list and delete of available date …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|760593e|<p>feat: Register of available dates to backend added</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|78f74ba|<p>Merge pull request[ #59](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/59) from AgroTech-UPC/feature/us14</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|78f74ba|<p>Merge pull request[ #59](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/59) from AgroTech-UPC/feature/us14</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|bd17bfd|<p>Merge branch 'develop' of[ https://github.com/AgroTech-UPC/Frontend-We…](https://github.com/AgroTech-UPC/Frontend-Web-Applications)</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|78f74ba|<p>feat: updated animal and cage functionality to work with deployed bac…</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|bd17bfd|<p>Merge branch 'develop' into feature/us11</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|ddc1217|<p>Merge pull request[ #60](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/60) from AgroTech-UPC/feature/us11</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|0974e77|<p>feat: the expenses API was integrated with my <<My farm>> section</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|73408da|<p>Merge pull request[ #62](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/62) from AgroTech-UPC/develop</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|fa21234|<p>feat: the expenses API was integrated with my <<My farm>> section</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us15|6723462|<p>Merge branch 'develop' into feature/us15</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us05|03be269|<p>feat: update appointments functionality to work with backend</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|9b0d031|<p>Merge pull request[ #63](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/63) from AgroTech-UPC/feature/us15</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|7a0c9d5|<p>Merge pull request[ #64](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/64) from AgroTech-UPC/feature/us05</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|dc0b352|<p>fix: CamelCase in AvailableDates (This prevented checking that the ti…</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|4e933e3|<p>feat: Update Availability Schedule (Added restrictions with the date)</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|a9f68f2|<p>fix: A resource or expense was marked as registered without the date,…</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|e46d16a|<p>fix: Fixed status (It was not placed as a boolean, that is, true and …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|1d40ede|<p>fix: Fixed date format in create new appointment</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|2d4f4f3|<p>fix: Fixed put AvailableDate</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|854773c|<p>fix: Fixed enum Terminado -> TERMINADO</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|d859bf0|<p>feat: A restriction was added and it is that if an appointment has a …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|aae903b|<p>fix: In My Advisors only a maximum of 3 appointments with an advisor …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|release|5a61ca8|<p>fix: In My Advisors only a maximum of 3 appointments with an advisor …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|release|b3d43f4 |<p>feat: added deployment configurations</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|main|67de36a|Merge pull request[ #65](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/65) from AgroTech-UPC/release|08/06/2024|
 |AgroTech-UPC/Web-Services|main|3dba508|chore: initial commit|30/05/2024|
 |AgroTech-UPC/Web-Services|main|5658b6a|docs: Added readme documentation|30/05/2024|
 |AgroTech-UPC/Web-Services|main|5c4368d|chore: Initial setup completed|30/05/2024|
@@ -3377,9 +3418,21 @@ Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 |AgroTech-UPC/Web-Services|feature/us34|fa4f854|feat: added ResourcesByBreederId query|06/06/2024|
 |AgroTech-UPC/Web-Services|feature/us34|f7b70fc|feat: added ExpensesByBreederId query|06/06/2024|
 |AgroTech-UPC/Web-Services|feature/us32|3f8882d|feat: moved endpoint to get animals from cageid to cage|06/06/2024|
-|AgroTech-UPC/Web-Services|feature/us32|c1b2d3e|<p>feat: added endpoint to get appointments by breeder/advisor id</p><p></p><p></p>|06/06/2024|
+|AgroTech-UPC/Web-Services|feature/us32|c1b2d3e|<p>feat: added endpoint to get appointments by breeder/advisor id</p><p></p>|06/06/2024|
 |AgroTech-UPC/Web-Services|feature/us32|8b4fefa|feat: added endpoint to get publications by advisor id|06/06/2024|
 |AgroTech-UPC/Web-Services|develop|6df74f3|feat: added remote database connection|06/06/2024|
+|AgroTech-UPC/Web-Services|release|4cf5a35 |<p>feat: dockerfile for deployment</p><p></p>|06/06/2024|
+|AgroTech-UPC/Web-Services|release|bd51e26 |<p>feat: added target folder for deployment</p><p></p>|06/06/2024|
+|AgroTech-UPC/Web-Services|release|1277395 |<p>feat: added CORS policies to controllers</p><p></p>|07/06/2024|
+|AgroTech-UPC/Web-Services|release|bceb9cb |<p>docs: Updated readme</p><p></p>|07/06/2024|
+|AgroTech-UPC/Web-Services|release|85e5546 |<p>feat: Added endpoint Put on AvailableDate</p><p></p>|08/06/2024|
+|AgroTech-UPC/Web-Services|release|2d2d52c |<p>feat: updated target for deployment</p><p></p>|08/06/2024|
+|AgroTech-UPC/Web-Services|release|bf1dbd5 |<p>Merge branch 'release' of[ https://github.com/AgroTech-UPC/Web-Services](https://github.com/AgroTech-UPC/Web-Services) …</p><p></p>|08/06/2024|
+|AgroTech-UPC/Web-Services|release|e2edd5a |<p>feat: updated target for deployment</p><p></p>|08/06/2024|
+|AgroTech-UPC/Web-Services|main|5c4368d|<p>release v1.0.0</p><p></p>|08/06/2024|
+
+
+
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
