@@ -3791,7 +3791,7 @@ Endpoint: https://web-services-18bk.onrender.com/api/v1/animals
 
 Endpoint: https://web-services-18bk.onrender.com/api/v1/available-dates
 
-![AvailableDate Endpoints](img/availableDates-endpoints-swagger.png)
+![AvailableDate Endpoints](img/availabledates-endpoints-swagger.png)
 
 |Método|GET|
 |--|--|
