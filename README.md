@@ -89,6 +89,7 @@ Junio 2024
         <li>Avance del punto 5.2.2. Sprint 2.</li>
       </td>
   </tr>
+  <tr>
     <td><strong>TB2</strong></td>
       <td>Domingo 9 de Junio</td>
       <td>
@@ -108,6 +109,25 @@ Junio 2024
         <li>Desarrollo de evaluación por heurísticas</li>
         <li>Avance de Conclusiones y Anexos</li>
         <li>Creación del Video About-The-Team</li>
+      </td>
+  </tr>
+  <tr>
+    <td><strong>TF</strong></td>
+      <td>Martes 25 de Junio</td>
+      <td>
+        <ul>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Lucas Coronel, Nadia Alessandra</li>
+          <li>Paredes Puente, Sebastián Roberto</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+          <li>Valverde Mozo, Andre Gabriel</li>
+        </ul>
+      </td>
+      <td>
+        <li>Correcciones levantadas.</li>
+        <li>Desarrollo del Sprint 4</li>
+        <li>Mejora del Video About-The-Product</li>
+        <li>Finalización de Conclusiones y Anexos</li>
       </td>
   </tr>
   </tbody>
@@ -3990,7 +4010,28 @@ Para la elaboración del frontend, realizamos mejoras significativas. Implementa
 
 #### 5.2.4.1. Sprint Planning 4.
 
+El cuarto sprint se planeó a través de una reunión virtual en Google Meet. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+|**Sprint #**|Sprint 4|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-06-10|
+|Time|09: 00 PM|
+|Location|Virtual (Google Meet)|
+|Prepared by|Delgado Corrales, Piero Gonzalo|
+|Attendees (to planning meeting)|<p>Delgado Corrales, Piero Gonzalo</p><p>Lucas Coronel, Nadia Alessandra</p><p>Paredes Puente, Sebastián Roberto</p><p>Salinas Torres, Salvador Antonio</p><p>Valverde Mozo, Andre Gabriel</p>|
+|Sprint 3 Review Summary|En este tercer sprint, logramos realizar el deployment del frontend y backend, manejando adecuadamente la conexión entre ambas.|
+|Sprint 3 Retrospective Summary|En retrospectiva, se debe implementar los endpoints faltantes al backend, así como implementar la autenticación (IAM) para brindar mayor seguridad, entre otras cosas.|
+|**Sprint Goal & User Stories**||
+|Sprint 4 Goal|Finalizar el desarrollo del Backend.|
+|Sprint 4 Velocity|20|
+|Sum of Story Points|20|
+
 #### 5.2.4.2. Sprint Backlog 4.
+
+El objetivo de este cuarto sprint es la finalización del Backend de la aplicación web, e igualmente implementar los cambios necesarios en Frontend. Al igual que anteriores sprints, trabajamos las tareas en una tabla en Trello:
+<https://trello.com/b/A2LMtBvk/agrotech-sprint-backlog-4>
+
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
 
