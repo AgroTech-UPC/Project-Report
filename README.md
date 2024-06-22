@@ -4035,6 +4035,61 @@ El objetivo de este cuarto sprint es la finalización del Backend de la aplicaci
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
 
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 4. De este modo, se trabajó mayormente en la parte de Frontend y Backend.
+
+Repositorio Frontend: <https://github.com/AgroTech-UPC/Frontend-Web-Applications> 
+
+Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
+
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Frontend-Web-Applications|feature/us02|d241347 |Merge branch 'develop' into feature/notifications-view|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/notifications-view|d241347 |Deleted branch|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us03|12dcb5d |<p>fix: fixed model for notification</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/notifications-advisor|12dcb5d |<p>Deleted branch</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us04|a9302f7 |<p>feat: clients appointments view for advisor</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/clients|a9302f7 |Deleted branch|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us08|4a987b3 |<p>fix: registers locations fixed</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/register|4a987b3 |<p>Deleted branch</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us12|a447cd1 |<p>feat: added animal card and moved some components to pages</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/publication-view|a447cd1|<p>Deleted branch</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us18|08941eb |<p>Merge branch 'develop' into feature/my-farm-view</p><p></p>|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/my-farm-view|08941eb|Deleted branch|08/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|5a61ca8 |<p>fix: In My Advisors only a maximum of 3 appointments with an advisor …</p><p></p>|13/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|c4c1ff8 |<p>feat: added criador/registro/animal/:id</p><p></p>|13/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|f2aa9a5 |feat: creation of cuy inside a cage|13/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|55a1218 |<p>Merge pull request[ #65](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/65) from AgroTech-UPC/release</p><p></p>|14/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|dcf729b |<p>Merge branch 'develop' into feature/us14</p><p></p>|14/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|5ed05da |fix: method to delete cages with cuyes inside fixed|14/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|55a1218 |Merge pull request[ #65](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/65) from AgroTech-UPC/release|19/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|24358c4 |<p>feat(IAM): new login using token</p><p></p>|<p>19/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|21ad0e2 |<p>feat(IAM): update method to register new users + models</p><p></p>|<p>19/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|2d1b3c9 |<p>feat(IAM): created new AuthenticationApiService</p><p></p>|<p>20/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|506168c|<p>feat: Added button "Terminar Cita" in client-card.component"</p><p></p>|<p>22/06/2024</p><p></p>|
+|AgroTech-UPC/Web-Services|develop|6df74f3|<p>release v1.0.0</p><p></p>|14/06/2024|
+|AgroTech-UPC/Web-Services|feature/us17|571b5b2 |<p>release v1.0.0</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us17|7fd94f2 |<p>feat: added IAM</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us17|738083e |<p>feat: updated breeder and advisor to have user information</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us17|89ba180 |<p>feat: modify port and cors on IAM</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|571b5b2 |<p>release v1.0.0</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|develop|5afba82 |Merge pull request[ #21](https://github.com/AgroTech-UPC/Web-Services/pull/21) from AgroTech-UPC/feature/us17|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|5afba82 |<p>Merge pull request[ #21](https://github.com/AgroTech-UPC/Web-Services/pull/21) from AgroTech-UPC/feature/us17</p><p></p>|20/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|b0d0352 |feat(Appointment): Create an event to create a notification (for the …|20/06/2024|
+|AgroTech-UPC/Web-Services|develop|7f8cd50 |<p>Merge pull request[ #22](https://github.com/AgroTech-UPC/Web-Services/pull/22) from AgroTech-UPC/feature/us35</p><p></p>|20/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|0c529f8 |<p>feat(user): added eventhandler UserReadyEventHandler</p><p></p>|20/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|6599e27 |<p>fix: renamed eventhandler of bounded context User</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|develop|c196469 |<p>Merge pull request[ #24](https://github.com/AgroTech-UPC/Web-Services/pull/24) from AgroTech-UPC/feature/us35</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us28|c196469 |<p>Merge pull request[ #24](https://github.com/AgroTech-UPC/Web-Services/pull/24) from AgroTech-UPC/feature/us35</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us28|5523b6a |<p>feat: added meetingUrl to notifications</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us28|9d2b4ee |<p>feat: updated notification message</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|develop|30d772d |<p>Merge pull request[ #25](https://github.com/AgroTech-UPC/Web-Services/pull/25) from AgroTech-UPC/feature/us28</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us36|b4a0ac7 |<p>feat(management): Added validation that does not allow repeating name…</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us36|94d0e66 |<p>feat(management): Added javadocs in the</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|develop|b42ce72 |<p>Merge pull request[ #26](https://github.com/AgroTech-UPC/Web-Services/pull/26) from AgroTech-UPC/feature/us36</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us17|bcd7557 |<p>feat: Added function that when a Review is created the rating of the …</p><p></p>|22/06/2024|
+
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
