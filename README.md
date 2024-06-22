@@ -4098,6 +4098,22 @@ Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
+Para desplegar el Web Service se volvió a utilizar Render.com. Por lo que, se generó la carpeta target con los archivos actualizados del proyecto.
+
+![Backend Deployment](img/backend-deployment1.png)
+
+Luego, se ingreso al dashboard de Render y se seleccionó 'Manual Deploy' y 'deploy latest commit' para que se actualize el Web Service deployado.
+
+![Backend Deployment](img/backend-deployment2.png)
+
+Con ello, se empezó con el despliegue del Web Service.
+
+![Backend Deployment](img/backend-deployment3.png)
+
+Finalmente, se comprobó el funcionamiento del Web Service al entrar al swagger desde el enlace del producto desplegado https://web-services-18bk.onrender.com/swagger-ui/index.html
+
+![Backend Deployment](img/backend-deployment4.png)
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 
