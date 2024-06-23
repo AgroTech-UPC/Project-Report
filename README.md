@@ -3375,7 +3375,7 @@ Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 |AgroTech-UPC/Frontend-Web-Applications|feature/us09|640c012 |<p>Merge pull request[ #57](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/57) from AgroTech-UPC/feature/us06</p><p></p>|07/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us09|640c012|<p>feat: update publication model and method to obtain publications</p><p></p>|07/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|develop|27d4d23|<p>Merge pull request[ #58](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/58) from AgroTech-UPC/feature/us09</p><p></p>|07/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|develop|48e70b8|<p><h2>feat: changed response type from delete method to text</h2></p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|48e70b8|<p>feat: changed response type from delete method to text</p><p></p>|07/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us14|27f0474|<p>feat: us14 functionality added for list and delete of available date …</p><p></p>|08/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us14|760593e|<p>feat: Register of available dates to backend added</p><p></p>|08/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|develop|78f74ba|<p>Merge pull request[ #59](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/59) from AgroTech-UPC/feature/us14</p><p></p>|08/06/2024|
@@ -4016,15 +4016,31 @@ El cuarto sprint se planeó a través de una reunión virtual en Google Meet. Pa
 |Sprint 3 Review Summary|En este tercer sprint, logramos realizar el deployment del frontend y backend, manejando adecuadamente la conexión entre ambas.|
 |Sprint 3 Retrospective Summary|En retrospectiva, se debe implementar los endpoints faltantes al backend, así como implementar la autenticación (IAM) para brindar mayor seguridad, entre otras cosas.|
 |**Sprint Goal & User Stories**||
-|Sprint 4 Goal|Finalizar el desarrollo del Backend.|
-|Sprint 4 Velocity|20|
-|Sum of Story Points|20|
+|Sprint 4 Goal|Finalizar el desarrollo del Backend e implementar cambios en Frontend.|
+|Sprint 4 Velocity|28|
+|Sum of Story Points|28|
 
 #### 5.2.4.2. Sprint Backlog 4.
 
 El objetivo de este cuarto sprint es la finalización del Backend de la aplicación web, e igualmente implementar los cambios necesarios en Frontend. Al igual que anteriores sprints, trabajamos las tareas en una tabla en Trello:
 <https://trello.com/b/A2LMtBvk/agrotech-sprint-backlog-4>
 
+<img src="img/sprint-backlog-4.png" width="100%">
+
+<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 4</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation</td><td valign="top">Assigned To</td><td valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td valign="top">US34</td><td valign="top">Uso de nuestra API para manejar recursos y gastos	</td><td valign="top">TS01</td><td valign="top">Modificación de método de crear y actualizar recursos para evitar duplicados</td><td valign="top">Modificar la creación y actualización de recursos para evitar que haya recursos con un mismo nombre</td><td valign="top">5</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US35</td><td rowspan="2" valign="top">Uso de nuestra API para manejar la reserva de citas entre asesores y criadores</td><td valign="top">TS02</td><td valign="top">Implementación de método para calcular la puntuación promedio de asesores</td><td valign="top">Implementar una función para calcular la puntuación de un asesor cada vez que se agregue una nueva reseña sobre el asesor.</td><td rowspan="2" valign="top">5</td><td valign="top">André Valverde</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS03</td><td valign="top">Implementación de método para crear notificaciones al crear una nueva cita</td><td valign="top">Implementar una función para crear notificaciones para los criadores y asesores cuando se haya reservado una nueva cita.</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US28</td><td valign="top">Uso de un API para videollamadas</td><td valign="top">TS04</td><td valign="top">Implementación de API externa para generar enlace de videollamada</td><td valign="top">Implementar el uso de la API de Jitsi Meet para generar los enlaces de Google Meet para las asesorías.</td><td valign="top">5</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US29</td><td valign="top">Uso de un API para alojar imágenes</td><td valign="top">TS05</td><td valign="top">Implementación de API externa para alojar imágenes</td><td valign="top">Implementar el uso de la API de Firebase Storage para subir y alojar las imágenes desde nuestra plataforma.</td><td valign="top">5</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">US17</td><td rowspan="3" valign="top">Seguridad de información</td><td valign="top">TS06</td><td valign="top">Implementación de IAM en Backend</td><td valign="top">Implementar la autenticación con Token de seguridad para tener acceso a las peticiones HTTP.</td><td rowspan="3" valign="top">5</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS07</td><td valign="top">Implementación de IAM en Frontend</td><td valign="top">Actualizar método de inicio de sesión y registro en Frontend para que funcione con IAM.</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS08</td><td valign="top">Modificación de modelos y servicios en Frontend </td><td valign="top">Modificar los modelos y servicios necesarios con la nueva forma de autenticación (IAM).</td><td valign="top">Salvador Salinas, Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US18</td><td rowspan="2" valign="top">Disponibilidad y confiabilidad</td><td valign="top">TS09</td><td valign="top">Despliegue de Frontend</td><td valign="top">Desplegar Frontend de la plataforma en un servidor adecuado para brindar acceso a la plataforma en cualquier lugar y momento.</td><td rowspan="2" valign="top">3</td><td valign="top">Piero Delgado, Salvador Salinas, Nadia Lucas, Sebastián Paredes, Andre Valverde</td><td valign="top"></td></tr>
+<tr><td valign="top">TS10</td><td valign="top">Despliegue de Backend</td><td valign="top">Desplegar Backend de la plataforma en un servidor adecuado para brindar acceso a la plataforma en cualquier lugar y momento.</td><td valign="top">Piero Delgado, Salvador Salinas, Nadia Lucas, Sebastián Paredes, Andre Valverde</td><td valign="top"></td></tr>
+</table>
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
 
