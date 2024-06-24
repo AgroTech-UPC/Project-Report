@@ -2181,28 +2181,27 @@ _Imagen 116. Diagrama de Clases Publication Bounded Context_
 #### User Bounded Context
 
 **User (Aggregate)**
-La clase User contiene toda la información de un usuario registrado dentro de la aplicación.
+La clase User contiene la información de autenticación de un usuario registrado dentro de la aplicación.
 
 **Atributos:**
 - id: int - Identificador único del usuario
-- fullname: Fullname - Nombre completo del usuario
-- emailAddress: EmailAddress - Correo electrónico del usuario
-- password: Password - Contraseña del usuario
-- location: Location - Ubicación del usuario
-- birthDate: BirthDate - Fecha de nacimiento del usuario
-- description: Description - Descripción del usuario
+- username: string - Correo electrónico del usuario
+- password: string - Contraseña del usuario
 
 **Métodos:**
 - getUser(): Devuelve los detalles del usuario.
-- updateUser(): Actualiza los detalles del usuario.
 
 -----
 
-**Breeder (Entity)**
+**Breeder (Aggregate)**
 La clase Breeder representa a un criador dentro de la aplicación y tiene una relación de dependencia con User.
 
 **Atributos:**
 - id: int - Identificador único del criador
+- fullname: string - Nombre completo del criador
+- location: string - Ubicación del criador
+- birthDate: LocalDate - Fecha de nacimiento del criador
+- description: string - Descripción del criador
 - userId: int - Identificador del usuario
 
 **Métodos:**
@@ -2210,11 +2209,15 @@ La clase Breeder representa a un criador dentro de la aplicación y tiene una re
 
 -----
 
-**Advisor (Entity)**
+**Advisor (Aggregate)**
 La clase Advisor representa a un asesor dentro de la aplicación y tiene una relación de dependencia con User.
 
 **Atributos:**
 - id: int - Identificador único del asesor
+- fullname: string - Nombre completo del asesor
+- location: string - Ubicación del asesor
+- birthDate: LocalDate - Fecha de nacimiento del asesor
+- description: string - Descripción del asesor
 - occupation: string - Ocupación del asesor
 - experience: int - Años de experiencia del asesor
 - photo: string - Foto del asesor
@@ -2237,6 +2240,22 @@ La clase AvailableDate representa las fechas disponibles de un asesor para progr
 **Métodos:**
 - getAvailableDate(): Devuelve los detalles de la fecha disponible.
 - getStatus(): Devuelve el estado de la fecha disponible.
+
+-----
+
+**Notification (Entity)**
+La clase Notification representa una notificación dentro de la aplicación.
+
+**Atributos:**
+- id: int - Identificador único de la fecha disponible
+- type: string - Tipo de notificación
+- text: string - Texto de la notificación
+- date: Date - Fecha de la notificación
+- meetingUrl: string - Enlace de reunión para cita
+- userId: int - Identificador del usuario
+
+**Métodos:**
+- getNotification(): Devuelve los detalles de la notificación.
 
 -----
 
