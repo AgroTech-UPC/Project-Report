@@ -4076,34 +4076,167 @@ Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 |AgroTech-UPC/Frontend-Web-Applications|feature/us17|21ad0e2 |<p>feat(IAM): update method to register new users + models</p><p></p>|<p>19/06/2024</p><p></p>|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us17|2d1b3c9 |<p>feat(IAM): created new AuthenticationApiService</p><p></p>|<p>20/06/2024</p><p></p>|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us17|506168c|<p>feat: Added button "Terminar Cita" in client-card.component"</p><p></p>|<p>22/06/2024</p><p></p>|
-|AgroTech-UPC/Web-Services|develop|6df74f3|<p>release v1.0.0</p><p></p>|14/06/2024|
-|AgroTech-UPC/Web-Services|feature/us17|571b5b2 |<p>release v1.0.0</p><p></p>|19/06/2024|
-|AgroTech-UPC/Web-Services|feature/us17|7fd94f2 |<p>feat: added IAM</p><p></p>|19/06/2024|
-|AgroTech-UPC/Web-Services|feature/us17|738083e |<p>feat: updated breeder and advisor to have user information</p><p></p>|19/06/2024|
-|AgroTech-UPC/Web-Services|feature/us17|89ba180 |<p>feat: modify port and cors on IAM</p><p></p>|19/06/2024|
-|AgroTech-UPC/Web-Services|feature/us35|571b5b2 |<p>release v1.0.0</p><p></p>|19/06/2024|
-|AgroTech-UPC/Web-Services|develop|5afba82 |Merge pull request[ #21](https://github.com/AgroTech-UPC/Web-Services/pull/21) from AgroTech-UPC/feature/us17|19/06/2024|
-|AgroTech-UPC/Web-Services|feature/us35|5afba82 |<p>Merge pull request[ #21](https://github.com/AgroTech-UPC/Web-Services/pull/21) from AgroTech-UPC/feature/us17</p><p></p>|20/06/2024|
-|AgroTech-UPC/Web-Services|feature/us35|b0d0352 |feat(Appointment): Create an event to create a notification (for the …|20/06/2024|
-|AgroTech-UPC/Web-Services|develop|7f8cd50 |<p>Merge pull request[ #22](https://github.com/AgroTech-UPC/Web-Services/pull/22) from AgroTech-UPC/feature/us35</p><p></p>|20/06/2024|
-|AgroTech-UPC/Web-Services|feature/us35|0c529f8 |<p>feat(user): added eventhandler UserReadyEventHandler</p><p></p>|20/06/2024|
-|AgroTech-UPC/Web-Services|feature/us35|6599e27 |<p>fix: renamed eventhandler of bounded context User</p><p></p>|21/06/2024|
-|AgroTech-UPC/Web-Services|develop|c196469 |<p>Merge pull request[ #24](https://github.com/AgroTech-UPC/Web-Services/pull/24) from AgroTech-UPC/feature/us35</p><p></p>|21/06/2024|
-|AgroTech-UPC/Web-Services|feature/us28|c196469 |<p>Merge pull request[ #24](https://github.com/AgroTech-UPC/Web-Services/pull/24) from AgroTech-UPC/feature/us35</p><p></p>|21/06/2024|
-|AgroTech-UPC/Web-Services|feature/us28|5523b6a |<p>feat: added meetingUrl to notifications</p><p></p>|21/06/2024|
-|AgroTech-UPC/Web-Services|feature/us28|9d2b4ee |<p>feat: updated notification message</p><p></p>|21/06/2024|
-|AgroTech-UPC/Web-Services|develop|30d772d |<p>Merge pull request[ #25](https://github.com/AgroTech-UPC/Web-Services/pull/25) from AgroTech-UPC/feature/us28</p><p></p>|21/06/2024|
-|AgroTech-UPC/Web-Services|feature/us36|b4a0ac7 |<p>feat(management): Added validation that does not allow repeating name…</p><p></p>|21/06/2024|
-|AgroTech-UPC/Web-Services|feature/us36|94d0e66 |<p>feat(management): Added javadocs in the</p><p></p>|21/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|e38d12a|<p>refactor(IAM): moved register and login components</p>|<p>22/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|0bc7328|<p>feat(iam): Fixed an error when assigning the role to the breeder</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|17b8309|<p>fix: Error message in my advisors</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|4e64538|<p>style(iam): login colors updated</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|c906bdf|<p>style(iam): login texts updated</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us29|7abdf6e|<p>feat: added image uploading to firebase storage</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|release|6556027|<p>feat: added netlify deploy files</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|main|795c385|<p>release v2.1.0</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|release|7f11ade|<p>fix: solved problems with deployed images</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|main|3a4fd6b|<p>release v.2.1.1</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Web-Services|feature/us17|7fd94f2|<p>feat: added IAM</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us17|738083e|<p>feat: updated breeder and advisor to have user information</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us17|89ba180|<p>feat: modify port and cors on IAM</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|571b5b2|<p>release v1.0.0</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|develop|5afba82|Merge pull request[ #21](https://github.com/AgroTech-UPC/Web-Services/pull/21) from AgroTech-UPC/feature/us17|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|5afba82|<p>Merge pull request[ #21](https://github.com/AgroTech-UPC/Web-Services/pull/21) from AgroTech-UPC/feature/us17</p><p></p>|20/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|b0d0352|feat(Appointment): Create an event to create a notification (for the …|20/06/2024|
+|AgroTech-UPC/Web-Services|develop|7f8cd50|<p>Merge pull request[ #22](https://github.com/AgroTech-UPC/Web-Services/pull/22) from AgroTech-UPC/feature/us35</p><p></p>|20/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|0c529f8|<p>feat(user): added eventhandler UserReadyEventHandler</p><p></p>|20/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|6599e27|<p>fix: renamed eventhandler of bounded context User</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|develop|c196469|<p>Merge pull request[ #24](https://github.com/AgroTech-UPC/Web-Services/pull/24) from AgroTech-UPC/feature/us35</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|c196469|<p>Merge pull request[ #24](https://github.com/AgroTech-UPC/Web-Services/pull/24) from AgroTech-UPC/feature/us35</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|5523b6a|<p>feat: added meetingUrl to notifications</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|9d2b4ee|<p>feat: updated notification message</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|develop|30d772d|<p>Merge pull request[ #25](https://github.com/AgroTech-UPC/Web-Services/pull/25) from AgroTech-UPC/feature/us28</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us36|b4a0ac7|<p>feat(management): Added validation that does not allow repeating name…</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us36|94d0e66|<p>feat(management): Added javadocs in the</p><p></p>|21/06/2024|
 |AgroTech-UPC/Web-Services|develop|b42ce72 |<p>Merge pull request[ #26](https://github.com/AgroTech-UPC/Web-Services/pull/26) from AgroTech-UPC/feature/us36</p><p></p>|21/06/2024|
-|AgroTech-UPC/Web-Services|feature/us17|bcd7557 |<p>feat: Added function that when a Review is created the rating of the …</p><p></p>|22/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|bcd7557|<p>feat: Added function that when a Review is created the rating of the respective Advisor is updated</p><p></p>|22/06/2024|
+|AgroTech-UPC/Web-Services|feature/us17|c7f3918|<p>feat: updated to remote db</p><p></p>|22/06/2024|
+|AgroTech-UPC/Web-Services|develop|8d29ac3|<p>feat: changed open api version</p><p></p>|22/06/2024|
+|AgroTech-UPC/Web-Services|release|4ae1d87|<p>feat: update target folder for deployment</p><p></p>|22/06/2024|
+|AgroTech-UPC/Web-Services|release|458df5d|<p>fix: fixed error when updating the name of an existing resource</p><p></p>|23/06/2024|
+|AgroTech-UPC/Web-Services|release|f4f337a|<p>fix: solved problem with name verification</p><p></p>|23/06/2024|
 
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
+Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Acceptance-Tests|main||||
+
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Para este sprint, hemos implementado una versión actualizada de la API con IAM, la cual permitirá a los usuarios registrarse e iniciar sesión con un token de autenticidad, para que las llamadas HTTP se hagan de forma segura. Además, se cambió la forma en que se manejaba unos endpoints a comparación de la versión anterior, como los usuarios, asesores, criadores y notificaciones. A continuación, se detallan los cambios realizados en la API.
+
+Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Services
+
+|Método|Endpoint|Descripción|
+|--|--|--|
+|POST|/api/v1/authentication/sign-up|Se registra a un nuevo usuario con su nombre de usuario, contraseña y rol|
+|POST|/api/v1/authentication/sign-in|Se inicia sesión con las credenciales de un usuario y devuelve el token de autenticidad|
+|GET|/api/v1/users|Se obtiene la lista de usuarios|
+|GET|/api/v1/users/{id}|Se obtiene un usuario por ID|
+|GET|/api/v1/breeders|Se obtiene la lista de los criadores|
+|POST|/api/v1/breeders|Se crea un nuevo criador|
+|GET|/api/v1/breeders/{id}|Se obtiene un criador por ID|
+|GET|/api/v1/advisors|Se obtiene la lista de los asesores|
+|POST|/api/v1/advisors|Se crea un nuevo asesor|
+|GET|/api/v1/advisors/{id}|Se obtiene un asesor por ID|
+|GET|/api/v1/notifications|Se obtiene la lista de las notificaciones|
+|POST|/api/v1/notifications|Se crea una nueva notificacion|
+|GET|/api/v1/notifications/{id}|Se obtiene una notificacion por ID|
+
+**Authentication Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/authentication
+
+![Authentication endpoints](img/authentication-endpoints-swagger.png)
+
+**Sign Up: (api/v1/authentication/sign-up)**
+|Método|POST|
+|--|--|
+|Parámetros|Body: username, password, roles|
+|Resultado|![Service Documentation Post Sign Up](img/post-sign-up.png)|
+
+**Sign In: (api/v1/authentication/sign-in)**
+|Método|POST|
+|--|--|
+|Parámetros|Body: username, password|
+|Resultado|![Service Documentation Post Sign In](img/post-sign-in.png)|
+
+El token que se brinda al iniciar sesión, es el que permite la autorización para que se pueda trabajar con los demás endpoints de la API.
+
+**User Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/users
+
+![User endpoints](img/user-endpoints-swagger-v2.png)
+
+Los usuarios ahora solo poseen el correo y contraseña, siguiendo lo implementado para la IAM.
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Users](img/get-all-users.png)|
+
+|Método|GET {userId}|
+|--|--|
+|Parámetros|{userId}: Id del usuario|
+|Resultado|![Service Documentation Get User by Id](img/get-by-id-user.png)|
+
+**Breeder Endpoints**
+
+Los criadores ahora poseen la información personal, como nombre, ubicación, fecha de nacimiento y descripción.
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/breeders
+
+![Breeder endpoints](img/breeder-endpoints-swagger.png)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: fullname, location, birthdate, description, userId|
+|Resultado|![Service Documentation Post Breeder](img/post-breeder.png)|
+
+|Método|GET {breederId}|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Breeder by Id](img/get-by-id-breeder.png)|
+
+**Advisor Endpoints**
+
+Los asesores ahora poseen la información personal, como nombre, ubicación, fecha de nacimiento y descripción, a parte de lo que ya tenían como ocupación, experiencia, foto y puntuación.
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/advisors
+
+![Advisor endpoints](img/advisor-endpoints-swagger.png)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: fullname, location, birthdate, description, occupation, experience, photo, rating, userId|
+|Resultado|![Service Documentation Post Advisor](img/post-advisor.png)|
+
+|Método|GET {advisorId}|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Advisor by Id](img/get-by-id-advisor.png)|
+
+**Notification Endpoints**
+
+Las notificaciones ahora incluyen el enlace para reunirse en Google Meet.
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/notifications
+
+![Notification endpoints](img/notification-endpoints-swagger.png)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: type, text, date, userId, meetingUrl|
+|Resultado|![Service Documentation Post Notification](img/post-notification.png)|
+
+|Método|GET {notificationId}|
+|--|--|
+|Parámetros|{notificationId}: Id de la notificación|
+|Resultado|![Service Documentation Get Notification by Id](img/get-by-id-notification.png)|
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
