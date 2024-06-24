@@ -4123,6 +4123,26 @@ Finalmente, se comprobó el funcionamiento del Web Service al entrar al swagger 
 
 ![Backend Deployment](img/backend-deployment4.png)
 
+Por otro lado, también se desplegó el Frontend Web Applications con la conexión al Web Service y las mejoras realizadas en este Sprint. Para ello, primero se volvió a ejecutar el comando npm run build.
+
+![Frontend Deployment](img/frontend-deployment1.png)
+
+Luego, se empieza con el despliegue utilizando el comando firebase init hosting.
+
+![Frontend Deployment](img/frontend-deployment2.png)
+
+Se actualiza el archivo firebase.json para que el despliegue utilize los archivos correctos.
+
+![Frontend Deployment](img/frontend-deployment3.png)
+
+Para terminar con el despliegue luego de tener el proyecto con Firebase se utiliza el comando firebase deploy --only hosting.
+
+![Frontend Deployment](img/frontend-deployment4.png)
+
+Finalmente, se comprueba que el proyecto se haya desplegado correctamente entrando al URL y comprobando que se visualize correctamente: https://agroconnect-demo.web.app
+
+![Frontend Deployment](img/frontend-deployment5.png)
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 
