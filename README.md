@@ -309,6 +309,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Para este entregable, se desarrolló el sprint 2 el cual se enfocó en el desarrollo del frontend. Dichos cambios se comunicaron oralmente mediante el video del proyecto. Además, realicé una entrevista a un asesor para tener una mayor información sobre el alcance de nuestro proyecto.</p>
         <p><strong>TB2:</strong></p>
         <p>Para esta entrega, se tuvo que validar los productos desarrollados. Para ello, entrevisté a un criador de cuyes y a un asesor para obtener su retroalimentación. Asimismo, comunique los nuevos cambios al proyecto mediante el video de exposición.</p>
+        <p><strong>TF:</strong></p>
+        <p>Para esta entrega, se implementó el bounded context de IAM al Backend, en consecuencia, se actualizó el Frontend para que funcione con las nuevas verificaciones además de implementar mejoras para que los mensajes de la plataforma sean uniformes. Del mismo modo, se implementó el uso de APIs externas para las videoconferencias y el almacenamiento de imágenes.</p>
         <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se enfocó principalmente en el diseño y desarrollo del producto, destacando el diseño de la landing page, guías de estilo, historias de usuario y la base de datos. Se priorizó que el diseño fuera intuitivo y atractivo para los usuarios, mientras cumplía con los requisitos. Esta labor fue fundamental para garantizar que el producto final satisficiera las necesidades de los usuarios y las demandas del mercado de manera efectiva.</p>
@@ -330,7 +332,7 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Para este avance nos enfocamos en mejorar un poco más la investigación del mercado a partir de los comentarios brindados por el profesor. De este modo, realicé una entrevista más para obtener una perspectiva más a tomar en cuenta en el segmento objetivo. Igualmente, realizamos mejoras en el Landing Page, para lo cual realizamos una videoconferencia para conversar en grupo y compartir ideas sobre los siguientes pasos.</p>
         <p><strong>TB2:</strong></p>
         <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto. Para ello, realizamos los avances correspondientes en Frontend y Backend. Asimismo, realicé entrevistas de validación, en el cual expliqué lo que se trabajó en la aplicación, y pudimos obtener una buena retroalimentación de nuestros segmentos objetivo para seguir mejorando.</p>
-        <p><strong>TF1:</strong></p>
+        <p><strong>TF:</strong></p>
         <p>En esta cuarta entrega, se enfocó en la implementación de lo restante en el Frontend y Backend. Especialmente en el Backend, faltaba implementar la IAM, la cual brinda una mayor seguridad para que los usuarios registrados dentro de nuestra plataforma consuman la API de forma segura. Además, mejoramos el video About-The-Product, el cual ahora se utiliza una forma de expresión más llamativa para nuestros potenciales usuarios.</p>
         <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
         <p><strong>TB1:</strong></p>
@@ -347,6 +349,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En resumen, durante esta etapa del proyecto, implementamos las mejoras sugeridas por el profesor, las cuales incluyeron la adición de más historias técnicas y la mejora del diseño de la landing page siguiendo buenas prácticas. Además, todos los integrantes del equipo completaron con éxito todas las actividades asignadas en el segundo sprint. Este progreso se refleja claramente en el tablero de Trello correspondiente al sprint.</p>
         <p><strong>TB2:</strong></p>
         <p>En conclusión, para esta entrega se comunicó con los segmentos objetivo para obtener retroalimentación de nuestro avance con los productos de software. Asimismo, se desarrollaron los videos About-The-Product y About-The-Team que muestran de una forma creativa como hemos desarrollado nuestra propuesta.</p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, durante la etapa final del proyecto, implementamos las mejoras a nuestro productos de software, lo cuál incluyo aumentar la seguridad del Backend creando el IAM bounded context e implementándolo en el Frontend. Para ello, cada integrante tuvo que completar sus tareas asignadas en el tiempo indicado. Lo que se reflejó en los productos deployados.</p>
       </td>
     </tr>
     <tr>
@@ -359,6 +363,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Para esta entrega, comunique de forma escrita las mejoras realizadas a los diagramas de domain driven design y del diseño de la base de datos en el informe del trabajo. Del mismo modo, con los cambios realizados al landing page se pudo expresar de mejor manera nuestras funcionalidades y alcances a los segmentos objetivos.</p>
         <p><strong>TB2:</strong></p>
         <p>Para este avance, comunique de forma escrita los cambios a los productos de software que hemos creado y documente las entrevistas que realicé.</p>
+        <p><strong>TF:</strong></p>
+        <p>Para esta entrega, se documentaron las mejoras realizadas al backend y el frontend en el sprint 4, además de comunicar las mejoras del diseño de base de datos y los diagramas de clases respectivos. De este modo, se pudo comunicar de forma clara lo avanzado en este entregable.</p>
         <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se facilitó una comunicación clara y precisa sobre el diseño y desarrollo del producto a través de diferentes áreas, incluyendo el diseño de las guías de estilo, las historias de usuario y el diseño de la base de datos. Esta comunicación efectiva fue esencial para mantener informados a todos los miembros del equipo, independientemente de su nivel de experiencia técnica, y promovió una colaboración exitosa.</p>
@@ -380,7 +386,7 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Este avance parcial se enfocó principalmente en subsanar los comentarios brindados por el profesor así como en la redacción de las historias de usuario, y en la realización del Frontend de la aplicación web utilizando como framework Angular y fake API en json para simular la gestión de datos.</p>
         <p><strong>TB2:</strong></p>
         <p>Para la tercera entrega, al haber desarrollado en su mayoría gran parte del Backend, se hizo la documentación respectiva de esta y mostrar la evidencia del funcionamiento de los endpoints trabajados. Además, se hizo la conexión de Frontend y Backend, para entregar el máximo valor a nuestros usuarios.</p>
-        <p><strong>TF1:</strong></p>
+        <p><strong>TF:</strong></p>
         <p>En esta cuarta entrega, se expresa de forma escrita las evidencias trabajadas, como la evidencia de los servicios para mostrar la documentación de IAM para conocer como se hace el Sign Up y Sign In. Igualmente, se aplicaron estos cambios en el Frontend, ya que antes no se trabajaba con IAM. Por otro lado, se terminaron de redactar las Conclusiones y Recomendaciones, tomando en cuenta todo lo trabajado desde el Sprint 1 hasta el Sprint 4.</p>
         <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
         <p><strong>TB1:</strong></p>
@@ -397,6 +403,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En resumen, para esta entrega se enfatizó en mejorar mediante el feedback proporcionado por el profesor y un autoanálisis. Por lo tanto, nos comunicamos de forma escrita en el informe del proyecto, buscando mejorar tanto el formato como el contenido para mostrar nuestras ideas de manera más objetiva.</p>
         <p><strong>TB2:</strong></p>
         <p>En conclusión, para esta entrega nos comunicamos de forma escrita mediante la documentación de nuestros avances en los productos de software y validaciones de dichos productos como con la evaluación de heurísticas.</p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, para esta última entrega, nos enfocamos en implementar mejoras tanto al Backend como al Frontend para implementar un producto más pulido para los segmnetos objetivos. Del mismo modo, mejoras el Video About-The-Product para que este sea más llamativo para clientes potenciales.</p>
       </td>
     </tr>
   </tbody>
