@@ -89,6 +89,7 @@ Junio 2024
         <li>Avance del punto 5.2.2. Sprint 2.</li>
       </td>
   </tr>
+  <tr>
     <td><strong>TB2</strong></td>
       <td>Domingo 9 de Junio</td>
       <td>
@@ -108,6 +109,25 @@ Junio 2024
         <li>Desarrollo de evaluación por heurísticas</li>
         <li>Avance de Conclusiones y Anexos</li>
         <li>Creación del Video About-The-Team</li>
+      </td>
+  </tr>
+  <tr>
+    <td><strong>TF</strong></td>
+      <td>Martes 25 de Junio</td>
+      <td>
+        <ul>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Lucas Coronel, Nadia Alessandra</li>
+          <li>Paredes Puente, Sebastián Roberto</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+          <li>Valverde Mozo, Andre Gabriel</li>
+        </ul>
+      </td>
+      <td>
+        <li>Correcciones levantadas.</li>
+        <li>Desarrollo del Sprint 4</li>
+        <li>Mejora del Video About-The-Product</li>
+        <li>Finalización de Conclusiones y Anexos</li>
       </td>
   </tr>
   </tbody>
@@ -138,9 +158,11 @@ Commits en el project report de la TB2:
 
 # **Tabla de Contenido**
 
-- ## [Registro de Versiones](#registro-de-versiones)
-- ## [Student Outcome](#student-outcome-1)
-- ## [Capítulo I: Introducción](#Capítulo-I-Introducción-1)
+[Registro de Versiones](#registro-de-versiones)
+
+[Student Outcome](#student-outcome)
+
+[Capítulo I: Introducción](#Capítulo-I-Introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -152,7 +174,8 @@ Commits en el project report de la TB2:
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- ## [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis-1)
+
+[Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -167,12 +190,14 @@ Commits en el project report de la TB2:
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-- ## [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification-1)
+
+[Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
-- ## [Capítulo IV: Product Design](#Capítulo-IV-Product-Design-1)
+
+[Capítulo IV: Product Design](#Capítulo-IV-Product-Design)
   - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -200,7 +225,8 @@ Commits en el project report de la TB2:
     - [4.7.2. Class Dictionary](#472-class-dictionary)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
-- ## [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation-Validation--Deployment-1)
+
+[Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation-Validation--Deployment)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
@@ -234,17 +260,28 @@ Commits en el project report de la TB2:
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
-- ## [Conclusiones](#conclusiones-1)
+
+[Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
-- ## [Bibliografía](#bibliografía-1)
-- ## [Anexos](#anexos-1)
 
+[Bibliografía](#bibliografía)
+
+[Anexos](#anexos)
 
 
 # Student Outcome
@@ -272,6 +309,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Para este entregable, se desarrolló el sprint 2 el cual se enfocó en el desarrollo del frontend. Dichos cambios se comunicaron oralmente mediante el video del proyecto. Además, realicé una entrevista a un asesor para tener una mayor información sobre el alcance de nuestro proyecto.</p>
         <p><strong>TB2:</strong></p>
         <p>Para esta entrega, se tuvo que validar los productos desarrollados. Para ello, entrevisté a un criador de cuyes y a un asesor para obtener su retroalimentación. Asimismo, comunique los nuevos cambios al proyecto mediante el video de exposición.</p>
+        <p><strong>TF:</strong></p>
+        <p>Para esta entrega, se implementó el bounded context de IAM al Backend, en consecuencia, se actualizó el Frontend para que funcione con las nuevas verificaciones además de implementar mejoras para que los mensajes de la plataforma sean uniformes. Del mismo modo, se implementó el uso de APIs externas para las videoconferencias y el almacenamiento de imágenes.</p>
         <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se enfocó principalmente en el diseño y desarrollo del producto, destacando el diseño de la landing page, guías de estilo, historias de usuario y la base de datos. Se priorizó que el diseño fuera intuitivo y atractivo para los usuarios, mientras cumplía con los requisitos. Esta labor fue fundamental para garantizar que el producto final satisficiera las necesidades de los usuarios y las demandas del mercado de manera efectiva.</p>
@@ -279,6 +318,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Durante este entregable, nuestro enfoque se centró en mejorar el diseño de la página de inicio (landing page) del proyecto. Con el objetivo de garantizar la eficacia y la coherencia visual, se implementaron cambios significativos que se alinean con las mejores prácticas de diseño web. Además, se completó con éxito las tareas asignadas durante el segundo sprint del proyecto. Estas incluyeron el desarrollo del front-end, la implementación de la API y la integración exitosa del front-end con el backend.</p>
         <p><strong>TB2:</strong></p>
         <p>Durante este entregable, se realizaron mejoras en el frontend de la aplicación web y se trabajó en el bounded context de management en el backend, lo que permite gestionar la información de recursos, gastos, jaulas y animales. Además, se llevó a cabo la integración correspondiente con el frontend.También se realizaron entrevistas de validación con ambos segmentos, de las cuales se obtuvieron valiosas sugerencias que serán consideradas en el próximo sprint.</p>
+        <p><strong>TF:</strong></p>
+        <p>En esta entrega final, se añadieron validaciones al bounded context asignado y se completó la documentación con Javadoc para asegurar una comprensión clara y detallada del código. Además, se implementaron mejoras significativas en el video de presentación del producto, garantizando una representación más atractiva y entretenida. También se realizaron cambios en el diseño del frontend para mejorar la experiencia del usuario, asegurando que el producto final no solo sea funcional, sino también estéticamente agradable y fácil de usar.</p>
         <p><strong>Paredes Puente, Sebastián Roberto</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se puso especial énfasis en el diseño y desarrollo del producto, concentrándose en la sección “Acerca de” de la landing page, user stories, user personas y scenario mapping. Esta labor fue esencial para asegurar que el producto final cumpliera efectivamente con las necesidades de los usuarios, al delimitar las user stories, y las exigencias del mercado. Además, se llevó a cabo una investigación inicial para conocer opiniones de algunos expertos en el tema, por ello se realizó entrevistas con personas clave de nuestros segmentos objetivo, lo que facilitó el trabajo en equipo y el avance del proyecto.</p>
@@ -286,6 +327,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Durante este entregable, nuestro enfoque se centró en mejorar el diseño de la landing page del proyecto, implementando ciertas mejoras como adicionar información y hacer que se vea visualmente más estético y llamativo. Además, se completaron con éxito las tareas asignadas durante el segundo sprint, que incluyeron el desarrollo del front-end y la implementación de la API. Para comunicar estos cambios, se realizaron un total de 9 entrevistas a nuestros segmentos objetivos, para obtener más información sobre el alcance del proyecto en una próxima entrega.</p>
         <p><strong>TB2:</strong></p>
         <p>En esta entrega, se validaron los productos desarrollados y se llevó a cabo el Sprint 3 del proyecto. Realizamos avances en el Frontend y Backend, y llevé a cabo entrevistas de validación con un criador de cuyes y un asesor para obtener sus opiniones. Durante estas entrevistas, expliqué el trabajo realizado en la aplicación y obtuvimos valiosa retroalimentación de nuestros segmentos objetivo para seguir mejorando. </p>
+        <p><strong>TF:</strong></p>
+        <p>En esta entrega, se integró el bounded context de IAM al backend, lo que llevó a una actualización del frontend para adaptarse a las nuevas verificaciones. Además, se realizaron mejoras para asegurar que los mensajes de la plataforma sean consistentes. Adicionalmente, se implementó una nueva funcionalidad de notificaciones en tiempo real y se integraron APIs externas para videoconferencias y almacenamiento de imágenes.</p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong></p>
         <p>En este primer avance, primero identificamos la problemática y realizamos la investigación necesaria para identificar los requisitos que nuestra aplicación final abarca. Para ello, realizamos entrevistas de forma oral con personas de nuestros segmentos objetivo para conocer sus principales necesidades y ponernos un poco mejor en su perspectiva. Gracias a estas, es que el desarrollo del trabajo fue fluido, ya que luego en grupo nos reunimos y fuimos avanzando, realizando recomendaciones y resolviendo dudas sobre nuestros objetivos como startup.</p>
@@ -293,6 +336,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Para este avance nos enfocamos en mejorar un poco más la investigación del mercado a partir de los comentarios brindados por el profesor. De este modo, realicé una entrevista más para obtener una perspectiva más a tomar en cuenta en el segmento objetivo. Igualmente, realizamos mejoras en el Landing Page, para lo cual realizamos una videoconferencia para conversar en grupo y compartir ideas sobre los siguientes pasos.</p>
         <p><strong>TB2:</strong></p>
         <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto. Para ello, realizamos los avances correspondientes en Frontend y Backend. Asimismo, realicé entrevistas de validación, en el cual expliqué lo que se trabajó en la aplicación, y pudimos obtener una buena retroalimentación de nuestros segmentos objetivo para seguir mejorando.</p>
+        <p><strong>TF:</strong></p>
+        <p>En esta cuarta entrega, se enfocó en la implementación de lo restante en el Frontend y Backend. Especialmente en el Backend, faltaba implementar la IAM, la cual brinda una mayor seguridad para que los usuarios registrados dentro de nuestra plataforma consuman la API de forma segura. Además, mejoramos el video About-The-Product, el cual ahora se utiliza una forma de expresión más llamativa para nuestros potenciales usuarios.</p>
         <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
         <p><strong>TB1:</strong></p>
         <p>En la fase inicial, investigamos a fondo las necesidades de nuestros usuarios mediante entrevistas directas. Esto facilitó el progreso del trabajo en equipo al ofrecer recomendaciones y aclarar dudas. Luego, nos centramos en el diseño y desarrollo del producto, priorizando un diseño intuitivo y atractivo que cumpliera con los requisitos establecidos y satisficiera las demandas del mercado.</p>
@@ -300,6 +345,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En el segundo sprint, nos enfocamos en profundizar nuestro conocimiento de Angular y completar tareas clave para mejorar el front-end de nuestra aplicación. Paralelamente, ajustamos el diseño de la página principal y consideramos comentarios del profesor para una mejor comprensión del mercado y las preferencias de nuestros usuarios.</p>
         <p><strong>TB2:</strong></p>
         <p>En esta entrega nos enfocamos en el Sprint 3, centrándonos en el desarrollo del backend y su integración con el frontend. Implementamos funcionalidades clave para el procesamiento de datos y la gestión de usuarios, y mejoramos la interfaz de usuario para una experiencia más intuitiva. Esta sincronización entre backend y frontend garantiza una aplicación más robusta y eficiente, acercándonos a nuestros objetivos del proyecto.</p>
+        <p><strong>TF:</strong></p>
+        <p>Para esta entrega, se integró el bounded context de IAM al backend, lo que conllevó a una actualización del frontend para adaptarse a las nuevas verificaciones y asegurar consistencia en los mensajes de la plataforma. Además, se implementó una funcionalidad de notificaciones en tiempo real y se integraron APIs externas para videoconferencias y almacenamiento de imágenes.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
@@ -308,6 +355,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En resumen, durante esta etapa del proyecto, implementamos las mejoras sugeridas por el profesor, las cuales incluyeron la adición de más historias técnicas y la mejora del diseño de la landing page siguiendo buenas prácticas. Además, todos los integrantes del equipo completaron con éxito todas las actividades asignadas en el segundo sprint. Este progreso se refleja claramente en el tablero de Trello correspondiente al sprint.</p>
         <p><strong>TB2:</strong></p>
         <p>En conclusión, para esta entrega se comunicó con los segmentos objetivo para obtener retroalimentación de nuestro avance con los productos de software. Asimismo, se desarrollaron los videos About-The-Product y About-The-Team que muestran de una forma creativa como hemos desarrollado nuestra propuesta.</p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, durante la etapa final del proyecto, implementamos las mejoras a nuestro productos de software, lo cuál incluyo aumentar la seguridad del Backend creando el IAM bounded context e implementándolo en el Frontend. Para ello, cada integrante tuvo que completar sus tareas asignadas en el tiempo indicado. Lo que se reflejó en los productos deployados.</p>
       </td>
     </tr>
     <tr>
@@ -320,6 +369,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Para esta entrega, comunique de forma escrita las mejoras realizadas a los diagramas de domain driven design y del diseño de la base de datos en el informe del trabajo. Del mismo modo, con los cambios realizados al landing page se pudo expresar de mejor manera nuestras funcionalidades y alcances a los segmentos objetivos.</p>
         <p><strong>TB2:</strong></p>
         <p>Para este avance, comunique de forma escrita los cambios a los productos de software que hemos creado y documente las entrevistas que realicé.</p>
+        <p><strong>TF:</strong></p>
+        <p>Para esta entrega, se documentaron las mejoras realizadas al backend y el frontend en el sprint 4, además de comunicar las mejoras del diseño de base de datos y los diagramas de clases respectivos. De este modo, se pudo comunicar de forma clara lo avanzado en este entregable.</p>
         <p><strong>Lucas Coronel, Nadia Alessandra</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Se facilitó una comunicación clara y precisa sobre el diseño y desarrollo del producto a través de diferentes áreas, incluyendo el diseño de las guías de estilo, las historias de usuario y el diseño de la base de datos. Esta comunicación efectiva fue esencial para mantener informados a todos los miembros del equipo, independientemente de su nivel de experiencia técnica, y promovió una colaboración exitosa.</p>
@@ -327,6 +378,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En este entregable, se enfocó en mejorar el diseño de la landing page,  lo cual implicó la revisión de la estructura y el contenido para optimizar la experiencia del usuario. Asimismo, se brindó apoyo en la gestión y organización del proyecto a través de la plataforma Trello, contribuyendo a la creación y actualización de tableros, asignación de tareas y seguimiento del progreso del equipo. Además, se culminó con éxito las tareas del segundo sprint, estas incluyen colaborar en el desarrollo del front-end, la implementación de la API y la integración del front-end con el backend.</p>
         <p><strong>TB2:</strong></p>
         <p>En este entregable, se documentó el backend utilizando Swagger, desarrollado con Spring Boot, para gestionar los endpoints del bounded context de Management. Además, se realizaron entrevistas de validación del producto con los segmentos objetivos, donde se documentaron los principales hallazgos y sugerencias. Estos resultados fueron comunicados de manera clara y objetiva, adaptándose a un público de diferentes especialidades y niveles jerárquicos, garantizando así una comprensión uniforme y una base sólida para el próximo sprint.</p>
+        <p><strong>TF:</strong></p>
+        <p>En esta entrega final, se comunicaron con precisión y objetividad las validaciones implementadas en el bounded context asignado, junto con la documentación detallada utilizando Javadoc para asegurar una comprensión clara del código. Además, se mejoró de manera significativa la presentación del producto a través de un video profesional y atractivo. Los cambios en el diseño del frontend fueron orientados a mejorar la experiencia del usuario.</p>
         <p><strong>Paredes Puente, Sebastián Roberto</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Me concentré en comunicar mis ideas y avances a través de un informe escrito, lo cual resultó fundamental para transmitir claramente los detalles del diseño y desarrollo del producto. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso utilizando lenguaje Markdown, asegurando así un informe completo y fácil de entender.</p>
@@ -334,6 +387,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Durante el desarrollo para esta entrega, se puso énfasis en abordar los puntos a mejorar en el feedback del trabajo anterior, como lo fueron el mejorar la redacción de algunas user stories, a su vez, agregar más user stories técnicas. Además, se desarrolló el Frontend de la aplicación web mediante el uso de Angular como framework y una API fake en formato JSON para simular la gestión de datos, la cuál se estuvo probando para su correcto funcionamiento.</p>
         <p><strong>TB2:</strong></p>
         <p>Para este avance, comuniqué de manera escrita los cambios realizados en los productos de software y documenté las entrevistas realizadas. Además para esta entrega, se avanzó con el Backend y se llevó a cabo la documentación correspondiente, mostrando evidencia del funcionamiento de los endpoints implementados. Asimismo, se integraron el Frontend y el Backend para proporcionar el máximo valor a nuestros usuarios.</p>
+        <p><strong>TF:</strong></p>
+        <p>En esta cuarta entrega, se integraron servicios IAM para Sign Up y Sign In en el frontend y se documentaron las mejoras al backend y frontend del sprint 4. Además, se incluyeron actualizaciones en el diseño de la base de datos y los diagramas de clases, se agregaron las conclusiones y recomendaciones, abarcando todo el trabajo realizado desde el Sprint 1 hasta el Sprint 4
+        </p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Durante el desarrollo de este primer sprint, realice la documentación de forma escrita con todos los puntos requeridos a lo largo del proyecto. Así como establecer las convenciones de estilo y configuración de sistema de software, los cuales son importantes ya que de estos es que se basará el desarrollo del proyecto hasta su fin.</p>
@@ -341,6 +397,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>Este avance parcial se enfocó principalmente en subsanar los comentarios brindados por el profesor así como en la redacción de las historias de usuario, y en la realización del Frontend de la aplicación web utilizando como framework Angular y fake API en json para simular la gestión de datos.</p>
         <p><strong>TB2:</strong></p>
         <p>Para la tercera entrega, al haber desarrollado en su mayoría gran parte del Backend, se hizo la documentación respectiva de esta y mostrar la evidencia del funcionamiento de los endpoints trabajados. Además, se hizo la conexión de Frontend y Backend, para entregar el máximo valor a nuestros usuarios.</p>
+        <p><strong>TF:</strong></p>
+        <p>En esta cuarta entrega, se expresa de forma escrita las evidencias trabajadas, como la evidencia de los servicios para mostrar la documentación de IAM para conocer como se hace el Sign Up y Sign In. Igualmente, se aplicaron estos cambios en el Frontend, ya que antes no se trabajaba con IAM. Por otro lado, se terminaron de redactar las Conclusiones y Recomendaciones, tomando en cuenta todo lo trabajado desde el Sprint 1 hasta el Sprint 4.</p>
         <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
         <p><strong>TB1:</strong></p>
         <p>Al inicio del proyecto, me concentré en comunicar mis ideas y avances a través del informe escrito. Este informe fue esencial para transmitir claramente los detalles del diseño y desarrollo del producto, asegurando que todos los miembros del equipo estuvieran al tanto de nuestros progresos y facilitando una colaboración efectiva. Durante esta etapa, me esforcé por documentar cuidadosamente cada paso del proceso, garantizando un registro completo y accesible para todos los involucrados en el proyecto.</p>
@@ -348,6 +406,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En este avance parcial, nos enfocamos en mejorar la redacción de user stories, subsanar comentarios del profesor, y desarrollar el Frontend de la aplicación web utilizando Angular y una API fake en JSON. Buscamos también entender mejor las necesidades de nuestros usuarios potenciales, asegurando una buena experiencia de usuario y mejorando la calidad del trabajo anterior.</p>
         <p><strong>TB2:</strong></p>
         <p>En este avance, me comuniqué con mi grupo de trabajo para coordinar los cambios e implementaciones relacionados con el backend. Implemente los endpoints necesarios y realice la documentación correspondiente, mostrando evidencia de su funcionamiento. Además, integramos el frontend y el backend para proporcionar el máximo valor a nuestros usuarios.</p>
+        <p><strong>TF:</strong></p>
+        <p>En esta cuarta entrega, se integraron servicios IAM para Sign Up y Sign In en el frontend, acompañados de la documentación correspondiente. Se realizaron mejoras documentadas tanto en el backend como en el frontend durante el sprint 4. Además, se actualizaron el diseño de la base de datos y los diagramas de clases. Se incluyeron conclusiones y recomendaciones que abarcan todo el trabajo realizado desde el Sprint 1 hasta el Sprint 4, destacando la implementación inicial de IAM en el proyecto.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
@@ -356,6 +416,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En resumen, para esta entrega se enfatizó en mejorar mediante el feedback proporcionado por el profesor y un autoanálisis. Por lo tanto, nos comunicamos de forma escrita en el informe del proyecto, buscando mejorar tanto el formato como el contenido para mostrar nuestras ideas de manera más objetiva.</p>
         <p><strong>TB2:</strong></p>
         <p>En conclusión, para esta entrega nos comunicamos de forma escrita mediante la documentación de nuestros avances en los productos de software y validaciones de dichos productos como con la evaluación de heurísticas.</p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, para esta última entrega, nos enfocamos en implementar mejoras tanto al Backend como al Frontend para implementar un producto más pulido para los segmnetos objetivos. Del mismo modo, mejoras el Video About-The-Product para que este sea más llamativo para clientes potenciales.</p>
       </td>
     </tr>
   </tbody>
@@ -1240,9 +1302,8 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 <tr><td valign="top">US25</td><td valign="top">Visualización de sección “Sobre Nosotros”</td></tr>
 <tr><td valign="top">US26</td><td valign="top">Visualización de sección “Características”</td></tr>
 <tr><td valign="top">US27</td><td valign="top">Visualización de sección “Contacto”</td></tr>
-<tr><td rowspan="8" valign="top"><b>E08</b></td><td rowspan="8" valign="top">Funcionalidades con APIs</td><td valign="top">US28</td><td valign="top">Uso de un API para iniciar sesión</td></tr>
-<tr><td valign="top">US29</td><td valign="top">Uso de un API para videollamadas</td></tr>
-<tr><td valign="top">US30</td><td valign="top">Uso de un API para separar fechas</td></tr>
+<tr><td rowspan="7" valign="top"><b>E08</b></td><td rowspan="7" valign="top">Funcionalidades con APIs</td><td valign="top">US28</td><td valign="top">Uso de un API para videollamadas</td></tr>
+<tr><td valign="top">US29</td><td valign="top">Uso de un API para alojar imágenes</td></tr>
 <tr><td valign="top">US32</td><td valign="top">Uso de nuestra API para gestionar usuarios</td></tr>
 <tr><td valign="top">US33</td><td valign="top">Uso de nuestra API para gestionar publicaciones</td></tr>
 <tr><td valign="top">US34</td><td valign="top">Uso de nuestra API para manejar recursos y gastos</td></tr>
@@ -1271,8 +1332,8 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |US14|Separación de fechas disponibles para asesoría|**Como** asesor, **quiero** poder seleccionar y separar las fechas y horas en las que estoy disponible para ofrecer asesorías **para** que los usuarios interesados puedan ver mis horarios disponibles y agendar una cita en un momento conveniente.|<p>**Escenario 1: Registrar disponibilidad para asesorías**</p><p>**Given** el asesor desea registrar sus fechas y horas disponibles para asesorías.</p><p>**And**  está visualizando la página de "Horario disponible"</p><p>**When** haga clic en el botón “Registrar nueva fecha”</p><p>**And**  complete los datos del nuevo horario disponible que tiene el asesor</p><p>**Then** el sistema actualizará y guardará las fechas y horas seleccionadas como disponibles.</p><p></p><p>**Escenario 2: Eliminar horario de disponibilidad para asesorías**</p><p>**Given** el asesor desea eliminar un horario de disponibilidad para asesorías</p><p>**And** está visualizando la página de "Horario disponible"</p><p>**When** haga clic en el botón “Eliminar” junto al horario que desea eliminar</p><p>**And** confirme la eliminación del horario</p><p>**Then** el sistema actualizará y eliminará el horario de disponibilidad seleccionado</p><p></p>|E01|
 |US15|Gestión de recursos de la granja|**Como** criador de cuyes **quiero** registrar el inventario de mi granja **para** tener un control sobre los recursos esenciales como alimentos y medicamentos.|<p>**Escenario 1: Registrar de nuevo ingreso de recursos en el inventario**</p><p>**Given** el criador ha recibido el pedido de recursos por parte del proveedor y desea registrar esto en su inventario.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**And** ingresa a la sección de “Gestión de Recursos” del apartado de “Mi Granja”.</p><p>**When** haga clic en el botón “Nuevo Recurso”</p><p>**And** ingresa los detalles de nombre y tipo de recurso, fecha, cantidad y observación.</p><p>**Then** el sistema mostrará una confirmación.</p><p></p><p>**Escenario 2: Ver recursos**</p><p>**Given** el criador desea ver los recursos que posee.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de Recursos”.</p><p>**Then** el sistema le permitirá visualizar sus recursos que incluyen datos como el nombre del recurso, el tipo de recurso (alimento, medicina, cultivo u otro) y la fecha en el que fue registrado este recurso.</p><p></p><p>**Escenario 2: Filtrar recursos**</p><p>**Given** el creador desea ver un recurso de un tipo en específico.</p><p>**And** se encuentra en la sección de “Gestión de Recursos”del apartado de “Mi Granja”.</p><p>**When** seleccione el tipo de recurso que sea filtrar (todos, alimento, medicina, cultivo)</p><p>**And** haga clic en el botón “Filtrar”</p><p>**Then** el sistema le mostrará una lista de todos los recursos que pertenezcan a ese tipo.</p><p></p><p>**Escenario 3: Editar recurso**</p><p></p><p>**Escenario 4: Eliminar recurso**</p>|E04|
 |US16|Gestión de gastos realizados|**Como** criador de cuyes **quiero** registrar gastos relacionados con mi negocio **para** tener un control y poder tomar decisiones financieras que serán útiles para tener una mejor rentabilidad.|<p>**Escenario 1: Registrar gasto**</p><p>**Given** el criador desea registrar los gastos que ha realizado.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**And** ingresa a la sección de “Gestión de Gastos”del apartado de “Mi Granja”.</p><p>**When** haga clic en el botón “Nuevo Gasto”</p><p>**And** ingrese datos como el precio, tipo de gasto, fecha y demás campos.</p><p>**Then** el sistema registrará correctamente los detalles del gasto.</p><p></p><p>**Escenario 2: Ver gasto registrado**</p><p>**Given** el criador desea ver un gasto ya registrado.</p><p>**And** se encuentra en el apartado de “Mi Granja” de la Sidebar.</p><p>**When** haga clic en el botón “Gestión de gastos”</p><p>**Then** el sistema le permitirá visualizar sus gastos.</p><p></p><p>**Escenario 3: Filtrar gasto**</p><p>**Given** el criador desea ver un recurso de un tipo en específico.</p><p>**And** se encuentra en la sección de “Gestión de Gastos”del apartado de “Mi Granja”.</p><p>**When** seleccione el tipo de gasto que desea filtrar (todos, salud, alimento, Mantenimiento de criadero)</p><p>**And** haga clic en el botón “Filtrar”</p><p>**Then** el sistema le mostrará una lista de todos los recursos que pertenezcan a ese tipo.</p><p></p><p>**Escenario 3: Editar gasto**</p><p></p><p>**Escenario 4: Eliminar gasto**</p>|E04|
-|US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|<p>**Escenario 1: Seguridad en la conexión web**</p><p>**Given** el usuario desea que la aplicación sea segura para su uso personal.</p><p>**When** ingrese a la aplicación para hacer uso de ella.</p><p>**Then** la aplicación usará conexión segura https para enviar datos.</p>|E05|
-|US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|<p>**Escenario 1: Acceso a la aplicación en todo momento**</p><p>**Given** el usuario desea usar la aplicación en cualquier instante.</p><p>**When** ingrese a la aplicación.</p><p>**Then** la aplicación se encuentra disponible y funcional.</p><p></p><p>**Escenario 2: Acceso a la aplicación sin interrupciones**</p><p>**Given** el usuario desea usar la aplicación en cualquier instante.</p><p>**When** ingresa a la aplicación.</p><p>**Then** la aplicación carga rápidamente y controla el tráfico para que la experiencia sea fluida.</p>|E05|
+|US17|Seguridad de información|**Como** usuario **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|<p>**Escenario 1: Registro de un nuevo usuario con verificación de seguridad (sign-up)**</p><p>**Dado que** el usuario desea registrarse</p><p>**Cuando** el sistema recibe una solicitud POST con los datos del nuevo usuario a la API</p><p>**Entonces** se registrará el nuevo usuario</p><p>**Y** brindará respuesta a la petición realizada</p><p>**Escenario 2: Inicio de sesión del usuario con verificación de seguridad exitoso (sign-in)**</p><p>**Dado** que el usuario desea iniciar sesión de forma segura</p><p>**Cuando** el sistema recibe una solicitud POST con las credenciales de inicio de sesión del usuario (correo electrónico y contraseña) a la API</p><p>**Entonces** se verificarán las credenciales</p><p>**Y** la API responde con un código de estado 200 y el token de autenticación válido</p><p>**Escenario 3: Inicio de sesión del usuario con verificación de seguridad fallido (sign-in)**</p><p>**Dado** que el usuario desea iniciar sesión de forma segura</p><p>**Cuando** el sistema recibe una solicitud POST con las credenciales de inicio de sesión del usuario (correo electrónico y contraseña) a la API</p><p>**Entonces** se verificarán las credenciales</p><p>**Y** la API responde con un código de estado 400 indicando que no se encontró un usuario con las credenciales ingresadas</p>|E05|
+|US18|Disponibilidad y confiabilidad|**Como** usuario **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|<p>**Escenario 1: Acceso a la aplicación en todo momento**</p><p>**Given** el usuario desea usar la aplicación en cualquier instante.</p><p>**When** ingrese a la aplicación.</p><p>**Then** la aplicación se encuentra disponible y funcional.</p><p></p><p>**Escenario 2: Acceso a la aplicación sin interrupciones**</p><p>**Given** el usuario desea usar la aplicación en cualquier instante.</p><p>**When** ingresa a la aplicación.</p><p>**Then** la aplicación carga rápidamente y controla el tráfico para que la experiencia sea fluida.</p>|E05|
 |US19|Registro de un usuario nuevo|**Como** usuario **quiero** registrarme **para** acceder a las funciones de usuario.|<p>**Escenario 1: Registro de cuenta por formulario**</p><p>**Given** el usuario desea registrarse en la aplicación.</p><p>**And** se encuentra en el apartado de “Registrarse”.</p><p>**When** complete el formulario de registro con su información personal.</p><p>**And** seleccione su rol en la aplicación entre “Criador” o “Asesor”</p><p>**And** los datos** sean correctos según las validaciones establecidas.</p><p>**Then** la cuenta se creará.</p><p></p><p>**Escenario 2: Registro incorrecto de cuenta**</p><p>**Given** el usuario se encuentra en el apartado de “Registrarse”.</p><p>**When** ingrese los datos solicitados de manera errónea.</p><p>**Then** la cuenta no se creará.</p><p>**And** recibirá un mensaje indicando el error.</p>|E06|
 |US20|Inicio de sesión|**Como** usuario **quiero** acceder a mi cuenta registrada **para** acceder a las funciones de usuario.|<p>**Escenario 1: Inicio de sesión exitoso**</p><p>**Given** el usuario desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Iniciar Sesión”.</p><p>**When** introduzca sus credenciales correctamente.</p><p>**Then** será redireccionado a su vista de usuario.</p><p></p><p>**Escenario 2: Inicio de sesión fallido**</p><p>**Given** el usuario desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Iniciar Sesión”.</p><p>**When** introduzca sus credenciales incorrectamente.</p><p>**Then** no se le permitirá acceso a su cuenta.</p><p>**And** recibirá un mensaje indicando el error.</p><p></p><p>**Escenario 3: Bloqueo de sesión por exceso de intentos**</p><p>**Given** el usuario desea acceder a su cuenta registrada. </p><p>**And** se encuentra en el apartado de “Iniciar sesión”.</p><p>**When** introduzca sus credenciales incorrectamente.</p><p>**And** siga errando hasta alcanzar el número máximo de intentos permitidos (tres intentos).</p><p>**Then** recibirá un mensaje que le informe que ha excedido el número de intentos permitidos.</p><p>**And** su cuenta será bloqueada temporalmente.</p>|E06|
 |US21|Recuperación de contraseña|**Como** usuario **quiero** poder recuperar mi contraseña **para** acceder a mi cuenta.|<p>**Escenario 1: Recuperación de contraseña**</p><p>**Given** el usuario olvidó su contraseña</p><p>**When** se dirija a la sección de “Inicio de sesión”</p><p>**And** seleccione “olvidé mi contraseña”</p><p>**And** coloque su correo vinculado a la cuenta.</p><p></p><p>**Then** se le enviará un correo para que cambie su contraseña.</p>|E06|
@@ -1282,18 +1343,14 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |US25|Visualización de sección “Sobre Nosotros”|**Como** potencial usuario **quiero** acceder a una página sobre la startup **para** conocer el propósito de la empresa detrás de la aplicación.|<p>**Escenario 1: Visualización de página Sobre Nosotros**</p><p>**Given** el usuario desea conocer sobre la empresa detrás de la aplicación.</p><p>**When** ingresa al Landing Page</p><p>**And** ingresa a la sección Sobre Nosotros</p><p>**Then** se mostrará la página Sobre Nosotros, en la que detalla información sobre la startup, su misión y visión.</p>|E07|
 |US26|Visualización de sección “Características”|**Como** potencial usuario **quiero** acceder a una página sobre las características **para** conocer las principales funcionalidades de la aplicación.|<p>**Escenario 1: Visualización de página Características**</p><p>**Given** el usuario desea conocer sobre las características de la aplicación</p><p>**When** ingresa al Landing Page</p><p>**And** ingresa a la sección Características</p><p>**Then** se mostrará la página Características en la que detalla información sobre las funcionalidades principales que ofrece la aplicación.</p>|E07|
 |US27|Visualización de sección “Contacto”|**Como** potencial usuario **quiero** acceder a una página de contacto **para** poder contactar con la empresa en caso tenga algún problema, duda o sugerencia.|<p>**Escenario 1: Visualización de página Contacto**</p><p>**Given** el usuario desea contactar con el área de soporte de la empresa</p><p>**When** ingresa al Landing Page</p><p>**And** ingresa a la sección Contacto</p><p>**Then** se mostrará la página Contacto, en la que se muestra los medios de contacto que puede usar el usuario para hacer consultas.</p>|E07|
-|US28|Uso de un API para iniciar sesión	|**Como** desarrollador **quiero** integrar el inicio de sesión utilizando la API de Google **para** facilitar el acceso a la aplicación|<p>**Escenario 1: Inicio de sesión con cuenta de Google**</p><p>**Given** el usuario quiere acceder a la aplicación</p><p>**When** seleccione ingreso por cuenta de Google</p><p>**Then** el sistema verificará las credenciales de su cuenta de Google para permitir su acceso</p>|E08|
-|US29|Uso de un API para videollamadas	|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación**	|<p>**Escenario 1: Creación de videollamada**</p><p>**Given** el usuario tiene una asesoría pendiente</p><p>**When** seleccione la opción de ingresar a la asesoría</p><p>**Then** el sistema genera el enlace a una videollamada de Google Meet para que el usuario acceda a su asesoría</p><p></p>|E08|
-|US30|Uso de un API para separar fechas	|**Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus** calendarios personales|<p>**Escenario 1: Sincronización de citas**</p><p>**Given** el usuario ha separado una asesoría</p><p>**When** seleccione la opción de sincronizar citas</p><p>**Then** el sistema utiliza la API del calendario de Google para agregar la cita</p><p></p>|E08|
+|US28|Uso de un API para videollamadas|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Jitsi Meet **para** facilitar las asesorías en la aplicación**	|<p>**Escenario 1: Creación de videollamada**</p><p>**Given** el usuario tiene una asesoría pendiente</p><p>**When** seleccione la opción de ingresar a la asesoría</p><p>**Then** el sistema lo redireccionará a un enlace con la videollamada de Google Meet para que el usuario acceda a su asesoría</p><p></p>|E08|
+|US29|Uso de un API para alojar imágenes|**Como** desarrollador **quiero** integrar la API de almacenamiento de Firebase **para** que los usuarios puedan subir y visualizar sus imágenes de foto de perfil y publicaciones.|<p>**Escenario 1: Subir imágenes**</p><p>**Given** el usuario desea subir una imagen en nuestra plataforma</p><p>**When** se reciba la imagen en el formato compatible</p><p>**Then** el sistema sube la imagen usando la API del almacenamiento de Firebase para generar el enlace de visualización</p><p></p>|E08|
 |US31|Visualización de calendario|**Como** usuario **quiero** visualizar un calendario **para** ver de forma agradable y ordenada las asesorías programadas que tengo.|<p>**Escenario 1: Visualizar calendario como criador**</p><p>**Given** el criador ha separado una o más asesorías</p><p>**When** ingrese a la sección Calendario del Sidebar</p><p>**Then** se mostrará un calendario que muestra las citas programadas con los asesores en las fechas correspondientes</p><p></p><p>**Escenario 2: Visualizar calendario como asesor**</p><p>**Given** el asesor tiene programada una o más asesorías</p><p>**When** ingrese a la sección Calendario del Sidebar</p><p>**Then** se mostrará un calendario que muestra las citas programadas con los criadores en las fechas correspondientes</p>|E01|
 |US32|Uso de nuestra API para gestionar usuarios|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de los usuarios en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.|<p>**Escenario 1: Integrar un API para manejar las solicitudes HTTP de los usuarios y notificaciones**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST o PUT con los datos solicitados del usuario o notificación a la API.</p><p>**Then** La API responde con un código de estado correspondiente (200 OK o 201 Created)</p><p>**And** se realiza la operación solicitada.</p><p>**Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de usuarios y notificaciones**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados del usuario o notificación a la API</p><p>**And** ocurre un error.</p><p>**Then** la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).</p><p>**And** el sistema proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.</p>|E08|
 |US33|Uso de nuestra API para gestionar publicaciones|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las publicaciones de asesores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.|<p>**Escenario 1: Integrar un API para manejar las solicitudes HTTP de las publicaciones**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST o DELETE con los datos solicitados de la publicación a la API.</p><p>**Then** La API responde con un código de estado correspondiente (200 OK o 201 Created) y se realiza la operación solicitada.</p><p>**Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de publicaciones**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST o DELETE con los datos solicitados de la publicación a la API y ocurre un error.</p><p>**Then** la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).</p><p>**And** el sistema captura el error y proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.</p>|E08|
 |US34|Uso de nuestra API para manejar recursos y gastos|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de los recursos y gastos de los criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.|<p>**Escenario 1: Integrar un API para manejar las solicitudes HTTP de los recursos o gastos**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados del recurso o gasto a la API.</p><p>**Then** La API responde con un código de estado correspondiente (200 OK o 201 Created)  y se realiza la operación solicitada.</p><p>**Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de recursos o gastos**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados del recurso o gasto a la API y ocurre un error.</p><p>**Then** la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).</p><p>**And** el sistema captura el error y proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.</p>|E08|
 |US35|Uso de nuestra API para manejar la reserva de citas entre asesores y criadores|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las citas entre asesores y criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.|<p>**Escenario 1: Integrar un API para manejar las solicitudes HTTP de las citas y horarios disponibles de asesores**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de una cita entre un asesor y un criador a la API.</p><p>**Then** La API responde con un código de estado correspondiente (200 OK o 201 Created)  y se realiza la operación solicitada.</p><p>**Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de citas y horarios disponibles de asesores**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de de una cita entre un asesor y un criador a la API y ocurre un error.</p><p>**Then** la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).</p><p>**And** el sistema captura el error y proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.</p>|E08|
 |US36|Uso de nuestra API para manejar las jaulas y animales|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las jaulas y los animales de los criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.|<p>**Escenario 1: Integrar un API para manejar las solicitudes HTTP de las jaulas o animales**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de la jaula o animal a la API.</p><p>**Then** La API responde con un código de estado correspondiente (200 OK o 201 Created)  y se realiza la operación solicitada.</p><p>**Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de jaulas o animales**</p><p>**Given** el desarrollador tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración</p><p>**When** el desarrollador envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de la jaula o animal a la API y ocurre un error.</p><p>**Then** la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).</p><p>**And** el sistema captura el error y proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.</p>|E08|
-
-
-
 
 
 ## 3.3. Impact Mapping
@@ -1350,12 +1407,10 @@ Se identificaron las siguientes épicas que se componen de las historias de usua
 |29|US34|Uso de nuestra API para manejar recursos y gastos|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de los recursos y gastos de criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP. |5|
 |30|US35|Uso de nuestra API para manejar la reserva de citas entre asesores y criadores|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las citas entre asesores y criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP. |5|
 |31|US36|Uso de la API para manejar las jaulas y animales|**Como** desarrollador **quiero** integrar un API **para** gestionar la información de las jaulas y los animales de los criadores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP. |5|
-|32|US28|Uso de un API para iniciar sesión|**Como** desarrollador **quiero** integrar el inicio de sesión utilizando la API de Google **para** facilitar el acceso a la aplicación.|3|
-|33|US29|Uso de un API para videollamadas|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Google Meet **para** facilitar las asesorías en la aplicación.|5|
-|34|US30|Uso de un API para separar fechas|**Como** desarrollador **quiero** integrar la API del calendario de Google **para** que los usuarios puedan sincronizar sus citas entre nuestra plataforma y sus calendarios personales.|5|
-|35|US17|Seguridad de información|**Como** criador/asesor **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|5|
-|36|US18|Disponibilidad y confiabilidad|**Como** criador/asesor **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|3|
-
+|32|US28|Uso de un API para videollamadas|**Como** desarrollador **quiero** integrar la creación de videollamadas utilizando la API de Jitsi Meet **para** facilitar las asesorías en la aplicación.|5|
+|33|US29|Uso de un API para alojar imágenes|**Como** desarrollador **quiero** integrar la API de almacenamiento de Firebase **para** que los usuarios puedan subir y visualizar sus imágenes de foto de perfil y publicaciones.|5|
+|34|US17|Seguridad de información|**Como** usuario **quiero** que la aplicación cumpla con los estándares de seguridad **para** proteger mi información registrada.|5|
+|35|US18|Disponibilidad y confiabilidad|**Como** usuario **quiero** que la aplicación esté disponible siempre **para** acceder a ella en cualquier momento y sin interrupciones.|3|
 
 
 # Capítulo IV: Product Design
@@ -2074,14 +2129,14 @@ _Imagen 105. Explicación del prototipo_
 
 ## 4.6 Domain-Driven Software Architecture
 ### 4.6.1 Software Architecture Context Diagram
-El diagrama de contexto representa la estructura y las principales interacciones de un sistema de software. Este sistema permite a los usuarios, ya sean los criadores novatos o asesores, explorar la plataforma y llevar a cabo las sesiones para apoyo, y para gestionar inventario de la granja. Además, el sistema establece conexiones con sistemas externos, como el sistema de calendario de Google para la programación de citas.
+El diagrama de contexto representa la estructura y las principales interacciones de un sistema de software. Este sistema permite a los usuarios, ya sean los criadores novatos o asesores, explorar la plataforma y llevar a cabo las sesiones para apoyo, y para gestionar inventario de la granja. 
 
 <img src="img/diagrama_contexto.png">
 
 _Imagen 106. Diagrama de contexto_
 
 ### 4.6.2 Software Architecture Container Diagrams
-El diagrama de contenedores representa la arquitectura del sistema de AgroConnect. Los criadores y asesores utilizan el contenedor de la aplicación web para interactuar con las funcionalidades del sistema mediante una conexión con la API REST. Asimismo, el contenedor del API REST se conecta con los sistemas externos.
+El diagrama de contenedores representa la arquitectura del sistema de AgroConnect. Los criadores y asesores utilizan el contenedor de la aplicación web para interactuar con las funcionalidades del sistema mediante una conexión con la API REST.
 
 <img src="img/diagrama_contenedor.png">
 
@@ -2151,28 +2206,27 @@ _Imagen 116. Diagrama de Clases Publication Bounded Context_
 #### User Bounded Context
 
 **User (Aggregate)**
-La clase User contiene toda la información de un usuario registrado dentro de la aplicación.
+La clase User contiene la información de autenticación de un usuario registrado dentro de la aplicación.
 
 **Atributos:**
 - id: int - Identificador único del usuario
-- fullname: Fullname - Nombre completo del usuario
-- emailAddress: EmailAddress - Correo electrónico del usuario
-- password: Password - Contraseña del usuario
-- location: Location - Ubicación del usuario
-- birthDate: BirthDate - Fecha de nacimiento del usuario
-- description: Description - Descripción del usuario
+- username: string - Correo electrónico del usuario
+- password: string - Contraseña del usuario
 
 **Métodos:**
 - getUser(): Devuelve los detalles del usuario.
-- updateUser(): Actualiza los detalles del usuario.
 
 -----
 
-**Breeder (Entity)**
+**Breeder (Aggregate)**
 La clase Breeder representa a un criador dentro de la aplicación y tiene una relación de dependencia con User.
 
 **Atributos:**
 - id: int - Identificador único del criador
+- fullname: string - Nombre completo del criador
+- location: string - Ubicación del criador
+- birthDate: LocalDate - Fecha de nacimiento del criador
+- description: string - Descripción del criador
 - userId: int - Identificador del usuario
 
 **Métodos:**
@@ -2180,11 +2234,15 @@ La clase Breeder representa a un criador dentro de la aplicación y tiene una re
 
 -----
 
-**Advisor (Entity)**
+**Advisor (Aggregate)**
 La clase Advisor representa a un asesor dentro de la aplicación y tiene una relación de dependencia con User.
 
 **Atributos:**
 - id: int - Identificador único del asesor
+- fullname: string - Nombre completo del asesor
+- location: string - Ubicación del asesor
+- birthDate: LocalDate - Fecha de nacimiento del asesor
+- description: string - Descripción del asesor
 - occupation: string - Ocupación del asesor
 - experience: int - Años de experiencia del asesor
 - photo: string - Foto del asesor
@@ -2207,6 +2265,22 @@ La clase AvailableDate representa las fechas disponibles de un asesor para progr
 **Métodos:**
 - getAvailableDate(): Devuelve los detalles de la fecha disponible.
 - getStatus(): Devuelve el estado de la fecha disponible.
+
+-----
+
+**Notification (Entity)**
+La clase Notification representa una notificación dentro de la aplicación.
+
+**Atributos:**
+- id: int - Identificador único de la fecha disponible
+- type: string - Tipo de notificación
+- text: string - Texto de la notificación
+- date: Date - Fecha de la notificación
+- meetingUrl: string - Enlace de reunión para cita
+- userId: int - Identificador del usuario
+
+**Métodos:**
+- getNotification(): Devuelve los detalles de la notificación.
 
 -----
 
@@ -3345,7 +3419,7 @@ Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 |AgroTech-UPC/Frontend-Web-Applications|feature/us09|640c012 |<p>Merge pull request[ #57](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/57) from AgroTech-UPC/feature/us06</p><p></p>|07/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us09|640c012|<p>feat: update publication model and method to obtain publications</p><p></p>|07/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|develop|27d4d23|<p>Merge pull request[ #58](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/58) from AgroTech-UPC/feature/us09</p><p></p>|07/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|develop|48e70b8|<p><h2>feat: changed response type from delete method to text</h2></p><p></p>|07/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|48e70b8|<p>feat: changed response type from delete method to text</p><p></p>|07/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us14|27f0474|<p>feat: us14 functionality added for list and delete of available date …</p><p></p>|08/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us14|760593e|<p>feat: Register of available dates to backend added</p><p></p>|08/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|develop|78f74ba|<p>Merge pull request[ #59](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/59) from AgroTech-UPC/feature/us14</p><p></p>|08/06/2024|
@@ -3969,6 +4043,315 @@ Para la elaboración del frontend, realizamos mejoras significativas. Implementa
 <img src="img/collab-sprint-3-front.PNG" width="100%">
 
 
+### 5.2.4. Sprint 4.
+
+#### 5.2.4.1. Sprint Planning 4.
+
+El cuarto sprint se planeó a través de una reunión virtual en Google Meet. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+|**Sprint #**|Sprint 4|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-06-10|
+|Time|09: 00 PM|
+|Location|Virtual (Google Meet)|
+|Prepared by|Delgado Corrales, Piero Gonzalo|
+|Attendees (to planning meeting)|<p>Delgado Corrales, Piero Gonzalo</p><p>Lucas Coronel, Nadia Alessandra</p><p>Paredes Puente, Sebastián Roberto</p><p>Salinas Torres, Salvador Antonio</p><p>Valverde Mozo, Andre Gabriel</p>|
+|Sprint 3 Review Summary|En este tercer sprint, logramos realizar el deployment del frontend y backend, manejando adecuadamente la conexión entre ambas.|
+|Sprint 3 Retrospective Summary|En retrospectiva, se debe implementar los endpoints faltantes al backend, así como implementar la autenticación (IAM) para brindar mayor seguridad, entre otras cosas.|
+|**Sprint Goal & User Stories**||
+|Sprint 4 Goal|Finalizar el desarrollo del Backend e implementar cambios en Frontend.|
+|Sprint 4 Velocity|28|
+|Sum of Story Points|28|
+
+#### 5.2.4.2. Sprint Backlog 4.
+
+El objetivo de este cuarto sprint es la finalización del Backend de la aplicación web, e igualmente implementar los cambios necesarios en Frontend. Al igual que anteriores sprints, trabajamos las tareas en una tabla en Trello:
+<https://trello.com/b/A2LMtBvk/agrotech-sprint-backlog-4>
+
+<img src="img/sprint-backlog-4.png" width="100%">
+
+<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 4</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation</td><td valign="top">Assigned To</td><td valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td valign="top">US34</td><td valign="top">Uso de nuestra API para manejar recursos y gastos	</td><td valign="top">TS01</td><td valign="top">Modificación de método de crear y actualizar recursos para evitar duplicados</td><td valign="top">Modificar la creación y actualización de recursos para evitar que haya recursos con un mismo nombre</td><td valign="top">5</td><td valign="top">Nadia Lucas</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US35</td><td rowspan="2" valign="top">Uso de nuestra API para manejar la reserva de citas entre asesores y criadores</td><td valign="top">TS02</td><td valign="top">Implementación de método para calcular la puntuación promedio de asesores</td><td valign="top">Implementar una función para calcular la puntuación de un asesor cada vez que se agregue una nueva reseña sobre el asesor.</td><td rowspan="2" valign="top">5</td><td valign="top">André Valverde</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS03</td><td valign="top">Implementación de método para crear notificaciones al crear una nueva cita</td><td valign="top">Implementar una función para crear notificaciones para los criadores y asesores cuando se haya reservado una nueva cita.</td><td valign="top">Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US28</td><td valign="top">Uso de un API para videollamadas</td><td valign="top">TS04</td><td valign="top">Implementación de API externa para generar enlace de videollamada</td><td valign="top">Implementar el uso de la API de Jitsi Meet para generar los enlaces de Google Meet para las asesorías.</td><td valign="top">5</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US29</td><td valign="top">Uso de un API para alojar imágenes</td><td valign="top">TS05</td><td valign="top">Implementación de API externa para alojar imágenes</td><td valign="top">Implementar el uso de la API de Firebase Storage para subir y alojar las imágenes desde nuestra plataforma.</td><td valign="top">5</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">US17</td><td rowspan="3" valign="top">Seguridad de información</td><td valign="top">TS06</td><td valign="top">Implementación de IAM en Backend</td><td valign="top">Implementar la autenticación con Token de seguridad para tener acceso a las peticiones HTTP.</td><td rowspan="3" valign="top">5</td><td valign="top">Piero Delgado</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS07</td><td valign="top">Implementación de IAM en Frontend</td><td valign="top">Actualizar método de inicio de sesión y registro en Frontend para que funcione con IAM.</td><td valign="top">Salvador Salinas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS08</td><td valign="top">Modificación de modelos y servicios en Frontend </td><td valign="top">Modificar los modelos y servicios necesarios con la nueva forma de autenticación (IAM).</td><td valign="top">Salvador Salinas, Sebastián Paredes</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US18</td><td rowspan="2" valign="top">Disponibilidad y confiabilidad</td><td valign="top">TS09</td><td valign="top">Despliegue de Frontend</td><td valign="top">Desplegar Frontend de la plataforma en un servidor adecuado para brindar acceso a la plataforma en cualquier lugar y momento.</td><td rowspan="2" valign="top">3</td><td valign="top">Piero Delgado, Salvador Salinas, Nadia Lucas, Sebastián Paredes, Andre Valverde</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS10</td><td valign="top">Despliegue de Backend</td><td valign="top">Desplegar Backend de la plataforma en un servidor adecuado para brindar acceso a la plataforma en cualquier lugar y momento.</td><td valign="top">Piero Delgado, Salvador Salinas, Nadia Lucas, Sebastián Paredes, Andre Valverde</td><td valign="top">Done</td></tr>
+</table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 4. De este modo, se trabajó mayormente en la parte de Frontend y Backend.
+
+Repositorio Frontend: <https://github.com/AgroTech-UPC/Frontend-Web-Applications> 
+
+Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
+
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|c4c1ff8 |<p>feat: added criador/registro/animal/:id</p><p></p>|13/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|f2aa9a5 |feat: creation of cuy inside a cage|13/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|develop|55a1218 |<p>Merge pull request[ #65](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/65) from AgroTech-UPC/release</p><p></p>|14/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|dcf729b |<p>Merge branch 'develop' into feature/us14</p><p></p>|14/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us14|5ed05da |fix: method to delete cages with cuyes inside fixed|14/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|55a1218 |Merge pull request[ #65](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/65) from AgroTech-UPC/release|19/06/2024|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|24358c4 |<p>feat(IAM): new login using token</p><p></p>|<p>19/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|21ad0e2 |<p>feat(IAM): update method to register new users + models</p><p></p>|<p>19/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|2d1b3c9 |<p>feat(IAM): created new AuthenticationApiService</p><p></p>|<p>20/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|506168c|<p>feat: Added button "Terminar Cita" in client-card.component"</p><p></p>|<p>22/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|e38d12a|<p>refactor(IAM): moved register and login components</p>|<p>22/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|0bc7328|<p>feat(iam): Fixed an error when assigning the role to the breeder</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|17b8309|<p>fix: Error message in my advisors</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|4e64538|<p>style(iam): login colors updated</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us17|c906bdf|<p>style(iam): login texts updated</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us29|7abdf6e|<p>feat: added image uploading to firebase storage</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|release|6556027|<p>feat: added netlify deploy files</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|main|795c385|<p>release v2.1.0</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|release|7f11ade|<p>fix: solved problems with deployed images</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|main|3a4fd6b|<p>release v.2.1.1</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|2cc17e9|<p>feat(management): show cage name on animal list</p>|<p>24/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|release|9737aec|<p>fix: fixed some snackBar messages</p>|<p>24/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|main|3a4fd6b|<p>Release V.2.1.2</p>|<p>24/06/2024</p><p></p>|
+|AgroTech-UPC/Web-Services|feature/us17|7fd94f2|<p>feat: added IAM</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us17|738083e|<p>feat: updated breeder and advisor to have user information</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us17|89ba180|<p>feat: modify port and cors on IAM</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|571b5b2|<p>release v1.0.0</p><p></p>|19/06/2024|
+|AgroTech-UPC/Web-Services|develop|5afba82|Merge pull request[ #21](https://github.com/AgroTech-UPC/Web-Services/pull/21) from AgroTech-UPC/feature/us17|19/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|5afba82|<p>Merge pull request[ #21](https://github.com/AgroTech-UPC/Web-Services/pull/21) from AgroTech-UPC/feature/us17</p><p></p>|20/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|b0d0352|feat(Appointment): Create an event to create a notification (for the …|20/06/2024|
+|AgroTech-UPC/Web-Services|develop|7f8cd50|<p>Merge pull request[ #22](https://github.com/AgroTech-UPC/Web-Services/pull/22) from AgroTech-UPC/feature/us35</p><p></p>|20/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|0c529f8|<p>feat(user): added eventhandler UserReadyEventHandler</p><p></p>|20/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|6599e27|<p>fix: renamed eventhandler of bounded context User</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|develop|c196469|<p>Merge pull request[ #24](https://github.com/AgroTech-UPC/Web-Services/pull/24) from AgroTech-UPC/feature/us35</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|c196469|<p>Merge pull request[ #24](https://github.com/AgroTech-UPC/Web-Services/pull/24) from AgroTech-UPC/feature/us35</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|5523b6a|<p>feat: added meetingUrl to notifications</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|9d2b4ee|<p>feat: updated notification message</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|develop|30d772d|<p>Merge pull request[ #25](https://github.com/AgroTech-UPC/Web-Services/pull/25) from AgroTech-UPC/feature/us28</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us36|b4a0ac7|<p>feat(management): Added validation that does not allow repeating name…</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us36|94d0e66|<p>feat(management): Added javadocs in the</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|develop|b42ce72 |<p>Merge pull request[ #26](https://github.com/AgroTech-UPC/Web-Services/pull/26) from AgroTech-UPC/feature/us36</p><p></p>|21/06/2024|
+|AgroTech-UPC/Web-Services|feature/us35|bcd7557|<p>feat: Added function that when a Review is created the rating of the respective Advisor is updated</p><p></p>|22/06/2024|
+|AgroTech-UPC/Web-Services|feature/us17|c7f3918|<p>feat: updated to remote db</p><p></p>|22/06/2024|
+|AgroTech-UPC/Web-Services|develop|8d29ac3|<p>feat: changed open api version</p><p></p>|22/06/2024|
+|AgroTech-UPC/Web-Services|release|4ae1d87|<p>feat: update target folder for deployment</p><p></p>|22/06/2024|
+|AgroTech-UPC/Web-Services|release|458df5d|<p>fix: fixed error when updating the name of an existing resource</p><p></p>|23/06/2024|
+|AgroTech-UPC/Web-Services|release|f4f337a|<p>fix: solved problem with name verification</p><p></p>|23/06/2024|
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+Se realizaron los acceptance tests para las historias de usuario trabajadas y se registraron en el repositorio de la siguiente forma. Así como los Unit Tests en el Backend.
+
+Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
+
+Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
+
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroTech-UPC/Acceptance-Tests|main|cf0775d |<p>feat: Added US28 US29</p><p></p>|24/06/2024|
+|AgroTech-UPC/Acceptance-Tests|main|aa53fa3 |<p>feat: us17 and us18 added</p><p></p>|24/06/2024|
+|AgroTech-UPC/Web-Services|release|5fbe76a |<p>feat: Appointment, Cage, Expense and Resource Tests added</p><p></p>|24/06/2024|
+|AgroTech-UPC/Web-Services|release|564c0c9 |<p>feat: Added Publication, Advisor, Breeder, User tests</p><p></p>|24/06/2024|
+|AgroTech-UPC/Web-Services|release|bc2baa1 |<p>fix: BreederTests fixed</p><p></p>|24/06/2024|
+
+
+Se han implementado los Units Tests para los endpoints del Web Service creados en este Sprint. Para ello, se creó una carpeta llamada com.acme.web.services.unit.tests y se vinculó al proyecto del WebService para utilizar sus entidades y servicios.
+
+<img src="img/unit-test-1.png" width="100%"> 
+
+Asimismo, cada Unit Test tiene distintas validaciones para cada situación como puede ser crear una entidad o realizar validaciones de ciertos valores que no pueden ser null o números negativos. Finalmente, se validó que los Unit Tests no devuelvan errores al ejecutarse.
+
+<img src="img/unit-test-2.png" width="100%">
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+En esta sección, se detallará lo desarrollado en el cuarto sprint, el cual incluye la adición del IAM al Web Service, y la mejora del Frontend Web Application.
+
+URL del video: [Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/EbyqV5h2BTJLhgiNMPzF7o8B4o5EvFqAVlI57C6oMFjwEg?e=732mhq)
+
+![Execution Evidence Image](img/sprint4-executionevidence.png)
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Para este sprint, hemos implementado una versión actualizada de la API con IAM, la cual permitirá a los usuarios registrarse e iniciar sesión con un token de autenticidad, para que las llamadas HTTP se hagan de forma segura. Además, se cambió la forma en que se manejaba unos endpoints a comparación de la versión anterior, como los usuarios, asesores, criadores y notificaciones. A continuación, se detallan los cambios realizados en la API.
+
+Enlace al repositorio de Web Services: https://github.com/AgroTech-UPC/Web-Services
+
+|Método|Endpoint|Descripción|
+|--|--|--|
+|POST|/api/v1/authentication/sign-up|Se registra a un nuevo usuario con su nombre de usuario, contraseña y rol|
+|POST|/api/v1/authentication/sign-in|Se inicia sesión con las credenciales de un usuario y devuelve el token de autenticidad|
+|GET|/api/v1/users|Se obtiene la lista de usuarios|
+|GET|/api/v1/users/{id}|Se obtiene un usuario por ID|
+|GET|/api/v1/breeders|Se obtiene la lista de los criadores|
+|POST|/api/v1/breeders|Se crea un nuevo criador|
+|GET|/api/v1/breeders/{id}|Se obtiene un criador por ID|
+|GET|/api/v1/advisors|Se obtiene la lista de los asesores|
+|POST|/api/v1/advisors|Se crea un nuevo asesor|
+|GET|/api/v1/advisors/{id}|Se obtiene un asesor por ID|
+|GET|/api/v1/notifications|Se obtiene la lista de las notificaciones|
+|POST|/api/v1/notifications|Se crea una nueva notificacion|
+|GET|/api/v1/notifications/{id}|Se obtiene una notificacion por ID|
+
+**Authentication Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/authentication
+
+![Authentication endpoints](img/authentication-endpoints-swagger.png)
+
+**Sign Up: (api/v1/authentication/sign-up)**
+|Método|POST|
+|--|--|
+|Parámetros|Body: username, password, roles|
+|Resultado|![Service Documentation Post Sign Up](img/post-sign-up.png)|
+
+**Sign In: (api/v1/authentication/sign-in)**
+|Método|POST|
+|--|--|
+|Parámetros|Body: username, password|
+|Resultado|![Service Documentation Post Sign In](img/post-sign-in.png)|
+
+El token que se brinda al iniciar sesión, es el que permite la autorización para que se pueda trabajar con los demás endpoints de la API.
+
+**User Endpoints**
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/users
+
+![User endpoints](img/user-endpoints-swagger-v2.png)
+
+Los usuarios ahora solo poseen el correo y contraseña, siguiendo lo implementado para la IAM.
+
+|Método|GET|
+|--|--|
+|Parámetros|Ninguno|
+|Resultado|![Service Documentation Get Users](img/get-all-users.png)|
+
+|Método|GET {userId}|
+|--|--|
+|Parámetros|{userId}: Id del usuario|
+|Resultado|![Service Documentation Get User by Id](img/get-by-id-user.png)|
+
+**Breeder Endpoints**
+
+Los criadores ahora poseen la información personal, como nombre, ubicación, fecha de nacimiento y descripción.
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/breeders
+
+![Breeder endpoints](img/breeder-endpoints-swagger.png)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: fullname, location, birthdate, description, userId|
+|Resultado|![Service Documentation Post Breeder](img/post-breeder.png)|
+
+|Método|GET {breederId}|
+|--|--|
+|Parámetros|{breederId}: Id del criador|
+|Resultado|![Service Documentation Get Breeder by Id](img/get-by-id-breeder.png)|
+
+**Advisor Endpoints**
+
+Los asesores ahora poseen la información personal, como nombre, ubicación, fecha de nacimiento y descripción, a parte de lo que ya tenían como ocupación, experiencia, foto y puntuación.
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/advisors
+
+![Advisor endpoints](img/advisor-endpoints-swagger.png)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: fullname, location, birthdate, description, occupation, experience, photo, rating, userId|
+|Resultado|![Service Documentation Post Advisor](img/post-advisor.png)|
+
+|Método|GET {advisorId}|
+|--|--|
+|Parámetros|{advisorId}: Id del asesor|
+|Resultado|![Service Documentation Get Advisor by Id](img/get-by-id-advisor.png)|
+
+**Notification Endpoints**
+
+Las notificaciones ahora incluyen el enlace para reunirse en Google Meet.
+
+Endpoint: https://web-services-18bk.onrender.com/api/v1/notifications
+
+![Notification endpoints](img/notification-endpoints-swagger.png)
+
+|Método|POST|
+|--|--|
+|Parámetros|Body: type, text, date, userId, meetingUrl|
+|Resultado|![Service Documentation Post Notification](img/post-notification.png)|
+
+|Método|GET {notificationId}|
+|--|--|
+|Parámetros|{notificationId}: Id de la notificación|
+|Resultado|![Service Documentation Get Notification by Id](img/get-by-id-notification.png)|
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Para desplegar el Web Service se volvió a utilizar Render.com. Por lo que, se generó la carpeta target con los archivos actualizados del proyecto.
+
+![Backend Deployment](img/backend-deployment1.png)
+
+Luego, se ingreso al dashboard de Render y se seleccionó 'Manual Deploy' y 'deploy latest commit' para que se actualize el Web Service deployado.
+
+![Backend Deployment](img/backend-deployment2.png)
+
+Con ello, se empezó con el despliegue del Web Service.
+
+![Backend Deployment](img/backend-deployment3.png)
+
+Finalmente, se comprobó el funcionamiento del Web Service al entrar al swagger desde el enlace del producto desplegado https://web-services-18bk.onrender.com/swagger-ui/index.html
+
+![Backend Deployment](img/backend-deployment4.png)
+
+Por otro lado, también se desplegó el Frontend Web Applications con la conexión al Web Service y las mejoras realizadas en este Sprint. Para ello, primero se volvió a ejecutar el comando npm run build.
+
+![Frontend Deployment](img/frontend-deployment1.png)
+
+Luego, se empieza con el despliegue utilizando el comando firebase init hosting.
+
+![Frontend Deployment](img/frontend-deployment2.png)
+
+Se actualiza el archivo firebase.json para que el despliegue utilize los archivos correctos.
+
+![Frontend Deployment](img/frontend-deployment3.png)
+
+Para terminar con el despliegue luego de tener el proyecto con Firebase se utiliza el comando firebase deploy --only hosting.
+
+![Frontend Deployment](img/frontend-deployment4.png)
+
+Finalmente, se comprueba que el proyecto se haya desplegado correctamente entrando al URL y comprobando que se visualize correctamente: https://agroconnect-demo.web.app
+
+![Frontend Deployment](img/frontend-deployment5.png)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+Para la mejora del backend, se realizaron las implementaciones del IAM bounded context y los unit tests, y se distribuyeron las tareas entre los miembros del equipo. Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asignadas. Posteriormente, realizamos los "merge" con la rama "develop", hicimos el "release" y finalmente integramos los cambios en la rama "main". Para asegurar la calidad y funcionalidad del código, realizamos reuniones virtuales a través de Google Meet. Durante estas sesiones, revisamos juntos los avances y los "merge" realizados, verificando que todo funcionara de acuerdo a lo esperado.
+
+![Backend Insights](img/backend-insights1.png)
+
+![Backend Insights](img/backend-insights2.png)
+
+![Backend Insights](img/backend-insights3.png)
+
+Para la mejora del frontend, se implementó el bearer token en el header para la autenticación con el backend. Asimismo, hicimos mejoras en los mensajes de la página para estos sean uniformes. El formato de las ramas feature no tuvo cambio.
+
+![Frontend Insights](img/frontend-insights1.png)
+
+![Frontend Insights](img/frontend-insights2.png)
+
+![Frontend Insights](img/frontend-insights3.png)
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de entrevistas.
@@ -4313,13 +4696,13 @@ En el vídeo se proporciona información sobre el producto AgroConnect. Se menci
 
 Screenshot del video:
 
-<img src="img/video-about-the-product.png" width="100%">
+<img src="img/about-the-product.PNG" width="100%">
 
-**Enlace al vídeo de YouTube:** [Video About-The-Product Open Source UPC YouTube](https://youtu.be/hJ9lTM35HBM)
+**Enlace al vídeo de YouTube:** [Video About-The-Product Open Source UPC YouTube](https://youtube.com/shorts/PJiVdbOyj1s?si=sjVnvqluE7vOP8bp)
 
-**Enlace al vídeo de Microsoft Stream:** [Video About-The-Product Open Source UPC.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/Ef1OVsCD7gtCiQh1hwAzj-QBbFwXUCL1lZbIRNXqGX-XSg?e=BZ03Na)
+**Enlace al vídeo de Microsoft Stream:** [Video About-The-Product Open Source UPC.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EWIpOVJ41GdBlHCwN581pnUBuGb_Y6LXdw49NgSSD5-H3w?e=2pBDnM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-**Duración del vídeo:** 1:27
+**Duración del vídeo:** 0:38
 
 
 # Conclusiones
@@ -4333,6 +4716,20 @@ Screenshot del video:
 * Plantear e identificar los requisitos del proyecto al inicial fue crucial, ya que establecieron las bases sólidas sobre las cuales se construirá la aplicación AgroConnect de AgroTech, estas se lograron identificar gracias a los empathy mappings, impact mappings y user personas ayudaron a empatizar y estar en el lugar de nuestro públic objetivo, As-is y To-Be Scenario Mappings que permiten visualizar el proceso en el que realiza una tarea sin y con AgroConnect respectivamente. Además, las user stories proporcionaron una descripción detallada de las interacciones que los usuarios tendrán con la aplicación, lo que es fundamental para brindar una experiencia de usuario satisfactoria. Finalmente, el product backlog estableció la lista priorizada de todas las funcionalidades y características que se implementarán en la aplicación y reducir los esfuerzos en el desarrollo de la aplicación.
 
 * Al desarrollar el backend con Spring Boot y alinear los bounded contexts utilizando la arquitectura DDD, conseguimos establecer una estructura sólida y modularizada. La exhaustiva documentación en Swagger nos sirvió como una guía clara para comprender y trabajar con cada componente, lo que no solo optimiza la organización y mantenimiento del código, sino que también promueve la colaboración entre equipos y facilita la escalabilidad del proyecto a medida que avanza. Por otro lado, las entrevistas de validación del producto brindaron una visión completa de cómo perciben y qué necesitan los usuarios. Aunque se reconocieron aspectos positivos como la utilidad de la Landing Page y la facilidad de uso de la Web Application, también se identificaron áreas de mejora en términos de claridad de la información, diseño y navegación. Estos insights proporcionan una base sólida para implementar ajustes significativos y perfeccionar la experiencia del usuario en futuras iteraciones del producto, garantizando así una mayor satisfacción y usabilidad.
+  
+* Aprendimos a planificar mejor la arquitectura del backend y optimizar las consultas a la base de datos desde el inicio para manejar eficientemente grandes volúmenes de datos.
+
+* Mejoramos la comunicación entre equipos para asegurar una integración fluida del frontend y backend, implementando estrategias de integración continua para facilitar actualizaciones rápidas y consistentes del sistema.
+
+* Nuestra startup AgroTech ha podido lograr una implementación exitosa de AgroConnect, demostrando competencia en la aplicación de metodologías como Lean UX y principios ágiles.
+
+* Hemos integrado eficientemente el frontend y backend mediante tecnologías open-source y prácticas colaborativas como GitFlow, garantizando estándares de seguridad y funcionalidad necesarios para cumplir con las expectativas del usuario final.
+
+* La primera recomendación que se da para un futuro es implementar un sistema de retroalimentación continua para recoger comentarios de los usuarios de manera sistemática. Esto permitirá identificar rápidamente áreas de mejora en la experiencia del usuario y priorizar las actualizaciones y ajustes necesarios para optimizar AgroConnect.
+
+* La segunda recomendación es que se considere la implementación de pruebas de carga, esto ayudará a asegurar que AgroConnect pueda manejar de manera eficiente el aumento esperado en el número de usuarios y transacciones, garantizando así un rendimiento óptimo y una experiencia fluida para todos los usuarios.
+
+
 
 ## Video About-The-Team
 
@@ -4390,6 +4787,8 @@ Exposición del TB1: [upc-pre-202401-si729-wx52-agrotech-expo-tb1.mp4](https://u
 Exposición del TP: [upc-pre-202401-si729-wx52-agrotech-expo-tp1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/EcuWnAtFFa5Aseqn8_glQZwBhxi1acBsSWeR7ko-zFCT3g?e=yVgPhv)
 
 Exposición del TB2: [upc-pre-202401-si729-wx52-agrotech-expo-tb2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/ES9uwdm_9EVLuGhG0Eq8vr4BtDQAMua3VUAgJa6rG9_aDg?e=lp8w4q)
+
+Exposición del TF: [upc-pre-202401-si729-wx52-agrotech-expo-tf.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/Ecy-E60f3tFJtB1LQq7OyXkB9GsLixigLJtHB-0MmL9AUQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iDRpwM)
 
 ## Anexo N°5: Prototipo de la aplicación web
 Enlace del prototipo en figma: [https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548](https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548)
