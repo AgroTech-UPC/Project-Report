@@ -4333,6 +4333,21 @@ Finalmente, se comprueba que el proyecto se haya desplegado correctamente entran
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
+Para la mejora del backend, se realizaron las implementaciones del IAM bounded context y los unit tests, y se distribuyeron las tareas entre los miembros del equipo. Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asignadas. Posteriormente, realizamos los "merge" con la rama "develop", hicimos el "release" y finalmente integramos los cambios en la rama "main". Para asegurar la calidad y funcionalidad del código, realizamos reuniones virtuales a través de Google Meet. Durante estas sesiones, revisamos juntos los avances y los "merge" realizados, verificando que todo funcionara de acuerdo a lo esperado.
+
+![Backend Insights](img/backend-insights1.png)
+
+![Backend Insights](img/backend-insights2.png)
+
+![Backend Insights](img/backend-insights3.png)
+
+Para la mejora del frontend, se implementó el bearer token en el header para la autenticación con el backend. Asimismo, hicimos mejoras en los mensajes de la página para estos sean uniformes. El formato de las ramas feature no tuvo cambio.
+
+![Frontend Insights](img/frontend-insights1.png)
+
+![Frontend Insights](img/frontend-insights2.png)
+
+![Frontend Insights](img/frontend-insights3.png)
 
 ## 5.3. Validation Interviews.
 
