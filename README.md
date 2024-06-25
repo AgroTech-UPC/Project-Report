@@ -382,7 +382,7 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p><strong>TB2:</strong></p>
         <p>Para este avance, comuniqué de manera escrita los cambios realizados en los productos de software y documenté las entrevistas realizadas. Además para esta entrega, se avanzó con el Backend y se llevó a cabo la documentación correspondiente, mostrando evidencia del funcionamiento de los endpoints implementados. Asimismo, se integraron el Frontend y el Backend para proporcionar el máximo valor a nuestros usuarios.</p>
         <p><strong>TF:</strong></p>
-        <p>En esta cuarta entrega, se integraron servicios IAM para Sign Up y Sign In en el frontend y se documentaron las mejoras al backend y frontend del sprint 4. Además, se incluyeron actualizaciones en el diseño de la base de datos y los diagramas de clases, se agregaron las conclusiones y recomendaciones, abarcando todo el trabajo realizado desde el Sprint 1 hasta el Sprint 4, 
+        <p>En esta cuarta entrega, se integraron servicios IAM para Sign Up y Sign In en el frontend y se documentaron las mejoras al backend y frontend del sprint 4. Además, se incluyeron actualizaciones en el diseño de la base de datos y los diagramas de clases, se agregaron las conclusiones y recomendaciones, abarcando todo el trabajo realizado desde el Sprint 1 hasta el Sprint 4
         </p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong></p>
