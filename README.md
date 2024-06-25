@@ -4788,6 +4788,8 @@ Exposición del TP: [upc-pre-202401-si729-wx52-agrotech-expo-tp1.mp4](https://up
 
 Exposición del TB2: [upc-pre-202401-si729-wx52-agrotech-expo-tb2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/ES9uwdm_9EVLuGhG0Eq8vr4BtDQAMua3VUAgJa6rG9_aDg?e=lp8w4q)
 
+Exposición del TF: [upc-pre-202401-si729-wx52-agrotech-expo-tf.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/Ecy-E60f3tFJtB1LQq7OyXkB9GsLixigLJtHB-0MmL9AUQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iDRpwM)
+
 ## Anexo N°5: Prototipo de la aplicación web
 Enlace del prototipo en figma: [https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548](https://www.figma.com/proto/y65W2Fnk2IreDIFC3yPTAl/Open--Web-Style-Guidelines?type=design&node-id=296-1548&t=75RhDMIrAZo5uqGx-1&scaling=contain&page-id=112%3A67&starting-point-node-id=296%3A1548)
 
