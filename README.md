@@ -343,6 +343,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En el segundo sprint, nos enfocamos en profundizar nuestro conocimiento de Angular y completar tareas clave para mejorar el front-end de nuestra aplicación. Paralelamente, ajustamos el diseño de la página principal y consideramos comentarios del profesor para una mejor comprensión del mercado y las preferencias de nuestros usuarios.</p>
         <p><strong>TB2:</strong></p>
         <p>En esta entrega nos enfocamos en el Sprint 3, centrándonos en el desarrollo del backend y su integración con el frontend. Implementamos funcionalidades clave para el procesamiento de datos y la gestión de usuarios, y mejoramos la interfaz de usuario para una experiencia más intuitiva. Esta sincronización entre backend y frontend garantiza una aplicación más robusta y eficiente, acercándonos a nuestros objetivos del proyecto.</p>
+        <p><strong>TF:</strong></p>
+        <p>Para esta entrega, se integró el bounded context de IAM al backend, lo que conllevó a una actualización del frontend para adaptarse a las nuevas verificaciones y asegurar consistencia en los mensajes de la plataforma. Además, se implementó una funcionalidad de notificaciones en tiempo real y se integraron APIs externas para videoconferencias y almacenamiento de imágenes.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
@@ -400,6 +402,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p>En este avance parcial, nos enfocamos en mejorar la redacción de user stories, subsanar comentarios del profesor, y desarrollar el Frontend de la aplicación web utilizando Angular y una API fake en JSON. Buscamos también entender mejor las necesidades de nuestros usuarios potenciales, asegurando una buena experiencia de usuario y mejorando la calidad del trabajo anterior.</p>
         <p><strong>TB2:</strong></p>
         <p>En este avance, me comuniqué con mi grupo de trabajo para coordinar los cambios e implementaciones relacionados con el backend. Implemente los endpoints necesarios y realice la documentación correspondiente, mostrando evidencia de su funcionamiento. Además, integramos el frontend y el backend para proporcionar el máximo valor a nuestros usuarios.</p>
+        <p><strong>TF:</strong></p>
+        <p>En esta cuarta entrega, se integraron servicios IAM para Sign Up y Sign In en el frontend, acompañados de la documentación correspondiente. Se realizaron mejoras documentadas tanto en el backend como en el frontend durante el sprint 4. Además, se actualizaron el diseño de la base de datos y los diagramas de clases. Se incluyeron conclusiones y recomendaciones que abarcan todo el trabajo realizado desde el Sprint 1 hasta el Sprint 4, destacando la implementación inicial de IAM en el proyecto.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
