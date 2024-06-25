@@ -4133,13 +4133,30 @@ Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
-Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+Se realizaron los acceptance tests para las historias de usuario trabajadas y se registraron en el repositorio de la siguiente forma. Así como los Unit Tests en el Backend.
 
 Repositorio Acceptance Tests: <https://github.com/AgroTech-UPC/Acceptance-Tests>
 
+Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
+
+
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
-|AgroTech-UPC/Acceptance-Tests|main||||
+|AgroTech-UPC/Acceptance-Tests|main|cf0775d |<p>feat: Added US28 US29</p><p></p>|24/06/2024|
+|AgroTech-UPC/Acceptance-Tests|main|aa53fa3 |<p>feat: us17 and us18 added</p><p></p>|24/06/2024|
+|AgroTech-UPC/Web-Services|release|5fbe76a |<p>feat: Appointment, Cage, Expense and Resource Tests added</p><p></p>|24/06/2024|
+|AgroTech-UPC/Web-Services|release|564c0c9 |<p>feat: Added Publication, Advisor, Breeder, User tests</p><p></p>|24/06/2024|
+|AgroTech-UPC/Web-Services|release|bc2baa1 |<p>fix: BreederTests fixed</p><p></p>|24/06/2024|
+
+
+Se han implementado los Units Tests para los endpoints del Web Service creados en este Sprint. Para ello, se creó una carpeta llamada com.acme.web.services.unit.tests y se vinculó al proyecto del WebService para utilizar sus entidades y servicios.
+
+<img src="img/unit-test-1.png" width="100%"> 
+
+Asimismo, cada Unit Test tiene distintas validaciones para cada situación como puede ser crear una entidad o realizar validaciones de ciertos valores que no pueden ser null o números negativos. Finalmente, se validó que los Unit Tests no devuelvan errores al ejecutarse.
+
+<img src="img/unit-test-2.png" width="100%">
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
