@@ -4717,19 +4717,9 @@ Screenshot del video:
 
 * Al desarrollar el backend con Spring Boot y alinear los bounded contexts utilizando la arquitectura DDD, conseguimos establecer una estructura sólida y modularizada. La exhaustiva documentación en Swagger nos sirvió como una guía clara para comprender y trabajar con cada componente, lo que no solo optimiza la organización y mantenimiento del código, sino que también promueve la colaboración entre equipos y facilita la escalabilidad del proyecto a medida que avanza. Por otro lado, las entrevistas de validación del producto brindaron una visión completa de cómo perciben y qué necesitan los usuarios. Aunque se reconocieron aspectos positivos como la utilidad de la Landing Page y la facilidad de uso de la Web Application, también se identificaron áreas de mejora en términos de claridad de la información, diseño y navegación. Estos insights proporcionan una base sólida para implementar ajustes significativos y perfeccionar la experiencia del usuario en futuras iteraciones del producto, garantizando así una mayor satisfacción y usabilidad.
   
-* Aprendimos a planificar mejor la arquitectura del backend y optimizar las consultas a la base de datos desde el inicio para manejar eficientemente grandes volúmenes de datos.
+* Finalmente, durante el desarrollo del trabajo aprendimos a planificar mejor la arquitectura del backend y optimizar las consultas a la base de datos desde el inicio para manejar eficientemente grandes volúmenes de datos. Asimismo, mejoramos la comunicación entre equipos para asegurar una integración fluida del frontend y backend, implementando estrategias de integración continua para facilitar actualizaciones rápidas y consistentes del sistema. Del mismo modo, nuestra startup AgroTech ha podido lograr una implementación exitosa de AgroConnect, demostrando competencia en la aplicación de metodologías como Lean UX y principios ágiles. Además, Hemos integrado eficientemente el frontend y backend mediante tecnologías open-source y prácticas colaborativas como GitFlow, garantizando estándares de seguridad y funcionalidad necesarios para cumplir con las expectativas del usuario final.
 
-* Mejoramos la comunicación entre equipos para asegurar una integración fluida del frontend y backend, implementando estrategias de integración continua para facilitar actualizaciones rápidas y consistentes del sistema.
-
-* Nuestra startup AgroTech ha podido lograr una implementación exitosa de AgroConnect, demostrando competencia en la aplicación de metodologías como Lean UX y principios ágiles.
-
-* Hemos integrado eficientemente el frontend y backend mediante tecnologías open-source y prácticas colaborativas como GitFlow, garantizando estándares de seguridad y funcionalidad necesarios para cumplir con las expectativas del usuario final.
-
-* La primera recomendación que se da para un futuro es implementar un sistema de retroalimentación continua para recoger comentarios de los usuarios de manera sistemática. Esto permitirá identificar rápidamente áreas de mejora en la experiencia del usuario y priorizar las actualizaciones y ajustes necesarios para optimizar AgroConnect.
-
-* La segunda recomendación es que se considere la implementación de pruebas de carga, esto ayudará a asegurar que AgroConnect pueda manejar de manera eficiente el aumento esperado en el número de usuarios y transacciones, garantizando así un rendimiento óptimo y una experiencia fluida para todos los usuarios.
-
-
+* Para finalizar, la primera recomendación que se da para un futuro es implementar un sistema de retroalimentación continua para recoger comentarios de los usuarios de manera sistemática. Esto permitirá identificar rápidamente áreas de mejora en la experiencia del usuario y priorizar las actualizaciones y ajustes necesarios para optimizar AgroConnect. Luego, recomendamos considerar la implementación de pruebas de carga, esto ayudará a asegurar que AgroConnect pueda manejar de manera eficiente el aumento esperado en el número de usuarios y transacciones, garantizando así un rendimiento óptimo y una experiencia fluida para todos los usuarios.
 
 ## Video About-The-Team
 
