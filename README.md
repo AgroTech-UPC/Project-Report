@@ -4084,19 +4084,6 @@ Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
-|AgroTech-UPC/Frontend-Web-Applications|feature/us02|d241347 |Merge branch 'develop' into feature/notifications-view|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/notifications-view|d241347 |Deleted branch|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/us03|12dcb5d |<p>fix: fixed model for notification</p><p></p>|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/notifications-advisor|12dcb5d |<p>Deleted branch</p><p></p>|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/us04|a9302f7 |<p>feat: clients appointments view for advisor</p><p></p>|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/clients|a9302f7 |Deleted branch|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/us08|4a987b3 |<p>fix: registers locations fixed</p><p></p>|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/register|4a987b3 |<p>Deleted branch</p><p></p>|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/us12|a447cd1 |<p>feat: added animal card and moved some components to pages</p><p></p>|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/publication-view|a447cd1|<p>Deleted branch</p><p></p>|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/us18|08941eb |<p>Merge branch 'develop' into feature/my-farm-view</p><p></p>|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/my-farm-view|08941eb|Deleted branch|08/06/2024|
-|AgroTech-UPC/Frontend-Web-Applications|feature/us14|5a61ca8 |<p>fix: In My Advisors only a maximum of 3 appointments with an advisor …</p><p></p>|13/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us14|c4c1ff8 |<p>feat: added criador/registro/animal/:id</p><p></p>|13/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|feature/us14|f2aa9a5 |feat: creation of cuy inside a cage|13/06/2024|
 |AgroTech-UPC/Frontend-Web-Applications|develop|55a1218 |<p>Merge pull request[ #65](https://github.com/AgroTech-UPC/Frontend-Web-Applications/pull/65) from AgroTech-UPC/release</p><p></p>|14/06/2024|
@@ -4117,6 +4104,9 @@ Repositorio Backend: <https://github.com/AgroTech-UPC/Web-Services>
 |AgroTech-UPC/Frontend-Web-Applications|main|795c385|<p>release v2.1.0</p>|<p>23/06/2024</p><p></p>|
 |AgroTech-UPC/Frontend-Web-Applications|release|7f11ade|<p>fix: solved problems with deployed images</p>|<p>23/06/2024</p><p></p>|
 |AgroTech-UPC/Frontend-Web-Applications|main|3a4fd6b|<p>release v.2.1.1</p>|<p>23/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|feature/us11|2cc17e9|<p>feat(management): show cage name on animal list</p>|<p>24/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|release|9737aec|<p>fix: fixed some snackBar messages</p>|<p>24/06/2024</p><p></p>|
+|AgroTech-UPC/Frontend-Web-Applications|main|3a4fd6b|<p>Release V.2.1.2</p>|<p>24/06/2024</p><p></p>|
 |AgroTech-UPC/Web-Services|feature/us17|7fd94f2|<p>feat: added IAM</p><p></p>|19/06/2024|
 |AgroTech-UPC/Web-Services|feature/us17|738083e|<p>feat: updated breeder and advisor to have user information</p><p></p>|19/06/2024|
 |AgroTech-UPC/Web-Services|feature/us17|89ba180|<p>feat: modify port and cors on IAM</p><p></p>|19/06/2024|
