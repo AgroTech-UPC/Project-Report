@@ -4702,7 +4702,7 @@ Screenshot del video:
 
 **Enlace al vídeo de Microsoft Stream:** [Video About-The-Product Open Source UPC.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EWIpOVJ41GdBlHCwN581pnUBuGb_Y6LXdw49NgSSD5-H3w?e=2pBDnM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-**Duración del vídeo:** 1:27
+**Duración del vídeo:** 0:38
 
 
 # Conclusiones
