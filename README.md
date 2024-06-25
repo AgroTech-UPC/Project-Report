@@ -4160,6 +4160,13 @@ Asimismo, cada Unit Test tiene distintas validaciones para cada situación como 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
+En esta sección, se detallará lo desarrollado en el cuarto sprint, el cual incluye la adición del IAM al Web Service, y la mejora del Frontend Web Application.
+
+URL del video: [Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210749_upc_edu_pe/EbyqV5h2BTJLhgiNMPzF7o8B4o5EvFqAVlI57C6oMFjwEg?e=732mhq)
+
+![Execution Evidence Image](img/sprint4-executionevidence.png)
+
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
 Para este sprint, hemos implementado una versión actualizada de la API con IAM, la cual permitirá a los usuarios registrarse e iniciar sesión con un token de autenticidad, para que las llamadas HTTP se hagan de forma segura. Además, se cambió la forma en que se manejaba unos endpoints a comparación de la versión anterior, como los usuarios, asesores, criadores y notificaciones. A continuación, se detallan los cambios realizados en la API.
