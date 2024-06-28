@@ -343,7 +343,7 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p><strong>TB2:</strong></p>
         <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto. Para ello, realizamos los avances correspondientes en Frontend y Backend. Asimismo, realicé entrevistas de validación, en el cual expliqué lo que se trabajó en la aplicación, y pudimos obtener una buena retroalimentación de nuestros segmentos objetivo para seguir mejorando.</p>
         <p><strong>TF:</strong></p>
-        <p>En esta cuarta entrega, se enfocó en la implementación de lo restante en el Frontend y Backend. Especialmente en el Backend, faltaba implementar la IAM, la cual brinda una mayor seguridad para que los usuarios registrados dentro de nuestra plataforma consuman la API de forma segura. Además, mejoramos el video About-The-Product, el cual ahora se utiliza una forma de expresión más llamativa para nuestros potenciales usuarios.</p>
+        <p>En esta cuarta entrega, se enfocó en la implementación de lo restante en el Frontend y Backend. Especialmente en el Backend, faltaba implementar la IAM, la cual brinda una mayor seguridad para que los usuarios registrados dentro de nuestra plataforma consuman la API de forma segura. Además, mejoramos el video About-The-Product a partir de los comentarios del profesor, el cual ahora se utiliza una forma de expresión más llamativa para nuestros potenciales usuarios.</p>
         <p><strong>Valverde Mozo, Andre Gabriel</strong></p>
         <p><strong>TB1:</strong></p>
         <p>En la fase inicial, investigamos a fondo las necesidades de nuestros usuarios mediante entrevistas directas. Esto facilitó el progreso del trabajo en equipo al ofrecer recomendaciones y aclarar dudas. Luego, nos centramos en el diseño y desarrollo del producto, priorizando un diseño intuitivo y atractivo que cumpliera con los requisitos establecidos y satisficiera las demandas del mercado.</p>
@@ -362,7 +362,7 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p><strong>TB2:</strong></p>
         <p>En conclusión, para esta entrega se comunicó con los segmentos objetivo para obtener retroalimentación de nuestro avance con los productos de software. Asimismo, se desarrollaron los videos About-The-Product y About-The-Team que muestran de una forma creativa como hemos desarrollado nuestra propuesta.</p>
         <p><strong>TF:</strong></p>
-        <p>En conclusión, durante la etapa final del proyecto, implementamos las mejoras a nuestro productos de software, lo cuál incluyo aumentar la seguridad del Backend creando el IAM bounded context e implementándolo en el Frontend. Para ello, cada integrante tuvo que completar sus tareas asignadas en el tiempo indicado. Lo que se reflejó en los productos deployados.</p>
+        <p>En conclusión, para esta última entrega, nos enfocamos en implementar mejoras tanto al Backend como al Frontend en base a los comentarios de las entrevistas de validación a nuestros segmentos objetivos. Del mismo modo, a partir de los comentarios mencionados por el profesor al reunirnos para una retroalimentación anterior a esta entrega, volvimos a realizar el Video About-The-Product para que este sea más llamativo para clientes potenciales.</p>
       </td>
     </tr>
     <tr>
@@ -423,7 +423,7 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
         <p><strong>TB2:</strong></p>
         <p>En conclusión, para esta entrega nos comunicamos de forma escrita mediante la documentación de nuestros avances en los productos de software y validaciones de dichos productos como con la evaluación de heurísticas.</p>
         <p><strong>TF:</strong></p>
-        <p>En conclusión, para esta última entrega, nos enfocamos en implementar mejoras tanto al Backend como al Frontend para implementar un producto más pulido para los segmnetos objetivos. Del mismo modo, mejoras el Video About-The-Product para que este sea más llamativo para clientes potenciales.</p>
+        <p>Para esta entrega final, desarrollamos el Sprint Planning 4 y definimos el Sprint Backlog 4 para organizar nuestras tareas. Además, hicimos la documentación escrita de los servicios implementados en el Backend, en el cual se toma en cuenta la IAM en nuestra API que se implementó en este sprint. Para ello, seguimos el formato establecido para documentar los Endpoints, describiendo los parámetros y la respuesta de la solicitud HTTP. De este modo, hemos recopilado evidencia de desarrollo, pruebas y ejecución para la revisión del sprint, incluyendo la documentación de servicios implementados, pruebas realizadas, evidencia de despliegue de software y los "insights" sobre la colaboración del equipo.</p>
       </td>
     </tr>
   </tbody>
